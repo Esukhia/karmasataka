@@ -1,0 +1,602 @@
+#
+msgid ""
+msgstr ""
+"Last-Translator: drupchen <drupchen@esukhia.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "line 1, E003-1 sentences.txt"
+msgid "﻿ལས་བརྒྱ་ཐམ་པ། བམ་པོ་བཅུ་པ། "
+msgstr ""
+
+msgctxt "line 2, E003-1 sentences.txt"
+msgid ""
+"སྡོམ་ནི། ཀ་ཙང་ཀ་ལ་ཀཻ་ནེ་ཡ། བག་མ་གཏོང་གཉིས་གཅོད་པ་གཉིས། "
+"།ཟ་<«ཞོལ་»ཟེ།>བ་དགའ་བྱེད་སྣག་བུ་དང་། །བུར་འདུ་ཤེས་དང་ཞིང་པ་དང་། "
+"།ཤི་<«གཡུང་»«པེ་»ཤིང་།>དང་ཀོ་ཀ་ལི་ཀ་དང་། །ཐང་བཅད་ཐ་མ་ཁམ་ཞེས་བྱ། །"
+msgstr ""
+
+msgctxt "line 3, E003-1 sentences.txt"
+msgid "ཀ་ཙང་ཀ་ལ་ཞེས་བྱ་བ་ནི། "
+msgstr ""
+
+msgctxt "line 4, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ཡུལ་ཨོ་ཏ་ལ་ན་ཨོ་ཏ་ལའི་ནགས་ཁྲོད་ན་བཞུགས་སོ། །"
+msgstr ""
+
+msgctxt "line 5, E003-1 sentences.txt"
+msgid ""
+"དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོ་ཤམ་ཐབས་<«ལི་»ཐམས།>དང་ཆོས་གོས་གསོལ་ཏེ<«ཅོ་»ཏོ།>། "
+msgstr ""
+
+msgctxt "line 6, E003-1 sentences.txt"
+msgid "ལྷུང་བཟེད་བསྣམས་ནས་"
+msgstr ""
+
+msgctxt "line 7, E003-1 sentences.txt"
+msgid "ཡུལ་ཨོ་ཏ་ལར་བསོད་སྙོམས་ལ་གཤེགས་སོ། །"
+msgstr ""
+
+msgctxt "line 8, E003-1 sentences.txt"
+msgid ""
+"དེའི་ཚེ་བུད་མེད་ཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>བུམ་པ་ཁྱེར་ཏེ་"
+msgstr ""
+
+msgctxt "line 9, E003-1 sentences.txt"
+msgid "ཆུ་ཆུར་<«ཞོལ་»འཆུར།>སོང་བ་ལས་"
+msgstr ""
+
+msgctxt "line 10, E003-1 sentences.txt"
+msgid ""
+"བུད་མེད་དེས་ཐག་རིང་པོ་ཞིག་ནས། བཅོམ་ལྡན་འདས་མཛེས་པ། "
+"དད་པ་སྐྱེ་བར་འགྱུར་བ་དབང་པོ་ཞི་བ་ཐུགས་ཞི་བ། "
+"ཐུགས་<«གཡུང་»«པེ་»-ཐུགས།>མཆོག་ཏུ་ཞི་བ་དང་ལྡན་པ་གསེར་གྱི་མཆོད་སྡོང་བཞིན་དུ་དཔལ་དང་གཟི་བྱིན་འབར་བ་མཐོང་ངོ་།"
+" །"
+msgstr ""
+
+msgctxt "line 11, E003-1 sentences.txt"
+msgid "མཐོང་ནས་ཀྱང་དེ་བཅོམ་ལྡན་འདས་ལ་བུའི་འདུ་ཤེས་སྐྱེས་ནས་"
+msgstr ""
+
+msgctxt "line 12, E003-1 sentences.txt"
+msgid "དེས་བུམ་པ་དེ་ཕྱོགས་གཅིག་ཏུ་བཞག་སྟེ། "
+msgstr ""
+
+msgctxt "line 13, E003-1 sentences.txt"
+msgid "ལག་པ་གཉིས་བརྐྱང་<«གཡུང་»བརྒྱང་། «ཞོལ་»བརྐྱངས།>ནས་"
+msgstr ""
+
+msgctxt "line 14, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་"
+msgstr ""
+
+msgctxt "line 15, E003-1 sentences.txt"
+msgid "སྨྲས་པ་"
+msgstr ""
+
+msgctxt "line 16, E003-1 sentences.txt"
+msgid "བུ་དང་ཕྲད་དོ། །"
+msgstr ""
+
+msgctxt "line 17, E003-1 sentences.txt"
+msgid "བུ་<«གཡུང་»«པེ་»+མ།>དང་ཕྲད་དོ་ཞེས་"
+msgstr ""
+
+msgctxt "line 18, E003-1 sentences.txt"
+msgid "ཟེར་ཞིང་། "
+msgstr ""
+
+msgctxt "line 19, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ཀྱི་མགུལ་ནས་འཁྱུད་པར་འདོད་པ་ལས་"
+msgstr ""
+
+msgctxt "line 20, E003-1 sentences.txt"
+msgid "དགེ་སློང་རྣམས་ཀྱིས་མཐོང་ནས་"
+msgstr ""
+
+msgctxt "line 21, E003-1 sentences.txt"
+msgid "བཀག་གོ<«གཡུང་»-གོ།>། །"
+msgstr ""
+
+msgctxt "line 22, E003-1 sentences.txt"
+msgid "དེ་ནས་དེར་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་རྣམས་ལ་བཀའ་སྩལ་པ། "
+msgstr ""
+
+msgctxt "line 23, E003-1 sentences.txt"
+msgid "དགེ་སློང་དག་བུད་མེད་འདི་[120a]མ་དགག་ཅིག །"
+msgstr ""
+
+msgctxt "line 24, E003-1 sentences.txt"
+msgid ""
+"གལ་ཏེ་བུད་མེད་འདི་དེ་བཞིན་གཤེགས་པའི་མགུལ་ནས་འཁྱུད་<«གཡུང་»ཁྱུད།>དུ་མ་བཅུག་ན།"
+" "
+msgstr ""
+
+msgctxt "line 25, E003-1 sentences.txt"
+msgid "ཁ་ནས་ཁྲག་དྲོན་མོ་སྐྱུགས་ཏེ་འཆི་བར་འགྱུར་རོ། །"
+msgstr ""
+
+msgctxt "line 26, E003-1 sentences.txt"
+msgid "དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས་དེ་ཐོས་ནས་མ་བཀག་པར་བཞག་གོ། །"
+msgstr ""
+
+msgctxt "line 27, E003-1 sentences.txt"
+msgid "དེ་ནས་དེས་བཅོམ་ལྡན་འདས་ཀྱི་མགུལ་ནས་འཁྱུད་<«གཡུང་»མཁྱུད། «ཁུ་»ཁྱུད།>ནས་"
+msgstr ""
+
+msgctxt "line 28, E003-1 sentences.txt"
+msgid "ཆོས་མཉན་པའི་ཕྱིར་སྤྱན་སྔར་འདུག་གོ། །"
+msgstr ""
+
+msgctxt "line 29, E003-1 sentences.txt"
+msgid ""
+"དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེའི་བསམ་<«ཅོ་»བསམས།>པ་དང་། "
+"བག་ལ་ཉལ་དང་ཁམས་དང་རང་བཞིན་ཐུགས་སུ་ཆུད་ནས་"
+msgstr ""
+
+msgctxt "line 30, E003-1 sentences.txt"
+msgid "དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ། "
+msgstr ""
+
+msgctxt "line 31, E003-1 sentences.txt"
+msgid ""
+":དེ་ནས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེས་ན།>བུད་མེད་དེས་སྟན་དེ་ཁོ་ན་ལ་འདུག་བཞིན་དུ་འཇིག་ཚོགས་<«ཅོ་»ཙོགས།>ལ་ལྟ་བའི་རིའི་རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་རྡོ་རྗེས་བཅོམ་ནས།"
+" "
+msgstr ""
+
+msgctxt "line 32, E003-1 sentences.txt"
+msgid "རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ཏེ། "
+msgstr ""
+
+msgctxt "line 33, E003-1 sentences.txt"
+msgid "དེས་བདེན་པ་མཐོང་ནས་"
+msgstr ""
+
+msgctxt "line 34, E003-1 sentences.txt"
+msgid "སྟན་ལས་ལངས་ཏེ། "
+msgstr ""
+
+msgctxt "line 35, E003-1 sentences.txt"
+msgid "བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས། "
+msgstr ""
+
+msgctxt "line 36, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«པེ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་ཏེ་"
+msgstr ""
+
+msgctxt "line 37, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། །"
+msgstr ""
+
+msgctxt "line 38, E003-1 sentences.txt"
+msgid ""
+"བཙུན་པ་བདག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་<«གཡུང»«པེ་»«ཞོལ་»བྱུང་།>བ་དང་བསྙེན་པར་རྫོགས་ཤིང་དགེ་སློང་མའི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན།"
+" "
+msgstr ""
+
+msgctxt "line 39, E003-1 sentences.txt"
+msgid "བདག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །"
+msgstr ""
+
+msgctxt "line 40, E003-1 sentences.txt"
+msgid ""
+"དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་གཽ་ཏ་མཱི་<«གཡུང་»«ལི་»«ཅོ་»མའི།"
+" «སྣར་»«ཞོལ་»མ།>ལ་གཏད་ནས། "
+msgstr ""
+
+msgctxt "line 41, E003-1 sentences.txt"
+msgid "དེས་དེ་རབ་ཏུ་ཕྱུང་<«སྣར་»བྱུང་།>སྟེ་"
+msgstr ""
+
+msgctxt "line 42, E003-1 sentences.txt"
+msgid "བསྙེན་པར་རྫོགས་པར་བྱས་ནས་"
+msgstr ""
+
+msgctxt "line 43, E003-1 sentences.txt"
+msgid "དེ་ལ་ལུང་ཡང་<«གཡུང་»«པེ་»-ཡང་།->ཕོག་གོ། །"
+msgstr ""
+
+msgctxt "line 44, E003-1 sentences.txt"
+msgid ""
+"དེས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་"
+msgstr ""
+
+msgctxt "line 45, E003-1 sentences.txt"
+msgid "དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ། "
+msgstr ""
+
+msgctxt "line 46, E003-1 sentences.txt"
+msgid ""
+"དེས་<«ཞོལ་»དེ།>དགྲ་བཅོམ་མ་<«ཅོ་»«ཞོལ་»པ།>ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།"
+" "
+msgstr ""
+
+msgctxt "line 47, E003-1 sentences.txt"
+msgid "གསེར་དང་བོང་བར་མཉམ་པ། "
+msgstr ""
+
+msgctxt "line 48, E003-1 sentences.txt"
+msgid "ནམ་མཁའ་དང་ལག་མཐིལ་དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ། "
+msgstr ""
+
+msgctxt "line 49, E003-1 sentences.txt"
+msgid ""
+"ཙན་དན་<«གཡུང་»ན།>སྦངས་པ་ལྟ་བུར་བསིལ་བར་<«གཡུང་»རབ།>གྱུར་པ<«གཡུང་»«པེ་»+མ།>། "
+msgstr ""
+
+msgctxt "line 50, E003-1 sentences.txt"
+msgid "རིག་པས་སྒོ་ངའི་སྦུབས་བཅོམ་པ། "
+msgstr ""
+
+msgctxt "line 51, E003-1 sentences.txt"
+msgid "རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ། "
+msgstr ""
+
+msgctxt "line 52, E003-1 sentences.txt"
+msgid "སྲིད་པའི་རྙེད་པ་དང་ཆགས་པ་དང་བཀུར་སྟི་ལ་མི་ལྟ་བ། "
+msgstr ""
+
+msgctxt "line 53, E003-1 sentences.txt"
+msgid ""
+"དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«པེ་»«སྣར་»བརྗེད།>པ་དང་གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ།"
+" །"
+msgstr ""
+
+msgctxt "line 54, E003-1 sentences.txt"
+msgid "དེ་[120b]ནས་དེ་<«ཅོ་»-དེ།>བཅོམ་ལྡན་འདས་ཀྱིས་མཆོག་ཏུ་ལུང་བསྟན་ཏེ། "
+msgstr ""
+
+msgctxt "line 55, E003-1 sentences.txt"
+msgid "དགེ་སློང་དག་"
+msgstr ""
+
+msgctxt "line 56, E003-1 sentences.txt"
+msgid ""
+"ངའི་ཉན་ཐོས་ཀྱི་དགེ་སློང་མ་མདོ་རྣམ་པར་འབྱེད་པ་རྣམས་ཀྱི་མཆོག་ནི་འདི་ལྟ་སྟེ། "
+msgstr ""
+
+msgctxt "line 57, E003-1 sentences.txt"
+msgid "དགེ་སློང་མ་ཀ་ཙང་ཀ་ལ་འདི་ཡིན་ནོ་ཞེས་"
+msgstr ""
+
+msgctxt "line 58, E003-1 sentences.txt"
+msgid "ལུང་བསྟན་ཏོ། །"
+msgstr ""
+
+msgctxt "line 59, E003-1 sentences.txt"
+msgid "དེ་ནས་དགེ་སློང་དག་གིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་གསོལ་པ། "
+msgstr ""
+
+msgctxt "line 60, E003-1 sentences.txt"
+msgid "བཙུན་པ་"
+msgstr ""
+
+msgctxt "line 61, E003-1 sentences.txt"
+msgid "གཟིགས་ལགས་སམ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»-སམ།>"
+msgstr ""
+
+msgctxt "line 62, E003-1 sentences.txt"
+msgid ""
+"བུད་མེད་སྟོང་ཕྲག་དུ་མས་བཅོམ་ལྡན་འདས་མཐོང་ན་སུས་ཀྱང་བཅོམ་ལྡན་འདས་མཐོང་བ་<«གཡུང་»«པེ་»-བ།>ན་འདི་ལྟར་མ་བརྒྱུགས་<«གཡུང་»«པེ་»རྒྱུགས།>ལགས་སོ།"
+" །"
+msgstr ""
+
+msgctxt "line 63, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། "
+msgstr ""
+
+msgctxt "line 64, E003-1 sentences.txt"
+msgid ""
+"དགེ་སློང་དག་ཀ་ཙང་ཀ་ལ་འདི་ནི་ངའི་འདས་མ་<«གཡུང་»-མ།>ཐག་པའི་ཚེ་རབས་ལྔ་བརྒྱར་<«ལི་»«སྣར་»བརྒྱ།>མར་གྱུར་པས་ན།"
+" "
+msgstr ""
+
+msgctxt "line 65, E003-1 sentences.txt"
+msgid "འདི་ནི་སྔོན་གྱི་བག་ཆགས་ཀྱི་གཞི་ཡོད་པའི་ཕྱིར་ང་མཐོང་ན་རྒྱུག་གོ། །"
+msgstr ""
+
+msgctxt "line 66, E003-1 sentences.txt"
+msgid "དགེ་སློང་དག་གིས་གསོལ་པ། "
+msgstr ""
+
+msgctxt "line 67, E003-1 sentences.txt"
+msgid "བཙུན་པ་"
+msgstr ""
+
+msgctxt "line 68, E003-1 sentences.txt"
+msgid ""
+"གལ་ཏེ་འདི་བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀྱིས།>འདས་མ་ཐག་པའི་ཚེ་རབས་ལྔ་བརྒྱར་ཡུམ་དུ་གྱུར་པ་ལགས་ན།"
+" "
+msgstr ""
+
+msgctxt "line 69, E003-1 sentences.txt"
+msgid "ཅིའི་སླད་དུ་ད་ལྟར་གྱི་<«ལི་»«སྣར་»«ཅོ་»གྱིས།>ཡུམ་དུ་མ་གྱུར་ལགས། "
+msgstr ""
+
+msgctxt "line 70, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། "
+msgstr ""
+
+msgctxt "line 71, E003-1 sentences.txt"
+msgid ""
+"དགེ་སློང་དག་རྒྱུ་གཉིས་དང་རྐྱེན་གཉིས་ཀྱིས་ན་འདི་ངའི་ད་ལྟར་གྱི་མར་མ་གྱུར་ཏེ། "
+msgstr ""
+
+msgctxt "line 72, E003-1 sentences.txt"
+msgid "ལྷ་མོ་སྒྱུ་འཕྲུལ་ཆེན་མོས་སྨོན་ལམ་བཏབ་སྟེ། "
+msgstr ""
+
+msgctxt "line 73, E003-1 sentences.txt"
+msgid ":ཀྱེ་མ་<«ལི་»«ཅོ་»-ཀྱེ་མ།>བདག་སངས་རྒྱས་ཀྱི་ཡུམ་དུ་གྱུར་ཅིག་ཅེས་"
+msgstr ""
+
+msgctxt "line 74, E003-1 sentences.txt"
+msgid "བྱས་པ་དེ་དང་། ང་ཡང་འདིས་ཡིད་བྱུང་<«ཞོལ་»ཕྱུང་།>བར་བྱས་ནས་"
+msgstr ""
+
+msgctxt "line 75, E003-1 sentences.txt"
+msgid "ངས་ཀྱང་སྨོན་ལམ་བཏབ་སྟེ། "
+msgstr ""
+
+msgctxt "line 76, E003-1 sentences.txt"
+msgid "ཕྱིན་ཅད་<«སྣར་»«ཞོལ་»ཆེད།>འདི་བདག་གི་མར་མ་<«གཡུང་»-མ།>གྱུར་ཅིག་ཅེས་"
+msgstr ""
+
+msgctxt "line 77, E003-1 sentences.txt"
+msgid "བྱས་པའི་ཕྱིར་རོ། །"
+msgstr ""
+
+msgctxt "line 78, E003-1 sentences.txt"
+msgid "གསོལ་པ། "
+msgstr ""
+
+msgctxt "line 79, E003-1 sentences.txt"
+msgid ""
+"འདིས་ཅི་<«ཞོལ་»ཇི།>ལྟར་བཅོམ་ལྡན་འདས་ཐུགས་བྱུང་<«ཞོལ»ཕྱུང་།>བར་བགྱིས་ལགས། "
+msgstr ""
+
+msgctxt "line 80, E003-1 sentences.txt"
+msgid "བཀའ་སྩལ་པ། "
+msgstr ""
+
+msgctxt "line 81, E003-1 sentences.txt"
+msgid ""
+"དགེ་སློང་དག་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ནི་ངེས་པར་འབྱུང་བ་ལ་དགའ་བ་དང་སྦྱིན་པ་ལ་དགའ་བ་ཡིན་ན།"
+" འདིས་ཐམས་ཅད་དུ་ངའི་ངེས་པར་འབྱུང་བ་དང་སྦྱིན་པའི་བར་ཆད་བྱས་ཏེ་"
+msgstr ""
+
+msgctxt "line 82, E003-1 sentences.txt"
+msgid "གཞི་དེས་ན་འདིས་ང་ཡིད་བྱུང་<«ཞོལ»ཕྱུང་།>བར་བྱས་སོ། །"
+msgstr ""
+
+msgctxt "line 83, E003-1 sentences.txt"
+msgid "དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། "
+msgstr ""
+
+msgctxt "line 84, E003-1 sentences.txt"
+msgid ""
+"བཙུན་པ་དགེ་སློང་མ་ཀ་ཙང་ཀ་ལས། ལས་ཅི་བགྱིས་ན་ལས་དེའི་རྣམ་པར་སྨིན་པས། "
+"དབུལ་མོར་གྱུར་ལ་"
+msgstr ""
+
+msgctxt "line 85, E003-1 sentences.txt"
+msgid "རྒས་ནས་གདོད་རབ་ཏུ་བྱུང་ལགས། "
+msgstr ""
+
+msgctxt "line 86, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། "
+msgstr ""
+
+msgctxt "line 87, E003-1 sentences.txt"
+msgid ""
+"དགེ་སློང་དག་བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ནི་ངེས་པར་འབྱུང་བ་[121a]ལ་དགའ་བ་དང་སྦྱིན་པ་ལ་དགའ་བ་ཡིན་ན།"
+" འདིས་ངའི་ཚེ་རབས་བགྲངས་པར་ངེས་པར་འབྱུང་བ་དང་སྦྱིན་པའི་བར་ཆད་བྱས་པས་ན། "
+msgstr ""
+
+msgctxt "line 88, E003-1 sentences.txt"
+msgid "ལས་དེའི་རྣམ་པར་སྨིན་པས་ད་ལྟར་དབུལ་མོར་<«ཞོལ་»མོ།>གྱུར་ལ་"
+msgstr ""
+
+msgctxt "line 89, E003-1 sentences.txt"
+msgid "རྒས་ནས་གདོད་རབ་ཏུ་བྱུང་ངོ་། །"
+msgstr ""
+
+msgctxt "line 90, E003-1 sentences.txt"
+msgid ""
+"བཙུན་པ་དགེ་སློང་མ་ཀ་ཙང་ཀ་ལས། "
+"ལས་ཅི་བགྱིས་ན་ལས་དེའི་རྣམ་པར་སྨིན་པས་ད་ལྟར་བཅོམ་ལྡན་འདས་ཀྱིས་མདོ་རྣམ་པར་འབྱེད་པ་རྣམས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱིས།>མཆོག་ཏུ་བསྟན་ལ།"
+" "
+msgstr ""
+
+msgctxt "line 91, E003-1 sentences.txt"
+msgid "འདིས་བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ། "
+msgstr ""
+
+msgctxt "line 92, E003-1 sentences.txt"
+msgid "མི་མཉེས་པར་མ་བགྱིས་ལ་"
+msgstr ""
+
+msgctxt "line 93, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་ཡང་རབ་ཏུ་བྱུང་ནས་"
+msgstr ""
+
+msgctxt "line 94, E003-1 sentences.txt"
+msgid "ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་"
+msgstr ""
+
+msgctxt "line 95, E003-1 sentences.txt"
+msgid "དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས། "
+msgstr ""
+
+msgctxt "line 96, E003-1 sentences.txt"
+msgid "བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། "
+msgstr ""
+
+msgctxt "line 97, E003-1 sentences.txt"
+msgid "སྨོན་ལམ་གྱི་དབང་ལས་གྱུར་ཏོ། །"
+msgstr ""
+
+msgctxt "line 98, E003-1 sentences.txt"
+msgid "བཙུན་པ་འདིས་གང་དུ་སྨོན་ལམ་བཏབ་ལགས། "
+msgstr ""
+
+msgctxt "line 99, E003-1 sentences.txt"
+msgid ""
+"དགེ་སློང་དག་སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། "
+"བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ།"
+" བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། "
+"སྐྱེས་བུ་གདུལ་བྱའི་<«གཡུང་»«པེ་»«ཞོལ་»འདུལ་བའི།>ཁ་ལོ་སྒྱུར་བ། "
+"བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།"
+" "
+msgstr ""
+
+msgctxt "line 100, E003-1 sentences.txt"
+msgid "དེའི་གསུང་རབ་ལ་འདི་རབ་ཏུ་བྱུང་ནས། "
+msgstr ""
+
+msgctxt "line 101, E003-1 sentences.txt"
+msgid ""
+"གང་ལས་རབ་ཏུ་བྱུང་བའི་མཁན་མོ་དེ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་མདོ་རྣམ་པར་འབྱེད་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་ཏེ།"
+" "
+msgstr ""
+
+msgctxt "line 102, E003-1 sentences.txt"
+msgid ""
+"དེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»-དེས།>དེར་འདིས་ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ནས་"
+msgstr ""
+
+msgctxt "line 103, E003-1 sentences.txt"
+msgid "འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ། "
+msgstr ""
+
+msgctxt "line 104, E003-1 sentences.txt"
+msgid "འདི་ལྟར་"
+msgstr ""
+
+msgctxt "line 105, E003-1 sentences.txt"
+msgid ""
+"བདག་གིས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ། "
+"ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ཀྱང་ཡོན་ཏན་གྱི་ཚོགས་ཅི་ཡང་མ་ཐོབ་ཀྱིས<«ཞོལ་»ཀྱི།>།"
+" "
+msgstr ""
+
+msgctxt "line 106, E003-1 sentences.txt"
+msgid ""
+"ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་<«ཅོ་»-གྱུར།>ཅིག"
+" །"
+msgstr ""
+
+msgctxt "line 107, E003-1 sentences.txt"
+msgid "མི་མཉེས་པར་<«ལི་»«ཅོ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག །"
+msgstr ""
+
+msgctxt "line 108, E003-1 sentences.txt"
+msgid "དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་<«ལི་»གྱུང་།>ནས་"
+msgstr ""
+
+msgctxt "line 109, E003-1 sentences.txt"
+msgid "ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་"
+msgstr ""
+
+msgctxt "line 110, E003-1 sentences.txt"
+msgid "དགྲ་བཅོམ་པ་[121b]ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །"
+msgstr ""
+
+msgctxt "line 111, E003-1 sentences.txt"
+msgid ""
+"ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བདག་གི་མཁན་མོ་<«པེ་»པོ།>ཇི་ལྟར་མདོ་རྣམ་པར་འབྱེད་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་པ་དེ་བཞིན་དུ།"
+" "
+"བདག་ཀྱང་ཤཱཀྱ་ཐུབ་པ་ཤཱཀྱའི་<«མི་»ཤཱཀྱིའི།>རྒྱལ་པོའི་མཆོག་དེས་མདོ་རྣམ་པར་འབྱེད་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་པར་ཤོག་ཅིག་ཅེས་"
+msgstr ""
+
+msgctxt "line 112, E003-1 sentences.txt"
+msgid "བྱས་སོ། །"
+msgstr ""
+
+msgctxt "line 113, E003-1 sentences.txt"
+msgid "དགེ་སློང་དག་"
+msgstr ""
+
+msgctxt "line 114, E003-1 sentences.txt"
+msgid "ཇི་སྙམ་དུ་སེམས། "
+msgstr ""
+
+msgctxt "line 115, E003-1 sentences.txt"
+msgid "དེའི་ཚེ་དགེ་སློང་མར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་ཀ་ཙང་ཀ་ལ་འདི་ཉིད་ཡིན་ཏེ། "
+msgstr ""
+
+msgctxt "line 116, E003-1 sentences.txt"
+msgid "དེར་འདིས་ཚེ་གཅིག་ཏུ་<«གཡུང་»«པེ་»+མཉེས་པར།>ཚངས་པར་སྤྱོད་པ་སྤྱད་ནས་"
+msgstr ""
+
+msgctxt "line 117, E003-1 sentences.txt"
+msgid "འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་སྟེ། "
+msgstr ""
+
+msgctxt "line 118, E003-1 sentences.txt"
+msgid ""
+"ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག"
+" །"
+msgstr ""
+
+msgctxt "line 119, E003-1 sentences.txt"
+msgid "མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག །"
+msgstr ""
+
+msgctxt "line 120, E003-1 sentences.txt"
+msgid "དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་"
+msgstr ""
+
+msgctxt "line 121, E003-1 sentences.txt"
+msgid "ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།"
+msgstr ""
+
+msgctxt "line 122, E003-1 sentences.txt"
+msgid "དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །"
+msgstr ""
+
+msgctxt "line 123, E003-1 sentences.txt"
+msgid ""
+"ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བདག་གི་མཁན་མོ་ཇི་ལྟར་མདོ་རྣམ་པར་འབྱེད་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་པ་དེ་བཞིན་དུ།"
+" "
+"བདག་ཀྱང་ཤཱཀྱ་ཐུབ་པ་ཤཱཀྱའི་<«ཅོ་»ཤཱཀྱིའི།>རྒྱལ་པོའི་མཆོག་དེས་མདོ་རྣམ་པར་འབྱེད་པ་རྣམས་ཀྱི་<«ཅོ་»ཀྱིས།>མཆོག་ཏུ་བསྟན་པར་ཤོག་ཅིག་ཅེས་"
+msgstr ""
+
+msgctxt "line 124, E003-1 sentences.txt"
+msgid "བྱས་པ་དེས་ན། "
+msgstr ""
+
+msgctxt "line 125, E003-1 sentences.txt"
+msgid "དགེ་སློང་དག་"
+msgstr ""
+
+msgctxt "line 126, E003-1 sentences.txt"
+msgid ""
+"ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་། ཤུགས་མཉམ་པ་དང་། "
+"མཛད་པ་མཉམ་པ་དང་། ཐབས་མཉམ་པ་བརྙེས་ནས། "
+msgstr ""
+
+msgctxt "line 127, E003-1 sentences.txt"
+msgid "འདིས་ང་མཉེས་པར་བྱས་ཏེ་"
+msgstr ""
+
+msgctxt "line 128, E003-1 sentences.txt"
+msgid "མི་མཉེས་པར་མ་བྱས་ལ། "
+msgstr ""
+
+msgctxt "line 129, E003-1 sentences.txt"
+msgid "ང་ཉིད་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་"
+msgstr ""
+
+msgctxt "line 130, E003-1 sentences.txt"
+msgid "ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། "
+msgstr ""
+
+msgctxt "line 131, E003-1 sentences.txt"
+msgid "དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ནས་"
+msgstr ""
+
+msgctxt "line 132, E003-1 sentences.txt"
+msgid "ངས་འདི་མདོ་རྣམ་པར་འབྱེད་པ་རྣམས་ཀྱི་མཆོག་ཏུ་ཡང་བསྟན་ཏོ།། །།"
+msgstr ""
