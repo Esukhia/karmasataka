@@ -38,7 +38,8 @@ class Po:
 
     def lines_to_entries(self, lines, origin):
         for num, line in enumerate(lines):
-            no_notes = self.remove_peydurma_notes(line)
+            no_pagination = self.remove_peydurma_notes(line)
+            no_notes = self.remove_peydurma_notes(no_pagination)
             if no_notes == "":
                 no_notes, line = line, no_notes
             self._create_entry(msgid=no_notes, msgctxt=f'line {num+1}, {origin}', tcomment=line)
@@ -53,9 +54,17 @@ class Po:
 
     @staticmethod
     def remove_peydurma_notes(line):
-        truc = re.split(r'(<.*?>)', line)
-        if len(truc) > 1:
-            return ''.join([a for a in truc if not a.startswith('<')]).replace(':', '')
+        note = re.split(r'(<.*?>)', line)
+        if len(note) > 1:
+            return ''.join([a for a in note if not a.startswith('<')]).replace(':', '')
+        else:
+            return ""
+
+    @staticmethod
+    def remove_pagination(line):
+        note = re.split(r'(\[.*?\])', line)
+        if len(note) > 1:
+            return ''.join([a for a in note if not a.startswith('\[')]).replace(':', '')
         else:
             return ""
 

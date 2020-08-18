@@ -5,9 +5,9 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# ﻿[182b]གྲོག་མ་གཉིས་པ་<«གཡུང་»མ།>ནི། 
+# [182b]གྲོག་མ་གཉིས་པ་<«གཡུང་»མ།>ནི། 
 msgctxt "line 1, A001.txt"
-msgid "﻿[182b]གྲོག་མ་གཉིས་པ་ནི། "
+msgid "གྲོག་མ་གཉིས་པ་ནི། "
 msgstr ""
 
 msgctxt "line 2, A001.txt"
