@@ -40,14 +40,14 @@ class Po:
         for num, line in enumerate(lines):
             no_notes = self.remove_peydurma_notes(line)
             no_notes = re.sub('\[.+?\]', '', no_notes)
+            if no_notes == "":
+                no_notes, line = line, no_notes
             # segment
             t = Text(no_notes)
             no_notes = t.tokenize_words_raw_text
             # format tokens
             no_notes = re.sub('([^།་_]) ([^_།་])', '\g<1>␣\g<2>', no_notes)   # affixed particles
             no_notes = re.sub('_', ' ', no_notes)   # spaces
-            if no_notes == "":
-                no_notes, line = line, no_notes
             self._create_entry(msgid=no_notes, msgctxt=f'line {num+1}, {origin}', tcomment=line)
 
     def txt_to_po(self, filename):
