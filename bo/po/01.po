@@ -6,7 +6,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgctxt "line 1, 01.txt"
-msgid "༄༅༅། – །  རྒྱ་གར་  སྐད་  དུ  ། test–  ཀརྨ་  ཤ་  ཏ་  ཀ  ། –"
+msgid "༄༅༅། – །  རྒྱ་གར་  སྐད་  དུ  ། –  ཀརྨ་  ཤ་  ཏ་  ཀ  ། –"
 msgstr ""
 
 msgctxt "line 2, 01.txt"
@@ -80,8 +80,8 @@ msgstr ""
 
 msgctxt "line 15, 01.txt"
 msgid ""
-"དེ་ དེ་  དང་  ལྷན་ཅིག་  ཏུ་  རྩེ་  ཞིང་  དགའ་  ལ་  དགའ་ མགུ␣ར་  སྤྱོད་  "
-"དོ␣[^1]  ། – །"
+"དེ་ དེ་  དང་  ལྷན་ཅིག་  ཏུ་  རྩེ་  ཞིང་  དགའ་  ལ་  དགའ་ མགུ␣ར་  སྤྱོད་  དོ "
+" ། – །"
 msgstr ""
 
 msgctxt "line 16, 01.txt"

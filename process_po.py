@@ -39,9 +39,9 @@ class Po:
     def lines_to_entries(self, lines, origin):
         for num, line in enumerate(lines):
             no_notes = self.remove_peydurma_notes(line)
-            no_notes = re.sub('\[.+?\]', '', no_notes)
             if no_notes == "":
                 no_notes, line = line, no_notes
+            no_notes = re.sub('\[.+?\]', '', no_notes)
             # segment
             t = Text(no_notes)
             no_notes = t.tokenize_words_raw_text
