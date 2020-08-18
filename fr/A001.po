@@ -1,0 +1,394 @@
+# 
+# Translators:
+# Drupchen Dorje <drupchen@esukhia.org>, 2020
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Drupchen Dorje <drupchen@esukhia.org>, 2020\n"
+"Language-Team: French (https://www.transifex.com/lotsawa-apprenticeship/teams/112155/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# ﻿[182b]གྲོག་མ་གཉིས་པ་<«གཡུང་»མ།>ནི།
+msgctxt "line 1, A001.txt"
+msgid "﻿གྲོག་མ་ གཉིས་པ་ ནི །"
+msgstr "La deuxième [histoire des] fourmis"
+
+msgctxt "line 2, A001.txt"
+msgid "གླེང་ གཞི་ མཉན་ དུ་ཡོད་པ་ ན་ བཞུགས་ ཏེ །"
+msgstr ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+
+msgctxt "line 3, A001.txt"
+msgid ""
+"གཏན་ཚིགས་ རྒྱས་པ␣ར་ ནི་ དབྱིག་ དག␣འི་ རྟོགས་པ་ བརྗོད་པ་ ལ␣ས་ འབྱུང་བ་ བཞིན་ "
+"ཏེ །"
+msgstr ""
+"L'explication détaillée [de cette histoire] est semblable à celle qu'on "
+"trouve dans l'histoire de Aimé-de-Richesse."
+
+# གང་གི་ཚེ་ཚེ་དང་ལྡན་པ་ཀུན་ཤེས་ཀཽཎྜི་<«ལི་»«ཁུ་»ཀཽཎྚི།>ནྱས་བདེན་པ་རྣམས་མཐོང་བར་གྱུར་པ་དེའི་ཚེ།
+# ལྷ་བརྒྱད་ཁྲིས་ཀྱང་བདེན་པ་མཐོང་བར་གྱུར་ཏོ། །
+msgctxt "line 4, A001.txt"
+msgid ""
+"གང་ གི་ ཚེ་ཚེ་ དང་ ལྡན་པ་ ཀུན་ཤེས་ ཀཽཎྜི་ ནྱས་ བདེན་པ་ རྣམས་ མཐོང་བ␣ར་ "
+"གྱུར་པ་ དེ␣འི་ ཚེ །  ལྷ་ བརྒྱད་ ཁྲིས་ ཀྱང་ བདེན་པ་ མཐོང་བ␣ར་ གྱུར་ ཏོ ། །"
+msgstr ""
+"Lorsque l'honorable Kaundinaya-Qui-sait-tout a vu les vérités, quatre-vingt "
+"mille dieux ont aussi vu les vérités."
+
+msgctxt "line 5, A001.txt"
+msgid "དེ་ནས་ དགེ་སློང་ རྣམས་ ཀྱིས་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ ལ་ གསོལ་པ །"
+msgstr "Puis les moines s'adressèrent au Bienheureux Bouddha : «"
+
+msgctxt "line 6, A001.txt"
+msgid "བཙུན་པ་"
+msgstr "Vénérable,"
+
+# བཅོམ་ལྡན་འདས་ཀྱིས་ཀཽཎྜི་<«ལི་»«ཁུ་»ཀཽཎྚི།>ནྱ་ལ་སོགས་པ་<«ཞོལ་»+དང༌།>ལྷ་བརྒྱད་ཁྲི་དམ་པའི་ཆོས་ཀྱི་བཅུད་ཀྱིས་ཚིམ་པར་མཛད་ནས།
+msgctxt "line 7, A001.txt"
+msgid ""
+"བཅོམ་ལྡན་འདས་ ཀྱིས་ ཀཽཎྜི་ ནྱ་ ལ་སོགས་པ་ ལྷ་ བརྒྱད་ ཁྲི་ དམ་པ␣འི་ ཆོས་ ཀྱི་ "
+"བཅུད་ ཀྱིས་ ཚིམ་པ␣ར་ མཛད་ ནས །"
+msgstr ""
+"le Bienheureux a rassasié Kaundinaya et les autres [ascètes] et les quatre-"
+"vingt mille dieux avec le suc nourricier du Dharma, et"
+
+# གཡུང་དྲུང་གི་མཐར་ཐུག་པ་གྲུབ་པ་དང་བདེ་བའི་མྱ་ངན་ལས་འདས་པ་ལ་:བཀོད་པ་<«གཡུང་»བཀོས།
+# «པེ་»-དཀོད་པ།>ལ་གཟིགས།
+msgctxt "line 8, A001.txt"
+msgid ""
+"གཡུང་དྲུང་ གི་ མཐར་ཐུག་པ་ གྲུབ་པ་ དང་ བདེ་བ␣འི་ མྱ་ངན་ ལ␣ས་ འདས་པ་ ལ་ "
+"བཀོད་པ་ ལ་ གཟིགས །"
+msgstr ""
+"il les a établis dans le nirvana qui est l'accomplissement et la félicité "
+"absolument inébranlables. Posez-y votre regard. »"
+
+msgctxt "line 9, A001.txt"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
+msgstr "Le Bienheureux répondit : «"
+
+msgctxt "line 10, A001.txt"
+msgid "ད་ལྟར་ འབའ་ཞིག་ མ་ ཡིན་ ཏེ །"
+msgstr "Ce n'est pas uniquement maintenant [que ceci est arrivé]."
+
+# འདས་པའི་དུས་སུ་ཡང་ཀཽཎྜི་<«ལི་»«ཁུ་»ཀཽཎྚི།>ནྱ་ལ་སོགས་པ།<«ཞོལ་»+དང་།>
+# ལྷ་བརྒྱད་ཁྲི་པོ་འདི་དག་ཉིད་ངས་ཇི་ལྟར་རང་གི་ཤ་དང་ཁྲག་གིས་ཚིམ་པར་བྱས་ནས།
+# སྲོག་ཕངས་པ་བྱིན་པ་དེ་ཉོན་ཅིག །
+msgctxt "line 11, A001.txt"
+msgid ""
+"འདས་པ␣འི་ དུས་ སུ་ ཡང་ ཀཽཎྜི་ ནྱ་ ལ་སོགས་པ །  ལྷ་ བརྒྱད་ ཁྲི་པོ་ འདི་དག་ "
+"ཉིད་ ངས་ ཇི་ལྟར་ རང་ གི་ ཤ་ དང་ ཁྲག་ གིས་ ཚིམ་པ␣ར་ བྱས་ ནས །  སྲོག་ ཕངས་པ་ "
+"བྱིན་པ་ དེ་ ཉོན་ ཅིག  །"
+msgstr ""
+"Dans le passé, j'ai aussi rassasié Kaundinaya et les autres [ascètes] ainsi "
+"[que] ces quatre-vingt mille dieux avec ma chair et mon sang, et je leur ai "
+"donné ma vie, à laquelle je tiens si fort. Écoutez [comment] ceci [est "
+"arrivé]."
+
+msgctxt "line 12, A001.txt"
+msgid "དགེ་སློང་ དག་"
+msgstr "Moines,"
+
+# སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
+# རི་ཁྲོད་ཅིག་ནས་ཐག་མི་རིང་བ་<«གཡུང་»«པེ་»-བ།>ཞིག་:ན། ཁུང་ཞིག་<«གཡུང་»-ན།
+# ཁུང་ཞིག>གི་ནང་ན་སྲོག་ཆགས་སྐྱིན་གོར་སྙིང་རྗེ་ཆེ་བ་བྱམས་པའི་བདག་ཉིད་ཅན་སེམས་ཅན་ལ་བྱམས་པ་ཞིག་གནས་པ་དེ།
+# རྩ་བ་དང་འབྲས་བུས་འཚོ་ཞིང་
+msgctxt "line 13, A001.txt"
+msgid ""
+"སྔོན་བྱུང་བ་ འདས་པ␣འི་ དུས་ ན །  རི་ཁྲོད་ ཅིག་ ནས་ ཐག་ མི་ རིང་བ་ ཞིག་ ན །  "
+"ཁུང་ ཞིག་ གི་ ནང་ ན་ སྲོག་ཆགས་ སྐྱིན་གོར་ སྙིང་རྗེ་ ཆེ་བ་ བྱམས་པ␣འི་ "
+"བདག་ཉིད་ ཅན་ སེམས་ཅན་ ལ་ བྱམས་པ་ ཞིག་ གནས་པ་ དེ །  རྩ་བ་ དང་ འབྲས་བུ␣ས་ འཚོ་"
+" ཞིང་"
+msgstr ""
+"dans une époque maintenant révolue, pas loin d'un village de montagne, dans "
+"un trou, se trouvait une loutre dont la compassion était grande, qui était "
+"de nature aimante et qui était bienveillante envers les êtres et qui se "
+"nourrissait de racines et de fruits. "
+
+# སུ་ལ་ཡང་འཚེ་མི་འདོད་པ་<«པེ་»ག>ཞིག་འདུག་པ་དེ་ཕྱི་ཞིག་ན་གཟས་<«གཡུང་»«པེ་»ཟས།>ལ་སོང་སོང་བ་ལས།
+msgctxt "line 14, A001.txt"
+msgid ""
+"སུ་ ལ་ ཡང་ འཚེ་ མི་འདོད་པ་ ཞིག་ འདུག་པ་ དེ་ ཕྱི་ ཞིག་ ན་ གཟ␣ས་ ལ་ སོང་ "
+"སོང་བ་ ལ␣ས །"
+msgstr ""
+"elle ne voulait causer de tort à personne. Plus tard, elle se déplaça loin "
+"[pour] chercher à manger quand"
+
+msgctxt "line 15, A001.txt"
+msgid "རྔོན་པ་ ཞིག་ གིས་ མཐོང་ ནས་"
+msgstr "un chasseur la vit ;"
+
+msgctxt "line 16, A001.txt"
+msgid "དེ་དེ␣ས་ གསོན་པོ␣ར་ བཟུང་ སྟེ །"
+msgstr "il l'attrapa vivante et"
+
+# :པགས་པ་བཤུས་<«གཡུང་»«ལི་»«པེ་»ལྤགས་པ་བཤུས། «ཅོ་»པགས་པར་ཤུས།>ནས་
+msgctxt "line 17, A001.txt"
+msgid "པགས་པ་ བཤུས་ ནས་"
+msgstr "il l'écorcha et"
+
+# བཏང་སྟེ་<«གཡུང་»སོ།>
+msgctxt "line 18, A001.txt"
+msgid "བཏང་ སྟེ་"
+msgstr "la relâcha."
+
+# རྔོན་པ་དེས་པགས་<«གཡུང་»«ལི་»«པེ་»ལྤགས།>པ་དེ་ཁྱེར་ཏེ་
+msgctxt "line 19, A001.txt"
+msgid "རྔོན་པ་ དེ␣ས་ པགས་པ་ དེ་ ཁྱེར་ ཏེ་"
+msgstr "Le chasseur prit cette peau et"
+
+msgctxt "line 20, A001.txt"
+msgid "སོང་ ངོ་ ། །"
+msgstr "s'en fut."
+
+# དེ་ནས་སྐྱིན་གོར་<«གཡུང་»འཁོར། «པེ་»ཀོར།>དེ་ན་ཚ་མི་བཟོད་དེ་
+msgctxt "line 21, A001.txt"
+msgid "དེ་ནས་ སྐྱིན་གོར་ དེ་ ན་ཚ་ མི་ བཟོད་ དེ་"
+msgstr "Ensuite, la loutre souffrait à ne plus [pouvoir] la supporter et"
+
+msgctxt "line 22, A001.txt"
+msgid "ཆུ་འགྲམ་ ཞིག་ ཏུ་ སོང་ ནས་"
+msgstr "elle alla près d'une rivière et"
+
+# ས་:གཞི་བསིལ་<«གཡུང་»བཞི་བསིལ། «པེ་»«སྣར་»བཞི་གསིལ།>བའི་ཕྱོགས་སུ་ཉལ་ལོ། །
+msgctxt "line 23, A001.txt"
+msgid "ས་གཞི་ བསིལ་བ␣འི་ ཕྱོགས་ སུ་ ཉལ་ ལོ ། །"
+msgstr "s'allongea à un endroit frais."
+
+msgctxt "line 24, A001.txt"
+msgid "དེ་ནས་ ཧ་ཅང་ ཡང་ མི་ རིང་བ་ ཞིག་ ན་ གྲོག་ཚང་ ཞིག་ ཡོད་ དེ །"
+msgstr "Alors, pas très loin de là se trouvait une fourmilière et"
+
+msgctxt "line 25, A001.txt"
+msgid "གྲོག་ཚང་ དེ་ ན་ གྲོག་མ་ བརྒྱད་ ཁྲི་ གནས་ ཏེ །"
+msgstr "dans cette fourmilière vivaient quatre-vingt mille fourmis. Puis,"
+
+msgctxt "line 26, A001.txt"
+msgid "གྲོག་ཚང་ དེ␣འི་ ནང་ ནས་ གྲོག་མ་ ཞིག་ བྱུང་ སྟེ །"
+msgstr "une fourmi sortit de cette fourmilière et"
+
+# གྲོག་མ་དེ་སྐྱིན་གོར་<«གཡུང་»འཁོར། «པེ་»ཀོར།>དེའི་ཐད་དུ་སོང་སྟེ་
+msgctxt "line 27, A001.txt"
+msgid "གྲོག་མ་ དེ་ སྐྱིན་གོར་ དེ␣འི་ ཐད་ དུ་ སོང་ སྟེ་"
+msgstr "la fourmi alla près de la loutre et"
+
+# བལྟས་ན་སྐྱིན་:གོར་པགས་<«གཡུང་»འཁོར་ལྤགས། «ལི་»གོར་ལྤགས།
+# «པེ་»ཀོར་ལྤགས།>པ་མེད་པ་དེ་མཐོང་ནས་
+msgctxt "line 28, A001.txt"
+msgid "བལྟས་ ན་ སྐྱིན་གོར་ པགས་པ་ མེད་པ་ དེ་ མཐོང་ ནས་"
+msgstr ""
+"en regardant [autour d'elle], elle vit cette loutre écorchée. Ensuite,"
+
+msgctxt "line 29, A001.txt"
+msgid "རང་ གི་ ཚང་ དུ་ སོང་ སྟེ །"
+msgstr "elle alla dans sa fourmilière et"
+
+msgctxt "line 30, A001.txt"
+msgid "གྲོག་མ་ གཞན་དག་ ལ་ སྦྲན་ ནས །"
+msgstr "appela les autres fourmis. Alors,"
+
+# གྲོག་མ་བརྒྱད་ཁྲི་པོ་དེ་དག་ཚང་ནས་འཐོན་<«ཞོལ་»ཐོན།>ཏེ་
+msgctxt "line 31, A001.txt"
+msgid "གྲོག་མ་ བརྒྱད་ ཁྲི་པོ་ དེ་དག་ ཚང་ ནས་ འཐོན་ ཏེ་"
+msgstr "les quatre-vingt mille fourmis sortirent de la fourmilière et"
+
+# སྐྱིན་གོར་<«གཡུང་»འཁོར། «པེ་»འཀོར།>དེའི་ལུས་ལ་ཞུགས་སོ། །
+msgctxt "line 32, A001.txt"
+msgid "སྐྱིན་གོར་ དེ␣འི་ ལུས་ ལ་ ཞུགས་ སོ ། །"
+msgstr "recouvrirent [lit. s'engagèrent] le corps de la loutre."
+
+# དེ་ནས་དེ་དག་ཟ་<«ཅོ་»ཟབ།>བས་སད་དེ་
+msgctxt "line 33, A001.txt"
+msgid "དེ་ནས་ དེ་དག་ ཟ་བ␣ས་ སད་ དེ་"
+msgstr "Alors, elle se réveilla parce qu'elles la mangeaient et"
+
+msgctxt "line 34, A001.txt"
+msgid "དེ␣ས་ བལྟས་ ན་ ལུས་ ཐོག་ཐག་ གྲོག་མ␣ས་ གང་བ␣ར་ མཐོང་ ངོ་ ། །"
+msgstr ""
+"lorsqu'elle regarda, elle vit que son corps était couvert de fourmis du haut"
+" en bas."
+
+# བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ནི་ལུས་ཀྱིས་<«ལི་»«སྣར་»«ཅོ་»ཀྱི།>ལོག་པར་ལྟུང་དུ་ཟིན་ཀྱང་།
+msgctxt "line 35, A001.txt"
+msgid "བྱང་ཆུབ་ སེམས་དཔའ་ རྣམས་ ནི་ ལུས་ ཀྱིས་ ལོག་པ␣ར་ ལྟུང་ དུ་ ཟིན་ ཀྱང་ །"
+msgstr ""
+"Les bodhisattvas, même si, par leur naissance (lit. corps), ils sont tombé "
+"dans une [condition] contraire,"
+
+msgctxt "line 36, A001.txt"
+msgid "སེམས་ ཀྱིས་ ལོག་པ␣ར་ ལྟུང་བ␣ར་ མི་ འགྱུར་ ཏེ །"
+msgstr ""
+"leur esprit ne tombe pas dans une [condition] contraire. C'est pourquoi"
+
+msgctxt "line 37, A001.txt"
+msgid "བྱང་ཆུབ་ སེམས་དཔའ་ དེ␣ས་ བསམས་པ །"
+msgstr "ce bodhisattva pensa : «"
+
+# ངས་བདག་ཉིད་ཐར་བར་ནི་<«གཡུང་»«པེ་»མི།>ནུས་མོད་ཀྱི་<«ཅོ་»ཀྱིས།>
+msgctxt "line 38, A001.txt"
+msgid "ངས་ བདག་ཉིད་ ཐར་བ␣ར་ ནི་ ནུས་ མོད་ ཀྱི་"
+msgstr "J'ai les capacités de me libérer moi-même [de cette situation], mais"
+
+# སེམས་ཅན་འདི་སྙེད་ཀྱི་སྲོག་མ་རུང་བར་འགྱུར་<«གཡུང་»«པེ་》གྱུར།>ལ།
+msgctxt "line 39, A001.txt"
+msgid "སེམས་ཅན་ འདི་ སྙེད་ ཀྱི་ སྲོག་ མ་ རུང་བ␣ར་ འགྱུར་ ལ །"
+msgstr "ceci porterait atteinte à la vie de tous ces êtres. De plus,"
+
+# བདག་ཀྱང་སེམས་ཅན་ལ་ཕན་པའི་ཕྱིར་བརྩོན་པ་ཡིན་གྱིས་<«ཞོལ་»གྱི།>
+msgctxt "line 40, A001.txt"
+msgid "བདག་ ཀྱང་ སེམས་ཅན་ ལ་ ཕན་པ␣འི་ ཕྱིར་ བརྩོན་པ་ ཡིན་ གྱིས་"
+msgstr "moi-même, je m'efforce à faire le bien des êtres, donc"
+
+msgctxt "line 41, A001.txt"
+msgid "བདག་ རང་ གི་ སྲོག་ ཡོངས་སུ་ བཏང་ ཡང་ སླ␣འི །"
+msgstr "il m'est plus facile de donner ma propre vie ;"
+
+msgctxt "line 42, A001.txt"
+msgid "སེམས་ཅན་ འདི་ སྙེད་ ཀྱི་ སྲོག་ མ་ རུང་བ␣ར་ བྱ␣ར་ ནི་ མི་ རུང་ ངོ་ ། །"
+msgstr ""
+"il n'est pas acceptable de porter atteinte à la vie de tous ces êtres."
+
+msgctxt "line 43, A001.txt"
+msgid "གཅིག་ ཏུ་ ན་ བདག་ ནི་ གནོད་པ་ འདི་ཁོ་ན␣ས་ ངེས་པར་ འཆི་བ␣ར་ འགྱུར་ ལ །"
+msgstr ""
+"D'un [autre côté], je suis certain que rien qu'avec le tort qui m'a été "
+"fait, je mourrai, donc"
+
+msgctxt "line 44, A001.txt"
+msgid "བདག་ གི་ བྱ་བ་ གང་ཡིན་ ཞེ་ ན །"
+msgstr "mon devoir [lit. action] est le suivant :"
+
+msgctxt "line 45, A001.txt"
+msgid "སེམས་ཅན་ ལ་ ཕན་པ␣འི་ ཕྱིར་ ལུས་ ཡོངས་སུ་ གཏོང་བ་ སྟེ །"
+msgstr "donner mon corps en entier pour le bien des êtres. De plus,"
+
+msgctxt "line 46, A001.txt"
+msgid "དེ་ ནི་ བདག་ ལ་ འདི་ རྣམས་ ཀྱིས་ བསྐུལ་ ཏོ་ སྙམ་ ནས །"
+msgstr "ces [êtres] m'incitent à le faire » pensa-t-il. Puis,"
+
+msgctxt "line 47, A001.txt"
+msgid "བདག་ཉིད་ ཀྱིས་ མནགས་ ཏེ་"
+msgstr "il supporta [la douleur] et"
+
+msgctxt "line 48, A001.txt"
+msgid "ཅང་ མི་ ཟེར་བ␣ར་ འདུག་ ནས་"
+msgstr "se tint sans mot dire. Puis,"
+
+msgctxt "line 49, A001.txt"
+msgid "བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཏུ་ སྨོན་ལམ་ བཏབ་ སྟེ །"
+msgstr "il fit le souhait de l'éveil insurpassable, complet et parfait : «"
+
+msgctxt "line 50, A001.txt"
+msgid "ཀྱེ་མ་"
+msgstr "Quelle merveille !"
+
+# དགེ་བའི་རྩ་བ་འདིས་བདག་འཇིག་རྟེན་ལོང་བ་སྟོན་པ་མེད་པ་ཡོངས་སུ་འདྲེན་པ་མེད་པར།
+# སེམས་ཅན་མ་རྒལ་<«ཞོལ་»བརྒལ།>བ་རྣམས་སྒྲོལ་བ་དང་<«ཅོ་»+མ་ང་།>མ་གྲོལ་བ་རྣམས་དགྲོལ་<«གཡུང་»«ལི་»«ཅོ་»འགྲོལ།>བ་དང་དབུགས་མ་ཕྱིན་པ་རྣམས་དབུགས་འབྱིན་པ་དང་།
+# ཡོངས་སུ་མྱ་ངན་ལས་མ་འདས་པ་རྣམས་ཡོངས་སུ་མྱ་ངན་ལས་<«གཡུང་»ལ།>ཟློ་<«གཡུང་»+འདས།>བའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ།
+# བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ།
+# སྐྱེས་བུ་འདུལ་བའི་<«གཡུང་»«པེ་»«སྣར་»གདུལ་བྱའི།
+# «ལི་»«ཅོ་»འདུལ་བྱའི།>ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ།
+# ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སུ་གྱུར་ཅིག །
+msgctxt "line 51, A001.txt"
+msgid ""
+"དགེ་བ␣འི་ རྩ་བ་ འདི␣ས་ བདག་ འཇིག་རྟེན་ ལོང་བ་ སྟོན་པ་ མེད་པ་ ཡོངས་སུ་ "
+"འདྲེན་པ་ མེད་པ␣ར །  སེམས་ཅན་ མ་ རྒལ་བ་ རྣམས་ སྒྲོལ་བ་ དང་ མ་ གྲོལ་བ་ རྣམས་ "
+"དགྲོལ་བ་ དང་ དབུགས་ མ་ ཕྱིན་པ་ རྣམས་ དབུགས་ འབྱིན་པ་ དང་ །  ཡོངས་སུ་ མྱ་ངན་ "
+"ལས་མ་ འདས་པ་ རྣམས་ ཡོངས་སུ་ མྱ་ངན་ ལ␣ས་ ཟློ་བ␣འི་ དེ་བཞིན་ གཤེགས་པ་ "
+"དགྲ་བཅོམ་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ རིག་པ་ དང་ ཞབས་ སུ་ ལྡན་པ །  "
+"བདེ་བ␣ར་ གཤེགས་པ །  འཇིག་རྟེན་ མཁྱེན་པ །  སྐྱེས་བུ་ འདུལ་བ␣འི་ ཁ་ལོ་ སྒྱུར་བ"
+" །  བླ་ ན་ མེད་པ །  ལྷ་ དང་ མི་ རྣམས་ ཀྱི་ སྟོན་པ་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ "
+"སུ་ གྱུར་ཅིག  །"
+msgstr ""
+"Par cette racine de vertu, puissé-je, pour les aveugles du monde sans "
+"enseignant et sans aucun guide, devenir un Bienheureux Bouddha, un "
+"Tathāgata, un Arhat, un Bouddha complet et parfait, doté de la sagesse et "
+"des jambes [de la pratique], un Sugata, un connaisseur [des êtres des trois]"
+" mondes, un insurpassable cocher des êtres à guider, un Enseignant des dieux"
+" et des hommes qui libérera les êtres qui n'ont pas traversé [le samsara], "
+"qui libérera ceux qui ne sont pas libérés, qui soulagera ceux qui ne sont "
+"pas soulagés, qui fera atteindre l'au-delà de la souffrance à ceux qui n'ont"
+" pas atteint l'au-delà de la souffrance. »"
+
+# ཅི་<«ཞོལ་»ཇི།>ལྟར་ངས་འདི་རྣམས་ད་ལྟར་རང་གི་ཤ་དང་ཁྲག་གིས་ཚིམ་པར་བྱས་[183b]ནས།
+msgctxt "line 52, A001.txt"
+msgid ""
+"ཅི་ ལྟར་ ངས་ འདི་ རྣམས་ ད་ལྟར་ རང་ གི་ ཤ་ དང་ ཁྲག་ གིས་ ཚིམ་པ␣ར་ བྱས་ ནས །"
+msgstr "De même que je les rassasie maintenant de ma chair et de mon sang,"
+
+# སྲོག་ཕངས་པ་བྱིན་པ་དེ་བཞིན་དུ།
+# ང་<«གཡུང་»«པེ་»-ང་།>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་ན་ཡང་འདི་རྣམས་དམ་པའི་ཆོས་ཀྱི་བཅུད་ཀྱིས་ཚིམ་པར་བྱས་ནས།
+msgctxt "line 53, A001.txt"
+msgid ""
+"སྲོག་ ཕངས་པ་ བྱིན་པ་ དེ་བཞིན་ དུ །  ང་ བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ "
+"བྱང་ཆུབ་ མངོན་པར་ རྫོགས་པ␣ར་ སངས་རྒྱས་པ་ ན་ ཡང་ འདི་ རྣམས་ དམ་པ␣འི་ ཆོས་ "
+"ཀྱི་ བཅུད་ ཀྱིས་ ཚིམ་པ␣ར་ བྱས་ ནས །"
+msgstr ""
+"et que je leur donne ma vie à laquelle je tiens tant, lorsque je me serai "
+"complètement et parfaitement éveillé à l'éveil complet et parfait, puissé-je"
+" aussi les rassasier du suc nourricier du Dharma et"
+
+msgctxt "line 54, A001.txt"
+msgid ""
+"གཡུང་དྲུང་ གི་ མཐར་ཐུག་པ་ གྲུབ་པ་ དང་ བདེ་བ␣འི་ མྱ་ངན་ ལ␣ས་ འདས་པ་ ལ་ "
+"འགོད་པ␣ར་ གྱུར་ཅིག་ ཅེས་"
+msgstr ""
+"les établir dans le nirvana qui est l'accomplissement et la félicité "
+"absolument inébranlables. »"
+
+msgctxt "line 55, A001.txt"
+msgid "བྱས་ སོ ། །"
+msgstr "dit-il."
+
+msgctxt "line 56, A001.txt"
+msgid "དགེ་སློང་ དག་"
+msgstr "Moines,"
+
+msgctxt "line 57, A001.txt"
+msgid "ཇི་སྙམ་ དུ་ སེམས །"
+msgstr "qu'en pensez-vous ?"
+
+msgctxt "line 58, A001.txt"
+msgid ""
+"དེ␣འི་ ཚེ་ སྐྱིན་གོར་ དུ་ གྱུར་པ་ བྱང་ཆུབ་ སེམས་དཔ␣འི་ སྤྱོད་པ་ ལ་ གནས་པ་ "
+"གང་ཡིན་པ་ དེ་ ནི་ ང་ཉིད་ ཡིན་ ནོ ། །"
+msgstr ""
+"À cette époque, celui qui était la loutre, qui était installé dans la "
+"conduite des bodhisattvas, c'était moi-même."
+
+# དེའི་ཚེ་གྲོག་མ་བརྒྱད་ཁྲིར་གྱུར་པ་:གང་ཡིན་པ་<«གཡུང་»འཁོར།
+# «པེ་»ཀོར།>དེ་དག་ནི་ལྷ་བརྒྱད་ཁྲི་འདི་དག་ཉིད་ཡིན་ཏེ།
+msgctxt "line 59, A001.txt"
+msgid ""
+"དེ␣འི་ ཚེ་ གྲོག་མ་ བརྒྱད་ ཁྲི␣ར་ གྱུར་པ་ གང་ཡིན་པ་ དེ་དག་ ནི་ ལྷ་ བརྒྱད་ "
+"ཁྲི་ འདི་དག་ ཉིད་ ཡིན་ ཏེ །"
+msgstr ""
+"À cette époque, ceux qui étaient ces quatre-vingt mille fourmis ne sont "
+"autres que ces quatre-vingt mille dieux."
+
+msgctxt "line 60, A001.txt"
+msgid ""
+"དེ␣འི་ ཚེ་ ཡང་ ངས་ འདི་ རྣམས་ རང་ གི་ ཤ་ དང་ ཁྲག་ གིས་ ཚིམ་པ␣ར་ བྱས་ ནས་"
+msgstr ""
+"À cette époque, je les ai aussi rassasié de ma chair et de mon sang et"
+
+msgctxt "line 61, A001.txt"
+msgid "སྲོག་ ཕངས་པ་ བྱིན་ ནོ ། །"
+msgstr "je leur ai donné ma vie à laquelle je tiens tant."
+
+msgctxt "line 62, A001.txt"
+msgid ""
+"ད་ལྟར་ ཡང་ ངས་ འདི་ རྣམས་ དམ་པ␣འི་ ཆོས་ ཀྱི་ བཅུད་ ཀྱིས་ ཚིམ་པ␣ར་ བྱས་ ནས །"
+msgstr "Maintenant, je les ai aussi rassasié du suc nourricier du Dharma et"
+
+msgctxt "line 63, A001.txt"
+msgid ""
+"གཡུང་དྲུང་ གི་ མཐར་ཐུག་པ་ གྲུབ་པ་ དང་ བདེ་བ␣འི་ མྱ་ངན་ ལ␣ས་ འདས་པ་ ལ་ བཀོད་ "
+"དོ །། །།"
+msgstr ""
+"je les ai établi dans le nirvana qui est l'accomplissement et la félicité "
+"absolument inébranlables."
