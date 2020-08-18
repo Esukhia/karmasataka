@@ -1,6 +1,6 @@
 from pathlib import Path
 import re
-
+from botok import Text
 import polib
 
 
@@ -38,15 +38,21 @@ class Po:
 
     def lines_to_entries(self, lines, origin):
         for num, line in enumerate(lines):
-            no_pagination = self.remove_peydurma_notes(line)
-            no_notes = self.remove_peydurma_notes(no_pagination)
+            no_notes = self.remove_peydurma_notes(line)
+            no_notes = re.sub('\[.+?\]', '', no_notes)
+            # segment
+            t = Text(no_notes)
+            no_notes = t.tokenize_words_raw_text
+            # format tokens
+            no_notes = re.sub('([^།་_]) ([^_།་])', '\g<1>␣\g<2>', no_notes)   # affixed particles
+            no_notes = re.sub('_', ' ', no_notes)   # spaces
             if no_notes == "":
                 no_notes, line = line, no_notes
             self._create_entry(msgid=no_notes, msgctxt=f'line {num+1}, {origin}', tcomment=line)
 
     def txt_to_po(self, filename):
         filename = Path(filename)
-        lines = filename.read_text().strip().split('\n')
+        lines = filename.read_text(encoding='utf-8').strip().split('\n')
         self.lines_to_entries(lines, filename.name)
 
         outfile = Path(out_folder) / (filename.stem + ".po")
