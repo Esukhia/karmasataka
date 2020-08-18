@@ -13,12 +13,11 @@ class Po:
             'Content-Transfer-Encoding': '8bit',
         }
 
-    def _create_entry(self, msgid, msgstr="", msgstr_plural=None, msgctxt=None, comment=None, tcomment=None):
+    def _create_entry(self, msgid, msgstr="", msgctxt=None, comment=None, tcomment=None):
         """
 
         :param msgid: string, the entry msgid.
         :param msgstr: string, the entry msgstr.
-        :param msgstr_plural: list, the entry msgstr_plural lines.
         :param msgctxt: string, the entry context.
         :param comment: string, the entry comment.
         :param tcomment: string, the entry translator comment.
@@ -26,7 +25,6 @@ class Po:
         entry = polib.POEntry(
             msgid=msgid,
             msgstr=msgstr,
-            msgstr_plural=msgstr_plural,
             msgctxt=msgctxt,
             comment=comment,
             tcomment=tcomment
