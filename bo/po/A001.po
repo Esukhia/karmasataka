@@ -7,7 +7,7 @@ msgstr ""
 
 # [182b]གྲོག་མ་གཉིས་པ་<«གཡུང་»མ།>ནི། 
 msgctxt "line 1, A001.txt"
-msgid "གྲོག་མ་ གཉིས་པ་ ནི །"
+msgid "kགྲོག་མ་ གཉིས་པ་ ནི །"
 msgstr ";l;l"
 
 msgctxt "line 2, A001.txt"
