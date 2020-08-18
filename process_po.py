@@ -53,18 +53,18 @@ class Po:
         self.write_to_file(outfile)
 
     @staticmethod
-    def remove_peydurma_notes(line):
-        note = re.split(r'(<.*?>)', line)
+    def remove_pagination(line):
+        note = re.split(r'(\[.*?\])', line)
         if len(note) > 1:
-            return ''.join([a for a in note if not a.startswith('<')]).replace(':', '')
+            return ''.join([a for a in note if not a.startswith('\[')])
         else:
             return ""
 
     @staticmethod
-    def remove_pagination(line):
-        note = re.split(r'(\[.*?\])', line)
+    def remove_peydurma_notes(line):
+        note = re.split(r'(<.*?>)', line)
         if len(note) > 1:
-            return ''.join([a for a in note if not a.startswith('\[')]).replace(':', '')
+            return ''.join([a for a in note if not a.startswith('<')]).replace(':', '')
         else:
             return ""
 
