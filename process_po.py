@@ -61,8 +61,8 @@ class Po:
 
 
 if __name__ == '__main__':
-    in_folder = '0_original_stories/txt'
-    out_folder = '0_original_stories/po'
+    in_folder = 'bo/txt'
+    out_folder = 'bo/po'
     for file in Path(in_folder).glob('*.txt'):
         po = Po()
         po.txt_to_po(file)
