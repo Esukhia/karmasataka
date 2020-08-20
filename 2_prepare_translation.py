@@ -5,8 +5,8 @@ import polib
 class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
-        self.outfile = self.infile.parent.parent.parent / out_folder / (self.infile.stem + '.txt')
-        self.copyfile = self.infile.parent.parent.parent / copy_folder / (self.infile.stem + '.txt')
+        self.outfile = self.infile.parent.parent.parent.parent / out_folder / (self.infile.stem + '.txt')
+        self.copyfile = self.infile.parent.parent.parent.parent / copy_folder / (self.infile.stem + '.txt')
         self.file = polib.pofile(self.infile)
 
     def format_entries(self):
