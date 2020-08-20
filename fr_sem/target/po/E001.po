@@ -1,0 +1,725 @@
+# 
+# Translators:
+# Drupchen Dorje <drupchen@esukhia.org>, 2020
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Drupchen Dorje <drupchen@esukhia.org>, 2020\n"
+"Language-Team: French (https://www.transifex.com/lotsawa-apprenticeship/teams/112155/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "line 1, E001.txt"
+msgid "﻿འཐབ་མོ་ ཞེས་ བྱ་བ་ ནི །"
+msgstr "La querelle"
+
+# བམ་པོ་སུམ་ཅུ་<«གཡུང་»«པེ་»བཅུ། «ལི་»བཅུ་རྩ། །
+# «ཅོ་»+རྩ།>བདུན་པ་:སྟེ་ཐ་མ<«སྣར་»-སྟེ་ཐ་མ།>།
+msgctxt "line 2, E001.txt"
+msgid "བམ་པོ་ སུམ་ཅུ་ བདུན་པ་ སྟེ་ ཐ་མ །"
+msgstr "Feuillet 37 ; dernier feuillet."
+
+# འཐབ་<«གཡུང་»«པེ་»«སྣར་»ཐབ།>མོ་ཞེས་བྱ་བ་ནི།
+msgctxt "line 3, E001.txt"
+msgid "འཐབ་མོ་ ཞེས་ བྱ་བ་ ནི །"
+msgstr "La querelle"
+
+msgctxt "line 4, E001.txt"
+msgid "གླེང་ གཞི་ མཉན་ དུ་ཡོད་པ་ ན་ བཞུགས་ ཏེ །"
+msgstr ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+
+# དེའི་ཚེ་མཉན་དུ་ཡོད་<«གཡུང་»«པེ་»ཡོན།>པ་ན་སྐྱེ་བོ་ཕལ་པོ་ཆེ་<«གཡུང་»«པེ་»-ཆེ།>འཐབ་པ་དང་།
+# :མཚང་འདྲུ་<«གཡུང་»«ལི་»«པེ་»འཚང་འདྲུ། «སྣར་»«ཅོ་»«ཁུ་»མཚང་འབྲུ།>བ་དང་།
+# འགྱེད་པ་དང་། རྩོད་<«གཡུང་»«པེ་»བརྩོད།>པ་ལ་ཞུགས་ཤིང་འཁོད་དོ། །
+msgctxt "line 5, E001.txt"
+msgid ""
+"དེ␣འི་ ཚེ་ མཉན་ དུ་ཡོད་པ་ ན་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ འཐབ་པ་ དང་ །  མཚང་ འདྲུ་བ་ "
+"དང་ །  འགྱེད་པ་ དང་ །  རྩོད་པ་ ལ་ ཞུགས་ཤིང་ འཁོད་ དོ ། །"
+msgstr ""
+"À cette époque, à Śrāvastī, la plupart des habitants passaient leur temps en"
+" querelles, critiques, batailles et en disputes."
+
+msgctxt "line 6, E001.txt"
+msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ བགྲོད་པ་ གཅིག་པུ␣འི་ ལམ་ སྟོན་པ །"
+msgstr "Les Bienheureux Bouddhas montrent l'unique voie à parcourir ;"
+
+# རྣམ་པ་གཉིས་ཀྱི་ཤེས་བྱ་དང་། ཡེ་ཤེས་ལ་མངའ་བརྙེས་<«ལི་»«ཅོ་»བསྙེས༑>པ།
+msgctxt "line 7, E001.txt"
+msgid "རྣམ་པ་ གཉིས་ ཀྱི་ ཤེས་བྱ་ དང་ །  ཡེ་ཤེས་ ལ་ མངའ་ བརྙེས་པ །"
+msgstr "ils possèdent les deux aspects de la connaissance et de la sagesse ;"
+
+msgctxt "line 8, E001.txt"
+msgid "མ་ འདྲེས་པ␣འི་ དྲན་པ་ ཉེ་བར་ གཞག་པ་ གསུམ་ ལ་ མཁས་པ །"
+msgstr ""
+"ils excellent dans les trois attentions rapprochées qui leur sont propres ;"
+
+msgctxt "line 9, E001.txt"
+msgid "མི་ འཇིགས་པ་ བཞི␣ས་ མི་ འཇིགས་པ །"
+msgstr "ils sont intrépides grâce aux quatre intrépidités ;"
+
+# འགྲོ་བ་<«སྣར་»«ཞོལ་»-བ།>ལྔར་འགྲོ་བ་ལས་རྣམ་པར་གྲོལ་བ།
+msgctxt "line 10, E001.txt"
+msgid "འགྲོ་བ་ ལྔ␣ར་ འགྲོ་བ་ ལ␣ས་ རྣམ་པ␣ར་ གྲོལ་བ །"
+msgstr "ils sont entièrement libérés d'aller vers les cinq renaissances ;"
+
+msgctxt "line 11, E001.txt"
+msgid "སྐྱེ་མཆེད་ དྲུག་ ལ་ མཁས་པ །"
+msgstr "ils sont versés dans les six sources des sens ;"
+
+msgctxt "line 12, E001.txt"
+msgid "བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ བདུན་ ལ་ སྤྱོད་ཡུལ་བ །"
+msgstr "ils vivent les sept branches de l'Éveil ;"
+
+msgctxt "line 13, E001.txt"
+msgid "རྣམ་པ␣ར་ ཐར་པ་ བརྒྱད་ ལ་ བསམ་གཏན་པ །"
+msgstr "ils contemplent les huit libérations complètes ;"
+
+msgctxt "line 14, E001.txt"
+msgid "མཐར་གྱིས་ གནས་པ␣འི་ སྙོམས་པར་ འཇུག་པ་ དགུ་ ལ་ སྙོམས་པར་ འཇུག་པ །"
+msgstr "ils s'engagent dans les neuf absorptions méditatives successives ;"
+
+msgctxt "line 15, E001.txt"
+msgid "སྟོབས་ བཅུ␣འི་ སྟོབས་ དང་ ལྡན་པ །"
+msgstr "ils possèdent la puissance des dix forces ;"
+
+# ཡང་དག་པའི་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་<«ཞོལ་»སྒྲོག>པ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་<«སྣར་»ཀྱི།>ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
+# ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ།
+msgctxt "line 16, E001.txt"
+msgid ""
+"ཡང་དག་པ␣འི་ སེང་གེ␣འི་ སྒྲ་ ཆེན་པོ་ སྒྲོགས་པ་ རྣམས་ ནི་ ཆོས་ཉིད་ ཀྱིས་ ཉིན་ "
+"དུས་གསུམ་ མཚན་ དུས་གསུམ་ སྟེ །  ཉིན་མཚན་ དུས་ དྲུག་ ཏུ་ སངས་རྒྱས་ ཀྱི་ སྤྱན་"
+" གྱིས་ འཇིག་རྟེན་ ལ་ གཟིགས་ ཏེ །"
+msgstr ""
+"Eux qui font résonner le grand rugissement parfait du lion, ils contemplent "
+"spontanément le monde avec les yeux de bouddhas pendant les six périodes de "
+"la journée, trois fois le jour et trois fois la nuit."
+
+msgctxt "line 17, E001.txt"
+msgid "སུ་ ནི་ རྒུད །"
+msgstr "« Qui s'affaiblit ?"
+
+msgctxt "line 18, E001.txt"
+msgid "སུ་ ནི་ དར །"
+msgstr "Qui s'épanouit ?"
+
+# སུ་ནི་ཕོངས་<«ལི་»«ཅོ་»འཕོངས།>ཤིང་འདུག །
+msgctxt "line 19, E001.txt"
+msgid "སུ་ ནི་ ཕོངས་ ཤིང་ འདུག  །"
+msgstr "Qui est dans la misère ?"
+
+# སུ་ནི་ཉམ་<«ལི་»«ཅོ་»ཉམས།>ང་བར་གྱུར<«ལི་»«ཅོ་»འགྱུར།>།
+msgctxt "line 20, E001.txt"
+msgid "སུ་ ནི་ ཉམ་ང་ བར་ གྱུར །"
+msgstr "Qui est dans le malheur ?"
+
+msgctxt "line 21, E001.txt"
+msgid "སུ་ ནི་ གནོད་པ་ དང་ ལྡན །"
+msgstr "Qui est dans la souffrance ?"
+
+# སུ་ནི་ཕོངས་<«ལི་»«ཅོ་»འཕོངས།>པ་དང་ཉམ་<«ལི་»«སྣར་»ཉམས།>ང་བ་དང་གནོད་པ་དང་ལྡན།
+msgctxt "line 22, E001.txt"
+msgid "སུ་ ནི་ ཕོངས་པ་ དང་ ཉམ་ང་བ་ དང་ གནོད་པ་ དང་ ལྡན །"
+msgstr "Qui est dans la misère, le malheur et la souffrance ?"
+
+msgctxt "line 23, E001.txt"
+msgid "སུ་ ནི་ ངན་སོང་ དུ་ གཞོལ །"
+msgstr "Qui tombe dans les royaumes inférieurs ?"
+
+msgctxt "line 24, E001.txt"
+msgid "སུ་ ནི་ ངན་སོང་ དུ་ འབབ །"
+msgstr "Qui est tombé dans les royaumes inférieurs ?"
+
+msgctxt "line 25, E001.txt"
+msgid "སུ་ ནི་ ངན་སོང་ དུ་ བབ །"
+msgstr "Qui tombera dans les royaumes inférieurs ?"
+
+# སུ་ནི་ངས་<«ལི་»«ཅོ་»-ངས།>ངན་སོང་ནས་ཕྱུང་སྟེ<«ལི་»«ཅོ་»ཏེ།>།
+msgctxt "line 26, E001.txt"
+msgid "སུ་ ནི་ ངས་ ངན་སོང་ ནས་ ཕྱུང་ སྟེ །"
+msgstr "Qui vais-je extirper des royaumes inférieurs et"
+
+msgctxt "line 27, E001.txt"
+msgid "མཐོ་རིས་ དང་ ཐར་པ་ དང་ འབྲས་བུ་ ལ་ གཞག་པ␣ར་ བྱ །"
+msgstr ""
+"les établir dans les royaumes supérieurs, la libération ou le résultat ?"
+
+msgctxt "line 28, E001.txt"
+msgid ""
+"སུ་ ནི་ ཉེས་པ␣ར་ སྤྱོད་པ␣འི་ འདམ་ དུ་ བྱིང་བ་ ལ␣ས་ ལག་ནས་ དྲང་བ␣ར་ བྱ །"
+msgstr "Qui, embourbé dans les actes négatifs, vais-je extraire par la main ?"
+
+msgctxt "line 29, E001.txt"
+msgid "སུ་ ནི་ འཕགས་པ␣འི་ ནོར་ བདུན་ མེད་པ་ ལ␣ས །"
+msgstr "Qui, dépourvu des sept joyaux des [êtres] nobles,"
+
+msgctxt "line 30, E001.txt"
+msgid "འཕགས་པ␣འི་ ནོར་ བདུན་ གྱི་ དབང་ཕྱུག་ ལ་ དབང་ བྱེད་ དུ་ གཞུག་པ␣ར་ བྱ །"
+msgstr ""
+"vais-je pousser à s'approprier le pouvoir des seigneurs des sept joyaux des "
+"[êtres] nobles ?"
+
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་མ་བསྐྱེད་<«གཡུང་»«པེ་»«སྣར་»སྐྱེད།
+# «ལི་»«ཅོ་»སྐྱེས།>པ་ལས་
+msgctxt "line 31, E001.txt"
+msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ མ་ བསྐྱེད་པ་ ལ␣ས་"
+msgstr "Qui, n'ayant pas développé les racines vertueuses,"
+
+msgctxt "line 32, E001.txt"
+msgid "བསྐྱེད་པ␣ར་ བྱ །"
+msgstr "inciterais-je à [les] développer ?"
+
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་<«ལི་»«ཅོ་»-རྣམས།>བསྐྱེད་ཟིན་པ་ལས་
+msgctxt "line 33, E001.txt"
+msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ བསྐྱེད་ ཟིན་པ་ ལ␣ས་"
+msgstr "Qui, ayant déjà développé les racines vertueuses,"
+
+msgctxt "line 34, E001.txt"
+msgid "ཡོངས་སུ་ སྨིན་པ␣ར་ བྱ །"
+msgstr "inciterais-je à [les] faire mûrir ?"
+
+msgctxt "line 35, E001.txt"
+msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ ཡོངས་སུ་ སྨིན་ ཟིན་པ་ ལ␣ས་"
+msgstr "Qui, ayant déjà fait mûrir entièrement les racines vertueuses,"
+
+# ཡེ་ཤེས་:ཀྱི་མཚོན་<«ལི་»ཀྱིས་ཚོན། «ཅོ་»ཀྱི་པ་ཚོན།>གྱིས་བརྟོལ་བར་བྱ།
+msgctxt "line 36, E001.txt"
+msgid "ཡེ་ཤེས་ ཀྱི་ མཚོན་ གྱིས་ བརྟོལ་བ␣ར་ བྱ །"
+msgstr ""
+"inciterais-je à [les] faire jaillir à l'aide de l'arme de la sagesse ?"
+
+# སུ་ལ་ནི་སངས་རྒྱས་བྱུང་<«གཡུང་»«པེ་»འབྱུང༌།>བས་བརྒྱན་པའི་[116b]འཇིག་རྟེན་འབྲས་བུ་ཡོད་པར་བྱ་སྙམ་དུ་
+msgctxt "line 37, E001.txt"
+msgid ""
+"སུ་ ལ་ ནི་ སངས་རྒྱས་ བྱུང་བ␣ས་ བརྒྱན་པ␣འི་ འཇིག་རྟེན་ འབྲས་བུ་ ཡོད་པ␣ར་ བྱ་ "
+"སྙམ་ དུ་"
+msgstr "Pour qui fructifierais-je ce monde orné de la venue d'un bouddha ? »"
+
+# ཡེ་ཤེས་གཟིགས་<«གཡུང་»«པེ་»+ལ།>པ་འཇུག་གོ། །
+msgctxt "line 38, E001.txt"
+msgid "ཡེ་ཤེས་ གཟིགས་པ་ འཇུག་ གོ ། །"
+msgstr "[ainsi] s'applique leur regard de sagesse."
+
+# རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་<«གཡུང་»ཀྱིས།>གནས། །
+msgctxt "line 39, E001.txt"
+msgid "རྒྱ་མཚོ་ ཆུ་སྲིན་ རྣམས་ ཀྱི་ གནས ། །"
+msgstr "[Dans] l'océan, la demeure des [monstres] makara,"
+
+msgctxt "line 40, E001.txt"
+msgid "དུས་རླབས་ ཡོལ་བ␣ར་ འགྱུར་ ཡང་སྲིད ། །"
+msgstr "il est possible que les marées tardent."
+
+msgctxt "line 41, E001.txt"
+msgid "གདུལ་བ␣ར་ བྱ་བ␣འི་ སྲས་ རྣམས་ ལ ། ། སངས་རྒྱས་ དུས་ ལ␣ས་ ཡོལ་བ་ མེད ། །"
+msgstr ""
+"Pour leurs enfants qu'ils doivent dompter, les bouddhas ne tardent jamais."
+
+msgctxt "line 42, E001.txt"
+msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དགོངས་པ །"
+msgstr "Puis le bienheureux pensa : «"
+
+# སྐྱེ་བོ་ཕལ་པོ་<«སྣར་»«ཞོལ་»-པོ།>ཆེ་གདུལ་བའི་དུས་ལ་བབ་སྟེ།
+msgctxt "line 43, E001.txt"
+msgid "སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ གདུལ་བ␣འི་ དུས་ ལ་ བབ་ སྟེ །"
+msgstr "Le temps est venu de dompter la plupart de ces êtres :"
+
+# དེ་དག་ངས་<«ལི་»«ཅོ་»དེས།>འཐབ་པ་དང་། :མཚང་འདྲུ་<«གཡུང་»«པེ་»«ཁུ་»འཚང་འབྲུ།
+# «ལི་»«ཅོ་»འཚང་འདྲུ།>བ་དང་། འགྱེད་པ་དང་། རྩོག་<«གཡུང་»«པེ་»བརྩོད།
+# «ལི་»«སྣར་»«ཅོ་»«ཁུ་»«ཞོལ་»རྩོད།>པ་ལས་བཟློག་སྟེ།
+msgctxt "line 44, E001.txt"
+msgid ""
+"དེ་དག་ ངས་ འཐབ་པ་ དང་ །  མཚང་ འདྲུ་བ་ དང་ །  འགྱེད་པ་ དང་ །  རྩོག་པ་ ལ␣ས་ "
+"བཟློག་ སྟེ །"
+msgstr ""
+"je les détournerai de ces querelle, ces critiques, ces batailles et ces "
+"disputes et"
+
+# གཡུང་དྲུང་གི་མཐར་ཐུག་པ་གྲུབ་པ་དང་།
+# བདེ་བའི་མྱ་ངན་ལས་འདས་པ་ལ་དགོད་པར་བྱ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»བྱའོ།>སྙམ་དུ་
+msgctxt "line 45, E001.txt"
+msgid ""
+"གཡུང་དྲུང་ གི་ མཐར་ཐུག་པ་ གྲུབ་པ་ དང་ །  བདེ་བ␣འི་ མྱ་ངན་ ལ␣ས་ འདས་པ་ ལ་ "
+"དགོད་པ␣ར་ བྱ་ སྙམ་ དུ་"
+msgstr ""
+"je les établirai dans le nirvana qui est l'accomplissement et la félicités "
+"absolument inébranlables »"
+
+msgctxt "line 46, E001.txt"
+msgid "དགོངས་ ནས །"
+msgstr "pensa-t-il. Puis,"
+
+msgctxt "line 47, E001.txt"
+msgid "སྔ་དྲོ་ ཤམ་ཐབས་ དང་ ཆོས་གོས་ གསོལ་ ཏེ །"
+msgstr "au petit matin, il revêtit son châle et sa robe monastique,"
+
+msgctxt "line 48, E001.txt"
+msgid "ལྷུང་བཟེད་ བསྣམས་ ནས །"
+msgstr "il prit son bol à aumône et"
+
+msgctxt "line 49, E001.txt"
+msgid "མཉན་ དུ་ཡོད་པ␣ར་ བསོད་སྙོམས་ ལ་ གཤེགས་ ཏེ །"
+msgstr "partit à Śrāvastī pour [y recevoir] l'aumône."
+
+# སྐྱེ་བོ་ཕལ་པོ་ཆེ་ག་ལ་བ་དེར་<«ལི་»«ཅོ་»-དེར།>གཤེགས་ནས།
+msgctxt "line 50, E001.txt"
+msgid "སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ ག་ལ་བ་ དེ␣ར་ གཤེགས་ ནས །"
+msgstr "Il se rendit là où se trouvaient toutes ces personnes, "
+
+msgctxt "line 51, E001.txt"
+msgid ""
+"སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ གིས་ ཐག་ རིང་པོ་ ཞིག་ ནས་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་"
+" མཐོང་ ངོ་ ། །"
+msgstr "toutes ces personnes virent le Bienheureux [arriver] au loin."
+
+# མཐོང་ནས་ཀྱང་ངོ་མཚར་<«ལི་»ཚ།>བར་གྱུར་ཏེ།
+msgctxt "line 52, E001.txt"
+msgid "མཐོང་ ནས་ ཀྱང་ ངོ་མཚར་ བར་ གྱུར་ ཏེ །"
+msgstr "L'ayant vu, ils furent émerveillés et"
+
+# བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«པེ་»ལ། «ལི་»«ཅོ་»ཀྱིས།>ཕྱིར་གདན་བཤམས་<«གཡུང་»གཤམས།
+# «ལི་»ཤམས།>ནས་གསོལ་པ།
+msgctxt "line 53, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ ཕྱིར་ གདན་ བཤམས་ ནས་ གསོལ་པ །"
+msgstr "ils lui préparèrent un siège. Ils lui dirent : «"
+
+msgctxt "line 54, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་"
+msgstr "Bienheureux,"
+
+msgctxt "line 55, E001.txt"
+msgid "གཤེགས་པ་ ལེགས་ སོ་ ལེགས་ སོ ། །"
+msgstr "c'est merveilleux, c'est magnifique que Vous soyez venu !"
+
+msgctxt "line 56, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་"
+msgstr "Bienheureux,"
+
+msgctxt "line 57, E001.txt"
+msgid "ཚུར་ གཤེགས་"
+msgstr "veuillez approcher !"
+
+msgctxt "line 58, E001.txt"
+msgid "བཞུགས་ སུ་ གསོལ །"
+msgstr "Veuillez vous asseoir ! »"
+
+msgctxt "line 59, E001.txt"
+msgid "དེ་ནས་ གདན་ བཤམས་པ་ ལ་ བཞུགས་ ནས །"
+msgstr "Ensuite, après que le Bienheureux eut pris place,"
+
+msgctxt "line 60, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ ལ་ བཀའ་ སྩལ་པ །"
+msgstr "Le Bienheureux s'adressa à toutes ces personnes : «"
+
+msgctxt "line 61, E001.txt"
+msgid "གྲོགས་པོ་ དག་"
+msgstr "Chers amis,"
+
+msgctxt "line 62, E001.txt"
+msgid "ཅི་ བྱེད་ ཅིང་ འཁོད་"
+msgstr "que faites-vous là ?"
+
+# གཞན་དང་འཐབ་དགོས་ན་གཞན་དང་འཐབ་ཅིང་འདུག་གམ<«སྣར་»གོ།>།
+msgctxt "line 63, E001.txt"
+msgid "གཞན་ དང་ འཐབ་ དགོས་ ན་ གཞན་ དང་ འཐབ་ ཅིང་ འདུག་ གམ །"
+msgstr ""
+"Bien que vous devriez vous quereller avec d'autres, vous continuez à vous "
+"quereller avec ceux-ci ? »"
+
+msgctxt "line 64, E001.txt"
+msgid "དེ་ རྣམས་ ཀྱིས་ གསོལ་པ །"
+msgstr "Ils Lui répondirent : «"
+
+msgctxt "line 65, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་"
+msgstr "Bienheureux,"
+
+msgctxt "line 66, E001.txt"
+msgid "བདག་ཅག་ སུ་ དང་ འཐབ་ འཚལ་ ལགས །"
+msgstr "avec qui devrions-nous nous quereller ? »"
+
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་<«ལི་»བཀབ།>སྩལ་པ།
+msgctxt "line 67, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
+msgstr "Le Bienheureux répondit : «"
+
+msgctxt "line 68, E001.txt"
+msgid "གྲོགས་པོ་ དག་"
+msgstr "Chers amis,"
+
+# འོ་ན་འཁོད་ཅིག་<«གཡུང་»གཅིག>དང་།
+msgctxt "line 69, E001.txt"
+msgid "འོ་ན་ འཁོད་ ཅིག་ དང་ །"
+msgstr "asseyez-vous donc."
+
+# ངས་ཁྱོད་<«གཡུང་»«པེ་»ཁྱེད།>ལ་རྒྱས་པར་བཤད་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»བརྗོད།>པར་བྱའོ།
+# །
+msgctxt "line 70, E001.txt"
+msgid "ངས་ ཁྱོད་ ལ་ རྒྱས་པ␣ར་ བཤད་པ␣ར་ བྱ␣འོ ། །"
+msgstr "Je vous l'expliquerai en détail."
+
+msgctxt "line 71, E001.txt"
+msgid ""
+"དེ་ནས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ གིས་ བཅོམ་ལྡན་འདས་ ཀྱི་ ཞབས་ ལ་མགོ་ བོས་ "
+"ཕྱག་ འཚལ་ ཏེ །"
+msgstr ""
+"Alors, toutes ces personnes se prosternèrent en touchant de leur tête les "
+"pieds du Bienheureux, et"
+
+msgctxt "line 72, E001.txt"
+msgid "ཆོས་ མཉན་པ␣འི་ ཕྱིར་ སྤྱན་སྔ␣ར་ འཁོད་ དོ ། །"
+msgstr "s'assirent devant lui pour entendre le Dharma."
+
+# དེ་ནས་བཅོམ་ལྡན་<«གཡུང་»«པེ་»+ལྡན།>འདས་ཀྱིས་སྐྱེ་བོ་ཕལ་པོ་ཆེ་<«གཡུང་»«པེ་»-ཆེ།>དེ་དག་ལ་བཀའ་སྩལ་པ།
+msgctxt "line 73, E001.txt"
+msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ ལ་ བཀའ་ སྩལ་པ །"
+msgstr "Puis le Bienheureux dit à toutes ces personnes : «"
+
+# ཁྱོད་<«སྣར་»«ཞོལ་»ཁྱེད།>ནི་ཉོན་མོངས་པ་རྣམས་དང་འཐབ་དགོས་ཀྱིས<«ཞོལ་»ཀྱི།>།
+msgctxt "line 74, E001.txt"
+msgid "ཁྱོད་ ནི་ ཉོན་མོངས་པ་ རྣམས་ དང་ འཐབ་ དགོས་ ཀྱིས །"
+msgstr ""
+"Ce sont avec les émotions perturbatrices que vous devez vous quereller."
+
+# ཉོན་མོངས་པ་:སྤོང་བའི་<«གཡུང་»«པེ་»«ཞོལ་»སྤང་བའི།«སྣར་»སྤངས་པའི།
+# «ཅོ་»སློང་བའི།>ཕྱིར་འབད་པར་གྱིས་ཤིག་ཅེས་<«ལི་»«ཅོ་»+ནས།>
+msgctxt "line 75, E001.txt"
+msgid "ཉོན་མོངས་པ་ སྤོང་བ␣འི་ ཕྱིར་ འབད་པ␣ར་ གྱིས་ ཤིག་ ཅེས་"
+msgstr "Efforcez-vous d'éliminer les émotions perturbatrices »,"
+
+msgctxt "line 76, E001.txt"
+msgid ""
+"བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་དག་ ལ་ དེ་ལྟ་ བུ་ དང་ འཐུན་པ␣འི་ ཆོས་ བསྟན་ ཏེ །"
+msgstr "le Bienheureux leur prodigua un enseignement semblable à celui-ci, "
+
+# དེས་ན་དེ་དག་གི་ཁྲོ་བའི་ཀུན་ནས་དཀྲིས་<«སྣར་»བཀྲིས།>པ་མེད་པར་གྱུར་ནས།
+msgctxt "line 77, E001.txt"
+msgid "དེས་ན་ དེ་དག་ གི་ ཁྲོ་བ␣འི་ ཀུན་ ནས་ དཀྲིས་པ་ མེད་པ␣ར་ གྱུར་ ནས །"
+msgstr "Puis, la colère qui les enchaînait disparut et"
+
+msgctxt "line 78, E001.txt"
+msgid ""
+"སྟན་ དེ་དག་ ཉིད་ ལ་ འཁོད་ བཞིན་ དུ་ འཇིག་ཚོགས་ ལ་ ལྟ་བ␣འི་ རི␣འི་ རྩེ་མོ་ "
+"མཐོན་པོ་ ཉི་ཤུ་ ཡེ་ཤེས་ རྡོ་རྗེ␣ས་ བཅོམ་ ནས །"
+msgstr ""
+"alors qu'ils étaient encore assis sur les mêmes sièges, ils anéantirent les "
+"vingt cimes élevées des vues concernant l'amas périssable à l'aide du "
+"diamant de la sagesse et"
+
+msgctxt "line 79, E001.txt"
+msgid "རྒྱུན་ དུ་ ཞུགས་པ␣འི་ འབྲས་བུ་ མངོན་སུམ་ དུ་ བྱས་ ཏེ །"
+msgstr "ils manifestèrent le résultat de l'entrée dans le courant, puis"
+
+msgctxt "line 80, E001.txt"
+msgid "དེ་དག་ གིས་ བདེན་པ་ མཐོང་ ནས་"
+msgstr "après avoir vu la vérité"
+
+# བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་<«ལི་»«སྣར་»བཟར༑>ཏེ།
+msgctxt "line 81, E001.txt"
+msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ཏེ །"
+msgstr "il [replia] son châle et le laissa retomber sur une épaule,"
+
+# བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«པེ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ།
+msgctxt "line 82, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ ཐལ་མོ་ སྦྱར་བ་ བཏུད་ དེ །"
+msgstr "joignirent les mains et s'inclinèrent en direction du Bienheureux et"
+
+msgctxt "line 83, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ ། །"
+msgstr "il dit au Bienheureux : «"
+
+# བཙུན་པ་<«གཡུང་»པོ།>
+msgctxt "line 84, E001.txt"
+msgid "བཙུན་པ་"
+msgstr "Vénérable,"
+
+# བདག་ཅག་<«གཡུང་»«པེ་»-ཅག>ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»བྱུང་།>བ་དང་།
+# བསྙེན་པར་རྫོགས་ཤིང་དགེ་སློང་གི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན།
+msgctxt "line 85, E001.txt"
+msgid ""
+"བདག་ཅག་ ལེགས་པ␣ར་ གསུངས་པ␣འི་ ཆོས་ འདུལ་བ་ ལ་ རབ་ཏུ་ འབྱུང་བ་ དང་ །  "
+"བསྙེན་པ␣ར་ རྫོགས་ ཤིང་ དགེ་སློང་ གི་ དངོས་པོ་ འཐོབ་ ཏུ་ རུང་ ན །"
+msgstr ""
+"s'il est possible de s'extraire du monde selon le Vinaya, le Dharma si bien "
+"exprimé, et [s'il est possible] de parfaire l'approche [de la libération], "
+"d'obtenir la condition de moine pleinement ordonné,"
+
+# བདག་ཅག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་<«ལི་»«ཅོ་»པ།>སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ།
+# །
+msgctxt "line 86, E001.txt"
+msgid ""
+"བདག་ཅག་ ཀྱང་ བཅོམ་ལྡན་འདས་ ཀྱི་ ཐད་ དུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་པ␣ར་ འཚལ་ ལོ "
+"། །"
+msgstr ""
+"nous voulons à notre tour pratiquer la conduite de Brahma auprès du "
+"Bienheureux."
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དག་ལ་<«སྣར་»«ཞོལ་»-ལ།>དགེ་སློང་ཚུར་ཤོག་ཅེས་
+msgctxt "line 87, E001.txt"
+msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་དག་ ལ་ དགེ་སློང་ ཚུར་ ཤོག་ ཅེས་"
+msgstr "Puis, le Bienheureux, en leur disant « Moines, venez ici ! »,"
+
+msgctxt "line 88, E001.txt"
+msgid "བྱ་བ␣འི་ ཚིག་ གིས་ རབ་ཏུ་ ཕྱུང་ སྟེ་"
+msgstr "en fit des renonçants et"
+
+# བསྙེན་<«གཡུང་»«པེ་»སྙེན།>པར་རྫོགས་པར་མཛད་ནས།
+msgctxt "line 89, E001.txt"
+msgid "བསྙེན་པ␣ར་ རྫོགས་པ␣ར་ མཛད་ ནས །"
+msgstr "Il les ordonna pleinement et"
+
+msgctxt "line 90, E001.txt"
+msgid "དེ་དག་ ལ་ལུང་ ཡང་ ཕོག་ སྟེ །"
+msgstr "Il leur conféra la transmission orale. Alors,"
+
+# དེ་དག་གིས་ཀྱང་བརྩོན་པ་དང་།
+# བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
+msgctxt "line 91, E001.txt"
+msgid ""
+"དེ་དག་ གིས་ ཀྱང་ བརྩོན་པ་ དང་ །  བསྒྲུབ་པ་ དང་ འབད་པ␣ས་ ཉོན་མོངས་པ་ ཐམས་ཅད་ "
+"སྤངས་ ནས །"
+msgstr ""
+"de leur côté, ils éliminèrent toutes les émotions perturbatrices par leur "
+"efforts, leur pratique et leur persévérance et"
+
+# དགྲ་<«གཡུང་»བགྲ།>བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
+msgctxt "line 92, E001.txt"
+msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ ཏེ །"
+msgstr "ils manifestèrent l'état d'arhat."
+
+# དེ་དག་<«གཡུང་»«པེ་»-དག>དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།
+msgctxt "line 93, E001.txt"
+msgid "དེ་དག་ དགྲ་བཅོམ་པ་ ཁམས་ གསུམ་པ␣འི་ འདོད་ཆགས་ དང་ བྲལ་བ␣ར་ གྱུར་ ནས །"
+msgstr ""
+"ils devinrent des arhats libres de l'attachement aux trois mondes. Ainsi,"
+
+msgctxt "line 94, E001.txt"
+msgid "གསེར་ དང་ བོང་བ␣ར་ མཉམ་པ །"
+msgstr ""
+"[un morceau] d'or et une motte de terre étaient identiques [à leurs yeux] ;"
+
+msgctxt "line 95, E001.txt"
+msgid "ནམ་མཁའ་ དང་ ལག་མཐིལ་ དུ་ འདྲ་བ␣འི་ སེམས་ དང་ ལྡན་པ །"
+msgstr ""
+"ils possèdaient un esprit [pour lequel] l'espace et la paume de la main sont"
+" similaires ;"
+
+msgctxt "line 96, E001.txt"
+msgid "ཙན་དན་ སྦངས་པ་ ལྟ་བུ␣ར་ བསིལ་བ␣ར་ གྱུར་པ །"
+msgstr "ils [possédaient] la fraîcheur du [bois de] santal trempé ;"
+
+# རིག་པས་:སྒོ་ངའི་སྦུབས་<«ལི་»སྒོང་ངའི་སྦུབ། «ཅོ་»སྒོ་ངའི་སྦུབ།>བཅོམ་པ།
+msgctxt "line 97, E001.txt"
+msgid "རིག་པ␣ས་ སྒོ་ང␣འི་ སྦུབས་ བཅོམ་པ །"
+msgstr "leur sagesse avait brisé la coque ;"
+
+# རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་། སོ་སོ་ཡང་དག་པར་རིག་པ་<«ཁུ་»པར།>ཐོབ་པ།
+msgctxt "line 98, E001.txt"
+msgid "རིག་པ་ དང་ མངོན་པར་ ཤེས་པ་ དང་ །  སོ་སོ་ ཡང་དག་པ␣ར་ རིག་པ་ ཐོབ་པ །"
+msgstr ""
+"ils avaient obtenu la connaissance, la clairvoyance et la parfaite "
+"discrimination ;"
+
+# སྲིད་པའི་རྙེད་པ་དང་། ཆགས་པ་དང་། བཀུར་སྟི་<«སྣར་»བསྟི།>ལ་མི་ལྟ་བ་
+msgctxt "line 99, E001.txt"
+msgid "སྲིད་པ␣འི་ རྙེད་པ་ དང་ །  ཆགས་པ་ དང་ །  བཀུར་སྟི་ ལ་ མི་ལྟ་བ་"
+msgstr ""
+"ils s'étaient détournés des biens du samsara, des désirs et des éloges ;"
+
+# དབང་པོ་དང་།
+# ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«པེ་»བརྗེད།>པ་དང་།
+# གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ། །
+msgctxt "line 100, E001.txt"
+msgid ""
+"དབང་པོ་ དང་ །  ཉེ་དབང་ དང་ བཅས་པ␣འི་ ལྷ་ རྣམས་ ཀྱིས་ མཆོད་ ཅིང་ རྗེད་པ་ དང་ "
+"།  གུས་པ␣ར་ སྨྲ་བ␣འི་ གནས་ སུ་ གྱུར་ ཏོ ། །"
+msgstr ""
+"ils étaient désormais les réceptacles des offrandes, de la vénération et des"
+" paroles respectueuses de Indra, Upendra et des autres dieux."
+
+msgctxt "line 101, E001.txt"
+msgid "དེ་ནས་ དགེ་སློང་ རྣམས་ ཀྱིས་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ ལ་ གསོལ་པ །"
+msgstr "Puis les moines s'adressèrent au Bienheureux Bouddha : «"
+
+msgctxt "line 102, E001.txt"
+msgid "བཙུན་པ་"
+msgstr "Vénérable,"
+
+# བཅོམ་ལྡན་འདས་ཀྱིས་སྐྱེ་བོ་ཕལ་པོ་ཆེ་འཐབ་པ་ལས་ཞི་བར་མཛད་<«ལི་»«ཅོ་»+པ།>ནས།
+msgctxt "line 103, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ འཐབ་པ་ ལ␣ས་ ཞི་བ␣ར་ མཛད་ ནས །"
+msgstr ""
+"le Bienheureux a pacifié toutes ces personnes [engagées dans] cette "
+"querelle, et"
+
+msgctxt "line 104, E001.txt"
+msgid ""
+"གཡུང་དྲུང་ གི་ མཐར་ཐུག་པ་ གྲུབ་པ་ དང་ །  བདེ་བ␣འི་ མྱ་ངན་ ལ␣ས་ འདས་པ་ ལ་ "
+"བཀོད་པ་ ལ་ གཟིགས །"
+msgstr ""
+"il les a établis dans le nirvana qui est l'accomplissement et la félicité "
+"absolument inébranlables. Posez-y votre regard. »"
+
+msgctxt "line 105, E001.txt"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
+msgstr "Le Bienheureux répondit : «"
+
+# ད་ལྟར་<«ལི་»«ཅོ་»ལྟ།>འབའ་ཞིག་མ་ཡིན་ཏེ།
+msgctxt "line 106, E001.txt"
+msgid "ད་ལྟར་ འབའ་ཞིག་ མ་ ཡིན་ ཏེ །"
+msgstr "Ce n'est pas uniquement maintenant [que ceci est arrivé]."
+
+# འདས་པའི་དུས་ན་ཡང་ངས་<«ལི་»«ཅོ་»-ངས།>སྐྱེ་བོ་ཕལ་པོ་ཆེ་འདི་དག་བསམ་གཏན་བཞི་དང་།
+# མངོན་པར་ཤེས་པ་ལྔ་ལ་ཇི་ལྟར་བཀོད་པ་དེ་ཉོན་ཅིག །
+msgctxt "line 107, E001.txt"
+msgid ""
+"འདས་པ␣འི་ དུས་ ན་ ཡང་ ངས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ འདི་དག་ བསམ་གཏན་ བཞི་ དང་ །  "
+"མངོན་པར་ ཤེས་པ་ ལྔ་ ལ་ ཇི་ལྟར་ བཀོད་པ་ དེ་ ཉོན་ ཅིག  །"
+msgstr ""
+"Écoutez comment, dans le passé, je les avais déjà établis dans les quatre "
+"concentrations et les cinq clairvoyances."
+
+msgctxt "line 108, E001.txt"
+msgid "དགེ་སློང་ དག་"
+msgstr "Moines,"
+
+# སྔོན་བྱུང་བ་འདས་པའི་[117b]དུས་ན་རི་ཁྲོད་ཀྱི་གྲོང་:ཞིག་ན་བྲམ་ཟེ་<«ཞོལ་»-ཞིག་ན་བྲམ་ཟེ།>ཞིག་གིས་མཆོད་སྦྱིན་བྱས་ཏེ།
+msgctxt "line 109, E001.txt"
+msgid ""
+"སྔོན་བྱུང་བ་ འདས་པ␣འི་ དུས་ ན་ རི་ཁྲོད་ ཀྱི་ གྲོང་ ཞིག་ ན་ བྲམ་ཟེ་ ཞིག་ གིས་"
+" མཆོད་སྦྱིན་ བྱས་ ཏེ །"
+msgstr ""
+"Moines, à une époque ancienne, dans un village de montagne, un brahmane "
+"s'adonnait aux offrandes rituelles."
+
+# མཆོད་སྦྱིན་བྱེད་པ་དེར་བྲམ་ཟེ་རྣམས་སྟན་གྱི་ཕྱིར་འཐབ་<«སྣར་»འཐབས།>པ་ལས་
+msgctxt "line 110, E001.txt"
+msgid "མཆོད་སྦྱིན་ བྱེད་པ་ དེ␣ར་ བྲམ་ཟེ་ རྣམས་ སྟན་ གྱི་ ཕྱིར་ འཐབ་པ་ ལ␣ས་"
+msgstr ""
+"À l'endroit où se faisaient les offrandes rituelles, des brahmanes se "
+"querellaient pour leurs sièges, et"
+
+# དེའི་ཚེ་དཀའ་<«ཅོ་»བཀའ།>ཐུབ་ཀྱི་གནས་ཤིག་ན།
+# དྲང་སྲོང་འཁོར་ལྔ་བརྒྱ་ཡོད་པ་ཞིག་གནས་སོ། །
+msgctxt "line 111, E001.txt"
+msgid ""
+"དེ␣འི་ ཚེ་ དཀའ་ཐུབ་ ཀྱི་ གནས་ ཤིག་ ན །  དྲང་སྲོང་ འཁོར་ ལྔ་ བརྒྱ་ ཡོད་པ་ "
+"ཞིག་ གནས་ སོ ། །"
+msgstr ""
+"à cette époque, dans un lieu [dédié] aux austérités, vivait un sage "
+"possédant un entourage de cinq cent [personnes]."
+
+# དེ་ནས་མཆོད་སྦྱིན་བྱེད་པ་<«གཡུང་»པར།>དེར་དྲང་སྲོང་དེས་བྲམ་ཟེ་དེ་དག་འཐབ་པ་ཞི་བར་བྱ་བའི་ཕྱིར།
+# དེ་ལྟ་བུ་དང་འཐུན་པའི་ཆོས་བསྟན་:ཏེ།
+msgctxt "line 112, E001.txt"
+msgid ""
+"དེ་ནས་ མཆོད་སྦྱིན་ བྱེད་པ་ དེ␣ར་ དྲང་སྲོང་ དེ␣ས་ བྲམ་ཟེ་ དེ་དག་ འཐབ་པ་ "
+"ཞི་བ␣ར་ བྱ་བ␣འི་ ཕྱིར །  དེ་ལྟ་ བུ་ དང་ འཐུན་པ␣འི་ ཆོས་ བསྟན་ ཏེ །"
+msgstr ""
+"Alors, à l'endroit où se faisaient les offrandes rituelles, afin de pacifier"
+" les querelles de ces brahmanes, le sage leur prodigua des enseignements "
+"correspondant [à cette intention] et"
+
+# དེས་ན་<«གཡུང་»«པེ་»«ཁུ་»ཏེ། དེ་ནས། «ལི་»«ཅོ་»ཏོ།
+# །དེ་ནས།>འཐབ་མོ་དེ་ཡང་ཞི་བར་གྱུར་ལ།
+msgctxt "line 113, E001.txt"
+msgid "དེས་ན་ འཐབ་མོ་ དེ་ཡང་ ཞི་བ␣ར་ གྱུར་ ལ །"
+msgstr "ainsi, la querelle fut pacifiée. Puis,"
+
+msgctxt "line 114, E001.txt"
+msgid "བྲམ་ཟེ་ རྣམས་ ཀྱང་ སྐྱོ་བ་ སྐྱེས་ ནས །"
+msgstr "les brahmanes furent pris de désenchantement et"
+
+# དེ་ཉིད་ཀྱི་ཐད་དུ་<«གཡུང་»+རབ་དུ།>རབ་ཏུ་བྱུང་ངོ་། །
+msgctxt "line 115, E001.txt"
+msgid "དེ་ཉིད་ ཀྱི་ ཐད་ དུ་ རབ་ཏུ་ བྱུང་ ངོ་ ། །"
+msgstr "ils prirent les vœux avec lui."
+
+msgctxt "line 116, E001.txt"
+msgid "དེ་དག་ དེ␣ར་ རབ་ཏུ་ བྱུང་ ནས་"
+msgstr "Après qu'ils aient pris les vœux avec lui,"
+
+# བསམ་གཏན་བཞི་<«གཡུང་»གཞི།>དང་མངོན་པར་ཤེས་པ་ལྔ་བསྐྱེད་དོ། །
+msgctxt "line 117, E001.txt"
+msgid "བསམ་གཏན་ བཞི་ དང་ མངོན་པར་ ཤེས་པ་ ལྔ་ བསྐྱེད་ དོ ། །"
+msgstr ""
+"ils développèrent les quatre concentrations et les cinq clairvoyances."
+
+msgctxt "line 118, E001.txt"
+msgid "དགེ་སློང་ དག་"
+msgstr "Moines,"
+
+msgctxt "line 119, E001.txt"
+msgid "ཇི་སྙམ་ དུ་ སེམས །"
+msgstr "qu'en pensez-vous ?"
+
+msgctxt "line 120, E001.txt"
+msgid ""
+"དེ␣འི་ ཚེ་ དྲང་སྲོང་ དུ་ གྱུར་པ །  བྱང་ཆུབ་ སེམས་དཔ␣འི་ སྤྱོད་པ་ ལ་ གནས་པ་ "
+"གང་ཡིན་པ་ དེ་ ནི་ ང་ཉིད་ ཡིན་ ནོ ། །"
+msgstr ""
+"À cette époque, celui qui était la loutre, qui était installé dans la "
+"conduite des bodhisattvas, c'était moi-même."
+
+# དེའི་ཚེ་བྲམ་ཟེར་<«གཡུང་»ཟེ་ལྟ་བརྒྱར།
+# «པེ་»«སྣར་»«ཞོལ་»ཟེ་ལྔ་བརྒྱར།>གྱུར་པ་གང་ཡིན་པ་དེ་དག་ནི།
+# སྐྱེ་བོ་ཕལ་པོ་ཆེ་འདི་དག་ཁོ་ན་ཡིན་ནོ<«གཡུང་»«པེ»«སྣར་»ཏེ།>། །
+msgctxt "line 121, E001.txt"
+msgid ""
+"དེ␣འི་ ཚེ་ བྲམ་ཟེ␣ར་ གྱུར་པ་ གང་ཡིན་པ་ དེ་དག་ ནི །  སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ "
+"འདི་དག་ ཁོ་ན་ ཡིན་ ནོ ། །"
+msgstr ""
+"À cette époque, ceux qui étaient ces brahmanes ne sont autres que toutes ces"
+" personnes."
+
+msgctxt "line 122, E001.txt"
+msgid "དེ␣འི་ ཚེ་ ཡང་ ངས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ འཐབ་པ་ ཞི་བ␣ར་ བྱས་ ནས་"
+msgstr ""
+"À cette époque, j'ai aussi pacifié toutes ces personnes [engagées dans] "
+"cette querelle, et"
+
+# བསམ་གཏན་བཞི་དང་། མངོན་པར་ཤེས་པ་<«གཡུང་»མ།>ལྔ་ལ་བཀོད་<«གཡུང་»དཀོད།>དོ། །
+msgctxt "line 123, E001.txt"
+msgid "བསམ་གཏན་ བཞི་ དང་ །  མངོན་པར་ ཤེས་པ་ ལྔ་ ལ་ བཀོད་ དོ ། །"
+msgstr ""
+"ils développèrent les quatre concentrations et les cinq clairvoyances."
+
+msgctxt "line 124, E001.txt"
+msgid "ད་ལྟར་ ཡང་ ངས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ འཐབ་པ་ ཞི་བ␣ར་ བྱས་ ནས །"
+msgstr ""
+"À cette époque, j'ai aussi pacifié toutes ces personnes [engagées dans] "
+"cette querelle, et"
+
+msgctxt "line 125, E001.txt"
+msgid ""
+"གཡུང་དྲུང་ གི་ མཐར་ཐུག་པ་ གྲུབ་པ་ དང་ །  བདེ་བ␣འི་ མྱ་ངན་ ལ␣ས་ འདས་པ་ ལ་ "
+"བཀོད་ དོ ། །"
+msgstr ""
+"je les ai établis dans le nirvana qui est l'accomplissement et la félicité "
+"absolument inébranlables."
+
+# གཞན་ཡང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་འདི་དག་ཐམས་ཅད་རབ་ཏུ་བྱུང་<«ལི་»ཕྱུང༌།>ནས།
+msgctxt "line 126, E001.txt"
+msgid ""
+"གཞན་ ཡང་ཡང་ དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ འདི་དག་ "
+"ཐམས་ཅད་ རབ་ཏུ་ བྱུང་ ནས །"
+msgstr ""
+"Par ailleurs, ils avaient tous pris les vœux selon l'Enseignement du complet"
+" et parfait Bouddha Kāśyapa,"
+
+# དེར་འདི་རྣམས་ཀྱིས་ཚེ་གཅིག་<«གཡུང་»«པེ་»ཅིག །>ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ནས།
+msgctxt "line 127, E001.txt"
+msgid "དེ␣ར་ འདི་ རྣམས་ ཀྱིས་ ཚེ་ གཅིག་ ཏུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་ ནས །"
+msgstr "et ils avaient ainsi observé la conduite de Brahma toute leur vie et"
+
+# དབང་པོ་རྣམས་ཡོངས་སུ་སྨིན་པར་བྱས་པ་དེས་ན།
+# ད་<«གཡུང་»དེ།>ལྟར་རྣམ་པར་གྲོལ་བར་གྱུར་ཏོ།། །།
+msgctxt "line 128, E001.txt"
+msgid ""
+"དབང་པོ་ རྣམས་ ཡོངས་སུ་ སྨིན་པ␣ར་ བྱས་པ་ དེས་ན །  ད་ལྟར་ རྣམ་པ␣ར་ གྲོལ་བ␣ར་ "
+"གྱུར་ ཏོ །། །།"
+msgstr ""
+"ils ont fait complètement mûrir leurs facultés. C'est pourquoi, maintenant, "
+"ils se sont libérés."
