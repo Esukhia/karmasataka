@@ -6,6 +6,7 @@ class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
         self.outfile = self.infile.parent.parent.parent / out_folder / (self.infile.stem + '.txt')
+        self.copyfile = self.infile.parent.parent.parent / copy_folder / (self.infile.stem + '.txt')
         self.file = polib.pofile(self.infile)
 
     def format_entries(self):
@@ -24,11 +25,14 @@ class Po:
     def write_txt(self):
         output = self.format_entries()
         self.outfile.write_text(output)
+        if not self.copyfile.is_file():
+            self.copyfile.write_text(output)
 
 
 if __name__ == '__main__':
     in_folder = 'fr_sem/po'
     out_folder = 'fr_sem/txt'
+    copy_folder = 'fr_com/source/txt'
     for file in Path(in_folder).glob('*.po'):
         po = Po(file)
         po.write_txt()

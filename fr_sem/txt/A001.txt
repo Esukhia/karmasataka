@@ -2,10 +2,10 @@ La deuxième [histoire des] fourmis
 	﻿[182b]གྲོག་མ་གཉིས་པ་<«གཡུང་»མ།>ནི།
 Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī.
 	གླེང་གཞི་མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
-L'explication détaillée [de cette histoire] est semblable à celle qu'on trouve dans l'histoire de Aimé-de-Richesse.
+L'explication détaillée [de cette histoire] est semblable à celle qui se trouve dans l'histoire de Aimé-de-Richesse.
 	གཏན་ཚིགས་རྒྱས་པར་ནི་དབྱིག་དགའི་རྟོགས་པ་བརྗོད་པ་ལས་འབྱུང་བ་བཞིན་ཏེ།
-Lorsque l'honorable Kauṇḍinya-Qui-sait-tout a vu les vérités, quatre-vingt mille dieux ont aussi vu les vérités.
-	གང་གི་ཚེ་ཚེ་དང་ལྡན་པ་ཀུན་ཤེས་ཀཽཎྜི་<«ལི་»«ཁུ་»ཀཽཎྚི།>ནྱས་བདེན་པ་རྣམས་མཐོང་བར་གྱུར་པ་དེའི་ཚེ། ལྷ་བརྒྱད་ཁྲིས་ཀྱང་བདེན་པ་མཐོང་བར་གྱུར་ཏོ། །
+Lorsque l'honorable Kaundinaya-Qui-sait-tout a vu les vérités, quatre-vingt mille dieux ont aussi vu les vérités.
+	གང་གི་ཚེ་ཚེ་དང་ལྡན་པ་^1ཀུན་ཤེས་ཀཽཎྜི་<«ལི་»«ཁུ་»ཀཽཎྚི།>ནྱས་བདེན་པ་རྣམས་མཐོང་བར་གྱུར་པ་དེའི་ཚེ། ལྷ་བརྒྱད་ཁྲིས་ཀྱང་བདེན་པ་མཐོང་བར་གྱུར་ཏོ། །
 Puis les moines s'adressèrent au Bienheureux Bouddha : «
 	དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་གསོལ་པ།
 Vénérable,
@@ -24,7 +24,7 @@ Moines,
 	དགེ་སློང་དག་
 dans une époque maintenant révolue, pas loin d'un village de montagne, dans un trou, se trouvait une loutre dont la compassion était grande, qui était de nature aimante et qui était bienveillante envers les êtres et qui se nourrissait de racines et de fruits. 
 	སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། རི་ཁྲོད་ཅིག་ནས་ཐག་མི་རིང་བ་<«གཡུང་»«པེ་»-བ།>ཞིག་:ན། ཁུང་ཞིག་<«གཡུང་»-ན། ཁུང་ཞིག>གི་ནང་ན་སྲོག་ཆགས་སྐྱིན་གོར་སྙིང་རྗེ་ཆེ་བ་བྱམས་པའི་བདག་ཉིད་ཅན་སེམས་ཅན་ལ་བྱམས་པ་ཞིག་གནས་པ་དེ། རྩ་བ་དང་འབྲས་བུས་འཚོ་ཞིང་
-elle ne voulait causer de tort à personne. Plus tard, elle se déplaça loin [pour] chercher à manger quand
+Elle ne voulait causer de tort à personne. Plus tard, elle se déplaça loin [pour] chercher à manger quand
 	སུ་ལ་ཡང་འཚེ་མི་འདོད་པ་<«པེ་»ག>ཞིག་འདུག་པ་དེ་ཕྱི་ཞིག་ན་གཟས་<«གཡུང་»«པེ་»ཟས།>ལ་སོང་སོང་བ་ལས།
 un chasseur la vit ;
 	རྔོན་པ་ཞིག་གིས་མཐོང་ནས་
@@ -42,9 +42,9 @@ Ensuite, cette loutre souffrait atrocement [lit. à ne pas pouvoir le supporter]
 	དེ་ནས་སྐྱིན་གོར་<«གཡུང་»འཁོར། «པེ་»ཀོར།>དེ་ན་ཚ་མི་བཟོད་དེ་
 elle alla près d'une rivière et
 	ཆུ་འགྲམ་ཞིག་ཏུ་སོང་ནས་
-s'allongea à un endroit frais.
+s'allongea/s'endormit dans un endroit frais.
 	ས་:གཞི་བསིལ་<«གཡུང་»བཞི་བསིལ། «པེ་»«སྣར་»བཞི་གསིལ།>བའི་ཕྱོགས་སུ་ཉལ་ལོ། །
-Alors, pas très loin de là se trouvait une fourmilière et
+À ce moment-là, pas très loin de là se trouvait une fourmilière et
 	དེ་ནས་ཧ་ཅང་ཡང་མི་རིང་བ་ཞིག་ན་གྲོག་ཚང་ཞིག་ཡོད་དེ།
 dans cette fourmilière vivaient quatre-vingt mille fourmis. Puis,
 	གྲོག་ཚང་དེ་ན་གྲོག་མ་བརྒྱད་ཁྲི་གནས་ཏེ།
@@ -62,15 +62,15 @@ ces quatre-vingt mille fourmis sortirent de la fourmilière et
 	གྲོག་མ་བརྒྱད་ཁྲི་པོ་དེ་དག་ཚང་ནས་འཐོན་<«ཞོལ་»ཐོན།>ཏེ་
 recouvrirent [lit. s'engagèrent] le corps de la loutre.
 	སྐྱིན་གོར་<«གཡུང་»འཁོར། «པེ་»འཀོར།>དེའི་ལུས་ལ་ཞུགས་སོ། །
-Alors, elle se réveilla parce qu'elles la mangeaient et
+Alors, la loutre (lit. elle) se réveilla parce qu'elles la mangeaient et
 	དེ་ནས་དེ་དག་ཟ་<«ཅོ་»ཟབ།>བས་སད་དེ་
-lorsqu'elle regarda, elle vit que son corps était couvert de fourmis du haut en bas.
+lorsqu'elle regarda, elle vit que son corps était couvert de fourmis de bas en haut (lit. de haut en bas).
 	དེས་བལྟས་ན་ལུས་ཐོག་ཐག་གྲོག་མས་གང་བར་མཐོང་ངོ་། །
-Les bodhisattvas, même si, par leur naissance (lit. corps), ils sont tombé dans une [condition] contraire,
+Même si, par leur naissance (lit. corps), les bodhisattvas sont tombés dans une [condition] contraire,
 	བྱང་ཆུབ་སེམས་དཔའ་རྣམས་ནི་ལུས་ཀྱིས་<«ལི་»«སྣར་»«ཅོ་»ཀྱི།>ལོག་པར་ལྟུང་དུ་ཟིན་ཀྱང་།
 leur esprit ne tombe pas dans une [condition] contraire. C'est pourquoi
 	སེམས་ཀྱིས་ལོག་པར་ལྟུང་བར་མི་འགྱུར་ཏེ།
-ce bodhisattva pensa : «
+ce bodhisattva[, la loutre,] pensa : «
 	བྱང་ཆུབ་སེམས་དཔའ་དེས་བསམས་པ།
 J'ai les capacités de me libérer moi-même [de cette situation], mais
 	ངས་བདག་ཉིད་ཐར་བར་ནི་<«གཡུང་»«པེ་»མི།>ནུས་མོད་ཀྱི་<«ཅོ་»ཀྱིས།>
@@ -92,7 +92,7 @@ ces [êtres] m'incitent à le faire » pensa-t-il. Puis,
 	དེ་ནི་བདག་ལ་འདི་རྣམས་ཀྱིས་བསྐུལ་ཏོ་སྙམ་ནས།
 il supporta [la douleur] et
 	བདག་ཉིད་ཀྱིས་མནགས་ཏེ་
-se tint sans mot dire. Puis,
+resta sans rien dire. Puis,
 	ཅང་མི་ཟེར་བར་འདུག་ནས་
 il fit le souhait de l'éveil insurpassable, complet et parfait : «
 	བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སྨོན་ལམ་བཏབ་སྟེ།
@@ -102,7 +102,7 @@ Par cette racine de vertu, puissé-je, pour les aveugles du monde sans enseignan
 	དགེ་བའི་རྩ་བ་འདིས་བདག་འཇིག་རྟེན་ལོང་བ་སྟོན་པ་མེད་པ་ཡོངས་སུ་འདྲེན་པ་མེད་པར། སེམས་ཅན་མ་རྒལ་<«ཞོལ་»བརྒལ།>བ་རྣམས་སྒྲོལ་བ་དང་<«ཅོ་»+མ་ང་།>མ་གྲོལ་བ་རྣམས་དགྲོལ་<«གཡུང་»«ལི་»«ཅོ་»འགྲོལ།>བ་དང་དབུགས་མ་ཕྱིན་པ་རྣམས་དབུགས་འབྱིན་པ་དང་། ཡོངས་སུ་མྱ་ངན་ལས་མ་འདས་པ་རྣམས་ཡོངས་སུ་མྱ་ངན་ལས་<«གཡུང་»ལ།>ཟློ་<«གཡུང་»+འདས།>བའི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ། བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་འདུལ་བའི་<«གཡུང་»«པེ་»«སྣར་»གདུལ་བྱའི། «ལི་»«ཅོ་»འདུལ་བྱའི།>ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སུ་གྱུར་ཅིག །
 De même que je les rassasie maintenant de ma chair et de mon sang,
 	ཅི་<«ཞོལ་»ཇི།>ལྟར་ངས་འདི་རྣམས་ད་ལྟར་རང་གི་ཤ་དང་ཁྲག་གིས་ཚིམ་པར་བྱས་[183b]ནས།
-et que je leur donne ma vie à laquelle je tiens tant, lorsque je me serai complètement et parfaitement éveillé à l'éveil complet et parfait, puissé-je aussi les rassasier du suc nourricier du Dharma et
+et que je leur donne ma vie à laquelle je tiens tant, lorsque je me serai complètement et parfaitement éveillé à l'éveil insurpassable, complet et parfait, puissé-je aussi les rassasier du suc nourricier du Dharma et
 	སྲོག་ཕངས་པ་བྱིན་པ་དེ་བཞིན་དུ། ང་<«གཡུང་»«པེ་»-ང་།>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་ན་ཡང་འདི་རྣམས་དམ་པའི་ཆོས་ཀྱི་བཅུད་ཀྱིས་ཚིམ་པར་བྱས་ནས།
 les établir dans le nirvana qui est l'accomplissement et la félicité absolument inébranlables. »
 	གཡུང་དྲུང་གི་མཐར་ཐུག་པ་གྲུབ་པ་དང་བདེ་བའི་མྱ་ངན་ལས་འདས་པ་ལ་འགོད་པར་གྱུར་ཅིག་ཅེས་
@@ -116,11 +116,11 @@ qu'en pensez-vous ?
 	དེའི་ཚེ་སྐྱིན་གོར་དུ་གྱུར་པ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་གནས་པ་གང་ཡིན་པ་དེ་ནི་ང་ཉིད་ཡིན་ནོ། །
 À cette époque, ceux qui étaient ces quatre-vingt mille fourmis ne sont autres que ces quatre-vingt mille dieux.
 	དེའི་ཚེ་གྲོག་མ་བརྒྱད་ཁྲིར་གྱུར་པ་:གང་ཡིན་པ་<«གཡུང་»འཁོར། «པེ་»ཀོར།>དེ་དག་ནི་ལྷ་བརྒྱད་ཁྲི་འདི་དག་ཉིད་ཡིན་ཏེ།
-À cette époque, je les ai aussi rassasié de ma chair et de mon sang et
+À cette époque, je les ai aussi rassasiés de ma chair et de mon sang et
 	དེའི་ཚེ་ཡང་ངས་འདི་རྣམས་རང་གི་ཤ་དང་ཁྲག་གིས་ཚིམ་པར་བྱས་ནས་
 je leur ai donné ma vie à laquelle je tiens tant.
 	སྲོག་ཕངས་པ་བྱིན་ནོ། །
-Maintenant, je les ai aussi rassasié du suc nourricier du Dharma et
+Maintenant, je les ai aussi rassasiés du suc nourricier du Dharma et
 	ད་ལྟར་ཡང་ངས་འདི་རྣམས་དམ་པའི་ཆོས་ཀྱི་བཅུད་ཀྱིས་ཚིམ་པར་བྱས་ནས།
-je les ai établi dans le nirvana qui est l'accomplissement et la félicité absolument inébranlables.
+je les ai établis dans le nirvana qui est l'accomplissement et la félicité absolument inébranlables.
 	གཡུང་དྲུང་གི་མཐར་ཐུག་པ་གྲུབ་པ་དང་བདེ་བའི་མྱ་ངན་ལས་འདས་པ་ལ་བཀོད་དོ།། །།
