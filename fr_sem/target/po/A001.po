@@ -30,15 +30,14 @@ msgstr ""
 "L'explication détaillée [de cette histoire] est semblable à celle qui se "
 "trouve dans l'histoire de Aimé-de-Richesse."
 
-#. ^1 aksdfjhsdfgkfdjhg
-# གང་གི་ཚེ་ཚེ་དང་ལྡན་པ་^1ཀུན་ཤེས་ཀཽཎྜི་<«ལི་»«ཁུ་»ཀཽཎྚི།>ནྱས་བདེན་པ་རྣམས་མཐོང་བར་གྱུར་པ་དེའི་ཚེ།
+# གང་གི་ཚེ་ཚེ་དང་ལྡན་པ་ཀུན་ཤེས་ཀཽཎྜི་<«ལི་»«ཁུ་»ཀཽཎྚི།>ནྱས་བདེན་པ་རྣམས་མཐོང་བར་གྱུར་པ་དེའི་ཚེ།
 # ལྷ་བརྒྱད་ཁྲིས་ཀྱང་བདེན་པ་མཐོང་བར་གྱུར་ཏོ། །
 msgctxt "line 4, A001.txt"
 msgid ""
-"གང་ གི་ ཚེ་ ཚེ་དང་ལྡན་པ་ ཀུན་ཤེས་ ཀཽཎྜི་ ནྱས་ བདེན་པ་ རྣམས་ མཐོང་བ␣ར་ "
+"གང་ གི་ ཚེ་ཚེ་ དང་ ལྡན་པ་ ཀུན་ཤེས་ ཀཽཎྜི་ ནྱས་ བདེན་པ་ རྣམས་ མཐོང་བ␣ར་ "
 "གྱུར་པ་ དེ␣འི་ ཚེ །  ལྷ་ བརྒྱད་ ཁྲིས་ ཀྱང་ བདེན་པ་ མཐོང་བ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
-"Lorsque l'honorable Kaundinaya-Qui-sait-tout a vu les vérités, quatre-vingt "
+"Lorsque l'honorable Kauṇḍinya-Qui-sait-tout a vu les vérités, quatre-vingt "
 "mille dieux ont aussi vu les vérités."
 
 msgctxt "line 5, A001.txt"
