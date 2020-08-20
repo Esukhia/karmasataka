@@ -45,6 +45,9 @@ class Po:
     def txt_to_po(self, filename):
         filename = Path(filename)
         lines = filename.read_text(encoding='utf-8')
+        if self.par_marker not in lines:
+            print(f'{filename} has no paragraphs. passing...')
+            return
         self.dump_to_entries(lines, filename.name)
 
         outfile = Path(out_folder) / (filename.stem + ".po")
