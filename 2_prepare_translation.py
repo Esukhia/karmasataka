@@ -30,8 +30,8 @@ class Po:
 
 
 if __name__ == '__main__':
-    in_folder = 'fr_sem/po'
-    out_folder = 'fr_sem/txt'
+    in_folder = 'fr_sem/target/po'
+    out_folder = 'fr_sem/target/txt'
     copy_folder = 'fr_com/source/txt'
     for file in Path(in_folder).glob('*.po'):
         po = Po(file)
