@@ -248,7 +248,7 @@ msgstr "moi-même, je m'efforce à être bénéfique aux êtres, donc"
 
 msgctxt "line 41, A001.txt"
 msgid "བདག་ རང་ གི་ སྲོག་ ཡོངས་སུ་ བཏང་ ཡང་ སླ␣འི །"
-msgstr "il m'est plus facile de donner ma propre vie ;"
+msgstr "il m'est plus facile de donner entièrement ma propre vie ;"
 
 msgctxt "line 42, A001.txt"
 msgid "སེམས་ཅན་ འདི་ སྙེད་ ཀྱི་ སྲོག་ མ་ རུང་བ␣ར་ བྱ␣ར་ ནི་ མི་ རུང་ ངོ་ ། །"
