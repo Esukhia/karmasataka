@@ -27,8 +27,8 @@ msgid ""
 "གཏན་ཚིགས་ རྒྱས་པ␣ར་ ནི་ དབྱིག་ དག␣འི་ རྟོགས་པ་ བརྗོད་པ་ ལ␣ས་ འབྱུང་བ་ བཞིན་ "
 "ཏེ །"
 msgstr ""
-"L'explication détaillée [de cette histoire] est semblable à celle qui se "
-"trouve dans l'histoire de Aimé-de-Richesse."
+"L'explication (lit. raison) détaillée [de cette histoire] est semblable à "
+"celle qui se trouve dans l'histoire de Aimé-de-Richesse."
 
 # གང་གི་ཚེ་ཚེ་དང་ལྡན་པ་ཀུན་ཤེས་ཀཽཎྜི་<«ལི་»«ཁུ་»ཀཽཎྚི།>ནྱས་བདེན་པ་རྣམས་མཐོང་བར་གྱུར་པ་དེའི་ཚེ།
 # ལྷ་བརྒྱད་ཁྲིས་ཀྱང་བདེན་པ་མཐོང་བར་གྱུར་ཏོ། །
