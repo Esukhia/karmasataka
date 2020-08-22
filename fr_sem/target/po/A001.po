@@ -201,7 +201,7 @@ msgstr "ces quatre-vingt mille fourmis sortirent de la fourmilière et"
 # སྐྱིན་གོར་<«གཡུང་»འཁོར། «པེ་»འཀོར།>དེའི་ལུས་ལ་ཞུགས་སོ། །
 msgctxt "line 32, A001.txt"
 msgid "སྐྱིན་གོར་ དེ␣འི་ ལུས་ ལ་ ཞུགས་ སོ ། །"
-msgstr "recouvrirent [lit. s'engagèrent] le corps de la loutre."
+msgstr "recouvrirent [lit. s'engagèrent sur] le corps de la loutre."
 
 # དེ་ནས་དེ་དག་ཟ་<«ཅོ་»ཟབ།>བས་སད་དེ་
 msgctxt "line 33, A001.txt"
