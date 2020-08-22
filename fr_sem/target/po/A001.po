@@ -244,7 +244,7 @@ msgstr "ceci endommagerait la vie de tous ces êtres. De plus,"
 # བདག་ཀྱང་སེམས་ཅན་ལ་ཕན་པའི་ཕྱིར་བརྩོན་པ་ཡིན་གྱིས་<«ཞོལ་»གྱི།>
 msgctxt "line 40, A001.txt"
 msgid "བདག་ ཀྱང་ སེམས་ཅན་ ལ་ ཕན་པ␣འི་ ཕྱིར་ བརྩོན་པ་ ཡིན་ གྱིས་"
-msgstr "moi-même, je m'efforce à faire le bien des êtres, donc"
+msgstr "moi-même, je m'efforce à être bénéfique aux êtres, donc"
 
 msgctxt "line 41, A001.txt"
 msgid "བདག་ རང་ གི་ སྲོག་ ཡོངས་སུ་ བཏང་ ཡང་ སླ␣འི །"
