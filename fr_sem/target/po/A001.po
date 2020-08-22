@@ -176,7 +176,7 @@ msgstr "une fourmi sortit de cette fourmilière et"
 # གྲོག་མ་དེ་སྐྱིན་གོར་<«གཡུང་»འཁོར། «པེ་»ཀོར།>དེའི་ཐད་དུ་སོང་སྟེ་
 msgctxt "line 27, A001.txt"
 msgid "གྲོག་མ་ དེ་ སྐྱིན་གོར་ དེ␣འི་ ཐད་ དུ་ སོང་ སྟེ་"
-msgstr "la fourmi alla près de cette loutre et"
+msgstr "la fourmi alla aux alentours de cette loutre et"
 
 # བལྟས་ན་སྐྱིན་:གོར་པགས་<«གཡུང་»འཁོར་ལྤགས། «ལི་»གོར་ལྤགས།
 # «པེ་»ཀོར་ལྤགས།>པ་མེད་པ་དེ་མཐོང་ནས་
