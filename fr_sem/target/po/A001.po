@@ -87,7 +87,7 @@ msgid ""
 msgstr ""
 "Dans le passé, j'ai aussi rassasié Kauṇḍinya et les autres [ascètes] ainsi "
 "[que] ces quatre-vingt mille dieux avec ma chair et mon sang, et je leur ai "
-"donné ma vie, à laquelle je tiens si fort. Écoutez [comment] ceci [est "
+"donné ma vie, à laquelle je tiens [si fort]. Écoutez [comment] ceci [est "
 "arrivé]."
 
 msgctxt "line 12, A001.txt"
