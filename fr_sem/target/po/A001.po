@@ -239,7 +239,7 @@ msgstr "J'ai les capacités de me libérer moi-même [de cette situation], mais"
 # སེམས་ཅན་འདི་སྙེད་ཀྱི་སྲོག་མ་རུང་བར་འགྱུར་<«གཡུང་»«པེ་》གྱུར།>ལ།
 msgctxt "line 39, A001.txt"
 msgid "སེམས་ཅན་ འདི་ སྙེད་ ཀྱི་ སྲོག་ མ་ རུང་བ␣ར་ འགྱུར་ ལ །"
-msgstr "ceci porterait atteinte à la vie de tous ces êtres. De plus,"
+msgstr "ceci endommagerait la vie de tous ces êtres. De plus,"
 
 # བདག་ཀྱང་སེམས་ཅན་ལ་ཕན་པའི་ཕྱིར་བརྩོན་པ་ཡིན་གྱིས་<«ཞོལ་»གྱི།>
 msgctxt "line 40, A001.txt"
