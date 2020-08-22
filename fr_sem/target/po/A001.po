@@ -163,7 +163,7 @@ msgstr "s'allongea/s'endormit dans un endroit frais."
 
 msgctxt "line 24, A001.txt"
 msgid "དེ་ནས་ ཧ་ཅང་ ཡང་ མི་ རིང་བ་ ཞིག་ ན་ གྲོག་ཚང་ ཞིག་ ཡོད་ དེ །"
-msgstr "À ce moment-là, pas très loin de là se trouvait une fourmilière et"
+msgstr "À ce moment-là, pas très loin de là, se trouvait une fourmilière et"
 
 msgctxt "line 25, A001.txt"
 msgid "གྲོག་ཚང་ དེ་ ན་ གྲོག་མ་ བརྒྱད་ ཁྲི་ གནས་ ཏེ །"
