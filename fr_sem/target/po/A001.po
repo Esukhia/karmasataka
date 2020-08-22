@@ -183,7 +183,7 @@ msgstr "la fourmi alla aux alentours de cette loutre et"
 msgctxt "line 28, A001.txt"
 msgid "བལྟས་ ན་ སྐྱིན་གོར་ པགས་པ་ མེད་པ་ དེ་ མཐོང་ ནས་"
 msgstr ""
-"en regardant [autour d'elle], elle vit cette loutre écorchée. Ensuite,"
+"en regardant [autour d'elle], elle vit cette loutre sans peau. Ensuite,"
 
 msgctxt "line 29, A001.txt"
 msgid "རང་ གི་ ཚང་ དུ་ སོང་ སྟེ །"
