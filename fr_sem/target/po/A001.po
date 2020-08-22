@@ -252,8 +252,7 @@ msgstr "il m'est plus facile de donner entièrement ma propre vie ;"
 
 msgctxt "line 42, A001.txt"
 msgid "སེམས་ཅན་ འདི་ སྙེད་ ཀྱི་ སྲོག་ མ་ རུང་བ␣ར་ བྱ␣ར་ ནི་ མི་ རུང་ ངོ་ ། །"
-msgstr ""
-"il n'est pas acceptable de porter atteinte à la vie de tous ces êtres."
+msgstr "il n'est pas acceptable d'endommager la vie de tous ces êtres."
 
 msgctxt "line 43, A001.txt"
 msgid "གཅིག་ ཏུ་ ན་ བདག་ ནི་ གནོད་པ་ འདི་ཁོ་ན␣ས་ ངེས་པར་ འཆི་བ␣ར་ འགྱུར་ ལ །"
