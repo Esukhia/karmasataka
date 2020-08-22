@@ -6,24 +6,20 @@ class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
         self.outfile = self.infile.parent.parent.parent.parent / out_folder / (self.infile.stem + '.txt')
+        self.translation = self.infile.parent.parent.parent.parent / out_folder / (self.infile.stem + '_translation.txt')
         self.file = polib.pofile(self.infile)
 
     def format_entries(self):
         entries = []
         for entry in self.file:
-            if entry.tcomment:
-                text = entry.tcomment
-            else:
-                text = entry.msgid
-                text = text.replace(' ', '').replace('␣', '').replace(' ', ' ')
-            text = text.replace('\n', ' ')
-            text = "\t" + text
+            text = "\t" + entry.msgid
             entries.append((entry.msgstr, text))
-        return '\n'.join(['\n'.join(e) for e in entries])
+        return '\n'.join(['\n'.join(e) for e in entries]), '\n'.join([e[0] for e in entries])
 
     def write_txt(self):
-        output = self.format_entries()
+        output, trans = self.format_entries()
         self.outfile.write_text(output)
+        self.translation.write_text(trans)
 
 
 if __name__ == '__main__':

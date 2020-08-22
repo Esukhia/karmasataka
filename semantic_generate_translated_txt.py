@@ -6,6 +6,7 @@ class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
         self.outfile = self.infile.parent.parent.parent.parent / out_folder / (self.infile.stem + '.txt')
+        self.translation = self.infile.parent.parent.parent.parent / out_folder / (self.infile.stem + '_translation.txt')
         self.copyfile = self.infile.parent.parent.parent.parent / copy_folder / (self.infile.stem + '.txt')
         self.file = polib.pofile(self.infile)
 
@@ -20,13 +21,14 @@ class Po:
             text = text.replace('\n', ' ')
             text = "\t" + text
             entries.append((entry.msgstr, text))
-        return '\n'.join(['\n'.join(e) for e in entries])
+        return '\n'.join(['\n'.join(e) for e in entries]), '\n'.join([e[0] for e in entries])
 
     def write_txt(self):
-        output = self.format_entries()
+        output, trans = self.format_entries()
         self.outfile.write_text(output)
         if not self.copyfile.is_file():
             self.copyfile.write_text(output)
+        self.translation.write_text(trans)
 
 
 if __name__ == '__main__':
