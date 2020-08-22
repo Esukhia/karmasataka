@@ -144,7 +144,7 @@ msgstr "Le chasseur prit cette peau et"
 
 msgctxt "line 20, A001.txt"
 msgid "སོང་ ངོ་ ། །"
-msgstr "s'en fut."
+msgstr "s'en alla."
 
 # དེ་ནས་སྐྱིན་གོར་<«གཡུང་»འཁོར། «པེ་»ཀོར།>དེ་ན་ཚ་མི་བཟོད་དེ་
 msgctxt "line 21, A001.txt"
