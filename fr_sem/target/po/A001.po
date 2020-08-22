@@ -55,7 +55,8 @@ msgid ""
 "བཅུད་ ཀྱིས་ ཚིམ་པ␣ར་ མཛད་ ནས །"
 msgstr ""
 "le Bienheureux a rassasié Kauṇḍinya et les autres [ascètes] et les quatre-"
-"vingt mille dieux avec le suc nourricier du Dharma, et"
+"vingt mille dieux avec le suc nourricier (lit. l'essence [de la nourriture])"
+" du Dharma, et"
 
 # གཡུང་དྲུང་གི་མཐར་ཐུག་པ་གྲུབ་པ་དང་བདེ་བའི་མྱ་ངན་ལས་འདས་པ་ལ་:བཀོད་པ་<«གཡུང་»བཀོས།
 # «པེ་»-དཀོད་པ།>ལ་གཟིགས།
