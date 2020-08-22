@@ -320,7 +320,7 @@ msgstr ""
 msgctxt "line 52, A001.txt"
 msgid ""
 "ཅི་ ལྟར་ ངས་ འདི་ རྣམས་ ད་ལྟར་ རང་ གི་ ཤ་ དང་ ཁྲག་ གིས་ ཚིམ་པ␣ར་ བྱས་ ནས །"
-msgstr "De même que je les rassasie maintenant de ma chair et de mon sang,"
+msgstr "De même que je les rassasie maintenant de ma chair et de mon sang et"
 
 # སྲོག་ཕངས་པ་བྱིན་པ་དེ་བཞིན་དུ།
 # ང་<«གཡུང་»«པེ་»-ང་།>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་པ་ན་ཡང་འདི་རྣམས་དམ་པའི་ཆོས་ཀྱི་བཅུད་ཀྱིས་ཚིམ་པར་བྱས་ནས།
