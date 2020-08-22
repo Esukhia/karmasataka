@@ -266,7 +266,7 @@ msgstr "mon devoir [lit. action] est le suivant :"
 
 msgctxt "line 45, A001.txt"
 msgid "སེམས་ཅན་ ལ་ ཕན་པ␣འི་ ཕྱིར་ ལུས་ ཡོངས་སུ་ གཏོང་བ་ སྟེ །"
-msgstr "donner mon corps en entier pour le bien des êtres. De plus,"
+msgstr "donner mon corps en entier pour être bénéfique aux êtres. De plus,"
 
 msgctxt "line 46, A001.txt"
 msgid "དེ་ ནི་ བདག་ ལ་ འདི་ རྣམས་ ཀྱིས་ བསྐུལ་ ཏོ་ སྙམ་ ནས །"
