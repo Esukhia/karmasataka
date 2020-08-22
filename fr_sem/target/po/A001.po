@@ -381,7 +381,7 @@ msgstr ""
 
 msgctxt "line 61, A001.txt"
 msgid "སྲོག་ ཕངས་པ་ བྱིན་ ནོ ། །"
-msgstr "je leur ai donné ma vie à laquelle je tiens tant."
+msgstr "je leur ai donné ma vie à laquelle je tiens [tant]."
 
 msgctxt "line 62, A001.txt"
 msgid ""
