@@ -258,7 +258,7 @@ msgctxt "line 43, A001.txt"
 msgid "གཅིག་ ཏུ་ ན་ བདག་ ནི་ གནོད་པ་ འདི་ཁོ་ན␣ས་ ངེས་པར་ འཆི་བ␣ར་ འགྱུར་ ལ །"
 msgstr ""
 "D'un [autre côté], je suis certain que rien qu'avec le tort [qui m'a été "
-"fait], je mourrai, donc"
+"fait], je mourrai. De plus,"
 
 msgctxt "line 44, A001.txt"
 msgid "བདག་ གི་ བྱ་བ་ གང་ཡིན་ ཞེ་ ན །"
