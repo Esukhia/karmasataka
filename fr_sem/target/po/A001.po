@@ -107,8 +107,8 @@ msgid ""
 msgstr ""
 "dans une époque maintenant révolue, pas loin d'un village de montagne, dans "
 "un trou, se trouvait une loutre dont la compassion était grande, qui était "
-"de nature aimante et qui était bienveillante envers les êtres et qui se "
-"nourrissait de racines et de fruits. "
+"de nature aimante et qui était bienveillante envers les êtres. Elle se "
+"nourrissait de racines et de fruits et"
 
 # སུ་ལ་ཡང་འཚེ་མི་འདོད་པ་<«པེ་»ག>ཞིག་འདུག་པ་དེ་ཕྱི་ཞིག་ན་གཟས་<«གཡུང་»«པེ་»ཟས།>ལ་སོང་སོང་བ་ལས།
 msgctxt "line 14, A001.txt"
