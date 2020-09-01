@@ -804,7 +804,8 @@ msgstr ""
 
 msgctxt "line 134, 01.txt"
 msgid "ཆོས་ མཉན་པ␣འི་ ཕྱིར་ མདུན་ དུ་ འདུག་ གོ ། །"
-msgstr "[le père de famille] s'asseyait pour écouter l'enseignement."
+msgstr ""
+"[le père de famille] s'asseyait devant lui pour écouter l'enseignement."
 
 msgctxt "line 135, 01.txt"
 msgid "ཁྱི་ མོ་ དེ་ཡང་ ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི␣འི་ བུ␣འི་ མདུན་ དུ་ འདུག་ ནས་"
