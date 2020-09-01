@@ -1518,7 +1518,7 @@ msgid ""
 "ཕྱིས་ དེ་ ལ་ བུ་མོ་ གཟུགས་བཟང་ ཞིང་ བལྟ་ ན་ སྡུག་ ལ་ མཛེས་པ་ ཞིག་ བཙས་ ནས །"
 msgstr ""
 "à un moment donné (lit. plus tard), une fille au corps harmonieux (lit. "
-"noble), qui était belle et agréable au regard, et"
+"noble), qui était belle et agréable au regard naquit, et"
 
 # གང་གི་ཚེ་དེ་ཆེན་མོར་<«གཡུང་»«པེ་»པོར།>གྱུར་པ་དང་།
 msgctxt "line 270, 01.txt"
