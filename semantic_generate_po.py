@@ -49,11 +49,10 @@ class Po:
             self._create_entry(msgid=no_notes, msgctxt=f'line {num+1}, {origin}', tcomment=line)
 
     def txt_to_po(self, filename):
-        filename = Path(filename)
         lines = filename.read_text(encoding='utf-8').strip().split('\n')
         self.lines_to_entries(lines, filename.name)
 
-        outfile = Path(out_folder) / (filename.stem + ".po")
+        outfile = filename.parent / (filename.stem + ".po")
         self.write_to_file(outfile)
 
     @staticmethod
@@ -74,8 +73,11 @@ class Po:
 
 
 if __name__ == '__main__':
-    in_folder = 'bo/txt'
-    out_folder = 'bo/po'
-    for file in Path(in_folder).glob('*.txt'):
+    folder = 'sem/bo/'
+    idx = 0
+    files = sorted(list(Path(folder).glob('*.txt')))
+    to_loop = files[idx-1:idx] if idx > 0 else files
+    for file in to_loop:
+        print(file)
         po = Po()
         po.txt_to_po(file)

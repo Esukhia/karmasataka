@@ -28,7 +28,7 @@ class Po:
     def write_to_file(self, filename):
         self.file.save(filename)
 
-    def dump_to_entries(self, dump, origin):
+    def dump_po_entries(self, dump, origin):
         for num, par in enumerate(dump.strip().split(self.par_marker)):
             pairs = re.split(self.trans_pattern, par)
             pairs = [p for p in pairs if p]
@@ -43,20 +43,18 @@ class Po:
             self._create_entry(msgid=source, msgctxt=f'line {num + 1}, {origin}', tcomment=comment)
 
     def txt_to_po(self, filename):
-        filename = Path(filename)
         lines = filename.read_text(encoding='utf-8')
         if self.par_marker not in lines:
-            print(f'{filename} has no paragraphs. passing...')
+            print('\thas no paragraphs. passing...')
             return
-        self.dump_to_entries(lines, filename.name)
 
-        outfile = Path(out_folder) / (filename.stem + ".po")
-        self.write_to_file(outfile)
+        self.dump_po_entries(lines, filename.name)
+        self.write_to_file((filename.parent / (filename.stem + ".po")))
 
 
 if __name__ == '__main__':
-    in_folder = 'fr_com/source/txt'
-    out_folder = 'fr_com/source/po'
-    for file in Path(in_folder).glob('*.txt'):
+    folder = 'fr/sem_pars'
+    for file in Path(folder).glob('*.txt'):
+        print(file)
         po = Po()
         po.txt_to_po(file)
