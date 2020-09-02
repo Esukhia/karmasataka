@@ -1,6 +1,10 @@
 language: python
-sudo: required
-after_success:
-  - sudo pip install transifex-client
-  - sudo echo $'[https://www.transifex.com]\nhostname = https://www.transifex.com\nusername = '"$TRANSIFEX_USER"$'\npassword = '"$TRANSIFEX_PASSWORD"$'\ntoken = '"$TRANSIFEX_API_TOKEN"$'\n' > ~/.transifexrc
+python:
+  - "3.6"      # current default Python on Travis CI
+# command to install dependencies
+install:
+  - pip install transifex-client
+# command to run tests
+script:
+  - echo $'[https://www.transifex.com]\nhostname = https://www.transifex.com\nusername = '"$TRANSIFEX_USER"$'\npassword = '"$TRANSIFEX_PASSWORD"$'\ntoken = '"$TRANSIFEX_API_TOKEN"$'\n' > ~/.transifexrc
   - tx push -s
