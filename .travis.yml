@@ -6,5 +6,5 @@ install:
   - pip install transifex-client
 # command to run tests
 script:
-  - echo $'[https://www.transifex.com]\nhostname = https://www.transifex.com\nusername = '"$TRANSIFEX_USER"$'\npassword = '"$TRANSIFEX_PASSWORD"$'\ntoken = '"$TRANSIFEX_API_TOKEN"$'\n' > ~/.transifexrc
+  - echo $'[https://www.transifex.com]\napi_hostname = https://api.transifex.com\nhostname = https://www.transifex.com\npassword = '"$TRANSIFEX_API_TOKEN"$'\nusername = api\n' > ~/.transifexrc
   - tx push -s
