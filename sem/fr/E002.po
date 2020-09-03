@@ -1,25 +1,24 @@
-# 
 # Translators:
 # Drupchen Dorje <drupchen@esukhia.org>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Last-Translator: Drupchen Dorje <drupchen@esukhia.org>, 2020\n"
 "Language-Team: French (https://www.transifex.com/lotsawa-apprenticeship/teams/112155/fr/)\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 # ﻿[119b]ཤི་:བི་གཉིས་ཞེས་<«གཡུང་»བཱི་གཉིས། «པེ་»བའི་གཉིས།
 # «སྣར་»བི་གཉིས་ཤེས།>བྱ་བ་དེ་ལ། ཤི་བི་<«གཡུང་»བཱི།«པེ་»བའི།>དང་པོ་ནི།
-msgctxt "line 1, E002.txt"
+msgctxt "39fe6132c1a04792a8971910eba03fbc"
 msgid "﻿ཤི་ བི་ གཉིས་ ཞེས་ བྱ་བ་ དེ་ ལ །  ཤི་ བི་ དང་པོ་ ནི །"
 msgstr "La première des deux histoire du Roi Śibi"
 
 # བཅོམ་ལྡན་འདས་:གྱད་ཀྱི་<«ལི་»«པེ་»«ཅོ་»ཀྱིས།>ཡུལ་དུ་ལྗོངས་<«ལི་»«ཅོ་»+སུ།>རྒྱུ་ཞིང་གཤེགས་པ་ལས།
-msgctxt "line 2, E002.txt"
+msgctxt "faed06f87cea4569a1bdafc01e91e056"
 msgid "བཅོམ་ལྡན་འདས་ གྱད་ ཀྱི་ ཡུལ་ དུ་ ལྗོངས་རྒྱུ་ ཞིང་གཤེགས་པ་ ལ␣ས །"
 msgstr ""
 "Alors que le Bienheureux se promenait dans la province de Mallā qu'il "
@@ -29,38 +28,38 @@ msgstr ""
 # གྲོང་ཁྱེར་:ཀུ་ཤའི་<«གཡུང་»ཀུ་བུ་ཤིའོ། «ལི་»«ཅོ་»ཀུན་ཤའི། «པེ་»ཀུན་ཤིའི།
 # «སྣར་»«ཞོལ་»ཀུ་ཤིའི།>བར་གྱི་ལམ་ནས་གུད་<«ལི་»ཀུད༑>དུ་:བཟུར་ཏེ<«གཡུང་»གཟུར་ཏེ།
 # «ལི་»«ཅོ་»བཟུང་སྟེ།>།
-msgctxt "line 3, E002.txt"
+msgctxt "eb73aa54d2674e5f95dbce583cd37e59"
 msgid ""
 "ཆུ་ ཀླུང་ མཐའ་ ལྡན་ དང་ །  གྲོང་ཁྱེར་ ཀུ་ཤ␣འི་ བར་ གྱི་ ལམ་ ནས་ གུད་ དུ་ "
 "བཟུར་ ཏེ །"
 msgstr ""
 "il s'arrêta au bord de la route entre la rivière Antavān et Kuśinagarī et"
 
-msgctxt "line 4, E002.txt"
+msgctxt "abc15bf56ab143148ae5849014fccb1d"
 msgid "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ བཀའ་ སྩལ་པ །"
 msgstr "il dit à l'honorable Ānanda :"
 
-msgctxt "line 5, E002.txt"
+msgctxt "6214f691f228483f9124359366bbc2c5"
 msgid "ཀུན་དགའ་བོ་"
 msgstr "Ānanda,"
 
-msgctxt "line 6, E002.txt"
+msgctxt "d1fee92e31f54af1a004cb28f3c8ede1"
 msgid "དེ་བཞིན་ གཤེགས་པ␣འི་ བླ་གོས་ བཞི་ :␣བལྟབ་ ཏུ་ བགྱིས་ ཏེ་"
 msgstr "Plie le châle du Tathāgata en quatre et"
 
 # ཐིང་<«གཡུང་»«པེ་»«སྣར་»ལྟབ་ཏུ་གྱིས་ཏེ་ཐིང་།«ཅོ་»བལྟབ་ཏུ་བགྱིས་ཏེ་ཐིངས།
 # «ཞོལ་»བལྟབ་ཏུ་བགྱིས་ཏེ་ཐེངས།>ཤིག་དང་།
-msgctxt "line 7, E002.txt"
+msgctxt "298177656f324c479b232c45ea94397c"
 msgid "ཐིང་ ཤིག་ དང་ །"
 msgstr "étends-le."
 
 # ངའི་རྒྱབ་མི་བདེ་བ་<«སྣར་»-བ།>དེ་<«གཡུང་»«ལི་»«ཅོ་»དེར།>རེ་ཞིག་བསྟི་<«གཡུང་»«པེ་»«སྣར་»བལྟ།>བར་བྱའོ།
 # །
-msgctxt "line 8, E002.txt"
+msgctxt "82e43aea0b3a4815bafa4954fc5ed819"
 msgid "ང␣འི་ རྒྱབ་ མི་ བདེ་བ་ དེ་ རེ་ཞིག་ བསྟི་བ␣ར་ བྱ␣འོ ། །"
 msgstr "Je vais reposer un moment mon dos endolori."
 
-msgctxt "line 9, E002.txt"
+msgctxt "a20617e8dbef4b37a5c5996f29608e53"
 msgid ""
 "དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ བཙུན་པ་ དེ་ལྟར་ འཚལ་ ལོ་ ཞེས་ གསོལ་ ཏེ །"
 msgstr ""
@@ -68,39 +67,39 @@ msgstr ""
 " le demandez] »,"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ་བཞིན་དུ་མཉན་<«ལི་»«ཅོ་»ཉན།>ནས།
-msgctxt "line 10, E002.txt"
+msgctxt "8aed2aced15c4a9b86a18e88564a3e1f"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ་ བཞིན་ དུ་ མཉན་ ནས །"
 msgstr "il suivit les instructions que le Bienheureux lui avait données,"
 
 # བླ་གོས་བཞི་བལྟབ་<«གཡུང་»«པེ་»«སྣར་»ལྟབ།>ཏུ་བྱས་ཏེ<«ལི་»«ཅོ་»ཏོ།>།
-msgctxt "line 11, E002.txt"
+msgctxt "c336c482f1e14529983de12d2dd124f4"
 msgid "བླ་གོས་ བཞི་ བལྟབ་ ཏུ་ བྱས་ ཏེ །"
 msgstr "il plia le châle en quatre,"
 
-msgctxt "line 12, E002.txt"
+msgctxt "bb589c1d90e64091a0a099bac2df3a31"
 msgid "བཏིང་ ནས་"
 msgstr "il l'étendit et"
 
-msgctxt "line 13, E002.txt"
+msgctxt "588b59c81b08412db8f63fe0a87afe35"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ ། །"
 msgstr "il dit au Bienheureux : «"
 
-msgctxt "line 14, E002.txt"
+msgctxt "053ae12f32a94c3e87eb4fe8ed97b3ef"
 msgid "བཙུན་པ་"
 msgstr "Vénérable,"
 
 # དེ་བཞིན་གཤེགས་པའི་བླ་གོས་བཞི་:བལྟབ་ཏུ་<«གཡུང་»«པེ་»ལྟབ།
 # «སྣར་»ལྟབ་ཏུ།>བགྱིས་ཏེ་
-msgctxt "line 15, E002.txt"
+msgctxt "bd14f76fa8ee4341b85a8de58a7d012f"
 msgid "དེ་བཞིན་ གཤེགས་པ␣འི་ བླ་གོས་ བཞི་ བལྟབ་ ཏུ་ བགྱིས་ ཏེ་"
 msgstr "J'ai plié en quatre le châle du Tathāgata,"
 
-msgctxt "line 16, E002.txt"
+msgctxt "24c2bf653437451982af165dd824bc41"
 msgid "བཏིང་ ལགས་ ན །"
 msgstr "je l'ai étendu. Donc,"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་ད་<«ལི་»«ཅོ་»-ད།>དེའི་དུས་ལ་<«གཡུང་»ལས།>བབ་པར་དགོངས་སུ་གསོལ།
-msgctxt "line 17, E002.txt"
+msgctxt "bbb4f2647e0848e2b8b32a2c02dc636e"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ ད་ དེ␣འི་ དུས་ ལ་ བབ་པ␣ར་ དགོངས་ སུ་ གསོལ །"
 msgstr ""
 "Soyez informé, Bienheureux, que le moment de [vous installer] est arrivé."
@@ -108,16 +107,16 @@ msgstr ""
 # :དེ་ནས་<«གཡུང་»«པེ་»-དེ་ནས།>བཅོམ་ལྡན་འདས་ཀྱིས་<«གཡུང་»«པེ་»-ཀྱིས།>ཆོས་གོས་སྣམ་<«ལི་»བསྣམ།>སྦྱར་:སྟུག་པོར་བལྟབ་སྟེ་<«གཡུང་»«པེ་»སྡུག་པོར་བཏབ་སྟེ།
 # ཕངས། «ལི་»སྟུག་པོ་བལྟབ་ཏེ། འཕངས། «སྣར་»སྟུག་པོ་བཏབ་སྟེ། ཕངས།
 # «ཅོ་»སྟུག་པོ་བལྟབ་སྟེ།འཕངས། «ཞོལ་»སྟུག་པོ་བལྟབས་ཏེ་འཕོངས།>
-msgctxt "line 18, E002.txt"
+msgctxt "072cc3e39be64beaa62ed95396c52a06"
 msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ཆོས་གོས་ སྣམ་སྦྱར་ སྟུག་པོ␣ར་ བལྟབ་ སྟེ་"
 msgstr ""
 "Alors le Bienheureux plia l'habit monastique saṅgati en [coussin] épais,"
 
-msgctxt "line 19, E002.txt"
+msgctxt "9331b295915f4caa9d6c568dec8bf364"
 msgid "འཕོངས་ སུ་ བཞག་ ནས །"
 msgstr "il s'assit dessus et"
 
-msgctxt "line 20, E002.txt"
+msgctxt "12c9ccc257a24eed94a2b690f2bbfc8f"
 msgid ""
 "སྣང་བ␣འི་ འདུ་ཤེས་ དང་ ལྡན་པ་ དང་ །  དྲན་པ་ དང་ ལྡན་པ་ དང་ །  ཤེས་བཞིན་ དང་ "
 "ལྡན་པ␣འི་ འདུ་ཤེས་ ཐུགས་ ལ་ དགོངས་ :␣ཤིང་"
@@ -127,21 +126,21 @@ msgstr ""
 
 # གློ་<«གཡུང་»བློ། «ལི་»«ཅོ་»ནས་གློ། «པེ་»-ཤིང༌།
 # «སྣར་»ཤིང་བློ།>གཡས་ཕྱོགས་:ཀྱིས་གཟིམས་ཏེ<«ལི་»ཀྱི་གཟིམ་སྟེ།«ཅོ་»ཀྱི་གཟིམས།>།
-msgctxt "line 21, E002.txt"
+msgctxt "bab7063b38e248ca9270234c79190302"
 msgid "གློ་ གཡས་ཕྱོགས་ ཀྱིས་ གཟིམས་ ཏེ །"
 msgstr "il s'endormit sur le côté droit,"
 
 # ཞབས་གཅིག་གི་སྟེང་དུ་གཅིག་བཞག་<«གཡུང་»«པེ་»གཞག>གོ། །
-msgctxt "line 22, E002.txt"
+msgctxt "de2779a27d764bb4957195be767ec28e"
 msgid "ཞབས་ གཅིག་ གི་ སྟེང་ དུ་ གཅིག་ བཞག་ གོ ། །"
 msgstr "ayant posé une jambe sur l'autre."
 
-msgctxt "line 23, E002.txt"
+msgctxt "99f82c82e81d40eaa22a2a64aa67926d"
 msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ འདི་ སྙམ་ དུ་ དགོངས་ ཏེ །"
 msgstr "Puis, le Bienheureux pensa : «"
 
 # འཁོར་འདིར་སོ་སོའི་སྐྱེ་བོའི་དགེ་སློང་ཇི་སྙེད་འདུས་ཤིང་འཚོགས་<«གཡུང་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཚོགས།>པ་དེ་དག་ཐམས་ཅད་ཅི་སངས་རྒྱས་ཀྱིས་འདུལ་<«གཡུང་»«པེ་»གདུལ།>བ་ཡིན་ནམ།
-msgctxt "line 24, E002.txt"
+msgctxt "dc195227e78f4532b3bb7cee5cebd24f"
 msgid ""
 "འཁོར་ འདི␣ར་ སོ་སོ␣འི་ སྐྱེ་བོ␣འི་ དགེ་སློང་ ཇི་སྙེད་ འདུས་ ཤིང་ འཚོགས་པ་ "
 "དེ་དག་ ཐམས་ཅད་ ཅི་ སངས་རྒྱས་ ཀྱིས་ འདུལ་བ་ ཡིན་ ནམ །"
@@ -151,53 +150,53 @@ msgstr ""
 "Bouddha ?"
 
 # འོན་ཏེ་ཉན་ཐོས་ཀྱིས་འདུལ་<«གཡུང་»«པེ་»གདུལ།>བ་ཡིན་ཞིག་གུ་སྙམ་དུ་
-msgctxt "line 25, E002.txt"
+msgctxt "998c3425aa244a88bb6e53e53d02da4c"
 msgid "འོན་ཏེ་ ཉན་ཐོས་ ཀྱིས་ འདུལ་བ་ ཡིན་ ཞིག་ གུ་ སྙམ་ དུ་"
 msgstr "Ou bien seront-ils disciplinés par un auditeur ? »"
 
-msgctxt "line 26, E002.txt"
+msgctxt "0261af703759448bb9ec87ab560afeb2"
 msgid "དགོངས་ སོ ། །"
 msgstr "pensa-t-Il."
 
-msgctxt "line 27, E002.txt"
+msgctxt "48af63471a3049aaa04ef7dc0e85c23c"
 msgid "དེ་ནས་ ཡང་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དགོངས་པ །"
 msgstr "Ensuite, le Bienheureux pensa : «"
 
 # འདི་ན་<«གཡུང་»«པེ་»ནི།>ཁ་ཅིག་ནི་སངས་རྒྱས་ཀྱིས་འདུལ་<«གཡུང་»«པེ་»གདུལ།>བར་འགྱུར་རོ།
 # །
-msgctxt "line 28, E002.txt"
+msgctxt "f4e85b230f2548fdb3e30cf20784324a"
 msgid "འདི་ ན་ཁ་ ཅིག་ ནི་ སངས་རྒྱས་ ཀྱིས་ འདུལ་བ␣ར་ འགྱུར་ རོ ། །"
 msgstr "Dans cet [entourage], certains seront disciplinés par le Bouddha."
 
 # ཁ་ཅིག་ནི་ཉན་ཐོས་ཀྱིས་:འདུལ་བར་<«གཡུང་»གདུའ་ན་འབད་ས།
 # «པེ་»གདུལ་བར།>འགྱུར་<«གཡུང་»«པེ་»«ཞོལ་»+རོ།>སྙམ་དུ་<«གཡུང་»«པེ་»-དུ།>
-msgctxt "line 29, E002.txt"
+msgctxt "961cbe785c7d46f3a4a35dfec93f272c"
 msgid "ཁ་ཅིག་ ནི་ ཉན་ཐོས་ ཀྱིས་ འདུལ་བ␣ར་ འགྱུར་ སྙམ་ དུ་"
 msgstr "Certains seront disciplinés par un auditeur »,"
 
-msgctxt "line 30, E002.txt"
+msgctxt "8fb0f07a6a114b8ea2ebdb50ffda6ab0"
 msgid "དགོངས་ ནས །"
 msgstr "pensa-t-il. Puis,"
 
-msgctxt "line 31, E002.txt"
+msgctxt "518edc44c2b44b47a656557aa2302c4b"
 msgid "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ བཀའ་ སྩལ་པ །"
 msgstr "il dit à l'honorable Ānanda :"
 
-msgctxt "line 32, E002.txt"
+msgctxt "adb1b4128e3244eeaabe8c3bb502359b"
 msgid "ཀུན་དགའ་བོ་"
 msgstr "Ānanda,"
 
-msgctxt "line 33, E002.txt"
+msgctxt "64133fa6e88b4bf28e545393d15a06ee"
 msgid "ཁྱོད་ བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ རྣམས་ ལ␣ས་ སྤོབས་པ␣ར་ གྱིས་ ཤིག  །"
 msgstr "sens-toi à la hauteur des [éléments] qui rapprochent de l'éveil."
 
-msgctxt "line 34, E002.txt"
+msgctxt "90e4f3fce7dc4470a60977a45194c9b4"
 msgid "དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ནས །"
 msgstr "», lui dit-il. Puis,"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་ཅི་ནས་འཁོར་ཐམས་ཅད་དུ་སྒྲ་དེས་གང་བར་འགྱུར་བ་དེ་:ལྟ་བུར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ལྟར།>བྱིན་གྱིས་བརླབས་སོ།
 # །
-msgctxt "line 35, E002.txt"
+msgctxt "6213165c920c4f18b770bffb0ef9186d"
 msgid ""
 "བཅོམ་ལྡན་འདས་ ཀྱིས་ ཅི་ ནས་ འཁོར་ ཐམས་ཅད་ དུ་ སྒྲ་ དེ␣ས་ གང་བ␣ར་ འགྱུར་བ་ "
 "དེ་ལྟ་ བུར་ བྱིན་ གྱིས་ བརླབས་ སོ ། །"
@@ -206,16 +205,16 @@ msgstr ""
 "faillir [l'endroit où se trouvait] chaque [membre] de son entourage."
 
 # དེ་ནས་དགེ་སློང་མང་པོ་དག་གིས་ཚིག་དེ་ལྟ་བུ་:གསུངས་པའི་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»གསུང་བའི།>སྒྲ་ཐོས་ནས།
-msgctxt "line 36, E002.txt"
+msgctxt "cc26314bf62b443fa4d62444713a6330"
 msgid ""
 "དེ་ནས་ དགེ་སློང་ མང་པོ་ དག་ གིས་ ཚིག་ དེ་ལྟ་ བུ་ གསུངས་པ␣འི་ སྒྲ་ ཐོས་ ནས །"
 msgstr "Alors, cette assemblée de moines entendirent le son de ces paroles et"
 
-msgctxt "line 37, E002.txt"
+msgctxt "bb489978ecc047749426c94002bb4843"
 msgid "དེ་དག་ གིས་ བསམས་པ །"
 msgstr "ils pensèrent : «"
 
-msgctxt "line 38, E002.txt"
+msgctxt "d0ef02d1f94544d58367cd1f838e3c74"
 msgid ""
 "བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ །  བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ "
 "ཀྱི་ གཏམ་ གྱིས་ ཤིག་པ␣ར་ བསྐུལ་བ␣ས་ ན་"
@@ -226,7 +225,7 @@ msgstr ""
 # ད་<«པེ་»དེ།>ནི་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་:སྦྲང་བུའི་<«ལི་»-སྦྲང་བུའི།
 # «ཅོ་»སྦྲང་མའི།>སྦྲང་རྩི་བཙིར་<«སྣར་»བརྩིར།>བ་བཞིན་དུ་<«ཞོལ་»-དུ།>ཆོས་སྙན་<«གཡུང་»«པེ་»«ཅོ་»ཉན༑>ནོ་ཅོག་<«ལི་»ཆོག>སྟོན་པར་འགྱུར་:སྙམ་སྟེ<«གཡུང་»«པེ་»རོ་སྙམ་སྟེ།
 # «ལི་»སྙམས་ཏེ།>།
-msgctxt "line 39, E002.txt"
+msgctxt "1fa42680f7a7438a83f975f2b51f5f25"
 msgid ""
 "ད་ནི་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ སྦྲང་བུ␣འི་ སྦྲང་རྩི་ བཙིར་བ་ བཞིན་ དུ་ "
 "ཆོས་ སྙན་ ནོ་ ཅོག་ སྟོན་པ␣ར་ འགྱུར་ སྙམ་ སྟེ །"
@@ -235,29 +234,29 @@ msgstr ""
 "entendu comme le miel [s'écoule] lors du pressage. »"
 
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་<«ལི་»ཏེ།>
-msgctxt "line 40, E002.txt"
+msgctxt "c2bb4f4b2e2d492a8d6f4c2ae571cc5f"
 msgid "བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ␣ར་ དོང་ སྟེ་"
 msgstr "Ils se dirigèrent vers le Bienheureux et"
 
-msgctxt "line 41, E002.txt"
+msgctxt "c2d794d4cbd647d9a63dfddbe59c02fe"
 msgid "ལྷགས་ ནས །"
 msgstr "arrivés là,"
 
-msgctxt "line 42, E002.txt"
+msgctxt "16ef68cc9a0945038982af3a424736b8"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ བསྐོར་ ཏེ་"
 msgstr "ils tournèrent autour du Bienheureux"
 
-msgctxt "line 43, E002.txt"
+msgctxt "e6a4c4df5ae546fbba7adc9c91216d80"
 msgid "འཁོད་ དོ ། །"
 msgstr "et s'installèrent."
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་<«ལི་»+འ།>དགའ་བོས་དགེ་སློང་རྣམས་ལ་སྨྲས་པ།
-msgctxt "line 44, E002.txt"
+msgctxt "63c1b5d2013b4bb9873c2c75a36a6254"
 msgid "དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ དགེ་སློང་ རྣམས་ ལ་ སྨྲས་པ །"
 msgstr "Alors l'honorable Ananda dit aux moines : «"
 
 # ཚེ་དང་ལྡན་པ་དག་<«ལི་»«ཅོ་»-དག>
-msgctxt "line 45, E002.txt"
+msgctxt "45878a85618848bdb7559de4210ffdc7"
 msgid "ཚེ་ དང་ ལྡན་པ་ དག་"
 msgstr "Honorables,"
 
@@ -265,7 +264,7 @@ msgstr "Honorables,"
 # རྣམ་པར་:སྤོང་བས་<«གཡུང་»«པེ་»སྤོངས་པས།>ཡོངས་སུ་བསྒྱུར་བ་ནི།
 # བཅོམ་ལྡན་འདས་ཉིད་ཀྱིས་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»ཀྱི།>མངོན་པར་ཤེས་པས།
 # མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་བསྟན་ཏོ་
-msgctxt "line 46, E002.txt"
+msgctxt "d2f090780b3d4f229d7f546ae5e0621f"
 msgid ""
 "དྲན་པ་ ཡང་དག་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ དབེན་པ་ ལ་ རྟེན་པ་ འདོད་ཆགས་ དང་ བྲལ་བ་ "
 "ལ་ རྟེན་པ་ འགོག་པ་ ལ་ རྟེན་པ །  རྣམ་པ␣ར་ སྤོང་བ␣ས་ ཡོངས་སུ་ བསྒྱུར་བ་ ནི །  "
@@ -277,7 +276,7 @@ msgstr ""
 "qui provient le l'élimination entière, le Bienheureux l'a enseigné grâce à "
 "sa clairvoyance après s'être complètement et parfaitement éveillé."
 
-msgctxt "line 47, E002.txt"
+msgctxt "20f27ca24fa24d059248d586f7740ea4"
 msgid ":␣ཚེ་ དང་ ལྡན་པ་ དག་"
 msgstr "Honorables,"
 
@@ -290,7 +289,7 @@ msgstr "Honorables,"
 # མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་བསྟན་ཏོ་<«ལི་»«ཅོ་»-ཚེ་དང་ལྡན་པ་དག་ཆོས་རྣམ་པར་འབྱེད་པ་...
 # སངས་རྒྱས་ནས་བསྟན་ཏོ།
 # (ཞེས་པའི་གཡུང་དྲུང་རྟགས་བར་གྱི་ཡི་གེ་རྣམས་«ལི་»«ཅོ་»ལ་ཆད།)>ཞེས།
-msgctxt "line 48, E002.txt"
+msgctxt "67cdfa64f7674fa2805c7b53a97f6c85"
 msgid ""
 "ཆོས་ རྣམ་པ␣ར་ འབྱེད་པ་ དང་ །  བརྩོན་འགྲུས་ དང་ །  དགའ་བ་ དང་ །  ཤིན་ཏུ་ "
 "སྦྱངས་པ་ དང་ །  ཏིང་ངེ་འཛིན་ དང་ །  བཏང་སྙོམས་ ཡང་དག་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ "
@@ -307,20 +306,20 @@ msgstr ""
 "parfaitement éveillé. » Ainsi,"
 
 # ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་བྱང་ཆུབ་ཀྱི་ཡན་ལག་[120b]འདི་དག་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»-དག>ཉིད་ལས་བརྩམས་<«ལི་»«ཅོ་»བརྩམ།>ནས་
-msgctxt "line 49, E002.txt"
+msgctxt "f5c5fac9e01b4ecd939de0f0e45a6a5c"
 msgid ""
 "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ འདི་དག་ ཉིད་ ལ␣ས་ བརྩམས་ "
 "ནས་"
 msgstr "à partir de ces facteurs de l'éveil, l'honorable Ananda"
 
 # དགེ་སློང་རྣམས་ལ་<«གཡུང་»ལས།>དེ་ལྟ་བུ་དང་འཐུན་<«གཡུང་»«པེ་»«ཞོལ་»མཐུན།>པའི་ཆོས་བསྟན་ཏེ།
-msgctxt "line 50, E002.txt"
+msgctxt "ca3d66ee7a4f4454a498fe361eacde6b"
 msgid "དགེ་སློང་ རྣམས་ ལ་ དེ་ལྟ་ བུ་ དང་ འཐུན་པ␣འི་ ཆོས་ བསྟན་ ཏེ །"
 msgstr "présenta aux moines un enseignement correspondant et"
 
 # དེས་<«གཡུང་»«པེ་»དེ།>ན་ཉན་ཐོས་དང་དགེ་བའི་རྩ་བ་འབྲེལ་པ་གང་ཡིན་པ་དེ་དག་གིས་སྟན་དེ་དག་<«ལི་»«ཅོ་»-དག>ཉིད་ལ་འཁོད་བཞིན་དུ།
 # ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ<«གཡུང་»«པེ་»ནས།>།
-msgctxt "line 51, E002.txt"
+msgctxt "2de86ae24657453fb1fc67c38e55ec96"
 msgid ""
 "དེས་ན་ ཉན་ཐོས་ དང་ དགེ་བ␣འི་ རྩ་བ་ འབྲེལ་པ་ གང་ཡིན་པ་ དེ་དག་ གིས་ སྟན་ "
 "དེ་དག་ ཉིད་ ལ་ འཁོད་ བཞིན་ དུ །  ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ །"
@@ -329,12 +328,12 @@ msgstr ""
 " éliminèrent toutes les émotions perturbatrices tandis qu'ils étaient encore"
 " assis sur leurs sièges et"
 
-msgctxt "line 52, E002.txt"
+msgctxt "b72e29d6431e4606870063b1f473002d"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
 msgstr "ils manifestèrent l'état d'arhat."
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོའི་གཏམ་གྱི་མཇུག་<«གཡུང་»«པེ་»འཇུག>རྫོགས་པར་ཐུགས་སུ་ཆུད་ནས་
-msgctxt "line 53, E002.txt"
+msgctxt "17cb381e1e794f6888f7ffb4c2630124"
 msgid ""
 "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ␣འི་ གཏམ་ གྱི་ མཇུག་ "
 "རྫོགས་པ␣ར་ ཐུགས་ སུ་ ཆུད་ ནས་"
@@ -343,83 +342,83 @@ msgstr ""
 "terminé,"
 
 # བཞུགས་<«ལི་»«ཅོ་»«ཁུ་»བཞེངས།>ཏེ།
-msgctxt "line 54, E002.txt"
+msgctxt "aa294256176a4944b3e9a1ee8c99acc4"
 msgid "བཞུགས་ ཏེ །"
 msgstr "il s'assit,"
 
 # :སྐྱིལ་མོ་ཀྲུང་<«གཡུང་»«པེ་»དཀྱིལ་མོ་དཀྲུང་། «ལི་»སྐྱིལ་མོ་དཀྲུང་།
 # «སྣར་»སྐྱིལ་མོ་དཀྲུངས༑>བཅས་ནས་
-msgctxt "line 55, E002.txt"
+msgctxt "81c58a9bbfff4f93adc794171dbbd89f"
 msgid "སྐྱིལ་མོ་ཀྲུང་ བཅས་ ནས་"
 msgstr "il croisa ses jambes,"
 
 # སྐུ་<«ལི་»བསྐུ།>དྲང་པོར་:བསྲངས་ཏེ<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»བསྲང་སྟེ།
 # «ལི་»«ཅོ་»སྲངས་ཏེ།>།
-msgctxt "line 56, E002.txt"
+msgctxt "675c3a0e799649d1928dc19ee04442b4"
 msgid "སྐུ་ དྲང་པོ␣ར་ བསྲངས་ ཏེ །"
 msgstr "il se redressa, et"
 
 # དྲན་པ་མངོན་དུ་བཞག་<«གཡུང་»«པེ་»གཞག>ནས་བཞུགས་ཏེ།
-msgctxt "line 57, E002.txt"
+msgctxt "c6d8495fda8e4c06b99315a40aca18ab"
 msgid "དྲན་པ་ མངོན་དུ་ བཞག་ ནས་ བཞུགས་ ཏེ །"
 msgstr "il se maintint dans une attention manifeste. Puis"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་:ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ<«ལི་»«ཅོ་»-ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ།>།
-msgctxt "line 58, E002.txt"
+msgctxt "d60ebaf3a6914888b10d49f438ef3153"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ བཀའ་ སྩལ་པ །"
 msgstr "le Bienheureux demanda à l'honorable Ananda : «"
 
-msgctxt "line 59, E002.txt"
+msgctxt "69ea958134f54998871fd19c682143cc"
 msgid "ཀུན་དགའ་བོ་"
 msgstr "Ānanda,"
 
 # ཁྱོད་བརྩོན་འགྲུས་:སྟོན་ཏམ<«གཡུང་»«པེ་»བསྟན་ནམ༑ «ལི་»«ཅོ་»བསྟན་ཏམ།>།
-msgctxt "line 60, E002.txt"
+msgctxt "e4903ae4011f4c40939a68c0783fd90d"
 msgid "ཁྱོད་ བརྩོན་འགྲུས་ སྟོན་ ཏམ །"
 msgstr "as-tu enseigné l'effort enthousiaste ? »"
 
-msgctxt "line 61, E002.txt"
+msgctxt "031a5cd4508c43d18b273864d6163bc4"
 msgid "གསོལ་པ །"
 msgstr "Il répondit : «"
 
 # བཅོམ་ལྡན་འདས་བརྩོན་འགྲུས་སྟོན་ལགས་སོ<«སྣར་»«ཞོལ་»-སོ།>། །
-msgctxt "line 62, E002.txt"
+msgctxt "2d89468542c942209e9dc4baac957dc3"
 msgid "བཅོམ་ལྡན་འདས་ བརྩོན་འགྲུས་ སྟོན་ ལགས་སོ ། །"
 msgstr "Bienheureux, j'ai enseigné l'effort enthousiaste. »"
 
-msgctxt "line 63, E002.txt"
+msgctxt "1e0438f2353247419dafae221191e6e4"
 msgid "བཀའ་ སྩལ་པ །"
 msgstr "[Le Bienheureux] dit : «"
 
-msgctxt "line 64, E002.txt"
+msgctxt "7cb56cfcaaf044deab45e9eef61cfb47"
 msgid "ཀུན་དགའ་བོ་"
 msgstr "Ānanda,"
 
 # ཁྱོད་<«ལི་»«ཅོ་»-ཁྱོད།>བརྩོན་འགྲུས་:སྟོན་ཏམ།
-msgctxt "line 65, E002.txt"
+msgctxt "399af52c8097465ba90655ef39d15154"
 msgid "ཁྱོད་ བརྩོན་འགྲུས་ སྟོན་ ཏམ །"
 msgstr "as-tu enseigné l'effort enthousiaste ? »"
 
-msgctxt "line 66, E002.txt"
+msgctxt "6285d69c10284a62b40fe6621cae4e40"
 msgid "གསོལ་པ །"
 msgstr "Il répondit : «"
 
-msgctxt "line 67, E002.txt"
+msgctxt "c2996bd295f2488d8d18810ca2ca1a53"
 msgid "བདེ་བ␣ར་ གཤེགས་པ་ བརྩོན་འགྲུས་ སྟོན་ ལགས་སོ ། །"
 msgstr "Sugata, j'ai enseigné l'effort enthousiaste. »"
 
-msgctxt "line 68, E002.txt"
+msgctxt "15baca9f1ae7494abe395ce6d3618ae8"
 msgid "བཀའ་ སྩལ་པ །"
 msgstr "[Le Bienheureux] dit : «"
 
-msgctxt "line 69, E002.txt"
+msgctxt "27b29833fbff4d6691ff578ff43d34b2"
 msgid "ཀུན་དགའ་བོ་"
 msgstr "Ānanda,"
 
 # བརྩོན་འགྲུས་<«གཡུང་»«པེ་»སྟོན་ཏམ།... སྟོན་པ་ལགས་... བརྩོན་འགྲུས།
 # «ལི་»«ཅོ་»-སྟོན་ཏམ།... བརྩོན་འགྲུས།>ནི།
 # བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་འགྱུར་རོ་<«སྣར་»«ཞོལ་»བའོ།>ཞེས་
-msgctxt "line 70, E002.txt"
+msgctxt "dbfde93bff4648aa9dae2332c72f424e"
 msgid ""
 "བརྩོན་འགྲུས་ ནི །  བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཏུ་ འགྱུར་ "
 "རོ་ ཞེས་"
@@ -428,18 +427,18 @@ msgstr ""
 "Ainsi"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བྱང་ཆུབ་ཀྱི་ཕྱོགས་འདི་<«སྣར་»-འདི།>དག་ཉིད་ལས་<«ལི་»«ཅོ་»ལ།>བརྩམས་ནས།
-msgctxt "line 71, E002.txt"
+msgctxt "50c478871af24aeba98313f56e14fe04"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ འདི་དག་ ཉིད་ ལ␣ས་ བརྩམས་ ནས །"
 msgstr "à partir de ces [éléments] qui rapprochent de l'éveil, le Bienheureux"
 
 # དེ་ལྟ་བུ་དང་འཐུན་པའི་ཆོས་བསྟན་<«གཡུང་»«པེ་»སྟོན།>ཏེ།
-msgctxt "line 72, E002.txt"
+msgctxt "74dce4c2dbd14d18a2bda7a930babca9"
 msgid "དེ་ལྟ་ བུ་ དང་ འཐུན་པ␣འི་ ཆོས་ བསྟན་ ཏེ །"
 msgstr "leur prodigua un enseignement semblable à celui-ci et"
 
 # :དེས་ན་<«ལི་»«ཅོ་»དེ་ནས།>བཅོམ་ལྡན་འདས་དང་དགེ་བའི་རྩ་བ་འབྲེལ་<«ལི་»«ཅོ་»དང་བྲེལ།
 # «སྣར་»«ཞོལ་»དང་འབྲེལ།>པ་གང་ཡིན་པ་དེ་དག་གིས་སྟན་དེ་དག་<«ལི་»«ཅོ་»-དག་>ཉིད་ལ་འཁོད་བཞིན་དུ་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
-msgctxt "line 73, E002.txt"
+msgctxt "26f7ff66ce53418c8bfb8147988c9e89"
 msgid ""
 "དེས་ན་ བཅོམ་ལྡན་འདས་ དང་ དགེ་བ␣འི་ རྩ་བ་ འབྲེལ་པ་ གང་ཡིན་པ་ དེ་དག་ གིས་ སྟན་"
 " དེ་དག་ ཉིད་ ལ་ འཁོད་ བཞིན་ དུ་ ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ནས །"
@@ -449,47 +448,47 @@ msgstr ""
 "étaient encore assis sur leurs sièges et"
 
 # དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་<«སྣར་»«ཞོལ་»-སུམ།>དུ་བྱས་ཏེ།
-msgctxt "line 74, E002.txt"
+msgctxt "16dcc6051cde41b284810dc3d8757769"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ ཏེ །"
 msgstr "ils manifestèrent l'état d'arhat."
 
 # དེ་དག་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»-དག>དགྲ་བཅོམ་པ་<«གཡུང་»«པེ་»པའི།>ཁམས་གསུམ་པའི་<«སྣར་»«ཞོལ་»+འདོད་པའི།>འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།
-msgctxt "line 75, E002.txt"
+msgctxt "06660e5dc60c41239d35e08d46302d8e"
 msgid "དེ་དག་ དགྲ་བཅོམ་པ་ ཁམས་ གསུམ་པ␣འི་ འདོད་ཆགས་ དང་ བྲལ་བ␣ར་ གྱུར་ ནས །"
 msgstr ""
 "ils devinrent des arhats libres de l'attachement aux trois mondes. Ainsi,"
 
 # གསེར་དང་བོང་བར་<«གཡུང་»«པེ་»བ།>མཉམ་པ།
-msgctxt "line 76, E002.txt"
+msgctxt "39a4ca16322b45c0bd479b71df763c87"
 msgid "གསེར་ དང་ བོང་བ␣ར་ མཉམ་པ །"
 msgstr ""
 "[un morceau] d'or et une motte de terre étaient identiques [à leurs yeux] ;"
 
 # ནམ་མཁའ་དང་ལག་མཐིལ་<«གཡུང་»«པེ་»«སྣར་»«ཁུ་»«ཞོལ་»+དུ།>འདྲ་བའི་སེམས་དང་ལྡན་པ།
-msgctxt "line 77, E002.txt"
+msgctxt "568dfa22d65e463fa343c5511cc0d588"
 msgid "ནམ་མཁའ་ དང་ ལག་མཐིལ་ འདྲ་བ␣འི་ སེམས་ དང་ ལྡན་པ །"
 msgstr ""
 "ils possèdaient un esprit [pour lequel] l'espace et la paume de la main sont"
 " similaires ;"
 
-msgctxt "line 78, E002.txt"
+msgctxt "7b3fc921a79d431893391a2e7a12b043"
 msgid "ཙན་དན་ སྦངས་པ་ ལྟ་བུ␣ར་ བསིལ་བ␣ར་ གྱུར་པ །"
 msgstr "ils [possédaient] la fraîcheur du [bois de] santal trempé ;"
 
 # རིག་པས་སྒོ་ངའི་སྦུབས་<«གཡུང་»སྦུགས། «ལི་»«ཅོ་»སྦུབ།>བཅོམ་པ།
-msgctxt "line 79, E002.txt"
+msgctxt "59c5c793e05a42bc84b6c45f5bb7c844"
 msgid "རིག་པ␣ས་ སྒོ་ང␣འི་ སྦུབས་ བཅོམ་པ །"
 msgstr "leur sagesse avait brisé la coque ;"
 
 # རིག་པ་དང་<«ལི་»«ཅོ་»-དང༌།>མངོན་པར་ཤེས་པ་དང་། སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ།
-msgctxt "line 80, E002.txt"
+msgctxt "fbba1ac44b3844d58194bf34eb87b4e1"
 msgid "རིག་པ་ དང་ མངོན་པར་ ཤེས་པ་ དང་ །  སོ་སོ་ ཡང་དག་པ␣ར་ རིག་པ་ ཐོབ་པ །"
 msgstr ""
 "ils avaient obtenu la connaissance, la clairvoyance et la parfaite "
 "discrimination ;"
 
 # སྲིད་པའི་རྙེད་པ་དང་། ཆགས་པ་དང་། བཀུར་སྟི་<«སྣར་»བསྟི།>ལ་མི་ལྟ་བ།
-msgctxt "line 81, E002.txt"
+msgctxt "256b7a96cb8e428388f958b2462d7698"
 msgid "སྲིད་པ␣འི་ རྙེད་པ་ དང་ །  ཆགས་པ་ དང་ །  བཀུར་སྟི་ ལ་ མི་ལྟ་བ །"
 msgstr ""
 "ils s'étaient détournés des biens du samsara, des désirs et des éloges ;"
@@ -497,7 +496,7 @@ msgstr ""
 # དབང་པོ་དང་།
 # ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«པེ་»བརྗེད།>པ་དང་།
 # གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་<«ལི་»འགྱུར།>ཏོ། །<«གཡུང་»«པེ་»+དེ།>
-msgctxt "line 82, E002.txt"
+msgctxt "ca8ad9e5b1b54862b8bef784c62b2e11"
 msgid ""
 "དབང་པོ་ དང་ །  ཉེ་དབང་ དང་ བཅས་པ␣འི་ ལྷ་ རྣམས་ ཀྱིས་ མཆོད་ ཅིང་ རྗེད་པ་ དང་ "
 "།  གུས་པ␣ར་ སྨྲ་བ␣འི་ གནས་ སུ་ གྱུར་ ཏོ ། །"
@@ -505,40 +504,40 @@ msgstr ""
 "ils étaient désormais les réceptacles des offrandes, de la vénération et des"
 " paroles respectueuses de Indra, Upendra et des autres dieux."
 
-msgctxt "line 83, E002.txt"
+msgctxt "012b9642e65f44c49ec7ba2d6b372f41"
 msgid "དེ་ནས་ དེ␣འི་ ཚེ་ དགེ་སློང་ ཞིག་ གིས་ ཚིགས་ སུ་ བཅད་ དེ་ སྨྲས་པ །"
 msgstr "Ensuite, à cette occasion, un moine s'exprima en vers : «"
 
 # སྙན་པའི་ཆོས་ནི་གསན་པའི་ཕྱིར།
 # །སྟོན་པ་:སྙུན་བཞིན་<«གཡུང་»«པེ་»«སྣར་»སྙུང་བཞིན༑
 # «ལི་»«ཅོ་»ལྷུན་ཞིང་།>ཉིད་[121a]ཀྱིས་བསྐུལ། །
-msgctxt "line 84, E002.txt"
+msgctxt "127015203ff7488d9015d34ea72c1679"
 msgid ""
-"སྙན་པ␣འི་ ཆོས་ ནི་ གསན་པ␣འི་ ཕྱིར ། ། སྟོན་པ་ སྙུན་ བཞིན་ ཉིད་ ཀྱིས་ བསྐུལ །"
-" །"
+"སྙན་པ␣འི་ ཆོས་ ནི་ གསན་པ␣འི་ ཕྱིར ། ། སྟོན་པ་ སྙུན་ བཞིན་ ཉིད་ ཀྱིས་ བསྐུལ "
+"། །"
 msgstr ""
 "Afin d'écouter le Dharma plaisant, Enseignant, malgré votre maladie vous "
 "avez vous-même requis [l'enseignement] :"
 
 # ཁྱོད་ལ་བྱང་ཆུབ་ཡན་ལག་རྣམས།
 # །ཡོད་ན་དགེ་སློང་ཁྱོད་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»ཆོས།>ཤོད་ཅིག །
-msgctxt "line 85, E002.txt"
+msgctxt "d2ce64ec54c144679dcd86423a70a0cc"
 msgid "ཁྱོད་ ལ་ བྱང་ཆུབ་ ཡན་ལག་ རྣམས ། ། ཡོད་ ན་ དགེ་སློང་ ཁྱོད་ ཤོད་ ཅིག  །"
 msgstr "\" Si tu possèdes les facteurs de l'éveil, Moine, expose-les \""
 
 # གནས་བརྟན་<«གཡུང་»རྟན།>ཀུན་དགའ་མཁས་ཤིང་གྲགས<«ཁུ་»འགུགས།>། །
-msgctxt "line 86, E002.txt"
+msgctxt "a5c54e7c5d1343049a95c8f2122aedd0"
 msgid "གནས་བརྟན་ ཀུན་དགའ་ མཁས་ ཤིང་ གྲགས ། །"
 msgstr "Ananda l'Ancien, érudit et renommé,"
 
 # :བྱང་བར་<«པེ་»ཁྱད་པར།>གྱུར་པས་ལེགས་ཞེས་གསོལ། །
-msgctxt "line 87, E002.txt"
+msgctxt "b0665894b0434fc1aff25f4801e8a6a3"
 msgid "བྱང་བ␣ར་ གྱུར་པ␣ས་ ལེགས་ ཞེས་ གསོལ ། །"
 msgstr "Puisqu'il les maîtrise, il a répondu : « [Très] bien. »"
 
 # དཔའ་བོ་ཁྱོད་ཀྱི་གསུང་<«གཡུང་»+བ། «ལི་»«ཅོ་»གསུངས།>རབ་ལ།
 # །དཀར་བའི་ཆོས་རྣམས་དེ་དག་མངའ། །
-msgctxt "line 88, E002.txt"
+msgctxt "d4b96aaf0e2d4d6781a651e5bb79db7f"
 msgid "དཔའ་བོ་ ཁྱོད་ ཀྱི་ གསུང་རབ་ ལ ། ། དཀར་བ␣འི་ ཆོས་ རྣམས་ དེ་དག་ མངའ ། །"
 msgstr ""
 "Les enseignements du héros que Vous êtes Contiennent les [éléments] "
@@ -547,37 +546,37 @@ msgstr ""
 # དྲན་དང་རྣམ་འབྱེད་བརྩོན་འགྲུས་དང་།
 # །དགའ་དང་རབ་སྦྱངས་ཏིང་<«གཡུང་»+ངེ་།>འཛིན་དང་། །བཏང་སྙོམས་འདི་དག་རྡུལ་མེད་པ།
 # །ཁྱོད་ཀྱི་བྱང་ཆུབ་ཡན་ལག་ལགས། །
-msgctxt "line 89, E002.txt"
+msgctxt "95c4dabbd69543008ba0e30edb908a62"
 msgid ""
-"དྲན་ དང་ རྣམ་འབྱེད་ བརྩོན་འགྲུས་ དང་ ། ། དགའ་ དང་ རབ་ སྦྱངས་ ཏིང་འཛིན་ དང་ །"
-" ། བཏང་སྙོམས་ འདི་དག་ རྡུལ་མེད་པ ། ། ཁྱོད་ ཀྱི་ བྱང་ཆུབ་ ཡན་ལག་ ལགས ། །"
+"དྲན་ དང་ རྣམ་འབྱེད་ བརྩོན་འགྲུས་ དང་ ། ། དགའ་ དང་ རབ་ སྦྱངས་ ཏིང་འཛིན་ དང་ "
+"། ། བཏང་སྙོམས་ འདི་དག་ རྡུལ་མེད་པ ། ། ཁྱོད་ ཀྱི་ བྱང་ཆུབ་ ཡན་ལག་ ལགས ། །"
 msgstr ""
 "L'attention, le discernement, l'effort enthousiaste, La joie, la "
 "malléabilité, l'absorption méditative et l'équanimité, Ces [facteurs] "
 "immaculés, Sont les facteurs de votre [propre] éveil."
 
-msgctxt "line 90, E002.txt"
+msgctxt "879990e31552490d8e5ad4863eebd6a0"
 msgid "བྱང་ཆུབ་ ཡན་ལག་ བཅུད་ ཐོས་ ནས ། །"
 msgstr "Ces sucs nourriciers, ces facteurs de l'éveil sont entendus, Puis"
 
-msgctxt "line 91, E002.txt"
+msgctxt "d45fa9a2fc2a4db9914792bc079c4065"
 msgid "བྱང་ཆུབ་ ཡན་ལག་ བཅུད་ ཀྱང་ རྟོགས ། །"
 msgstr "Ces sucs nourriciers, ces facteurs de l'éveil sont réalisés."
 
 # བཅོམ་ལྡན་སྙུན་<«གཡུང་»«པེ་»འདས་སྙུང་།
 # «ལི་»«ཅོ་»ལྷུང་།>ཚབས་ཆེ་:བ་ལས<«གཡུང་»«པེ་»བས།>། །
-msgctxt "line 92, E002.txt"
+msgctxt "a26883a6967d4017bfb70cc2b9d90dde"
 msgid "བཅོམ་ལྡན་ སྙུན་ ཚབས་ ཆེ་བ་ ལ␣ས ། །"
 msgstr "le Bienheureux souffrait d'un grand mal ; Désormais"
 
 # གནོད་པ་དེ་ལས་:ཞི་བར་<«གཡུང་»གཞེངས།«པེ་»«སྣར་»«ཞོལ་»བཞེངས་པར།>གྱུར། །
-msgctxt "line 93, E002.txt"
+msgctxt "b90bc6b7933d41f7bc0ead29fba2d2ba"
 msgid "གནོད་པ་ དེ་ལས་ ཞི་བ␣ར་ གྱུར ། །"
 msgstr "ce [mal] qui Vous éreintait est apaisé."
 
 # དམ་ཆོས་རིན་ཆེན་འདི་སྟོན་<«གཡུང་»«པེ་»བསྟན།>པའི།
 # །ཆོས་ཀྱི་མངའ་བདག་དེ་ཉིད་ཀྱང་། །དམ་ཆོས་གསན་པར་བཞེད་གྱུར་ན། །
-msgctxt "line 94, E002.txt"
+msgctxt "74f20b8ad2064719ab72b5ef4c330146"
 msgid ""
 "དམ་ཆོས་ རིན་ཆེན་ འདི་ སྟོན་པ␣འི ། ། ཆོས་ ཀྱི་ མངའ་བདག་ དེ་ཉིད་ ཀྱང་ ། ། "
 "དམ་ཆོས་ གསན་པ␣ར་ བཞེད་ གྱུར་ ན ། །"
@@ -587,7 +586,7 @@ msgstr ""
 
 # གཞན་ལྟ་:ཅི་ལྟར་དེ་མི་ཉན<«གཡུང་»ཇི་ལྟར་དེ་མི་སྟོན། «ལི་»«ཅོ་»དེ་ལྟ་དེ་མི་ཉན།
 # «པེ་»ཇི་ལྟར་དེ་མ་ཉན། «སྣར་»«ཞོལ་»ཇི་ལྟར་དེ་ནི་ཉན།>། །
-msgctxt "line 95, E002.txt"
+msgctxt "aed9f279f1c0409ba3fd873f1c48dc87"
 msgid "གཞན་ ལྟ་ཅི་ ལྟར་ དེ་ མི་ ཉན ། །"
 msgstr "Comment pourrait n'importe qui d'autre ne pas vouloir l'écouter ?"
 
@@ -595,7 +594,7 @@ msgstr "Comment pourrait n'importe qui d'autre ne pas vouloir l'écouter ?"
 # །བསྟན་པ་གང་ཡིན་དེ་ཉིད་ཀྱང་།
 # །ཆོས་མཉན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཉན།>འདོད་པས་གཟིར་<«ལི་»«པེ་»གཟེང་།>བར་འགྱུར<«སྣར་»«ཞོལ་»གྱུར།>།
 # །
-msgctxt "line 96, E002.txt"
+msgctxt "d01a3593a5194ecfa8348668a03eb1ea"
 msgid ""
 "སྟོབས་ བཅུ་ མངའ་བ␣ས་ ཉེ་ རྒྱལ་ ནི ། ། དགེ་སློང་ རྣམས་ ཀྱི་ ཤེས་རབ་ མཆོག  ། "
 "བསྟན་པ་ གང་ཡིན་ དེ་ཉིད་ ཀྱང་ ། ། ཆོས་ མཉན་ འདོད་པ␣ས་ གཟིར་བ␣ར་ འགྱུར ། །"
@@ -604,28 +603,28 @@ msgstr ""
 "pour sa sagesse parmi les moines – est lui aussi submergé par le désir "
 "d'entendre ce Dharma."
 
-msgctxt "line 97, E002.txt"
+msgctxt "1935ffb7d4d04a7788159fc619e287a8"
 msgid "མདོ་སྡེ་ འདུལ་བ་ མ་མོ་ འཛིན ། །"
 msgstr "Ils détiennent les sūtras, le vinaya et le mātṛkā,"
 
-msgctxt "line 98, E002.txt"
+msgctxt "f3f20f3505f54c1cb3c43be7ac10d591"
 msgid "མཁས་ ཤིང་ ཚུལ་ དང་ ཚུལ་མིན་ ཤེས ། །"
 msgstr "Ils sont érudits, savent ce qui est juste et ce qui ne l'est pas,"
 
 # དེ་དག་དམ་ཆོས་ཉན་བྱེད་<«གཡུང་»+པ།>ན། །གཞན་ལྟ་<«ལི་»«ཅོ་»བལྟ།>ཇི་ལྟར་དེ་མི་ཉན།
 # །
-msgctxt "line 99, E002.txt"
+msgctxt "b4baa7bee327438d94c88ceb191258ae"
 msgid "དེ་དག་ དམ་ཆོས་ ཉན་ བྱེད་ ན ། ། གཞན་ ལྟ་ ཇི་ལྟར་ དེ་ མི་ ཉན ། །"
 msgstr ""
 "Si même eux écoutent ce noble Dharma, Comment pourrait n'importe qui d'autre"
 " ne pas vouloir l'écouter ?"
 
 # མཁས་པ་ཤེས་འདོད་སེམས་བཞག་<«གཡུང་»བཞིག>ནས། །
-msgctxt "line 100, E002.txt"
+msgctxt "77a9323a069943e08016a8585da0b12c"
 msgid "མཁས་པ་ ཤེས་ འདོད་སེམས་ བཞག་ ནས ། །"
 msgstr "Ils délaissent l'idée [d'être] érudit, [celle] de [tout] savoir,"
 
-msgctxt "line 101, E002.txt"
+msgctxt "f00b13aec90743778682fbe103c7a28c"
 msgid ""
 "ཆོས་བཞིན་ ཉན་པ␣ར་ བྱེད་པ་ ནི ། ། སངས་རྒྱས་ གསུང་རབ་ སྐྱོན་མེད་ ལ ། ། "
 "དེ་བཞིན་ དགའ་བ་ ཐོབ་པ␣ར་ འགྱུར ། །"
@@ -633,7 +632,7 @@ msgstr ""
 "Ils écoutent [ce Dharma] de la manière juste : C'est ainsi qu'ils toucheront"
 " à la joie des Enseignements immaculés du Bouddha."
 
-msgctxt "line 102, E002.txt"
+msgctxt "e0afd3ed04124f9d99a811057d421fe3"
 msgid ""
 "ཡིད་ དགའ་ ལུས་ ཀྱང་ ཤིན་ཏུ་ སྦྱངས ། ། བདེ་བ་ ཡང་ ནི་ མྱོང་བ␣ར་ འགྱུར ། །"
 msgstr ""
@@ -641,76 +640,76 @@ msgstr ""
 "ainsi l'expérience de la félicité."
 
 # བདེ་:བར་གྱུར་ནས་<«གཡུང་»«པེ་»«སྣར་»བར་གྱུར་ན། «ལི་»«ཅོ་»བ་གྱུར་ནས༑>
-msgctxt "line 103, E002.txt"
+msgctxt "4f7e155b43f443b798fb7bb809179b73"
 msgid "བདེ་བ␣ར་ གྱུར་ ནས་"
 msgstr "Forts de cette félicité,"
 
 # སེམས་ཉིད་ཀྱིས<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»ཀྱི།>། །ཏིང་འཛིན་ལ་ཡང་རེག་པར་འགྱུར། །
-msgctxt "line 104, E002.txt"
+msgctxt "9af3741e26e344c496c01a2fa82949fa"
 msgid "སེམས་ཉིད་ ཀྱིས ། ། ཏིང་འཛིན་ ལ་ ཡང་ རེག་པ␣ར་ འགྱུར ། །"
 msgstr "leur esprit, quant à lui, Atteindra l'absorption méditative."
 
 # སེམས་ནི་མཉམ་པར་གཞག་<«སྣར་»«ཞོལ་»བཞག>པ་ཡིས།
 # །འདུ་བྱེད་ཡུལ་<«སྣར་»གཡུལ།>གྱི་རྣམ་པར་<«སྣར་»«ཞོལ་»པ།>རིག །
-msgctxt "line 105, E002.txt"
+msgctxt "7dcb99822aa44e2e89cde933accb53ef"
 msgid "སེམས་ ནི་ མཉམ་པ␣ར་ གཞག་པ་ ཡིས ། ། འདུ་བྱེད་ ཡུལ་ གྱི་ རྣམ་པ␣ར་ རིག  །"
 msgstr ""
 "Leur esprit, grâce à l'absorption méditative, Prendra conscience du "
 "[caractère] composé des objets de perception."
 
 # སྲིད་པའི་འགྲོ་ལས་སྐྱོ་<«ལི་»«ཅོ་»སྐྱོང་།>བར་འགྱུར། །
-msgctxt "line 106, E002.txt"
+msgctxt "8157554acd4347dc96c7582f68512961"
 msgid "སྲིད་པ␣འི་ འགྲོ་ ལ␣ས་ སྐྱོ་བ␣ར་ འགྱུར ། །"
 msgstr "Ils seront désenchantés des conditions samsariques ; "
 
 # ཆགས་མེད་སེམས་ཀྱིས་<«ལི་»«ཅོ་»ཀྱི།>གྲོལ་བར་འགྱུར། །
-msgctxt "line 107, E002.txt"
+msgctxt "e31fb13e28334aac86c44176bf184ed4"
 msgid "ཆགས་ མེད་ སེམས་ ཀྱིས་ གྲོལ་བ␣ར་ འགྱུར ། །"
 msgstr "l'esprit du non-attachement les libérera."
 
 # རྟག་ཏུ་སྲིད་འགྲོ་སྐྱོ་གྱུར་<«གཡུང་»«པེ་»འགྱུར།>ན། །
-msgctxt "line 108, E002.txt"
+msgctxt "76dba8aef87f4ac5880d5efedaf644a9"
 msgid "རྟག་ ཏུ་ སྲིད་ འགྲོ་ སྐྱོ་ གྱུར་ ན ། །"
 msgstr "S'ils sont continuellement désenchantés des conditions samsariques,"
 
-msgctxt "line 109, E002.txt"
+msgctxt "db34876789474afeb8b0821f20be23e2"
 msgid "ལྷ་ དང་ མི་ལ་ ཆགས་པ་ མེད ། །"
 msgstr ""
 "ils n'auront plus d'attachement pour [la condition] des dieux et des hommes."
 
 # བུད་ཤིང་མེད་པའི་མེ་བཞིན་དུ། །དགྲ་བཅོམ་རྣམས་ནི་མྱ་ངན་འདའ<«གཡུང་»«པེ་»འདས།>། །
-msgctxt "line 110, E002.txt"
+msgctxt "ca97fc6a5d0e4638a8ffda9569fc72a9"
 msgid "བུད་ཤིང་ མེད་པ␣འི་ མེ་ བཞིན་ དུ ། ། དགྲ་བཅོམ་ རྣམས་ ནི་ མྱ་ངན་ འདའ ། །"
 msgstr ""
 "Comme un feu dont le bois est consommé, Les arhats partent au-delà de la "
 "souffrance."
 
 # དམ་ཆོས་མཉན་<«ལི་»«ཅོ་»ཉན།>པའི་ཕན་ཡོན་ནི། །མང་པོ་གཞན་ཡང་རྒྱལ་བས་བསྟན། །
-msgctxt "line 111, E002.txt"
+msgctxt "da45b3c1184147b19030a97c5c586660"
 msgid "དམ་ཆོས་ མཉན་པ␣འི་ ཕན་ཡོན་ ནི ། ། མང་པོ་ གཞན་ ཡང་ རྒྱལ་བ␣ས་ བསྟན ། །"
 msgstr ""
 "Le Vainqueur a détaillé bien d'autres bienfaits d'écouter ce précieux "
 "Dharma."
 
 # དེ་ཕྱིར་འདི་<«སྣར་»«ཞོལ་»འདིར།>ནི་ཡོད་སྙམ་དུ། །སྟོན་པའི་བཀའ་ནི་མཉན་པར་བྱ། །
-msgctxt "line 112, E002.txt"
+msgctxt "d838ed3dd70d405386548391205da2cf"
 msgid "དེ་ཕྱིར་ འདི་ ནི་ ཡོད་ སྙམ་ དུ ། ། སྟོན་པ␣འི་ བཀའ་ ནི་ མཉན་པ␣ར་ བྱ ། །"
 msgstr ""
 "C'est pourquoi, pensant que [l'écouter] apporte ces [bienfaits], Écoutons la"
 " parole de l'Enseignant."
 
-msgctxt "line 113, E002.txt"
+msgctxt "85945a99b973448bbdfc145394528fb4"
 msgid "དེ་ནས་ དགེ་སློང་ རྣམས་ ཀྱིས་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ ལ་ གསོལ་པ །"
 msgstr "Puis les moines s'adressèrent au Bienheureux Bouddha : «"
 
-msgctxt "line 114, E002.txt"
+msgctxt "725c0fbed47d4658adab9d3a51c3d65c"
 msgid "བཙུན་པ་"
 msgstr "Vénérable,"
 
 # བཅོམ་ལྡན་འདས་ནི་ལེགས་པར་:སྨྲས་པ་<«ལི་»«ཅོ་»སྨྲ་བ།>གསུང་བ་དང་།
 # ལེགས་[121b]པར་:སྨྲས་པར་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»སྨྲས་པ།
 # «མི་»«ཅོ་»སྨྲ་བར།>བཞེད་པ་ལགས་ཏེ<«ཅོ་»སྟེ།>།
-msgctxt "line 115, E002.txt"
+msgctxt "f0a97e497af3478c899a34b4605f9d2d"
 msgid ""
 "བཅོམ་ལྡན་འདས་ ནི་ ལེགས་པ␣ར་ སྨྲས་པ་ གསུང་བ་ དང་ །  ལེགས་པ␣ར་ སྨྲས་པ␣ར་ "
 "བཞེད་པ་ ལགས་ ཏེ །"
@@ -720,7 +719,7 @@ msgstr ""
 
 # ལེགས་པར་:སྨྲས་པའི་<«ལི་»«ཅོ་»སྨྲ་བའི།>དོན་གྱི་སླད་དུ།
 # བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བསྐུལ་<«ཅོ་»བསྐུར།>བ་<«གཡུང་»«པེ་»བར།>མཛད་ནས།
-msgctxt "line 116, E002.txt"
+msgctxt "e2096187617742e18f5008b0dabbf0f5"
 msgid ""
 "ལེགས་པ␣ར་ སྨྲས་པ␣འི་ དོན་ གྱི་ སླད་ དུ །  བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་"
 " ཀུན་དགའ་བོ་ ལ་ བསྐུལ་བ་ མཛད་ ནས །"
@@ -729,26 +728,26 @@ msgstr ""
 "excellent."
 
 # བཀུར་སྟི་<«སྣར་»བསྟི།>དང་ལྡན་པས་གསན་ཀྱང་གསན།
-msgctxt "line 117, E002.txt"
+msgctxt "d0a67f43be8d411bae0330e953dca860"
 msgid "བཀུར་སྟི་ དང་ ལྡན་པ␣ས་ གསན་ ཀྱང་ གསན །"
 msgstr "Il l'a aussi dûment écouté avec respect et"
 
 # བཤད་ཀྱང་བཤད་པ་ལ་<«གཡུང་»«པེ་»-ལ།>གཟིགས།
-msgctxt "line 118, E002.txt"
+msgctxt "e3885f48d8ff41639f7f31e1dcc7b27d"
 msgid "བཤད་ ཀྱང་ བཤད་པ་ ལ་ གཟིགས །"
 msgstr "il l'a dûment exposé. Posez-y votre regard. »"
 
-msgctxt "line 119, E002.txt"
+msgctxt "7eef06cd34004e138ecb63d7b00d92ec"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
 msgstr "Le Bienheureux répondit : «"
 
-msgctxt "line 120, E002.txt"
+msgctxt "c1812ecba5494dc590ad196485a12827"
 msgid "དགེ་སློང་ དག་"
 msgstr "Moines,"
 
 # དེ་བཞིན་གཤེགས་པ་ནི་ད་<«གཡུང་»«པེ་»དེ།>ལྟར་འབའ་ཞིག་ལེགས་པར་སྨྲས་པ་:གསུང་བ་<«ལི་»«ཅོ་»གསུངས་པ།>དང་།
 # ལེགས་པར་སྨྲས་པ་བཞེད་པ་མ་ཡིན་གྱིས<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»གྱི།>།
-msgctxt "line 121, E002.txt"
+msgctxt "5b3998a9bf2f4331b9f87e88f607ad7f"
 msgid ""
 "དེ་བཞིན་ གཤེགས་པ་ ནི་ ད་ལྟར་ འབའ་ཞིག་ ལེགས་པ␣ར་ སྨྲས་པ་ གསུང་བ་ དང་ །  "
 "ལེགས་པ␣ར་ སྨྲས་པ་ བཞེད་པ་ མ་ ཡིན་ གྱིས །"
@@ -759,10 +758,10 @@ msgstr ""
 
 # དེ་བཞིན་གཤེགས་པ་ནི་འདས་པའི་དུས་ན་ཡང་ལེགས་པར་:སྨྲས་པ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»སྨྲ་པ།>གསུང་བ་དང་།
 # ལེགས་པར་སྨྲས་པ་བཞེད་པ་ཡིན་ཏེ།
-msgctxt "line 122, E002.txt"
+msgctxt "0af61bf9de4c4430933415581c318169"
 msgid ""
-"དེ་བཞིན་ གཤེགས་པ་ ནི་ འདས་པ␣འི་ དུས་ ན་ ཡང་ ལེགས་པ␣ར་ སྨྲས་པ་ གསུང་བ་ དང་ །"
-"  ལེགས་པ␣ར་ སྨྲས་པ་ བཞེད་པ་ ཡིན་ ཏེ །"
+"དེ་བཞིན་ གཤེགས་པ་ ནི་ འདས་པ␣འི་ དུས་ ན་ ཡང་ ལེགས་པ␣ར་ སྨྲས་པ་ གསུང་བ་ དང་ ། "
+" ལེགས་པ␣ར་ སྨྲས་པ་ བཞེད་པ་ ཡིན་ ཏེ །"
 msgstr ""
 "Dans le passé, le Tathāgata a aussi déclaré que [le Dharma] avait été "
 "excellemment exposé et il a [aussi] approuvé [le Dharma] excellemment "
@@ -770,7 +769,7 @@ msgstr ""
 
 # ལེགས་པར་སྨྲས་པའི་དོན་གྱི་ཕྱིར།
 # ངས་མཆོག་ཏུ་དཀའ་བ་ཇི་ལྟར་སྤྱད་<«ཅོ་»སྤྱོད།>པ་དེ་ཉོན་ཅིག །
-msgctxt "line 123, E002.txt"
+msgctxt "f7612e99b0d941e5bac1b384e26615bd"
 msgid ""
 "ལེགས་པ␣ར་ སྨྲས་པ␣འི་ དོན་ གྱི་ ཕྱིར །  ངས་ མཆོག་ ཏུ་ དཀའ་བ་ ཇི་ལྟར་ སྤྱད་པ་ "
 "དེ་ ཉོན་ ཅིག  །"
@@ -778,14 +777,14 @@ msgstr ""
 "Écoutez les difficultés que j'ai traversées pour [écouter le Dharma] "
 "excellemment exposé."
 
-msgctxt "line 124, E002.txt"
+msgctxt "ab2fdd8dcfc74a7aac8f17abf357b136"
 msgid "དགེ་སློང་ དག་"
 msgstr "Moines,"
 
 # སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། རྒྱལ་པོའི་ཕོ་བྲང་བཞི་<«གཡུང་»«པེ་»ཞི།
 # «སྣར་»ཞིང་།>ལྡན་ཞེས་བྱ་བ་ན། རྒྱལ་པོ་<«ཁུ་»པོའི།>ཤི་བི་<«གཡུང་»བཱི།
 # «པེ་»བའི།>ཞེས་བྱ་བ་རྒྱལ་པོ་བྱེད་དེ།
-msgctxt "line 125, E002.txt"
+msgctxt "c7ff1c0fca404751932c45d99e76188e"
 msgid ""
 "སྔོན་བྱུང་བ་ འདས་པ␣འི་ དུས་ ན །  རྒྱལ་པོ␣འི་ ཕོ་བྲང་ བཞི་ ལྡན་ ཞེས་ བྱ་བ་ ན "
 "།  རྒྱལ་པོ་ ཤི་ བི་ ཞེས་ བྱ་བ་ རྒྱལ་པོ་ བྱེད་ དེ །"
@@ -798,11 +797,11 @@ msgstr ""
 # འཁྲུག་པ་<«གཡུང་»«པེ་»-པ་ཞི་བ་དང་། འཁྲུག «སྣར་»«ཞོལ་»མོ་ཞི་བ་དང༌། འཁྲུག>དང་།
 # ནང་འཁྲུག་དང་། ཆོམ་<«སྣར་»ཆོམས།>རྐུན་དང་། ནད་དང་། མུ་གེ་མེད་པ་དང་།
 # འབྲས་སཱ་<«གཡུང་»ས།>ལུ་དང་། བུ་རམ་ཤིང་དང་། བ་ལང་དང་། མ་ཧེ་དང་ལྡན་པར་འདུག་སྟེ།
-msgctxt "line 126, E002.txt"
+msgctxt "76b546fbe398471a81cab94ae022e48e"
 msgid ""
-"དེ␣འི་ རིང་ ལ་ འབྱོར་པ་ དང་ །  རྒྱས་པ་ དང་ །  བདེ་བ་ དང་ །  ལོ་ལེགས་པ་ དང་ །"
-"  སྐྱེ་བོ་ དང་ །  མི་ མང་པོ␣ས་ གང་བ་ དང་ །  རྩོད་པ་ དང་ །  འཐབ་པ་ ཞི་བ་ དང་ "
-"།  འཁྲུག་པ་ དང་ །  ནང་འཁྲུག་ དང་ །  ཆོམ་རྐུན་ དང་ །  ནད་ དང་ །  མུ་གེ་ "
+"དེ␣འི་ རིང་ ལ་ འབྱོར་པ་ དང་ །  རྒྱས་པ་ དང་ །  བདེ་བ་ དང་ །  ལོ་ལེགས་པ་ དང་ "
+"།  སྐྱེ་བོ་ དང་ །  མི་ མང་པོ␣ས་ གང་བ་ དང་ །  རྩོད་པ་ དང་ །  འཐབ་པ་ ཞི་བ་ དང་"
+" །  འཁྲུག་པ་ དང་ །  ནང་འཁྲུག་ དང་ །  ཆོམ་རྐུན་ དང་ །  ནད་ དང་ །  མུ་གེ་ "
 "མེད་པ་ དང་ །  འབྲས་ སཱ་ ལུ་ དང་ །  བུ་རམ་ཤིང་ དང་ །  བ་ལང་ དང་ །  མ་ཧེ་ དང་ "
 "ལྡན་པ␣ར་ འདུག་ སྟེ །"
 msgstr ""
@@ -812,18 +811,18 @@ msgstr ""
 "voleurs, de cambrioleurs, de maladies et de famine. On y trouvait du riz, de"
 " la canne à sucre, des vaches et des buffles."
 
-msgctxt "line 127, E002.txt"
+msgctxt "fcbd51384e1249c8b6f024b395d5140c"
 msgid "གནོད་པ་ མེད་ ཅིང་"
 msgstr "Sans faire de mal,"
 
 # ཚེར་མ་དཀྲུགས་<«སྣར་»བཀྲུགས།>ལ་
-msgctxt "line 128, E002.txt"
+msgctxt "dfd426e1eb554bf29a5318f418d48265"
 msgid "ཚེར་མ་ དཀྲུགས་ ལ་"
 msgstr "neutralisant les fauteurs de troubles,"
 
 # བུ་གཅིག་<«གཡུང་»«པེ་»ཅིག>པ་སྡུག་པ་ལ་བྱ་བ་བཞིན་དུ་ཆོས་བཞིན་དུ་རྒྱལ་སྲིད་བྱེད་དོ།
 # །
-msgctxt "line 129, E002.txt"
+msgctxt "79c9896cad954628b9a0e82788811c19"
 msgid ""
 "བུ་ གཅིག་པ་ སྡུག་པ་ ལ་ བྱ་བ་ བཞིན་ དུ་ ཆོས་བཞིན་ དུ་ རྒྱལ་སྲིད་ བྱེད་ དོ ། །"
 msgstr ""
@@ -832,7 +831,7 @@ msgstr ""
 
 # རྒྱལ་པོ་དེ་ཡང་བྱམས་པའི་རང་བཞིན་ཅན། སྙིང་རྗེ་དང་ལྡན་པ།
 # སེམས་ཅན་ལ་བྱམས་པའི་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>སྦྱིན་པ་ལ་སྲེད་པ་ཞིག་སྟེ<«ལི་»ཏེ།>།
-msgctxt "line 130, E002.txt"
+msgctxt "f879e84ab3214c4f9d9a9669f1a5ab05"
 msgid ""
 "རྒྱལ་པོ་ དེ་ཡང་ བྱམས་པ␣འི་ རང་བཞིན་ ཅན །  སྙིང་རྗེ་ དང་ ལྡན་པ །  སེམས་ཅན་ ལ་"
 " བྱམས་པ␣འི་ སྦྱིན་པ་ ལ་ སྲེད་པ་ ཞིག་ སྟེ །"
@@ -841,74 +840,74 @@ msgstr ""
 " prodigue par bonté. Ainsi,"
 
 # དེ་སྦྱིན་པ་དག་སྦྱིན་<«གཡུང་»«པེ་»བྱིན།>ཞིང་
-msgctxt "line 131, E002.txt"
+msgctxt "de8dfffe48f54a18aa30f63e22400bec"
 msgid "དེ་ སྦྱིན་པ་ དག་ སྦྱིན་ ཞིང་"
 msgstr "il donnait ce qui pouvait être donné et"
 
 # བསོད་ནམས་དག་བྱེད་པ་ལ་ཞུགས་<«ཁུ་»བཞུགས།>ཏེ།
-msgctxt "line 132, E002.txt"
+msgctxt "5e9306e1228f41d3aaadae9b30ea73b6"
 msgid "བསོད་ནམས་ དག་བྱེད་པ་ ལ་ ཞུགས་ ཏེ །"
 msgstr "accumulait les mérites. Impliqué dans [ces actions],"
 
-msgctxt "line 133, E002.txt"
+msgctxt "1d63ef505b084dbda29b168ea19a20db"
 msgid "ཟས་ འདོད་པ་ ལ་ ནི་ ཟས་སྦྱིན་པ␣ར་ བྱེད །"
 msgstr "il donnait de la nourriture à ceux qui voulaient manger."
 
 # སྐོམ་འདོད་པ་ལ་ནི་<«སྣར་»«ཞོལ་»-ནི།>སྐོམ་སྦྱིན་པར་བྱེད།
-msgctxt "line 134, E002.txt"
+msgctxt "4843c7238fc448d48aef544bd0cf201b"
 msgid "སྐོམ་ འདོད་པ་ ལ་ ནི་ སྐོམ་ སྦྱིན་པ␣ར་ བྱེད །"
 msgstr "Il donnait des boissons à ceux qui voulaient boire."
 
-msgctxt "line 135, E002.txt"
+msgctxt "f3f35d0217bf4f8f8cc98418d6b27462"
 msgid "གོས་ འདོད་པ་ ལ་ ནི་ གོས་ སྦྱིན་པ␣ར་ བྱེད །"
 msgstr "il donnait de la nourriture à ceux qui voulaient manger."
 
 # རྒྱན་འདོད་པ་ལ་<«སྣར་»ལས།>ནི་རྒྱན་སྦྱིན་<«གཡུང་»«པེ་»བྱིན།>པར་བྱེད།
-msgctxt "line 136, E002.txt"
+msgctxt "57c813a7d66e4ccda2add7ef51b485c3"
 msgid "རྒྱན་ འདོད་པ་ ལ་ ནི་ རྒྱན་ སྦྱིན་པ␣ར་ བྱེད །"
 msgstr "Il donnait des bijoux à ceux qui voulaient des bijoux."
 
-msgctxt "line 137, E002.txt"
+msgctxt "ca2b6ac296f946ae89b377e46d94b47c"
 msgid "མལ་སྟན་ འདོད་པ་ ལ་ ནི་ མལ་སྟན་ སྦྱིན་པ␣ར་ བྱེད །"
 msgstr "Il donnait un lit à ceux qui voulaient un lit."
 
 # བཞོན་<«སྣར་»གཞོན།>པ་འདོད་པ་ལ་ནི་བཞོན་པ་སྦྱིན་པར་བྱེད།
-msgctxt "line 138, E002.txt"
+msgctxt "3ca8f8ff1ecd459dbf3f449355e28428"
 msgid "བཞོན་པ་ འདོད་པ་ ལ་ ནི་ བཞོན་པ་ སྦྱིན་པ␣ར་ བྱེད །"
 msgstr "Il donnait une monture à ceux qui voulaient une monture."
 
 # ཡོ་བྱད་གཞན་འདོད་པ་<«གཡུང་»«པེ་»+རྣམས།>ལ་ནི་ཡོ་བྱད་གཞན་<«ལི་»«ཅོ་»-གཞན།>སྦྱིན་པར་བྱེད་:དོ།
 # །<«ལི་»«ཅོ་»-དོ།།>
-msgctxt "line 139, E002.txt"
+msgctxt "ca544ae3b88745c88b57228312ff2ba8"
 msgid "ཡོ་བྱད་ གཞན་ འདོད་པ་ ལ་ ནི་ ཡོ་བྱད་ གཞན་ སྦྱིན་པ␣ར་ བྱེད་ དོ ། །"
 msgstr "Il donnait tout autre objet à ceux qui les désiraient."
 
-msgctxt "line 140, E002.txt"
+msgctxt "0110aded399446d78bc67dd6512db48e"
 msgid "ནད་གསོ་བ␣འི་ ནད་བྲང་ བཅས་ ཏེ །"
 msgstr "Il construisit des hopitaux,"
 
-msgctxt "line 141, E002.txt"
+msgctxt "494911b1788e468fbd81301d159b238a"
 msgid "ཡོ་བྱད་ ཐམས་ཅད་ སྦྱར་ ནས །"
 msgstr "il les équipa entièrement,"
 
 # སྨན་པ་རྣམས་དང་། ནད་གཡོག་<«སྣར་»«ཞོལ་»གཡོགས།>རྣམས་བསྐོས་ཏེ།
-msgctxt "line 142, E002.txt"
+msgctxt "9d50bd90a72841448fa454b224be341f"
 msgid "སྨན་པ་ རྣམས་ དང་ །  ནད་གཡོག་ རྣམས་ བསྐོས་ ཏེ །"
 msgstr "il y affecta des médecins et des infirmières. Ainsi,"
 
-msgctxt "line 143, E002.txt"
+msgctxt "b87bbf0333484ce9b6ffc8851052c6b5"
 msgid "ནད་པ་ རྣམས་ དང་ །  མགོན་མེད་པ་ རྣམས་ ཀྱི་ རིམ་གྲོ་ བྱེད་ དོ ། །"
 msgstr "il prit soin des malades et des indigents."
 
 # [122a]བཟའ་<«གཡུང་»གཟའ།>བ་དང་:བཅའ་བ་<«གཡུང་»བཅས་པ།
 # «སྣར་»«ཞོལ་»བཅའ་བ་གཙང་མ།>མང་པོ་དག་ཀྱང་སྟ་གོན་<«ལི་»འོན།>བྱས་ཏེ།
-msgctxt "line 144, E002.txt"
+msgctxt "a54f099e2a65418c9cdea7456470133a"
 msgid "བཟའ་བ་ དང་ བཅའ་བ་ མང་པོ་ དག་ ཀྱང་ སྟ་གོན་ བྱས་ ཏེ །"
 msgstr "Il rassembla en grandes quantités de nourriture et de boisson et"
 
 # ནམ་མཁའ་ལ་གནས་པ་དང་། ཆུ་ལ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»ན།>གནས་པ་དང་།
 # ཐང་ལ་གནས་པའི་སྲོག་ཆགས་རྣམས་ལ་སྦྱིན་པར་བྱེད་དོ། །
-msgctxt "line 145, E002.txt"
+msgctxt "5b98c152ec814e12a5cc0afdabf13a0b"
 msgid ""
 "ནམ་མཁའ་ ལ་ གནས་པ་ དང་ །  ཆུ་ ལ་ གནས་པ་ དང་ །  ཐང་ལ་ གནས་པ␣འི་ སྲོག་ཆགས་ "
 "རྣམས་ ལ་ སྦྱིན་པ␣ར་ བྱེད་ དོ ། །"
@@ -917,34 +916,34 @@ msgstr ""
 "l'eau ou sur la terre ferme."
 
 # དེས་ཡི་<«ལི་»«ཅོ་»ཡིད།>དམ་འདི་ལྟ་བུ་ཡང་བཅས་ཏེ།
-msgctxt "line 146, E002.txt"
+msgctxt "4cad0b806fbe4829aebb2e477b4c8e3f"
 msgid "དེ␣ས་ ཡི་དམ་ འདི་ ལྟ་བུ་ ཡང་ བཅས་ ཏེ །"
 msgstr "Il prit l'engagement suivant : «"
 
 # :དེང་ཕྱིན་ཅད་<«གཡུང་»«པེ་»དེ་ཕྱིན་ཅད། «སྣར་»དེ་ཕྱིན་ཆད།
 # «ཞོལ་»དེང་ཕྱིན་ཆད།>བདག་གིས་ཐམས་ཅད་ལ་ཐམས་ཅད་སྦྱིན་པར་བྱ་སྟེ།
-msgctxt "line 147, E002.txt"
+msgctxt "852c95ee005d4d4fa68945d40aecac24"
 msgid "དེང་ ཕྱིན་ ཅད་ བདག་ གིས་ ཐམས་ཅད་ ལ་ ཐམས་ཅད་ སྦྱིན་པ␣ར་ བྱ་ སྟེ །"
 msgstr ""
 "À partir de maintenant, je donnerai tout [ce que me demandera] chaque être "
 "vivant et"
 
 # འཇིག་རྟེན་དག་དགེ་བ་<«གཡུང་»«པེ་»-བ།>བཅུའི་ལས་ཀྱི་ལམ་ལ་དགོད་པར་བྱའོ་ཞེས་
-msgctxt "line 148, E002.txt"
+msgctxt "93a8469c3c8c40dab80ee819b77f3903"
 msgid "འཇིག་རྟེན་ དག་ དགེ་བ་ བཅུ␣འི་ ལ␣ས་ ཀྱི་ ལམ་ ལ་ དགོད་པ␣ར་ བྱ␣འོ་ ཞེས་"
 msgstr "j'établirai les êtres sur la voie des dix actions positives »,"
 
-msgctxt "line 149, E002.txt"
+msgctxt "cb72760da3884fe3bf2479e9b5abfa78"
 msgid "དམ་བཅ␣ས་ ནས །"
 msgstr "promit-il. Puis,"
 
 # དེས་འཇིག་རྟེན་ཐམས་ཅད་དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ་ལ་བཀོད་<«ཞོལ་»བགོད།>དོ། །
-msgctxt "line 150, E002.txt"
+msgctxt "2cd90c515eb4464db82c2cb4d90e8548"
 msgid "དེ␣ས་ འཇིག་རྟེན་ ཐམས་ཅད་ དགེ་བ་ བཅུ␣འི་ ལ␣ས་ ཀྱི་ ལམ་ ལ་ བཀོད་ དོ ། །"
 msgstr "il établit tous les êtres sur la voie des dix actions positives."
 
 # དེར་དགེ་བ་བཅུའི་ལས་ཀྱི་<«ལི་»«ཅོ་»ཀྱིས།>ལམ་ཡང་དག་པར་བླངས་པའི་ཕྱིར་སེམས་ཅན་ཕལ་ཆེར་ཤི་བའི་འོག་ཏུ་ལྷའི་ནང་དུ་སྐྱེས་ནས།
-msgctxt "line 151, E002.txt"
+msgctxt "76bae81e363640d49f1394c5d47103bc"
 msgid ""
 "དེ␣ར་ དགེ་བ་ བཅུ␣འི་ ལ␣ས་ ཀྱི་ ལམ་ ཡང་དག་པ␣ར་ བླངས་པ␣འི་ ཕྱིར་ སེམས་ཅན་ "
 "ཕལ་ཆེར་ ཤི་བ␣འི་ འོག་ ཏུ་ ལྷ␣འི་ ནང་ དུ་ སྐྱེས་ ནས །"
@@ -953,30 +952,30 @@ msgstr ""
 "la majorité de [ces] êtres prirent naissance parmi les dieux après leur "
 "mort. C'est ainsi que"
 
-msgctxt "line 152, E002.txt"
+msgctxt "3cae13625bce4c25b7deba6e911de929"
 msgid "དེ་དག་ གིས་ ལྷ␣འི་ གནས་ རྣམས་ གང་བ␣ར་ གྱུར་ ཏོ ། །"
 msgstr "ils remplirent les mondes des dieux."
 
-msgctxt "line 153, E002.txt"
+msgctxt "5f275205f03c4d9ca3671020a26f43ac"
 msgid "དེ་ནས་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ གྱིས་ བསམས་པ །"
 msgstr "Alors, Indra, le Seigneur des dieux, se demanda : «"
 
 # འདི་ཅི་ཞིག་སྒྲུབ་བརྒྱ་བྱིན་དུ་འགྱུར་བ་སྒྲུབ་བམ<«ལི་»«ཅོ་»འམ།>།
-msgctxt "line 154, E002.txt"
+msgctxt "5a312c5c174a43a9922e00aa17a7112f"
 msgid "འདི་ ཅི་ཞིག་ སྒྲུབ་ བརྒྱ་བྱིན་ དུ་ འགྱུར་བ་ སྒྲུབ་ བམ །"
 msgstr ""
 "Que [veut] accomplir cet être ? [Veut-il] accomplir [le niveau de] Indra ?"
 
 # འོན་ཏེ་ཚངས་པར་འགྱུར་བ་སྒྲུབ་:ཞིག་གུ་<«གཡུང་»ཞི་གུ།
 # «ལི་»«ཅོ་»ཞིག་གོ།«སྣར་»ཅིགུ། «ཞོལ་»ཅིག་གུ།>སྙམ་མོ། །
-msgctxt "line 155, E002.txt"
+msgctxt "4f2c63df4bb7465aa8f8fc337c42941a"
 msgid "འོན་ཏེ་ ཚངས་པ␣ར་ འགྱུར་བ་ སྒྲུབ་ ཞིག་ གུ་ སྙམ་ མོ ། །"
 msgstr ""
 "Ou bien [veut-il] accomplir [le niveau de] Brahma ? » se demanda-t-il."
 
 # དེ་ནས་:དེས་བལྟས་ན<«གཡུང་»«པེ་»དེས་བལྟས་ནས། «ལི་»«ཅོ་»དེ་བལྟས་ན།>།
 # བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་སྒྲུབ་ཅིང་འདུག་གོ། །
-msgctxt "line 156, E002.txt"
+msgctxt "9669d64b55d44a66abba47091893ea95"
 msgid ""
 "དེ་ནས་ དེ␣ས་ བལྟས་ ན །  བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ སྒྲུབ་"
 " ཅིང་ འདུག་ གོ ། །"
@@ -984,31 +983,31 @@ msgstr ""
 "Alors, il vit qu'il était occupé à accomplir l'éveil insurpassable, complet "
 "et parfait."
 
-msgctxt "line 157, E002.txt"
+msgctxt "efd2f9a2ecb7438587ed610728ecda85"
 msgid "དེ་ནས་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ གྱིས་ བསམས་པ །"
 msgstr "Alors, Indra, le Seigneur des dieux, se demanda : «"
 
-msgctxt "line 158, E002.txt"
+msgctxt "f450cf10fd09491182db97470a88ed6c"
 msgid "ཅི་ འདི་ སེམས་ཅན་ བརྟན་པོ་ ཡིན་ ནམ །"
 msgstr "Je me demande si cet être est stable [dans son intention],"
 
 # འོན་ཏེ་སེམས་ཅན་མི་བརྟན་པ་ཡིན་པ་<«གཡུང་»«པེ་»«སྣར་»-པ།>བདག་གིས་ཇེ་<«གཡུང་»«པེ་»«སྣར་»«ཁུ་»ཇི།
 # «ཞོལ་»ཇ།>བརྟགས་ལ།
-msgctxt "line 159, E002.txt"
+msgctxt "dd8c5c235608488b9e3531428820e195"
 msgid "འོན་ཏེ་ སེམས་ཅན་ མི་ བརྟན་པ་ ཡིན་པ་ བདག་ གིས་ ཇེ་ བརྟགས་ ལ །"
 msgstr ""
 "ou bien s'il est instable [dans son intention]. Je vais d'abord m'en "
 "assurer, puis"
 
 # གལ་ཏེ་སེམས་ཅན་བརྟན་པོ་ཡིན་ན་ནི་མཆོད་པར་<«གཡུང་»«པེ་»«སྣར་»པ།>བྱའོ། །
-msgctxt "line 160, E002.txt"
+msgctxt "b715de312fa84baa8449f48087a55181"
 msgid "གལ་ཏེ་ སེམས་ཅན་ བརྟན་པོ་ ཡིན་ ན་ ནི་ མཆོད་པ␣ར་ བྱ␣འོ ། །"
 msgstr "s'il s'avère qu'il est stable, je lui ferai des offrandes."
 
 # :འདི་ལྟ་སྟེ<«གཡུང་»«པེ་»དེ་ལྟ་སྟེ།
 # «སྣར་»-འདི་ལྟ་སྟེ།>།<«སྣར་»+དེ།>སེམས་ཅན་བརྟན་པོ་མ་ཡིན་ན་<«ལི་»«ཅོ་»-ན།>ཡང་།
 # འདིའི་སེམས་སྟོབས་བསྐྱེད་པར་བྱའོ་སྙམ་ནས།
-msgctxt "line 161, E002.txt"
+msgctxt "db6d1321eafb4f818e257c501a8f2dc9"
 msgid ""
 "འདི་ལྟ་སྟེ ། སེམས་ཅན་ བརྟན་པོ་ མ་ ཡིན་ ན་ ཡང་ །  འདི␣འི་ སེམས་ སྟོབས་ "
 "བསྐྱེད་པ␣ར་ བྱ␣འོ་ སྙམ་ ནས །"
@@ -1016,7 +1015,7 @@ msgstr ""
 "Et même s'il s'avère que ce n'est pas un être stable, je ferai [en sorte de]"
 " développer son courage. » Alors,"
 
-msgctxt "line 162, E002.txt"
+msgctxt "6fe95c2bfc3443e4b6a46e622b53fd20"
 msgid ""
 "ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ གྱིས །  བདག་ཉིད་ སྲིན་པོ␣འི་ གཟུགས་ སུ་ མངོན་པར་ "
 "སྤྲུལ་ ནས །"
@@ -1026,39 +1025,39 @@ msgstr ""
 # རྒྱལ་པོ་ཤི་:བིའི་ཁང་བཟངས་ཀྱི་ཆར་ཁེབས་<«གཡུང་»བི་བའི་ཁང་བཟངས་ཀྱི་ཆར་ཁབ།
 # «ལི་»«ཅོ་»«ཞོལ་»བིའི་ཁང་བཟང་གི་ཆར་ཁེབས། «པེ་»བིའི་ཁང་བཟངས་ཀྱི་ཆ་ཁེབས།
 # «སྣར་»བའི་ཁངས་བཟངས་ཀྱི་ཆར་ཁབ།>ལ་འདུག་སྟེ།
-msgctxt "line 163, E002.txt"
+msgctxt "c9d24a96bf7d4b53bbcafd66e5bc45a3"
 msgid "རྒྱལ་པོ་ ཤི་ བིའི་ ཁང་ བཟངས་ ཀྱི་ ཆར་ཁེབས་ ལ་ འདུག་ སྟེ །"
 msgstr "s'assit sur le porche du palais du roi Śibi et"
 
 # ཚིགས་སུ་བཅད་པའི་ཕྱེད་<«ལི་»«པེ་»«ཅོ་»ཕྱིར།>སྨྲས་པ།
-msgctxt "line 164, E002.txt"
+msgctxt "4fb376387f2f411cae632ddbd398453b"
 msgid "ཚིགས་ སུ་ བཅད་པ␣འི་ ཕྱེད་ སྨྲས་པ །"
 msgstr "énonça cette moitié de quatrain : «"
 
-msgctxt "line 165, E002.txt"
+msgctxt "d27b814193814694a26f69087c1e4a58"
 msgid "ཀྱེ་མ་"
 msgstr "Hélas !"
 
-msgctxt "line 166, E002.txt"
+msgctxt "138d832bfc584e6e87c4fccbd331170e"
 msgid "འདུ་བྱེད་ རྣམས་ མི་རྟག  །"
 msgstr "les [phénomènes] composés sont impermanents."
 
-msgctxt "line 167, E002.txt"
+msgctxt "c83cfc8e6d024bf1a7d567b1fa3a259a"
 msgid "སྐྱེ་ ཞིང་ འཇིག་པ␣འི་ ཆོས་ཅན་ ཡིན ། ། ཞེས་"
 msgstr "apparaître et se détruire est leur nature »"
 
-msgctxt "line 168, E002.txt"
+msgctxt "9d8316fd7b3d4ab6b2cd8c994c0590da"
 msgid "སྨྲ␣ས་ ནས །"
 msgstr "dit-il. Puis,"
 
-msgctxt "line 169, E002.txt"
+msgctxt "dbdeda1a5d8b43e6831e3637bb68dc3b"
 msgid ""
 "ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ མི་མ་ཡིན་པ␣འི་ ཆ་ལུགས་ ཅན་ ཅང་ མི་ ཟེར་བ␣ར་ འདུག་ "
 "གོ ། །"
 msgstr ""
 "Indra, le Seigneur des dieux métamorphosé en non-humain se tint en silence."
 
-msgctxt "line 170, E002.txt"
+msgctxt "fd8dbb4efb3343e9b263fa4ea5b518f9"
 msgid ""
 "དེ་ནས་ རྒྱལ་པོ་ ཤི་ བིས་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ མི་མ་ཡིན་པ␣འི་ ཆ་ལུགས་ "
 "ཅན་ གྱིས་ ཚིག་ དེ་ལྟ་ བུ་ བརྗོད་པ་ ཐོས་ སོ ། །"
@@ -1066,13 +1065,13 @@ msgstr ""
 "Alors, le roi Śibi entendit ce qu'avait dit Indra, le Seigneur des dieux, "
 "métamorphosé en non-humain."
 
-msgctxt "line 171, E002.txt"
+msgctxt "a61037b4328b46d6ad7a2dd8c8a8e650"
 msgid "ཐོས་ ནས་ ཀྱང་ དེ␣ས་ བསམས་པ །"
 msgstr "L'ayant entendu, il pensa : «"
 
 # གཅིག་<«ལི་»«ཅོ་»ཅིག>ཏུ་ན་ནི་<«ལི་»«ཅོ་»-ནི།>མྱ་ངན་ལས་འདས་པའི་རྟེན་ཅིང་འབྲེལ་བར་<«གཡུང་»«པེ་»བ།>འབྱུང་བའི་སྒོ་ཕྱེའོ།
 # །
-msgctxt "line 172, E002.txt"
+msgctxt "6d51dcc6562043348d502e2288792913"
 msgid ""
 "གཅིག་ ཏུ་ ན་ ནི་ མྱ་ངན་ ལ␣ས་ འདས་པ␣འི་ རྟེན་ ཅིང་ འབྲེལ་བ␣ར་ འབྱུང་བ␣འི་ "
 "སྒོ་ ཕྱེ␣འོ ། །"
@@ -1082,17 +1081,17 @@ msgstr ""
 
 # གཅིག་ཏུ་ན་ནི་<«གཡུང་»«པེ་»+བླ་ན་མེད་པ།
 # «ལི་»«ཅོ་»-ནི།>ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་ལམ་བསྟན་ཏོ་སྙམ་མོ། །
-msgctxt "line 173, E002.txt"
+msgctxt "d7f591bbf3dc4a85bbe6b3cccb09a8f3"
 msgid ""
-"གཅིག་ ཏུ་ ན་ ནི་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཀྱི་ ལམ་བསྟན་ ཏོ་ སྙམ་ མོ །"
-" །"
+"གཅིག་ ཏུ་ ན་ ནི་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཀྱི་ ལམ་བསྟན་ ཏོ་ སྙམ་ མོ "
+"། །"
 msgstr ""
 "D'un autre, [ceci] enseigne la voie vers l'éveil complet et parfait. »"
 
 # དེ་ནས་རྒྱལ་པོ་ཤི་བིས་<«ཅོ་»བའི།>ལྷའི་དབང་པོ་བརྒྱ་བྱིན་མི་མ་[122b]ཡིན་པའི་ཆ་ལུགས་ཅན།
 # ཁང་:བཟངས་ཀྱི་ཆར་ཁེབས་ལ་<«གཡུང་»«པེ་»བཟངས་ཀྱི་ཆར་ཀབ། «སྣར་»བཟངས་ཀྱི་ཆར་ཁབ་ལ།
 # «ཞོལ་»བཟང་གི་ཆར་ཁེབས་ལ།>འདུག་པ་<«སྣར་»པར།>མཐོང་ངོ་། །
-msgctxt "line 174, E002.txt"
+msgctxt "872158b28b14479686df1e7191dbcd95"
 msgid ""
 "དེ་ནས་ རྒྱལ་པོ་ ཤི་ བིས་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ མི་མ་ཡིན་པ␣འི་ ཆ་ལུགས་ ཅན"
 " །  ཁང་ བཟངས་ ཀྱི་ ཆར་ཁེབས་ ལ་ འདུག་པ་ མཐོང་ ངོ་ ། །"
@@ -1101,16 +1100,16 @@ msgstr ""
 "humain se trouvait sur le porche du palais."
 
 # མཐོང་ནས་ཀྱང་སྐྱེན་<«གཡུང་»རྐྱེན། «ལི་»སྐྱེམ།>པར་ལངས་ནས།
-msgctxt "line 175, E002.txt"
+msgctxt "0d338f0f624c436baecaad3a4b708d08"
 msgid "མཐོང་ ནས་ ཀྱང་ སྐྱེན་པ␣ར་ ལངས་ ནས །"
 msgstr "L'ayant vu, il se leva d'un coup,"
 
 # བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»བཟར།>ཏེ།
-msgctxt "line 176, E002.txt"
+msgctxt "68cac84ae1ca4a398fc1b0c3ee4d3952"
 msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ཏེ །"
 msgstr "il [replia] son châle et le laissa retomber sur une épaule,"
 
-msgctxt "line 177, E002.txt"
+msgctxt "4f82dfd0e061411593a1a6cd6906b8fa"
 msgid ""
 "ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ མི་མ་ཡིན་པ␣འི་ ཆ་ལུགས་ ཅན་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ "
 "ཐལ་མོ་ སྦྱར་བ་ བཏུད་ ནས །"
@@ -1118,82 +1117,82 @@ msgstr ""
 "il joignit les mains et s'inclina en direction d'Indra, le Seigneur des "
 "dieux, métamorphosé en non-humain et"
 
-msgctxt "line 178, E002.txt"
+msgctxt "87da49154e624e02a3d44616676f5f74"
 msgid "སྨྲས་པ །"
 msgstr "dit : «"
 
-msgctxt "line 179, E002.txt"
+msgctxt "64e25f38997d41e5b93e092dcf9951ac"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # ཚིགས་སུ་བཅད་པ་དེ་:ཚང་བར་<«གཡུང་»«པེ་»ཚངས་པར།>སྨྲོས་ཤིག་དང་།
-msgctxt "line 180, E002.txt"
+msgctxt "266340809f1c4dd3a87d31bf0d02beb1"
 msgid "ཚིགས་ སུ་ བཅད་པ་ དེ་ ཚང་བ␣ར་ སྨྲོས་ ཤིག་ དང་ །"
 msgstr "Énoncez l'entièreté de ce quatrain ;"
 
-msgctxt "line 181, E002.txt"
+msgctxt "198685b3bd1841ab852c7b0202ad1b98"
 msgid "བདག་ གིས་ སློབ་མ་ བགྱིས་ ཏེ་"
 msgstr "je serai votre disciple et"
 
 # མཉན་ཏོ<«གཡུང་»«པེ་»ནོ།>། །
-msgctxt "line 182, E002.txt"
+msgctxt "a8ab241d5f46432ea78d7d52b3756316"
 msgid "མཉན་ ཏོ ། །"
 msgstr "je l'écouterai. »"
 
-msgctxt "line 183, E002.txt"
+msgctxt "5f8ef632e3dc4880a4d7badb9b6dad96"
 msgid "བརྒྱ་བྱིན་ གྱིས་ སྨྲས་པ །"
 msgstr "Indra répondit : «"
 
 # ཁྱོད་ཀྱིས་<«ལི་»«ཅོ་»ཀྱི།>བདག་གི་སློབ་<«གཡུང་»བློབ།>མ་བྱས་པས་ཅི་ལ་ཕན།
-msgctxt "line 184, E002.txt"
+msgctxt "3ca7cf991acd48d8bb18443daf491153"
 msgid "ཁྱོད་ ཀྱིས་ བདག་ གི་ སློབ་མ་ བྱས་པ␣ས་ ཅི་ ལ་ ཕན །"
 msgstr "À quoi servira-t-il que tu sois mon disciple ?"
 
 # བདག་ནི་བཀྲེས་ཤིང་སྐོམ་<«སྣར་»བསྐོམས།>པས་གཟིར་ཏེ།
-msgctxt "line 185, E002.txt"
+msgctxt "15a85d5d1f724709aea79b9428417654"
 msgid "བདག་ ནི་ བཀྲེས་ ཤིང་ སྐོམ་པ␣ས་ གཟི␣ར་ ཏེ །"
 msgstr "Je souffre de la faim et de la soif et"
 
 # ཅི་:ཟ་གཏོལ་<«གཡུང་»ཏོལ།
 # «སྣར་»«ཞོལ་»བྱ་གཏོལ།>མེད་པར་བླ་<«གཡུང་»གླ།>ཞིང་འདུག་གོ། །
-msgctxt "line 186, E002.txt"
+msgctxt "d0eb8de852974bcf81e7a5f6ac0eeab0"
 msgid "ཅི་ ཟ་ གཏོལ་མེད་པ␣ར་ བླ་ ཞིང་ འདུག་ གོ ། །"
 msgstr "je me trouve là sans savoir quoi faire."
 
-msgctxt "line 187, E002.txt"
+msgctxt "05e9dd62b4d846ba8692d3e17a3975da"
 msgid "བྱང་ཆུབ་ སེམས་དཔ␣ས་ སྨྲས་པ །"
 msgstr "le bodhisattva répondit : «"
 
-msgctxt "line 188, E002.txt"
+msgctxt "8accdb740e334dad839abad1663d44bc"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # ཚིགས་སུ་བཅད་པ་:ཚང་བར་<«པེ་»ཚད་པར། «སྣར་»ཚངས་པར༑>སྨྲོས་ཤིག་དང་།
-msgctxt "line 189, E002.txt"
+msgctxt "0c7e216b72784cca9b97c305a3e0df74"
 msgid "ཚིགས་ སུ་ བཅད་པ་ ཚང་བ␣ར་ སྨྲོས་ ཤིག་ དང་ །"
 msgstr "Énoncez l'entièreté de ce quatrain ;"
 
-msgctxt "line 190, E002.txt"
+msgctxt "5a7e97f9630247b68dcef2b9bd0d31aa"
 msgid "བདག་ གིས་ ཁྱོད་ ཁ་ཟས་ ཀྱིས་ ཚིམ་པ␣ར་ བྱ␣འོ ། །"
 msgstr "je vous comblerai de nourriture. »"
 
 # ལྷའི་དབང་པོ་བརྒྱ་བྱིན་མི་མ་ཡིན་པའི་<«སྣར་»«ཞོལ་»གྱི།>ཆ་ལུགས་ཅན་གྱིས་སྨྲས་པ།
-msgctxt "line 191, E002.txt"
+msgctxt "649543017af6453f87f02eff599d04fc"
 msgid "ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ མི་མ་ཡིན་པ␣འི་ ཆ་ལུགས་ ཅན་ གྱིས་ སྨྲས་པ །"
 msgstr "Indra, le Seigneur des dieux, métamorphosé en non-humain dit : «"
 
-msgctxt "line 192, E002.txt"
+msgctxt "cd64679fb0d041d4a19944fda90eb9b7"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # ཁྱོད་ཀྱིས་ང་ཁ་ཟས་ཀྱིས་ཚིམ་པར་བྱེད་<«ལི་»«ཅོ་»-བྱེད།>ནུས་སམ<«ལི་»«ཅོ་»+སྨྲས་པ།>།
-msgctxt "line 193, E002.txt"
+msgctxt "a5c29d1ae46946eda29068c9063e9814"
 msgid "ཁྱོད་ ཀྱིས་ ང་ ཁ་ཟས་ ཀྱིས་ ཚིམ་པ␣ར་ བྱེད་ ནུས་ སམ །"
 msgstr "Serais-tu capable de me rassasier ?"
 
 # ངའི་ཁ་ཟས་དང་སྐོམ་ཇི་ལྟ་<«གཡུང་»«པེ་»ལྟར།>བུ་ཡིན་པ་དེ་ནི་ཁྱོད་ཀྱིས་སྦྱིན་པར་དཀའོ།
 # །
-msgctxt "line 194, E002.txt"
+msgctxt "af80e5aec1ff4ccb9c359e021e6a6c70"
 msgid ""
 "ང␣འི་ ཁ་ཟས་ དང་ སྐོམ་ ཇི་ལྟ་བུ་ ཡིན་པ་ དེ་ ནི་ ཁྱོད་ ཀྱིས་ སྦྱིན་པ␣ར་ དཀ␣འོ "
 "། །"
@@ -1201,42 +1200,42 @@ msgstr ""
 "Il te sera difficile de me donner la nourriture et la boisson [dont] j'ai "
 "[besoin]. »"
 
-msgctxt "line 195, E002.txt"
+msgctxt "5f088325e086415593f714777ca81e85"
 msgid "བྱང་ཆུབ་ སེམས་དཔ␣ས་ སྨྲས་པ །"
 msgstr "le bodhisattva répondit : «"
 
-msgctxt "line 196, E002.txt"
+msgctxt "f49f6ce8ef884a44834e670a93b9d980"
 msgid "ཁྱོད་ ཀྱི་ ཟས་སྐོམ་ ཅི་ ཡིན །"
 msgstr "Que manges-tu et que bois-tu ? »"
 
-msgctxt "line 197, E002.txt"
+msgctxt "fcf332e3d4ab4eb99a568d8d48994125"
 msgid "དེ␣ས་ སྨྲས་པ །"
 msgstr "Il répondit : «"
 
 # མི་འཕྲལ་དུ་བསད་པའི་ཤ་དྲོན་མོ་<«གཡུང་»«སྣར་»«ཞོལ་»པོ།>ནི་ཟ།
-msgctxt "line 198, E002.txt"
+msgctxt "889cd73e79e14b4c8b8dea091d825dcc"
 msgid "མི་ འཕྲལ་ དུ་ བསད་པ␣འི་ ཤ་ དྲོན་མོ་ ནི་ ཟ །"
 msgstr "D'un humain qui vient d'être tué, je mange la chair encore chaude et"
 
 # ཁྲག་དྲོན་མོ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»པོ།>ནི་འཐུང་ངོ་། །
-msgctxt "line 199, E002.txt"
+msgctxt "1b1f8d100c9044a2962c0ca49ba3e62f"
 msgid "ཁྲག་དྲོན་ མོ་ ནི་ འཐུང་ ངོ་ ། །"
 msgstr "je bois le sang encore chaud. »"
 
 # དེ་ནས་བྱང་ཆུབ་སེམས་དཔས་བསམས་<«ལི་»«ཅོ་»སྨྲས།>པ།
-msgctxt "line 200, E002.txt"
+msgctxt "b2cf83535a0a4fb2babce371af0c6116"
 msgid "དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔ␣ས་ བསམས་པ །"
 msgstr "Alors, le bodhisattva répondit : «"
 
 # དེ་ལྟ་བུའི་ཤ་ཁྲག་ནི་གསོད་པར་<«གཡུང་»«པེ་»པ།>མ་བྱས་ཀྱི་བར་དུ་མི་རྙེད་ལ།
-msgctxt "line 201, E002.txt"
+msgctxt "6150e39516844f529d19c04327736151"
 msgid "དེ་ལྟ་ བུ␣འི་ ཤ་ཁྲག་ ནི་ གསོད་པ␣ར་ མ་ བྱས་ ཀྱི་ བར་ དུ་ མི་ རྙེད་ ལ །"
 msgstr ""
 "Cette sorte de chair et de sang, on n'en trouve pas tant que quelqu'un n'est"
 " pas tué. De plus,"
 
 # བདག་གིས་ལེགས་པར་སྨྲས་པའི་དོན་གྱི་<«ཅོ་»གྱིས།>ཕྱིར་སེམས་ཅན་གཞན་སུ་ལ་ཡང་གནོད་པར་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»པ།>བྱེད་མི་ཕོད་དོ་སྙམ་ནས་
-msgctxt "line 202, E002.txt"
+msgctxt "be6bcf53d8854b35912a7988d3505ef1"
 msgid ""
 "བདག་ གིས་ ལེགས་པ␣ར་ སྨྲས་པ␣འི་ དོན་ གྱི་ ཕྱིར་ སེམས་ཅན་ གཞན་ སུ་ ལ་ ཡང་ "
 "གནོད་པ␣ར་ བྱེད་ མི་ ཕོད་ དོ་ སྙམ་ ནས་"
@@ -1244,12 +1243,12 @@ msgstr ""
 "Je n'oserais jamais faire de mal à quiconque pour [ce quatrain] excellemment"
 " exposé » pensa-t-il. Puis"
 
-msgctxt "line 203, E002.txt"
+msgctxt "3c2225b165f84087a2864b96a6c872f5"
 msgid "སྨྲས་པ །"
 msgstr "il dit : «"
 
 # གལ་ཏེ་བདག་གི་ཤ་ཁྲག་ཁྱོད་ཟ་ཞིང་འཐུང་ཕོད་ན་ནི་གྲོགས་པོ་བདག་གིས་སྦྱིན་ནུས་ཆེས་ཀྱིས<«ཞོལ་»ཀྱི།>།
-msgctxt "line 204, E002.txt"
+msgctxt "a23db837efa54cf4bf62b4c16be1b758"
 msgid ""
 "གལ་ཏེ་ བདག་ གི་ ཤ་ཁྲག་ ཁྱོད་ ཟ་ ཞིང་ འཐུང་ ཕོད་ ན་ ནི་ གྲོགས་པོ་ བདག་ གིས་ "
 "སྦྱིན་ ནུས་ ཆེས་ ཀྱིས །"
@@ -1257,13 +1256,13 @@ msgstr ""
 "Si vous osiez manger et boire ma chair et mon sang, cher ami, je suis prêt à"
 " vous les offrir de bon cœur."
 
-msgctxt "line 205, E002.txt"
+msgctxt "7193e0bb50d4481d981755fe692e0977"
 msgid "ཚིགས་ སུ་ བཅད་པ་ ཚང་བ␣ར་ སྨྲོས་ ཤིག་ དང་ །"
 msgstr "Énoncez l'entièreté de ce quatrain ;"
 
 # ལེགས་པར་:སྨྲས་པའི་<«ལི་»«ཅོ་»སྨྲ་བའི།>དོན་གྱི་ཕྱིར་བདག་གིས་ཁྱོད་ལ་:རང་གི་<«ལི་»«ཅོ་»-རང་གི།>ཤ་ཁྲག་སྦྱིན་ནོ།
 # །
-msgctxt "line 206, E002.txt"
+msgctxt "368ac55229514e41bf0421c3e9962f0a"
 msgid ""
 "ལེགས་པ␣ར་ སྨྲས་པ␣འི་ དོན་ གྱི་ ཕྱིར་ བདག་ གིས་ ཁྱོད་ ལ་ རང་ གི་ ཤ་ཁྲག་ "
 "སྦྱིན་ ནོ ། །"
@@ -1271,36 +1270,36 @@ msgstr ""
 "je vous offre ma chair et mon sang pour ce [quatrain] excellemment exposé. »"
 
 # དེ་ནས་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་<«གཡུང་»«པེ་»རྒྱ།>གྱིས་ཚིགས་སུ་བཅད་པ་ཚང་བར་སྨྲས་པ།
-msgctxt "line 207, E002.txt"
+msgctxt "fd2824b3ba224da28cefb58b9ae3a78a"
 msgid ""
 "དེ་ནས་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ གྱིས་ ཚིགས་ སུ་ བཅད་པ་ ཚང་བ␣ར་ སྨྲས་པ །"
 msgstr "Puis Indra, le Seigneur des dieux énonça le quatrain en entier : «"
 
-msgctxt "line 208, E002.txt"
+msgctxt "305a1a84d97e4606b7e521598bb64913"
 msgid "ཀྱེ་མ་"
 msgstr "Hélas !"
 
-msgctxt "line 209, E002.txt"
+msgctxt "a1597f8d5ba54905aa11d6c7901f1b65"
 msgid "འདུ་བྱེད་ རྣམས་ མི་རྟག  །"
 msgstr "les [phénomènes] composés sont impermanents."
 
 # སྐྱེ་ཞིང་<«ལི་»«ཅོ་»བ།>འཇིག་<«ཁུ་»འཇིགས།>པའི་ཆོས་ཅན་ཡིན། །
-msgctxt "line 210, E002.txt"
+msgctxt "08402684593448f583e5a747922e9940"
 msgid "སྐྱེ་ ཞིང་ འཇིག་པ␣འི་ ཆོས་ཅན་ ཡིན ། །"
 msgstr "Apparaître et se détruire est leur nature."
 
 # སྐྱེས་ནས་འགག་པར་འགྱུར་བ་སྟེ<«ལི་»ཏེ།>། །
-msgctxt "line 211, E002.txt"
+msgctxt "b80c2a7786e449b584358b3cbac46fda"
 msgid "སྐྱེས་ ནས་ འགག་པ␣ར་ འགྱུར་བ་ སྟེ ། །"
 msgstr "Ils apparaissent et cessent [d'exister]. Ainsi,"
 
-msgctxt "line 212, E002.txt"
+msgctxt "c18d3c93722d45e5af7a609bf0ef2b0e"
 msgid "དེ་དག་ ཉེ་བར་ ཞི་བ་ བདེ ། །"
 msgstr "leur apaisement complet est la félicité. »"
 
 # དེ་ནས་བྱང་ཆུབ་སེམས་དཔས་ཚིགས་སུ་བཅད་པ་:ཚང་བ་དེ་གུས་པར་<«གཡུང་»དེ་ཚང་བ་ད་གུས་པར།
 # «ལི་»«ཅོ་»དེ་གུས་པས། «པེ་»དེ་ཚད་པ་གུས་པར། «སྣར་»ཚངས་པ་དེ་གུས་པར།>མནོས་ནས།
-msgctxt "line 213, E002.txt"
+msgctxt "7ddd7ba438f648c7b552417febc41302"
 msgid ""
 "དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔ␣ས་ ཚིགས་ སུ་ བཅད་པ་ ཚང་བ་ དེ་ གུས་པ␣ར་ མནོས་ ནས །"
 msgstr ""
@@ -1308,17 +1307,17 @@ msgstr ""
 
 # ཡུན་རིང་པོ་<«གཡུང་»«པེ་»«ཞོལ་»མོ།>ཞིག་ཏུ།
 # ཁ་:ཏོན་དུ་<«ལི་»«ཅོ་»དོན།>སྦྱངས་ནས་
-msgctxt "line 214, E002.txt"
+msgctxt "de2408708ce149cf9c01bde60a96dc87"
 msgid "ཡུན་རིང་པོ་ ཞིག་ ཏུ །  ཁ་ཏོན་ དུ་ སྦྱངས་ ནས་"
 msgstr "Pendant longtemps, il l'apprit [en en faisant] la récitation et"
 
-msgctxt "line 215, E002.txt"
+msgctxt "013c756e2a574c4bb9eed811b99d0ec3"
 msgid "བསམས་པ །"
 msgstr "se dit : «"
 
 # འདི་ནི་མྱ་ངན་ལས་འདས་པའི་གྲོང་ཁྱེར་གྱི་རྟེན་ཅིང་འབྲེལ་བར་[123a]འབྱུང་<«གཡུང་»«པེ་»འགྱུར།>བའི་སྒོ་ཡིན་ནོ།
 # །
-msgctxt "line 216, E002.txt"
+msgctxt "a70df8d4cc6a4f529813896949b6eeec"
 msgid ""
 "འདི་ ནི་ མྱ་ངན་ ལ␣ས་ འདས་པ␣འི་ གྲོང་ཁྱེར་ གྱི་ རྟེན་ ཅིང་ འབྲེལ་བ␣ར་ "
 "འབྱུང་བ␣འི་ སྒོ་ ཡིན་ ནོ ། །"
@@ -1326,13 +1325,13 @@ msgstr ""
 "Voilà la porte de l'interdépendance de la cité de l'au-delà de la "
 "souffrance."
 
-msgctxt "line 217, E002.txt"
+msgctxt "8484ca954d4c4727a9444a6a52743a75"
 msgid "འདི་ ནི་ མྱ་ངན་ ལ␣ས་ འདས་པ␣འི་ གྲོང་ཁྱེར་ གྱི་ ལམ་ ཡིན་ ནོ ། །"
 msgstr "C'est là la voie de la cité de l'au-delà de la souffrance."
 
 # ལམ་འདིས་<«ལི་»«ཅོ་»འདས་པ།
 # «སྣར་»འདས།>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་ཐམས་ཅད་ངེས་པར་འབྱུང་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»བྱུང་།>ངོ་སྙམ་ནས།
-msgctxt "line 218, E002.txt"
+msgctxt "1b489da390004d29961d78a30ba3879c"
 msgid ""
 "ལམ་ འདི␣ས་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ ཐམས་ཅད་ ངེས་པར་ འབྱུང་ ངོ་ སྙམ་ "
 "ནས །"
@@ -1340,72 +1339,72 @@ msgstr ""
 "C'est certainement de cette voie que tous les bouddhas complets et parfaits "
 "sont apparus » pensa-t-il. Puis,"
 
-msgctxt "line 219, E002.txt"
+msgctxt "afc1401bb98f4f96a81e3c1bd5f8e7b8"
 msgid "མཚོན་ཆ་ རྣོན་པོ་ བླངས་ ཏེ་"
 msgstr "il prit une arme tranchante et"
 
-msgctxt "line 220, E002.txt"
+msgctxt "0f93145db2434e7f935f97fd1a5bca9c"
 msgid "སྨྲས་པ །"
 msgstr "dit : «"
 
-msgctxt "line 221, E002.txt"
+msgctxt "11723e2bb680499c8156604c0ec02723"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # ལེགས་པར་སྨྲས་པའི་དོན་གྱི་ཕྱིར་ཡོན་བཞེས་<«ཁུ་»ཞེས།>ཤིག་ཅེས་<«གཡུང་»«པེ་»ཅིག>
-msgctxt "line 222, E002.txt"
+msgctxt "ec495ce4c8b64628ad569146668e375d"
 msgid "ལེགས་པ␣ར་ སྨྲས་པ␣འི་ དོན་ གྱི་ ཕྱིར་ ཡོན་ བཞེས་ ཤིག་ ཅེས་"
 msgstr "Acceptez la rétribution de cet excellent exposé »"
 
-msgctxt "line 223, E002.txt"
+msgctxt "b31faf44562741bc9f9e00f7af58e4b1"
 msgid "བྱས་ ནས །"
 msgstr "dit-il. Puis,"
 
 # བྲང་གི་ཕྱོགས་གཅིག་<«གཡུང་»«པེ་»ཅིག>ནས་ཤ་བཅད་<«ཁུ་»བཤད།>དེ།
-msgctxt "line 224, E002.txt"
+msgctxt "60dbaf29914c49719f83de3d9acc819b"
 msgid "བྲང་ གི་ ཕྱོགས་ གཅིག་ ནས་ ཤ་ བཅད་ དེ །"
 msgstr "il trancha la chair d'un côté de sa poitrine et"
 
-msgctxt "line 225, E002.txt"
+msgctxt "9a03c6747f7b4d4b85b839417fa471ba"
 msgid "ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ མི་མ་ཡིན་པ␣འི་ ཆ་ལུགས་ ཅན་ ལ་ བྱིན་ ཏེ་"
 msgstr ""
 "le donna à Indra, le Seigneur des dieux, métamorphosé en non-humain et"
 
-msgctxt "line 226, E002.txt"
+msgctxt "6cd1e938008741c8a7f5c1a1fc7a2003"
 msgid "སྨྲས་པ །"
 msgstr "dit : «"
 
-msgctxt "line 227, E002.txt"
+msgctxt "2116e880e94d4886b79a5203494ce6d7"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # འགྲངས་<«ལི་»«སྣར་»འདྲངས།>སམ།
-msgctxt "line 228, E002.txt"
+msgctxt "4976d42aa0e84853a4d3f2d491159785"
 msgid "འགྲངས་ སམ །"
 msgstr "es-tu rassasié ? »"
 
-msgctxt "line 229, E002.txt"
+msgctxt "ce762c80b6644f8e8555ae13f4b0b554"
 msgid "དེ␣ས་ སྨྲས་པ །"
 msgstr "Il répondit : «"
 
 # མ་འགྲངས་<«ལི་»«སྣར་»འདྲངས།>སོ། །
-msgctxt "line 230, E002.txt"
+msgctxt "c2db142740ff4745976b58aefd9dd4be"
 msgid "མ་ འགྲངས་ སོ ། །"
 msgstr "Je ne suis pas rassasié. »"
 
 # དེ་བཞིན་དུ་བྲང་གི་ཕྱོགས་ཡ་<«གཡུང་»«པེ་»ཡང་།>གཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཅིག>ནས་ཤ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»-ཤ>བཅད་དེ་
-msgctxt "line 231, E002.txt"
+msgctxt "44774814a7524aed89e0d31d93d086ae"
 msgid "དེ་བཞིན་ དུ་ བྲང་ གི་ ཕྱོགས་ ཡ་ གཅིག་ ནས་ ཤ་ བཅད་ དེ་"
 msgstr "Il trancha alors la chair de l'autre côté de sa poitrine et"
 
 # བྱིན་<«ལི་»ཕྱིན།>ནོ། །
-msgctxt "line 232, E002.txt"
+msgctxt "786b949acb80489991e43cc4d0842be8"
 msgid "བྱིན་ ནོ ། །"
 msgstr "la lui donna."
 
 # དེ་བཞིན་དུ་དཔུང་པའི་ཤ་རྣམས་དང་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»ནས།>།
 # ལུས་ཐམས་ཅད་ཀྱི་ཤ་བཅད་ཅིང་<«གཡུང་»«པེ་»+བཅད་ཅིང་།>བྱིན་ནས་
-msgctxt "line 233, E002.txt"
+msgctxt "3f66f437588b49198fda097d687577dd"
 msgid ""
 "དེ་བཞིན་ དུ་ དཔུང་པ␣འི་ ཤ་ རྣམས་ དང་ །  ལུས་ ཐམས་ཅད་ ཀྱི་ ཤ་ བཅད་ ཅིང་ བྱིན་"
 " ནས་"
@@ -1414,47 +1413,47 @@ msgstr ""
 " corps pour les lui donner. Ensuite,"
 
 # སྨྲས་པ<«ལི་»མས། «ཅོ་»པས།>།
-msgctxt "line 234, E002.txt"
+msgctxt "7b30d53c25a14627a8611a48dc7f7f64"
 msgid "སྨྲས་པ །"
 msgstr "il dit : «"
 
-msgctxt "line 235, E002.txt"
+msgctxt "f9b0cffa6a324326b820ba4a38cfb34f"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # འགྲངས་<«ལི་»«སྣར་»འདྲངས།>སམ།
-msgctxt "line 236, E002.txt"
+msgctxt "bff0f7b52d3b4cc5a4e439ae32dc78aa"
 msgid "འགྲངས་ སམ །"
 msgstr "es-tu rassasié ? »"
 
 # དེས་<«ལི་»«ཅོ་»-དེས།>སྨྲས་པ།
-msgctxt "line 237, E002.txt"
+msgctxt "264282295b0a49e19917e4f2951e7cc8"
 msgid "དེ␣ས་ སྨྲས་པ །"
 msgstr "Il répondit : «"
 
 # མ་འགྲངས་<«ལི་»«སྣར་»འདྲངས།>སོ། །
-msgctxt "line 238, E002.txt"
+msgctxt "8155c3425ac64a4ebf93e006f0044155"
 msgid "མ་ འགྲངས་ སོ ། །"
 msgstr "Je ne suis pas rassasié. »"
 
 # དེ་ནས་བྱང་ཆུབ་སེམས་དཔས་བསམས་<«སྣར་»«ཞོལ་»སྨྲས།>པ།
-msgctxt "line 239, E002.txt"
+msgctxt "d26d7e4ec640460d82e1999b661812fd"
 msgid "དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔ␣ས་ བསམས་པ །"
 msgstr "Alors, le bodhisattva répondit : «"
 
 # ད་<«པེ་»«སྣར་»དེ།>ནི་ལུས་རིལ་གྱིས་ཡོངས་སུ་གཏང་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»བཏང་།>བའི་དུས་ཁོ་ན་ལ་བབ་བོ་སྙམ་ནས།
-msgctxt "line 240, E002.txt"
+msgctxt "66d0cc06f05d4e079ec018c43e3cd7ed"
 msgid ""
 "ད་ནི་ ལུས་ རིལ་ གྱིས་ ཡོངས་སུ་ གཏང་བ␣འི་ དུས་ ཁོ་ན་ ལ་ བབ་བོ་ སྙམ་ ནས །"
 msgstr ""
 "C'est bien maintenant, le moment d'offrir en une seule fois mon corps tout "
 "entier » pensa-t-il. Puis,"
 
-msgctxt "line 241, E002.txt"
+msgctxt "deb916ac4d2e45a8ae64328a8447150c"
 msgid "བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཏུ་ སྨོན་ལམ་ བཏབ་ སྟེ །"
 msgstr "il fit le souhait de l'éveil insurpassable, complet et parfait : «"
 
-msgctxt "line 242, E002.txt"
+msgctxt "5965ad891d604b42bed18d48004a14fa"
 msgid "ཀྱེ་མ་"
 msgstr "Quelle merveille !"
 
@@ -1465,7 +1464,7 @@ msgstr "Quelle merveille !"
 # སྐྱེས་བུ་:འདུལ་བའི་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»གདུལ་བྱའི།>ཁ་ལོ་:སྒྱུར་བ<«གཡུང་»-བ།
 # «ལི་»«ཅོ་»བསྒྱུར་བ།>། བླ་ན་མེད་པ། ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ།
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་སུ་གྱུར་ཅིག་ཅེས་
-msgctxt "line 243, E002.txt"
+msgctxt "9a4907e362f04e5986cbbaa07cc8aad8"
 msgid ""
 "དགེ་བ␣འི་ རྩ་བ་ འདི␣ས་ ན །  བདག་ འཇིག་རྟེན་ ལོང་བ་ འདྲེན་པ་ མེད་པ་ སྟོན་པ་ "
 "མེད་པ␣ར །  དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ "
@@ -1480,21 +1479,21 @@ msgstr ""
 "insurpassable cocher des êtres à guider, un Enseignant des dieux et des "
 "hommes."
 
-msgctxt "line 244, E002.txt"
+msgctxt "e5c11ff276724383a5303c0e35f91b78"
 msgid "བྱས་ ནས །"
 msgstr "dit-il. Puis,"
 
-msgctxt "line 245, E002.txt"
+msgctxt "a21eaf5eada44a53abca684592144c23"
 msgid "ཚིགས་ སུ་ བཅད་ དེ་"
 msgstr "sous forme de vers,"
 
-msgctxt "line 246, E002.txt"
+msgctxt "b76d4218bf2742c691cf54532b706ab3"
 msgid "སྨྲས་པ །"
 msgstr "il dit : «"
 
 # སྦྱིན་པ་ཆེན་པོར་<«ཅོ་»པོ།>གྱུར་པ་འདི་ཡིས་ནི<«སྣར་»ན།>།
 # །སྲིད་པ་དག་ཏུ་རང་བྱུང་སངས་རྒྱས་ཤོག །
-msgctxt "line 247, E002.txt"
+msgctxt "9f68de1ea10845a6b97f12270f9bce9f"
 msgid ""
 "སྦྱིན་པ་ ཆེན་པོ␣ར་ གྱུར་པ་ འདི་ ཡིས་ ནི ། ། སྲིད་པ་ དག་ ཏུ་ རང་བྱུང་ "
 "སངས་རྒྱས་ ཤོག  །"
@@ -1502,7 +1501,7 @@ msgstr ""
 "Grâce à cette grande générosité, puissé-je atteindre l'éveil sans dépendre "
 "de quiconque dans ces [trois] mondes."
 
-msgctxt "line 248, E002.txt"
+msgctxt "392fe075c9ac47a0a6da214480debf6a"
 msgid ""
 "སྔོན་ གྱི་ རྒྱལ་དབང་ རྣམས་ ཀྱིས་ མ་ བསྒྲལ་བ␣འི ། ། སྐྱེ་བོ་ ཕལ་ཆེན་ :␣བརྒལ་ "
 "ནས་"
@@ -1512,33 +1511,33 @@ msgstr ""
 
 # བསྒྲལ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»རྒལ་ནས་བསྒྲལ།
 # «ལི་»«ཅོ་»བརྒལ་ནས་བསྒྲོལ།>བར་བགྱི། །
-msgctxt "line 249, E002.txt"
+msgctxt "15bbe67379874c2591e9e2f5ac4c7e56"
 msgid "བསྒྲལ་བ␣ར་ བགྱི ། །"
 msgstr "[puissé-je] les libérer. »"
 
-msgctxt "line 250, E002.txt"
+msgctxt "3494b44f71584566af3476db1e2d4724"
 msgid ""
 "དེ་ལྟར་ བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཏུ་ སྨོན་ལམ་ བཏབ་ ནས །"
 msgstr ""
 "Ainsi, il fit le souhait de l'éveil insurpassable, complet et parfait et"
 
-msgctxt "line 251, E002.txt"
+msgctxt "74fa321120f7447a8af31a74b2a9f00d"
 msgid "སྨྲས་པ །"
 msgstr "dit : «"
 
-msgctxt "line 252, E002.txt"
+msgctxt "7300e32469fc4f3ca36882148d5205d4"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # བདག་གིས་<«གཡུང་»«པེ་»གི།>ལུས་འདི་ཅི་ལྟར་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»-ལྟར།>དགའ་བར་གྱིས་ཤིག
 # །
-msgctxt "line 253, E002.txt"
+msgctxt "e1240427d6f24540ac073fce6b56474d"
 msgid "བདག་ གིས་ ལུས་ འདི་ ཅི་ ལྟར་ དགའ་བ␣ར་ གྱིས་ ཤིག  །"
 msgstr "Disposez librement de mon corps. »"
 
 # དེ་ནས་བྱང་ཆུབ་སེམས་དཔས་<«གཡུང་»«པེ་»དཔའ།>སེམས་བསྐྱེད་མ་ཐག་ཏུ་ས་རྣམ་པ་<«གཡུང་»-པ།>དྲུག་ཏུ་གཡོས་སོ།
 # །
-msgctxt "line 254, E002.txt"
+msgctxt "ad03bdec2a5d49269e4955b169ba976a"
 msgid ""
 "དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔ␣ས་ སེམས་བསྐྱེད་ མ་ ཐག་ ཏུ་ ས་ རྣམ་པ་ དྲུག་ ཏུ་ གཡོས་"
 " སོ ། །"
@@ -1547,69 +1546,69 @@ msgstr ""
 "trembla de six manières."
 
 # ནམ་མཁའ་ལ་འཁོད་པའི་ལྷ་རྣམས་ཀྱིས་ཀྱང་<«སྣར་»-ཀྱང་།>མེ་ཏོག་གི་ཆར་ཕབ་ནས་
-msgctxt "line 255, E002.txt"
+msgctxt "e114de67e7ad4d168962147387ea962d"
 msgid "ནམ་མཁའ་ ལ་ འཁོད་པ␣འི་ ལྷ་ རྣམས་ ཀྱིས་ ཀྱང་ མེ་ཏོག་ གི་ ཆ␣ར་ ཕབ་ ནས་"
 msgstr ""
 "Les dieux qui se trouvent dans les cieux firent tomber une pluie de fleurs "
 "et"
 
-msgctxt "line 256, E002.txt"
+msgctxt "c8fdf7760be9408da106ff4b7c9e0fdb"
 msgid "ལེགས་ སོ་ ཞེས་ བྱ་བ་ བྱིན་ ཏེ །"
 msgstr "s'exclamèrent : « C'est merveilleux ! » Puis, «"
 
-msgctxt "line 257, E002.txt"
+msgctxt "637ac3c0d20d4e51912d9604ea7e907b"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
-msgctxt "line 258, E002.txt"
+msgctxt "bcf940dcf95042ed915736a737dab7c2"
 msgid "ལེགས་ སོ ། ། ལེགས་ སོ་"
 msgstr "C'est merveilleux ! C'est merveilleux !"
 
 # ཁྱོད་ཀྱིས་:མཆོག་ཏུ་<«ལི་»«ཅོ་»-མཆོག་ཏུ།>དཀའ་བའི་ལས་བྱས་སོ་ཞེས་
-msgctxt "line 259, E002.txt"
+msgctxt "4d66a4f83261473a88566a05a02c7998"
 msgid "ཁྱོད་ ཀྱིས་ མཆོག་ ཏུ་ དཀའ་བ␣འི་ ལ␣ས་ བྱས་ སོ་ ཞེས་"
 msgstr "Tu as accompli une action extraordinairement difficile »"
 
-msgctxt "line 260, E002.txt"
+msgctxt "8aff4cc4d22d4d28b3c2582f126e3228"
 msgid "འཛེར་ ཏོ ། །"
 msgstr "dirent-ils."
 
-msgctxt "line 261, E002.txt"
+msgctxt "62b16c37db324ebd87ecc6fad14b7b30"
 msgid "དེ་ནས་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ གྱིས་ བསམས་པ །"
 msgstr "Alors, Indra, le Seigneur des dieux, se demanda : «"
 
 # བྱང་ཆུབ་སེམས་དཔའ་འདིས་<«གཡུང་»«པེ་»-འདིས།>མཆོག་ཏུ་དཀའ་བ་བྱས་ཏེ།
-msgctxt "line 262, E002.txt"
+msgctxt "396e7e38adf14ea18d20f394c2e5be51"
 msgid "བྱང་ཆུབ་ སེམས་དཔའ་ འདི␣ས་ མཆོག་ ཏུ་ དཀའ་བ་ བྱས་ ཏེ །"
 msgstr "Ce bodhisattva a réalisé [un acte] extraordinairement difficile ;"
 
 # བདག་གིས་:འདིའི་ལུས་<«ལི་»«ཅོ་»ལུས་འདི།>སྔ་མཁོ་<«སྣར་»ཁོ།>བཞིན་དུ་:བསྒྱུར་བར་<«གཡུང་»སྒྱུར་བར།
 # «པེ་»སྐྱུར་བར།
 # «སྣར་»བསྒྱུར་བ།>ནི་ནུས་མོད་ཀྱིས<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»ཀྱི།>།
-msgctxt "line 263, E002.txt"
+msgctxt "173011d169934f17ad7656e9c6384600"
 msgid ""
 "བདག་ གིས་ འདི␣འི་ ལུས་ སྔ་ མཁོ་ བཞིན་ དུ་ བསྒྱུར་བ␣ར་ ནི་ ནུས་ མོད་ ཀྱིས །"
 msgstr "j'ai effectivement la capacité de rétablir son corps."
 
 # འོན་ཀྱང་བདག་གིས་<«གཡུང་»«པེ་»ཀྱང་།>འདི་ཉིད་ཀྱི་སྤྲོ་བ་<«གཡུང་»«པེ་»བའི།>ཚོད་ཟིན་པར་བསྐྱེད་དགོས་སོ་སྙམ་ནས།
-msgctxt "line 264, E002.txt"
+msgctxt "5bba37fdd55b408ca3bc86faae00b365"
 msgid ""
 "འོན་ཀྱང་ བདག་ གིས་ འདི་ཉིད་ ཀྱི་ སྤྲོ་བ་ ཚོད་ཟིན་པ␣ར་ བསྐྱེད་ དགོས་ སོ་ སྙམ་"
 " ནས །"
 msgstr "Mais, je dois développer pleinement son courage » pensa-t-il. Puis,"
 
-msgctxt "line 265, E002.txt"
+msgctxt "a297902fda9e43d58305df8cc29cdf4d"
 msgid "བྱང་ཆུབ་ སེམས་དཔའ་ ལ་ སྨྲས་པ །"
 msgstr "il dit au Bodhisattva : «"
 
-msgctxt "line 266, E002.txt"
+msgctxt "0a0a2dc45e754bf2a1cc29883749ed80"
 msgid "གྲོགས་པོ་"
 msgstr "Mon ami,"
 
 # ཁྱོད་:བདག་གིས་<«གཡུང་»«པེ་»«སྣར་»-བདག་གིས།
 # «ཞོལ་»བདག་གི།>ཤ་རྣམས་གཅོད་ཅིང་རྒྱུས་པ་དང་། རྩ་བྲང་བྲེང་རྣམས་གསེ་བ་ན།
 # སེམས་མི་དགའ་བ་ཅུང་ཟད་ཙམ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»+མ།>སྐྱེས་སམ།
-msgctxt "line 267, E002.txt"
+msgctxt "433acde6774944aca3f4b5d621e3e67b"
 msgid ""
 "ཁྱོད་ བདག་ གིས་ ཤ་ རྣམས་ གཅོད་ ཅིང་ རྒྱུས་པ་ དང་ །  རྩ་ བྲང་ བྲེང་ རྣམས་ "
 "གསེ་བ་ ན །  སེམས་ མི་ དགའ་བ་ ཅུང་ཟད་ ཙམ་ སྐྱེས་ སམ །"
@@ -1617,21 +1616,21 @@ msgstr ""
 "As-tu ressenti [ne serait-ce qu']un peu d'inquiétude à trancher ta chair et "
 "entremêler tes tendons et tes veines [d'importance] secondaire ? »"
 
-msgctxt "line 268, E002.txt"
+msgctxt "03a667ebd3e446649b003295853a9e84"
 msgid "བྱང་ཆུབ་ སེམས་དཔ␣ས་ སྨྲས་པ །"
 msgstr "le bodhisattva répondit : «"
 
-msgctxt "line 269, E002.txt"
+msgctxt "d566dfe2c53141a3984b1c6ee294c274"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # བདག་གི་<«སྣར་»གིས།>ཤ་རྣམས་གཅོད་ཅིང་།
 # རྒྱུས་པ་:དང་རྩ་<«གཡུང་»«པེ་»-དང་རྩ།>བྲང་བྲེང་རྣམས་:གསེ་བ་ན<«གཡུང་»«པེ་»གསེབ་དང༌།>།
 # སེམས་མི་དགའ་བ་ཅུང་<«གཡུང་»«པེ་»ཆུང་།>ཟད་ཀྱང་མ་སྐྱེས་ཀྱིས<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»ཀྱི།>།
-msgctxt "line 270, E002.txt"
+msgctxt "d90e2c99430145acbad2332c269b47fe"
 msgid ""
-"བདག་ གི་ ཤ་ རྣམས་ གཅོད་ ཅིང་ །  རྒྱུས་པ་ དང་ རྩ་ བྲང་ བྲེང་ རྣམས་ གསེ་བ་ ན །"
-"  སེམས་ མི་ དགའ་བ་ ཅུང་ཟད་ ཀྱང་ མ་ སྐྱེས་ ཀྱིས །"
+"བདག་ གི་ ཤ་ རྣམས་ གཅོད་ ཅིང་ །  རྒྱུས་པ་ དང་ རྩ་ བྲང་ བྲེང་ རྣམས་ གསེ་བ་ ན "
+"།  སེམས་ མི་ དགའ་བ་ ཅུང་ཟད་ ཀྱང་ མ་ སྐྱེས་ ཀྱིས །"
 msgstr ""
 "Lorsque je tranchais ma chair et que mes tendons et mes veines "
 "[d'importance] secondaire s'entremêlaient, je n'ai pas ressenti la moindre "
@@ -1642,7 +1641,7 @@ msgstr ""
 # སེམས་ཅན་དམྱལ་བ་དང་། དུད་འགྲོ་དང་།
 # ཡི་དགས་སུ་སྐྱེས་པའི་སེམས་ཅན་<«པེ་»ཅད།>རྣམས་འབའ་ཞིག་ལ།
 # སྙིང་རྗེའི་<«གཡུང་»«པེ་»རྗེ་བའི།>དབང་དུ་གྱུར་ཏོ། །
-msgctxt "line 271, E002.txt"
+msgctxt "a9a443085d8d4dca80fde28511671c6b"
 msgid ""
 "བདག་ གིས་ སྡུག་བསྔལ་ མྱོང་བ་ ན །  སེམས་ཅན་ དམྱལ་བ་ དང་ །  དུད་འགྲོ་ དང་ །  "
 "ཡི་དགས་ སུ་ སྐྱེས་པ␣འི་ སེམས་ཅན་ རྣམས་ འབའ་ཞིག་ ལ །  སྙིང་རྗེ␣འི་ དབང་ དུ་ "
@@ -1653,38 +1652,38 @@ msgstr ""
 "esprits affamés. »"
 
 # ལྷའི་དབང་<«གཡུང་»དང༌།>པོ་བརྒྱ་བྱིན་མི་མ་ཡིན་པའི་ཆ་ལུགས་ཅན་གྱིས་སྨྲས་པ།
-msgctxt "line 272, E002.txt"
+msgctxt "d7bef899578b40848d79cc650cc77675"
 msgid "ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ མི་མ་ཡིན་པ␣འི་ ཆ་ལུགས་ ཅན་ གྱིས་ སྨྲས་པ །"
 msgstr "Indra, le Seigneur des dieux, métamorphosé en non-humain dit : «"
 
-msgctxt "line 273, E002.txt"
+msgctxt "0d5367588834440d9bf74e7a010d3c85"
 msgid "གྲོགས་པོ་"
 msgstr "Mon ami,"
 
 # ཁྱོད་ཀྱི་ཚིག་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»-ཚིག «སྣར་»རིགས།>དེ་ལ་སུ་ཞིག་ཡིད་ཆེས།
-msgctxt "line 274, E002.txt"
+msgctxt "5216a9bcc1974c87bdd04d534cea3ad1"
 msgid "ཁྱོད་ ཀྱི་ ཚིག་ དེ་ ལ་ སུ་ཞིག་ ཡིད་ཆེས །"
 msgstr "qui croira tes dires ? »"
 
-msgctxt "line 275, E002.txt"
+msgctxt "c3bc3932d72d49358785dc02ca8bebee"
 msgid "བྱང་ཆུབ་ སེམས་དཔ␣ས་ སྨྲས་པ །"
 msgstr "le bodhisattva répondit : «"
 
-msgctxt "line 276, E002.txt"
+msgctxt "348044aa2b1f415ba965f0d9804a2236"
 msgid ""
 "བདག་ གིས་ ཁྱོད་ ལ་ བདེན་པ་ བསྐུལ་བ་ དེ་ལྟ་ བུས་ ཡིད་ཆེས་པ␣ར་ བསྟན་ ཏོ ། །"
 msgstr ""
 "Je vous montrerai ce qui vous [fera] croire par l'invocation de la vérité. »"
 
 # བརྒྱ་བྱིན་གྱིས་སྨྲས་པ<«གཡུང་»«པེ་»-པ།>།
-msgctxt "line 277, E002.txt"
+msgctxt "cea4c1c333f642e49996faa845f2a387"
 msgid "བརྒྱ་བྱིན་ གྱིས་ སྨྲས་པ །"
 msgstr "Indra répondit : «"
 
 # དེ་ལྟར་ཁྱོད་ཀྱིས་བདེན་པ་<«གཡུང་»«པེ་»པས། «སྣར་»པའི།>བསྐུལ་བར་ཆད་ན།
 # ཇེ་ཁྱོད་བདག་གིས་<«གཡུང་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གི།>ལུས་འདི་བདེན་པ་བསྐུལ་བས་སྔ་<«ལི་»སྡེ།>མཁོ་བཞིན་དུ་གྱུར་<«ཞོལ་»སྒྱུར།>ཅིག
 # །
-msgctxt "line 278, E002.txt"
+msgctxt "f6e67e22b6c346a5896127003a5279ec"
 msgid ""
 "དེ་ལྟར་ ཁྱོད་ ཀྱིས་ བདེན་པ་ བསྐུལ་བ␣ར་ ཆད་ ན །  ཇེ་ ཁྱོད་ བདག་ གིས་ ལུས་ "
 "འདི་ བདེན་པ་ བསྐུལ་བ␣ས་ སྔ་ མཁོ་ བཞིན་ དུ་ གྱུར་ཅིག  །"
@@ -1693,7 +1692,7 @@ msgstr ""
 "vérité et que ton corps se rétablisse [après]. »"
 
 # དེ་སྐད་ཅེས་<«ལི་»«ཅོ་»-ཅེས།>སྨྲས་མ་ཐག་ཏུ་བྱང་ཆུབ་སེམས་དཔས་སྨྲས་པ།
-msgctxt "line 279, E002.txt"
+msgctxt "62a884c521614cf89822930ff428338e"
 msgid "དེ་སྐད་ ཅེས་ སྨྲ␣ས་ མ་ ཐག་ ཏུ་ བྱང་ཆུབ་ སེམས་དཔ␣ས་ སྨྲས་པ །"
 msgstr "Juste après qu'il ait dit ceci, le bodhisattva dit : «"
 
@@ -1701,10 +1700,10 @@ msgstr "Juste après qu'il ait dit ceci, le bodhisattva dit : «"
 # རྒྱུས་པ་དང་རྩ་བྲང་བྲེང་རྣམས་:གསེ་བ་<«གཡུང་»«པེ་»གསེབ། «ལི་»«ཅོ་»གསེབ་པ།
 # «ཞོལ་»གསབ།>ན།
 # སེམས་ཅུང་<«སྣར་»ཆུང་།>ཟད་:ཙམ་ཡང་<«གཡུང་»«པེ་»«སྣར་»ཀྱང་།>མི་དགའ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»+བ།>མ་<«ལི་»མི།>སྐྱེས་ཏེ།
-msgctxt "line 280, E002.txt"
+msgctxt "61039574f6fa4f4bbfd45b694de9dc0c"
 msgid ""
-"བདེན་པ་ དང་ བདེན་པ␣འི་ ཚིག་ གང་ གིས་ འདི་ལྟར་ བདག་ གི་ ཤ་ རྣམས་ གཅོད་ ཅིང་ །"
-"  རྒྱུས་པ་ དང་ རྩ་ བྲང་ བྲེང་ རྣམས་ གསེ་བ་ ན །  སེམས་ ཅུང་ཟད་ ཙམ་ ཡང་ མི་ "
+"བདེན་པ་ དང་ བདེན་པ␣འི་ ཚིག་ གང་ གིས་ འདི་ལྟར་ བདག་ གི་ ཤ་ རྣམས་ གཅོད་ ཅིང་ "
+"།  རྒྱུས་པ་ དང་ རྩ་ བྲང་ བྲེང་ རྣམས་ གསེ་བ་ ན །  སེམས་ ཅུང་ཟད་ ཙམ་ ཡང་ མི་ "
 "དགའ་མ་ སྐྱེས་ ཏེ །"
 msgstr ""
 "Voici la vérité et les paroles de vérité : lorsque je tranchais ma chair et "
@@ -1714,7 +1713,7 @@ msgstr ""
 # བདག་གིས་<«གཡུང་»«པེ་»གི།>སྡུག་བསྔལ་མྱོང་བ་ན། སེམས་ཅན་དམྱལ་བ་དང་།
 # དུད་འགྲོ་དང་།
 # ཡི་དགས་སུ་:སྐྱེས་པའི་<«ལི་»«ཅོ་»སྐྱེ་བའི།>སེམས་ཅན་རྣམས་འབའ་ཞིག་ལ་སྙིང་:རྗེ་བའི་<«སྣར་»«ཞོལ་»རྗེའི།>དབང་དུ་གྱུར་ན།
-msgctxt "line 281, E002.txt"
+msgctxt "19f60f189a914fd6a28f63657d2b56ac"
 msgid ""
 "བདག་ གིས་ སྡུག་བསྔལ་ མྱོང་བ་ ན །  སེམས་ཅན་ དམྱལ་བ་ དང་ །  དུད་འགྲོ་ དང་ །  "
 "ཡི་དགས་ སུ་ སྐྱེས་པ␣འི་ སེམས་ཅན་ རྣམས་ འབའ་ཞིག་ ལ་ སྙིང་རྗེ་བ␣འི་ དབང་ དུ་ "
@@ -1726,20 +1725,20 @@ msgstr ""
 
 # བདེན་པ་དང་བདེན་པའི་ཚིག་:དེ་དག་གིས་བདག་གི་<«གཡུང་»«པེ་»གི།>ལུས་སྔ་མཁོ་<«མི་»«ཅོ་»-བདག་གི།
 # «སྣར་»«ཞོལ་»དེས་བདག་གི།>བཞིན་དུ་གྱུར་ཅིག་ཅེས་
-msgctxt "line 282, E002.txt"
+msgctxt "41d5795bae62409a98bdd679e7690782"
 msgid ""
 "བདེན་པ་ དང་ བདེན་པ␣འི་ ཚིག་ དེ་དག་ གིས་ བདག་ གི་ ལུས་ སྔ་ མཁོ་ བཞིན་ དུ་ "
 "གྱུར་ཅིག་ ཅེས་"
 msgstr "que la vérité et ces paroles de vérité rétablissent mon corps »"
 
-msgctxt "line 283, E002.txt"
+msgctxt "e5eda385ede04b9895ae14ecc6aff8cb"
 msgid "བྱས་ སོ ། །"
 msgstr "dit-il."
 
 # དེ་སྐད་ཅེས་<«ལི་»«ཅོ་»+ན།
 # «ཞོལ་»+འདི།>བརྗོད་མ་ཐག་ཏུ་བྱང་ཆུབ་སེམས་དཔའི་ལུས་སྔ་མཁོ་<«གཡུང་»«པེ་»-ཅེས།
 # «ལི་»«ཅོ་»+ན།>བཞིན་དུ་གྱུར་ཏོ། །
-msgctxt "line 284, E002.txt"
+msgctxt "db836da5f0d64d998ecf1fec96e828e7"
 msgid ""
 "དེ་སྐད་ ཅེས་ བརྗོད་ མ་ ཐག་ ཏུ་ བྱང་ཆུབ་ སེམས་དཔ␣འི་ ལུས་ སྔ་ མཁོ་ བཞིན་ དུ་ "
 "གྱུར་ ཏོ ། །"
@@ -1748,36 +1747,36 @@ msgstr ""
 "d'origine."
 
 # དེ་ནས་དེ་མཐོང་<«ལི་»«ཅོ་»ཐོས།>མ་ཐག་ཏུ་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ཡི་<«གཡུང་»«པེ་»«ཞོལ་»ཡིད།>རངས་ཏེ།
-msgctxt "line 285, E002.txt"
+msgctxt "033a40273b5f4aff838172bbd8c0c343"
 msgid "དེ་ནས་ དེ་ མཐོང་ མ་ ཐག་ ཏུ་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ ཡི་ རངས་ ཏེ །"
 msgstr "Alors, ayant vu ceci, Indra, le Seigneur des dieux, se réjouit. Et"
 
 # ཆ་ལུགས་:མི་སྣང་བར་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»དེ་མེད་པར།>[124a]བྱས་ནས།
-msgctxt "line 286, E002.txt"
+msgctxt "b58aee64c2cf434c965fde7064e61a48"
 msgid "ཆ་ལུགས་ མི་སྣང་བ␣ར་ བྱས་ ནས །"
 msgstr "il fit disparaître son accoutrement et"
 
-msgctxt "line 287, E002.txt"
+msgctxt "4dd13049b50c47e1aca2fcf5fe46003c"
 msgid "རང་བཞིན་ གྱི་ གཟུགས་ སུ་ བསྒྱུར་ ཏེ །"
 msgstr "reprit son aspect véritable. Alors,"
 
-msgctxt "line 288, E002.txt"
+msgctxt "601340dcdd8c496b8859009033d9b717"
 msgid "བྱང་ཆུབ་ སེམས་དཔ␣འི་ རྐང་པ་ ལ་ ཕྱག་ འཚལ་ ནས་"
 msgstr "il se prosterna aux pieds du Bodhisattva et"
 
-msgctxt "line 289, E002.txt"
+msgctxt "9daf067395dd45b98cfd57f1ddbf041e"
 msgid "སྨྲས་པ །"
 msgstr "dit : «"
 
 # བདག་གིས་ཁྱོད་ལ་གནོད་པའི་བསམས་པས་མི་དགའ་བ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»བར།>བྱས་པ་ནི་<«སྣར་»«ཞོལ་»-ནི།>མ་ཡིན་གྱིས<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»གྱི༑>།
-msgctxt "line 290, E002.txt"
+msgctxt "417cb09494624ced8c8e512a966a47af"
 msgid ""
 "བདག་ གིས་ ཁྱོད་ ལ་ གནོད་པ␣འི་ བསམས་པ␣ས་ མི་ དགའ་བ་ བྱས་པ་ ནི་ མ་ ཡིན་ གྱིས །"
 msgstr "Ce n'était pas pour te nuire que je t'ai fait souffrir."
 
 # ཁྱོད་ཉིད་ཀྱི་སྤྲོ་བ་བསྐྱེད་<«གཡུང་»«པེ་»སྐྱེད།>པའི་ཕྱིར་བདག་གིས་ཁྱོད་མི་དགའ་བར་བྱས་པར་ཟད་དོ།
 # །
-msgctxt "line 291, E002.txt"
+msgctxt "a53c41ac6087424b9698262a8c7d16a1"
 msgid ""
 "ཁྱོད་ ཉིད་ ཀྱི་ སྤྲོ་བ་ བསྐྱེད་པ␣འི་ ཕྱིར་ བདག་ གིས་ ཁྱོད་ མི་ དགའ་བ␣ར་ "
 "བྱས་པ␣ར་ ཟད་ དོ ། །"
@@ -1787,7 +1786,7 @@ msgstr ""
 # ཁྱོད་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>བརྩོན་འགྲུས་འདི་འདྲ་བ་དང་།
 # སྤྲོ་བ་འདི་འདྲ་བ་:ལས་ན<«གཡུང་»«པེ་»ལ།>།
 # གདོན་མི་ཟ་བར་ཁྱོད་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་འགྱུར་<«ལི་»«ཅོ་»-ན།«ཁུ་»གྱུར།>གྱིས<«ཞོལ་»གྱི།>།
-msgctxt "line 292, E002.txt"
+msgctxt "6e50bdb366004b68a16728f96f34c1d8"
 msgid ""
 "ཁྱོད་ ཀྱི་ བརྩོན་འགྲུས་ འདི་འདྲ་བ་ དང་ །  སྤྲོ་བ་ འདི་འདྲ་བ་ ལ␣ས་ ན །  གདོན་"
 " མི་ ཟ་བ␣ར་ ཁྱོད་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ མངོན་པར་ རྫོགས་པ␣ར་ "
@@ -1798,30 +1797,30 @@ msgstr ""
 "parfait."
 
 # དེའི་ཚེ་བདག་དྲན་པར་མཛོད་ཅིག<«ལི་»གཅིག>།
-msgctxt "line 293, E002.txt"
+msgctxt "67f411df63a244c8945a5fbbe6a05fa7"
 msgid "དེ␣འི་ ཚེ་ བདག་ དྲན་པ␣ར་ མཛོད་ ཅིག །"
 msgstr "À ce moment là, souviens-toi de moi. »"
 
-msgctxt "line 294, E002.txt"
+msgctxt "320cb6ebeb0f4359a7f7d8bb2a7ea767"
 msgid ""
 "དེ་ནས་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ གྱིས །  བྱང་ཆུབ་ སེམས་དཔའ་ ལ་ བཟོད་པ་ གསོལ་"
 " ནས །"
 msgstr ""
 "Ensuite, Indra, le Seigneur des dieux, implora le pardon du Bodhisattva et"
 
-msgctxt "line 295, E002.txt"
+msgctxt "cd6faab2cc274894826aa1d6450052e0"
 msgid "དེ་ཉིད་ དུ་ མི་སྣང་བ␣ར་ གྱུར་ ཏོ ། །"
 msgstr "disparut sur le champ."
 
-msgctxt "line 296, E002.txt"
+msgctxt "a6cadd08339f4441a4f4824e4fed2f12"
 msgid "དགེ་སློང་ དག་"
 msgstr "Moines,"
 
-msgctxt "line 297, E002.txt"
+msgctxt "f7501edce0854d5eaf29dbef7217e9bd"
 msgid "ཇི་སྙམ་ དུ་ སེམས །"
 msgstr "qu'en pensez-vous ?"
 
-msgctxt "line 298, E002.txt"
+msgctxt "4950ab88707745acaa3e2bd7ee6c6c09"
 msgid ""
 "དེ␣འི་ ཚེ་ རྒྱལ་པོ་ ཤི་ བིར་ གྱུར་པ །  བྱང་ཆུབ་ སེམས་དཔ␣འི་ སྤྱོད་པ་ ལ་ "
 "གནས་པ་ གང་ཡིན་པ་ དེ་ ནི་ ང་ཉིད་ ཡིན་ ཏེ །"
@@ -1831,7 +1830,7 @@ msgstr ""
 
 # དེའི་ཚེ་ཡང་ང་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»-ང་།>ལེགས་པར་:སྨྲ་བས་<«གཡུང་»སྨྲ་བ།
 # «སྣར་»«ཞོལ་»སྨྲས་པས།>སྨྲ་བ་དང་། ལེགས་པར་སྨྲ་བར་འདོད་པར་གྱུར་ན།
-msgctxt "line 299, E002.txt"
+msgctxt "dca15172b2084f8f91de6df1d71cd6bb"
 msgid ""
 "དེ␣འི་ ཚེ་ ཡང་ ང་ ལེགས་པ␣ར་ སྨྲ་བ␣ས་ སྨྲ་བ་ དང་ །  ལེགས་པ␣ར་ སྨྲ་བ␣ར་ "
 "འདོད་པ␣ར་ གྱུར་ ན །"
@@ -1841,7 +1840,7 @@ msgstr ""
 
 # ད་ལྟར་དེ་བཞིན་གཤེགས་པར་གྱུར་པ་ན་ལེགས་པར་སྨྲ་བས་<«གཡུང་»«པེ་»བ།>སྨྲ་བ་དང་།
 # ལེགས་པར་སྨྲ་བར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»བ།>འདོད་པར་ཅི་སྟེ་མི་མཛད།
-msgctxt "line 300, E002.txt"
+msgctxt "a7de83bac48c439388f3f7e5a3ce8e05"
 msgid ""
 "ད་ལྟར་ དེ་བཞིན་ གཤེགས་པ␣ར་ གྱུར་པ་ ན་ ལེགས་པ␣ར་ སྨྲ་བ␣ས་ སྨྲ་བ་ དང་ །  "
 "ལེགས་པ␣ར་ སྨྲ་བ␣ར་ འདོད་པ␣ར་ ཅི་སྟེ་ མི་ མཛད །"
@@ -1850,50 +1849,50 @@ msgstr ""
 "que [le Dharma] est excellemment exposé et n'approuverais-je pas [le Dharma]"
 " excellemment exposé ?"
 
-msgctxt "line 301, E002.txt"
+msgctxt "e5f93135201e44d4bfa7b1a92ce48b80"
 msgid "དེ་ ཅིའི་ཕྱིར་ ཞེ་ ན །"
 msgstr "La raison est la suivante :"
 
-msgctxt "line 302, E002.txt"
+msgctxt "d4b62566ea204e488ac57d1d3eda2d26"
 msgid "དགེ་སློང་ དག་"
 msgstr "Moines,"
 
 # ང་ནི་ཆོས་དང་<«གཡུང་»«པེ་»རྣམས་དང་།
 # «སྣར་»«ཞོལ་»རྣམས་དྲང༌།>པོ་བྱེད་པ་ཡིན་པའི་ཕྱིར་རོ།། །།
-msgctxt "line 303, E002.txt"
+msgctxt "6f154b6600674955b106ff1612679587"
 msgid "ང་ ནི་ ཆོས་ དང་པོ་ བྱེད་པ་ ཡིན་པ␣འི་ ཕྱིར་ རོ །། །།"
 msgstr "c'est parce que je suis le premier à avoir [pratiqué] le Dharma."
 
 # ཤི་བི་<«གཡུང་»བཱི། «པེ་»བ།>གཉིས་པ་ནི།
-msgctxt "line 304, E002.txt"
+msgctxt "c9a9c690352642da92650416ec452ce9"
 msgid "ཤི་ བི་ གཉིས་པ་ ནི །"
 msgstr "La deuxième histoire du Roi Śibi"
 
 # གཏན་ཚིགས་དང་། སྔོན་གྱི་རྒྱུ་<«གཡུང་»«སྣར་»«ཞོལ་»རྒྱུད།>སྔ་མ་དང་འདྲ་བ་ལས།
-msgctxt "line 305, E002.txt"
+msgctxt "a3b75c4a8df64c77b20de557d02e6cd6"
 msgid "གཏན་ཚིགས་ དང་ །  སྔོན་ གྱི་ རྒྱུ་ སྔ་མ་ དང་ འདྲ་བ་ ལ␣ས །"
 msgstr ""
 "L'éclaircissement [final] et [l'élément] déclencheur du début sont "
 "identiques à [l'histoire] qui précède, mais"
 
-msgctxt "line 306, E002.txt"
+msgctxt "f832b058a2224d8e87935b72f48bc83d"
 msgid "ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ གྱིས་ བྱང་ཆུབ་ སེམས་དཔའ་ ལ་ སྨྲས་པ །"
 msgstr "Indra, le Seigneur des dieux, demanda au Bodhisattva : «"
 
 # ཁྱོད་ཀྱིས་བདག་གི་<«ཁུ་»གིས།>སློབ་མ་བྱས་པས་ཅི་ལ་ཕན།
-msgctxt "line 307, E002.txt"
+msgctxt "25d90207737740f48ace648455c68b07"
 msgid "ཁྱོད་ ཀྱིས་ བདག་ གི་ སློབ་མ་ བྱས་པ␣ས་ ཅི་ ལ་ ཕན །"
 msgstr "À quoi servira-t-il que tu sois mon disciple ?"
 
 # ང་ཁྱོད་ལ་གནོད་པ་ཞིག་ཟེར་གྱིས<«ལི་»«ཅོ་»«ཞོལ་»གྱི།>།
-msgctxt "line 308, E002.txt"
+msgctxt "22b388b0a6ac47c98eaf563ef939e904"
 msgid "ང་ ཁྱོད་ ལ་ གནོད་པ་ ཞིག་ ཟེར་ གྱིས །"
 msgstr "Je te décrirai un supplice."
 
 # གལ་ཏེ་གནོད་པ་དེ་ཁྱོད་ཀྱིས་བྱེད་ཕོད་ན་ནི།
 # དེའི་འོག་ཏུ་ཚིགས་སུ་བཅད་པ་དེ་<«སྣར་»དེས།>ངས་ཁྱོད་ལ་བརྗོད་པར་བྱའོ<«གཡུང་»བའོ།>།
 # །
-msgctxt "line 309, E002.txt"
+msgctxt "5179a50f74404752b47fc34b9d5a7735"
 msgid ""
 "གལ་ཏེ་ གནོད་པ་ དེ་ ཁྱོད་ ཀྱིས་ བྱེད་ ཕོད་ ན་ ནི །  དེ␣འི་ འོག་ ཏུ་ ཚིགས་ སུ་"
 " བཅད་པ་ དེ་ ངས་ ཁྱོད་ ལ་ བརྗོད་པ␣ར་ བྱ␣འོ ། །"
@@ -1902,41 +1901,41 @@ msgstr ""
 "prononcerai pour toi ce quatrain en entier. »"
 
 # བྱང་ཆུབ་སེམས་<«གཡུང་»-སེམས།>དཔས་སྨྲས་པ།
-msgctxt "line 310, E002.txt"
+msgctxt "fc8aee84610c405aab9da51ba1986e03"
 msgid "བྱང་ཆུབ་ སེམས་དཔ␣ས་ སྨྲས་པ །"
 msgstr "le bodhisattva répondit : «"
 
-msgctxt "line 311, E002.txt"
+msgctxt "5eae7b739ffe4e599d111f0391d7d4ae"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # ཚིགས་སུ་བཅད་པ་དེ་:ཇེ་བརྗོད་<«ལི་»«ཅོ་»-ཇེ། «སྣར་»«ཞོལ་»ཇེ་རྗོད།>ཅིག་དང་།
-msgctxt "line 312, E002.txt"
+msgctxt "78efa0f1222349fbaa99d34d36a4f7cc"
 msgid "ཚིགས་ སུ་ བཅད་པ་ དེ་ ཇེ་ བརྗོད་ ཅིག་ དང་ །"
 msgstr "Veuillez commencer par énoncer ce quatrain ;"
 
 # ཁྱོད་ཀྱིས་བདག་ལ་གནོད་པ་<«གཡུང་»«པེ་»+བྱེད་པ།>ཅི་<«སྣར་»-ཅི།>བྱེད་<«ལི་»བྱེ་བ།>དུ་བཅུག་པ་དེ་དག་ཐམས་ཅད་བདག་གིས་བགྱིའོ།
 # །
-msgctxt "line 313, E002.txt"
+msgctxt "b6a5c1f343224481a530dc2f976ed13a"
 msgid ""
 "ཁྱོད་ ཀྱིས་ བདག་ ལ་ གནོད་པ་ ཅི་ བྱེད་ དུ་ བཅུག་པ་ དེ་དག་ ཐམས་ཅད་ བདག་ གིས་ "
 "བགྱི␣འོ ། །"
 msgstr ""
 "je m'infligerai tous les supplices que vous me demanderez de m'infliger."
 
-msgctxt "line 314, E002.txt"
+msgctxt "959c8c52952c4451978644a01c00c586"
 msgid "གྲོགས་པོ་"
 msgstr "Cher ami,"
 
 # ཚིགས་སུ་བཅད་<«གཡུང་»+ཡིན།>པ་དེ་<«སྣར་»«ཞོལ་»-དེ།>ཚང་བར་སྨྲོས་ཤིག་དང་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»-དང་།>།
-msgctxt "line 315, E002.txt"
+msgctxt "4f607e3357ae4876ada00d3a87ee2a37"
 msgid "ཚིགས་ སུ་ བཅད་པ་ དེ་ ཚང་བ␣ར་ སྨྲོས་ ཤིག་ དང་ །"
 msgstr "Énoncez l'entièreté de ce quatrain. »"
 
 # དེ་སྐད་ཅེས་:བརྗོད་མ་<«གཡུང་»-བརྗོད་མ། «པེ་»སྨྲས་པ།
 # «སྣར་»«ཞོལ་»སྨྲས་མ།>ཐག་ཏུ་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱིས་བྱང་ཆུབ་སེམས་དཔའི་མདུན་དུ་ཚིགས་སུ་བཅད་པ་དེ་ཚང་བར་བརྗོད་དོ།
 # །
-msgctxt "line 316, E002.txt"
+msgctxt "8199f0ced5484de48ab8cbcf890366c0"
 msgid ""
 "དེ་སྐད་ ཅེས་ བརྗོད་ མ་ ཐག་ ཏུ་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ གྱིས་ བྱང་ཆུབ་ "
 "སེམས་དཔ␣འི་ མདུན་ དུ་ ཚིགས་ སུ་ བཅད་པ་ དེ་ ཚང་བ␣ར་ བརྗོད་ དོ ། །"
@@ -1946,13 +1945,13 @@ msgstr ""
 
 # དེ་ནས་བྱང་ཆུབ་སེམས་དཔས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་<«གཡུང་»ཟར།
 # «ལི་»«སྣར་»བཟར།>ནས།
-msgctxt "line 317, E002.txt"
+msgctxt "a928bc24e4cf4331ae1624528b9112b8"
 msgid "དེ་ནས་ བྱང་ཆུབ་ སེམས་དཔ␣ས་ བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ནས །"
 msgstr ""
 "Alors, le Bodhisattva [replia] son châle et le laissa retomber sur une "
 "épaule,"
 
-msgctxt "line 318, E002.txt"
+msgctxt "3155921be077407b956eb4906ee4a730"
 msgid ""
 "ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ མི་མ་ཡིན་པ␣འི་ ཆ་ལུགས་ ཅན་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ "
 "ཐལ་མོ་ སྦྱར་བ་ བཏུད་ ནས །"
@@ -1961,17 +1960,17 @@ msgstr ""
 "dieux, métamorphosé en non-humain et"
 
 # ཚིགས་སུ་བཅད་པ་དེ་:ཚང་བར་<«སྣར་»ཚངས་པར།>མནོས་ཏེ<«ལི་»«ཅོ་»སོ།།>།
-msgctxt "line 319, E002.txt"
+msgctxt "cdf17a57ded444b0b5ed4a07f733a9e4"
 msgid "ཚིགས་ སུ་ བཅད་པ་ དེ་ ཚང་བ␣ར་ མནོས་ ཏེ །"
 msgstr "Il reçut le quatrain dans son entièreté, "
 
 # ཡུན་རིང་མོ་ཞིག་ཏུ་ཁ་:ཏོན་སྦྱངས་ནས<«ལི་»དོན་སྦྱངས་ནས།
 # «ཅོ་»དོན་སྦྱངས་ན།«ཞོལ་»ཏོན་དུ་སྦྱངས་ནས།>།
-msgctxt "line 320, E002.txt"
+msgctxt "03d0179a06384a1280660c39354eed81"
 msgid "ཡུན་རིང་ མོ་ ཞིག་ ཏུ་ ཁ་ཏོན་ སྦྱངས་ ནས །"
 msgstr "il le récita pendant longtemps et"
 
-msgctxt "line 321, E002.txt"
+msgctxt "b9bc9a069ba44786931298fa8401b86f"
 msgid ""
 "ཁབ་སོ␣ར་ བཞི་པ་ སྟོང་ ཤིང་ལེབ་ ལ་ བཙུགས་པ་ དེ་ལྟ་ བུ་ ཤིང་ལེབ་ གཉིས་ ཀྱི་ "
 "བར་ དུ་ བདག་ཉིད་ ཉལ་ ཏེ་"
@@ -1980,12 +1979,12 @@ msgstr ""
 "quatre doigts et"
 
 # འཚིར་<«ལི་»«ཅོ་»བཙིར།>བར་བྱེད་དོ། །
-msgctxt "line 322, E002.txt"
+msgctxt "aa37bc887fb24f6ebc30eafa31b5cf64"
 msgid "འཚིར་བ␣ར་ བྱེད་ དོ ། །"
 msgstr "il fut serré [entre elles]."
 
 # དེ་དེ་ན་འདུག་<«ལི་»«ཅོ་»བཞུགས།>བཞིན་དུ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་སྨོན་ལམ་བཏབ་སྟེ<«ལི་»«ཁུ་»ཏེ།>།
-msgctxt "line 323, E002.txt"
+msgctxt "6038ba3e2f8545f5a415db42e30e9d77"
 msgid ""
 "དེ་དེ་ ན་ འདུག་ བཞིན་ དུ་ བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཏུ་ "
 "སྨོན་ལམ་ བཏབ་ སྟེ །"
@@ -1993,7 +1992,7 @@ msgstr ""
 "Dans cette position, il fit alors le souhait de l'éveil insurpassable, "
 "complet et parfait : «"
 
-msgctxt "line 324, E002.txt"
+msgctxt "83b683ebc3e44e64a3230ef77847ac26"
 msgid "ཀྱེ་མ་"
 msgstr "Quelle merveille !"
 
@@ -2002,7 +2001,7 @@ msgstr "Quelle merveille !"
 # བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་:འདུལ་བའི་<«གཡུང་»འདུལ་བྱའི།
 # «སྣར་»«ཞོལ་»གདུལ་བྱའི།>ཁ་ལོ་སྒྱུར་<«ལི་»«ཅོ་»«ཁུ་»བསྒྱུར།>བ། བླ་ན་མེད་པ།
 # ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སུ་གྱུར་ཅིག་ཅེས་
-msgctxt "line 325, E002.txt"
+msgctxt "61278eafd50d4b5784abb515b84dfd40"
 msgid ""
 "དགེ་བ␣འི་ རྩ་བ་ འདི␣ས་ ན །  བདག་ འཇིག་རྟེན་ ལོང་བ་ འདྲེན་པ་ མེད་པ །  སྟོན་པ་"
 " མེད་པ␣ར་ དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ "
@@ -2017,17 +2016,17 @@ msgstr ""
 "insurpassable cocher des êtres à guider, un Enseignant des dieux et des "
 "hommes."
 
-msgctxt "line 326, E002.txt"
+msgctxt "8da278252df74e1b90b73fe0bc57eb70"
 msgid "བྱས་ ནས །"
 msgstr "dit-il. Puis,"
 
-msgctxt "line 327, E002.txt"
+msgctxt "09d9f805794e4a59a8c2590b6bcffb21"
 msgid "ཚིགས་ སུ་ བཅད་ དེ་ སྨྲས་པ །"
 msgstr "il énonça les vers [suivants] : «"
 
 # སྦྱིན་པ་ཆེན་པོར་གྱུར་པ་འདི་ཡིས་<«ལི་»«ཅོ་»ཡི།>ནི།
 # །སྲིད་པ་དག་ཏུ་རང་བྱུང་སངས་རྒྱས་ཤོག །
-msgctxt "line 328, E002.txt"
+msgctxt "174a8a86e27e424e875e18d325c5f7b1"
 msgid ""
 "སྦྱིན་པ་ ཆེན་པོ␣ར་ གྱུར་པ་ འདི་ ཡིས་ ནི ། ། སྲིད་པ་ དག་ ཏུ་ རང་བྱུང་ "
 "སངས་རྒྱས་ ཤོག  །"
@@ -2035,7 +2034,7 @@ msgstr ""
 "Grâce à cette grande générosité, puissé-je atteindre l'éveil sans dépendre "
 "de quiconque dans ces [trois] mondes."
 
-msgctxt "line 329, E002.txt"
+msgctxt "1f14bef7ef7d44f5a7d32b81bc8535c8"
 msgid ""
 "སྔོན་ གྱི་ རྒྱལ་དབང་ རྣམས་ ཀྱིས་ མ་ བསྒྲལ་བ␣འི ། ། སྐྱེ་བོ་ ཕལ་ཆེན་ :␣བརྒལ་ "
 "ནས་"
@@ -2044,12 +2043,12 @@ msgstr ""
 "passé n'avaient pas libérés, et"
 
 # བསྒྲལ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»རྒལ་ནས་བསྒྲལ། «ཅོ་»བརྒལ་ནས་བསྒྲོལ།>བར་བགྱི། །
-msgctxt "line 330, E002.txt"
+msgctxt "5b46e21ae43f43e78bedb1b338cee55b"
 msgid "བསྒྲལ་བ␣ར་ བགྱི ། །"
 msgstr "[puissé-je] les libérer. »"
 
 # དེ་ནས་ཡང་<«གཡུང་»«པེ་»«སྣར་»-ཡང་།>ཤིང་ལེབ་ཀྱི་བར་དུ་བཙིར་མ་ཐག་ཏུ་བྱང་ཆུབ་སེམས་དཔའི་ལུས་ཐམས་ཅད་ལ་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»ལས།>ཁྲག་འབབ་པར་གྱུར་ནས།
-msgctxt "line 331, E002.txt"
+msgctxt "a440ae3eaf654af487619f04cb07754f"
 msgid ""
 "དེ་ནས་ ཡང་ ཤིང་ལེབ་ ཀྱི་ བར་ དུ་ བཙིར་ མ་ ཐག་ ཏུ་ བྱང་ཆུབ་ སེམས་དཔ␣འི་ ལུས་ "
 "ཐམས་ཅད་ ལ་ ཁྲག་འབབ་པ␣ར་ གྱུར་ ནས །"
@@ -2057,23 +2056,23 @@ msgstr ""
 "Alors, au moment où il fut pressé entre les deux planches, le sang du "
 "Bodhisattva s'écoula de tout son corps."
 
-msgctxt "line 332, E002.txt"
+msgctxt "ba15e2518ef94643b72921735e706a1f"
 msgid "ས་ རྣམ་པ་ དྲུག་ ཏུ་ གཡོས་ སོ ། །"
 msgstr "La Terre trembla de six manières."
 
 # ནམ་མཁའ་ལ་འཁོད་<«ལི་»«ཅོ་»གནས།>པའི་ལྷ་རྣམས་ཀྱིས་ཀྱང་མེ་ཏོག་གི་ཆར་ཕབ་ནས་
-msgctxt "line 333, E002.txt"
+msgctxt "f5c23f89a6f64fc28d9eb08d73a16dac"
 msgid "ནམ་མཁའ་ ལ་ འཁོད་པ␣འི་ ལྷ་ རྣམས་ ཀྱིས་ ཀྱང་ མེ་ཏོག་ གི་ ཆ␣ར་ ཕབ་ ནས་"
 msgstr ""
 "Les dieux qui se trouvent dans les cieux firent tomber une pluie de fleurs "
 "et"
 
-msgctxt "line 334, E002.txt"
+msgctxt "ec559a5140844ce09072bb312c5f5575"
 msgid "ལེགས་ སོ་ ཞེས་ བྱ་བ་ བྱིན་ ནོ ། །"
 msgstr "s'exclamèrent : « C'est merveilleux ! » Puis, «"
 
 # ལྷག་མ་རྣམས་ནི་ཤི་བིའི་<«གཡུང་»«པེ་»«སྣར་»བའི།>གཏམ་རྒྱུད་སྔ་མ་བཞིན་དུ་བདེན་པས་བསྐུལ་ནས།
-msgctxt "line 335, E002.txt"
+msgctxt "c534e70bcc824ae688f57f5809b0de34"
 msgid ""
 "ལྷག་མ་ རྣམས་ ནི་ ཤི་ བིའི་ གཏམ་རྒྱུད་ སྔ་མ་ བཞིན་ དུ་ བདེན་པ␣ས་ བསྐུལ་ ནས །"
 msgstr ""
@@ -2082,10 +2081,10 @@ msgstr ""
 
 # ལུས་སྔ་མཁོ་<«ལི་»«ཅོ་»མ།>བཞིན་དུ་སོར་ཆུད་པར་གྱུར་པའི་བར་དུ་བརྗོད་པར་བྱའོ།།
 # །།
-msgctxt "line 336, E002.txt"
+msgctxt "9e6acf311a8b4eeab138b893784f7e4a"
 msgid ""
-"ལུས་ སྔ་ མཁོ་ བཞིན་ དུ་ སོར་ཆུད་པ␣ར་ གྱུར་པ␣འི་ བར་ དུ་ བརྗོད་པ␣ར་ བྱ␣འོ །། "
-"།།"
+"ལུས་ སྔ་ མཁོ་ བཞིན་ དུ་ སོར་ཆུད་པ␣ར་ གྱུར་པ␣འི་ བར་ དུ་ བརྗོད་པ␣ར་ བྱ␣འོ "
+"།། །།"
 msgstr ""
 "son corps est rétabli à son état initial. Il faut dire [ce passage] jusque "
 "là."
