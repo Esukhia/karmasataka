@@ -5,814 +5,814 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-msgctxt "line 1, 13.txt"
+msgctxt "c6800faaa2ef4efc95218808a30eacdc"
 msgid "﻿ཚེམ་བུ་ མཁན་ ཞེས་ བྱ་བ་ ནི །"
 msgstr ""
 
 # གླེང་གཞི་<«གཡུང་»གླེང་བཞི།
 # «ལི་»«སྣར་»«ཅོ་»གླིང་གཞི།>མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
-msgctxt "line 2, 13.txt"
+msgctxt "99fac03b28444707bfc4b4add6300f64"
 msgid "གླེང་ གཞི་ མཉན་ དུ་ཡོད་པ་ ན་ བཞུགས་ ཏེ །"
 msgstr ""
 
 # དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན་ཁྱིམ་བདག་ཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»གཅིག>གནས་པ་ལས་
-msgctxt "line 3, 13.txt"
+msgctxt "d2eae98eb6db46fb991f74cb626e3994"
 msgid "དེ␣འི་ ཚེ་ མཉན་ དུ་ཡོད་པ་ ན་ ཁྱིམ་བདག་ ཅིག་ གནས་པ་ ལ␣ས་"
 msgstr ""
 
-msgctxt "line 4, 13.txt"
+msgctxt "175e47f93a86492ea440ba1bbcb2e5ee"
 msgid "ཕྱི་ ཞིག་ ན་ དེ␣འི་ ཆུང་མ་ ལ་ བུ་ ཆགས་ ནས་"
 msgstr ""
 
-msgctxt "line 5, 13.txt"
+msgctxt "6fabe59d692d47df9bf6fdf9aad634b6"
 msgid "དེ་ ཟླ་བ་ དགུ␣འམ་ བཅུ་ ལོན་པ་ དང་ ཁྱེའུ་ ཞིག་ བཙས་ ཏེ །"
 msgstr ""
 
 # ཁྱེའུ་དེ་ཡང་འཕྱེ་བོ་འགྲོ་<«སྣར་» འབྲོ།>མི་ནུས་པ་ཞིག་ཏུ་གྱུར་ཏེ་
-msgctxt "line 6, 13.txt"
+msgctxt "78f54a59fdfe4a019b8dcf704ab0055c"
 msgid "ཁྱེའུ་ དེ་ཡང་ འཕྱེ་བོ་ འགྲོ་ མི་ ནུས་པ་ ཞིག་ ཏུ་ གྱུར་ ཏེ་"
 msgstr ""
 
-msgctxt "line 7, 13.txt"
+msgctxt "75ac1fb001df44178258c39049f3a12b"
 msgid "དེ␣འི་ བཙས་ སྟོན་ རྒྱས་པ␣ར་ བྱས་ ནས །"
 msgstr ""
 
 # ཁྱེའུ་འདིའི་མིང་<«གཡུང་»«པེ་»+ཅི་སྐད་གདགས་ཤེས་མིང་།>ཅི་<«ཞོལ་»ཇི།>སྐད་གདགས་ཞེས་<«གཡུང་»«མི་»«པེ་»«ཅོ་»ཤེས།>མིང་འདོགས་པར་བྱེད་དེ།
-msgctxt "line 8, 13.txt"
+msgctxt "580d40519f5e469592e0fb41353ece95"
 msgid "ཁྱེའུ་ འདི␣འི་ མིང་ ཅི་ སྐད་ གདགས་ ཞེས་ མིང་འདོགས་པ␣ར་ བྱེད་ དེ །"
 msgstr ""
 
 # ཁྱེའུ་འདི་<«གཡུང་»«པེ་»འདིའི།>འཕྱེ་བོ་ཡིན་པས་ན་<«གཡུང་»«པེ་»ནས།>ཁྱེའུ་འདིའི་མིང་འཕྱེ་བོར་གདགས་སོ།
 # །
-msgctxt "line 9, 13.txt"
+msgctxt "ecc10e8a1bb2453eb012b0b9a65f348b"
 msgid ""
 "ཁྱེའུ་ འདི་ འཕྱེ་བོ་ ཡིན་པ␣ས་ ན་ ཁྱེའུ་ འདི␣འི་ མིང་ འཕྱེ་བོ␣ར་ གདགས་ སོ ། །"
 msgstr ""
 
 # དེ་ནས་ཁྱེའུ་འཕྱེ་བོ་འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་<«གཡུང་»–ཞུན་མར་དང་།>མར་གྱི་ཉིང་གུས་<«གཡུང་»«པེ་»སྙིང་ཀུས།
 # «ལི་»«སྣར་»«ཅོ་»སྙིང་གུས། «ཞོལ་»སྙིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
-msgctxt "line 10, 13.txt"
+msgctxt "563ab908f8124501ba93d9fdf98dd168"
 msgid ""
 "དེ་ནས་ ཁྱེའུ་ འཕྱེ་བོ་ འོ་མ་ དང་ ཞོ་ དང་ མར་ དང་ ཞུན་མར་ དང་ མར་ གྱི་ ཉིང་ "
 "གུས་ བསྐྱེད་ བསྲིངས་ ཏེ །"
 msgstr ""
 
-# དེ་གང་གི་ཚེ་<«གཡུང་»–ཚེ།>ཆེར་སྐྱེས་པ་དེའི་ཚེ་ཕས་བསམས་པ། 
-msgctxt "line 11, 13.txt"
+# དེ་གང་གི་ཚེ་<«གཡུང་»–ཚེ།>ཆེར་སྐྱེས་པ་དེའི་ཚེ་ཕས་བསམས་པ།
+msgctxt "57cfbd0bb9b9419a92a6ef2a9e457038"
 msgid "དེ་ གང་ གི་ ཚེ་ ཆེ␣ར་ སྐྱེས་པ་ དེ␣འི་ ཚེ་ ཕས་ བསམས་པ །"
 msgstr ""
 
-msgctxt "line 12, 13.txt"
+msgctxt "de22af20015d4ba3ba4d43b243634ab9"
 msgid "བདག་ གིས་ ཁྱེའུ་ འདི་ ཅི་ ནས་ འདུག་ བཞིན་ དུ་ ལ␣ས་ བྱེད་ ཅིང་"
 msgstr ""
 
 # བཟོ་དེས་འཚོ་བ་རྙེད་པར་འགྱུར་བའི་བཟོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»གཟོ།>ཇི་ལྟ་བུ་ཞིག་བསླབ་པར་བྱ་<«གཡུང་»«པེ་»བྱའོ།>སྙམ་མོ།
 # །
-msgctxt "line 13, 13.txt"
+msgctxt "29bb01b49df2437795805cf7ca221154"
 msgid ""
 "བཟོ་ དེ␣ས་ འཚོ་བ་ རྙེད་པ␣ར་ འགྱུར་བ␣འི་ བཟོ་ ཇི་ལྟ་བུ་ ཞིག་ བསླབ་པ␣ར་ བྱ་ "
 "སྙམ་ མོ ། །"
 msgstr ""
 
 # དེ་ནས་དེས་བསམས་པ་<«གཡུང་»«པེ་»པས།>
-msgctxt "line 14, 13.txt"
+msgctxt "8d58be8112eb47aea6a314ff467c9537"
 msgid "དེ་ནས་ དེ␣ས་ བསམས་པ་"
 msgstr ""
 
-msgctxt "line 15, 13.txt"
+msgctxt "3fddd42128de4c678f4bca93fca12f3d"
 msgid "མ་ལ་"
 msgstr ""
 
 # བདག་གི་<«ཞོལ་»གིས།>འདི་ཚེམ་བུ་མཁན་གྱི་ལས་བསླབས་པ་དང་དེས་འདིའི་འཚོ་བ་རྙེད་པར་འགྱུར་རོ་སྙམ་དུ་
-msgctxt "line 16, 13.txt"
+msgctxt "980aa2421f124b5f939a3593e060b4d5"
 msgid ""
 "བདག་ གི་ འདི་ ཚེམ་བུ་ མཁན་ གྱི་ ལ␣ས་ བསླབས་པ་ དང་ དེ␣ས་ འདི␣འི་ འཚོ་བ་ "
 "རྙེད་པ␣ར་ འགྱུར་ རོ་ སྙམ་ དུ་"
 msgstr ""
 
-msgctxt "line 17, 13.txt"
+msgctxt "932f4bffa92f4864ac3a3076c8f708d6"
 msgid "བསམས་ ནས །"
 msgstr ""
 
 # དེས་<«གཡུང་»«པེ་»དེ།>ཁྱེའུ་དེ་<«གཡུང་»«པེ་»–དེ།>ཚེམ་བུ་མཁན་གྱི་ལས་སློབ་ཏུ་བཅུག་གོ།
 # །
-msgctxt "line 18, 13.txt"
+msgctxt "50cb106caf44481da583589ec5a7a11a"
 msgid "དེ␣ས་ ཁྱེའུ་ དེ་ ཚེམ་བུ་ མཁན་ གྱི་ ལ␣ས་ སློབ་ ཏུ་ བཅུག་ གོ ། །"
 msgstr ""
 
-msgctxt "line 19, 13.txt"
+msgctxt "a804ca9c4ff345bc9a7925d10e8da452"
 msgid "དེ་ནས་ དེ་ཡང་ དེ་ ལ་ སློབ་དཔོན་ གྱི་ མཆོག་ ཏུ་ གྱུར་ ཏོ ། །"
 msgstr ""
 
 # དེ་ནས་དུས་སྟོན་ཞིག་བྱེད་པ་ན་ཁྱིམ་བདག་གཞན་ཞིག་གིས་ཆུང་མའི་ཕྱིར་གཞན་གྱི་ཁྱིམ་ནས་གོས་དང་རྒྱན་གཡར་<«ཅོ་»གཡོར།>པོར་བླངས་ནས།
-msgctxt "line 20, 13.txt"
+msgctxt "1eddd30493ab4da0b504431fba2d5809"
 msgid ""
 "དེ་ནས་ དུས་སྟོན་ ཞིག་ བྱེད་པ་ ན་ ཁྱིམ་བདག་ གཞན་ ཞིག་ གིས་ ཆུང་མ␣འི་ ཕྱིར་ "
 "གཞན་ གྱི་ ཁྱིམ་ ནས་ གོས་ དང་ རྒྱན་ གཡར་པོ␣ར་ བླངས་ ནས །"
 msgstr ""
 
-msgctxt "line 21, 13.txt"
+msgctxt "e2b8dcb9aa0b4622b782ebd7479b8ce2"
 msgid "ཁྱེར་ ཏེ་"
 msgstr ""
 
-msgctxt "line 22, 13.txt"
+msgctxt "6729fd2c45c24c9890bad532bd1e5d35"
 msgid "འོངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 23, 13.txt"
+msgctxt "3a74852df2c64b82b43db25572904543"
 msgid "ཆུང་མ་ དེ␣ས་ ཀྱང་ བགོས་ ནས་"
 msgstr ""
 
-msgctxt "line 24, 13.txt"
+msgctxt "46f616e4cff44a71adabd3c0bc81d5a6"
 msgid "དུས་སྟོན་ ལ་ཆ␣ས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 25, 13.txt"
+msgctxt "91f33f7d37084bb7b0022a0755cfe445"
 msgid "སོང་ ངོ་ ། །"
 msgstr ""
 
-msgctxt "line 26, 13.txt"
+msgctxt "bca5ca6ca2cc49f8904db39c0850f2fd"
 msgid "དེ་ནས་ དེ་ བག་མེད་པ␣ས་ དེ␣འི་ ཞུ་ གཅིག་ གིས་ དྲལ་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 27, 13.txt"
+msgctxt "6291f73dec494e47b9be9a425e3e1b8d"
 msgid "དེ་ནས་ དེ་ ཁྱིམ་ཐབ་ ཀྱིས་ འཇིགས་ ནས་"
 msgstr ""
 
-msgctxt "line 28, 13.txt"
+msgctxt "0ba4a5ecdfde4721923a61b59cac7d8d"
 msgid "སུ་ ལ་ ཡང་ མ་ བསྟན་ ཏེ་"
 msgstr ""
 
-msgctxt "line 29, 13.txt"
+msgctxt "706e71575b2847aca9f6efe6c4fa3139"
 msgid "དུས་སྟོན་ ལ␣ས་ ཕྱིར་ལོག་ ནས་"
 msgstr ""
 
-msgctxt "line 30, 13.txt"
+msgctxt "94184b049cd94dd99e8c3ec61a517f49"
 msgid "ཁྱིམ་བདག་ དེ་ གྲོང་ གཞན་ ཞིག་ ཏུ་ སོང་ ངོ་ ། །"
 msgstr ""
 
-msgctxt "line 31, 13.txt"
+msgctxt "cd7e8c8e834740bcb594477da193ba8a"
 msgid "དེ་ སོང་ ནས་"
 msgstr ""
 
 # བུད་<«གཡུང་»བུ།>མེད་དེས་ཚེམ་བུ་མཁན་དེ་བདག་གིས་<«ཅོ་»«ཞོལ་»གི།>ཁྱིམ་དུ་བླངས་ཏེ།
-msgctxt "line 32, 13.txt"
+msgctxt "268f2169b0774882ae4de8f88761b69f"
 msgid "བུད་མེད་ དེ␣ས་ ཚེམ་བུ་ མཁན་ དེ་ བདག་ གིས་ ཁྱིམ་ དུ་ བླངས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 33, 13.txt"
+msgctxt "fbf456320e9e407b9d8e04828fbf77ad"
 msgid "སུ␣ས་ ཀྱང་ མི་ མཐོང་བ␣ར་ བྱ་བ␣འི་ ཕྱིར་ སྒོ་ བཅད་ ནས་"
 msgstr ""
 
-# ཞུ་<«གཡུང་»«པེ་»«སྣར་»«ཅོ་»+བ།>དེ་དྲུབ་ཏུ་བཅུག་པ་དང་། 
-msgctxt "line 34, 13.txt"
+# ཞུ་<«གཡུང་»«པེ་»«སྣར་»«ཅོ་»+བ།>དེ་དྲུབ་ཏུ་བཅུག་པ་དང་།
+msgctxt "87bea7ec1fff454c9319f2a9f0a63ca6"
 msgid "ཞུ་ དེ་ དྲུབ་ ཏུ་ བཅུག་པ་ དང་ །"
 msgstr ""
 
 # ཚེམ་བུ་མཁན་གྱི་<«ཞོལ་»–གྱི།>ཁྱིམ་དུ་བླངས་པའི་རྗེས་ལ་ཁྱིམ་ཐབ་རང་གི་ཁྱིམ་དུ་འོངས་ནས་
-msgctxt "line 35, 13.txt"
+msgctxt "956a18b2961c4e53a74cea0923826e55"
 msgid ""
 "ཚེམ་བུ་ མཁན་ གྱི་ ཁྱིམ་ དུ་ བླངས་པ␣འི་ རྗེས་ ལ་ ཁྱིམ་ཐབ་ རང་ གི་ ཁྱིམ་ དུ་ "
 "འོངས་ ནས་"
 msgstr ""
 
-msgctxt "line 36, 13.txt"
+msgctxt "077d48eb942b48b984c9a8c0534fb911"
 msgid "སྒོ་ རྡུང་ ཞིང་ འབོད་ དོ ། །"
 msgstr ""
 
-msgctxt "line 37, 13.txt"
+msgctxt "c7be4a2a4a8842e5b7844a3f92aebc41"
 msgid "དེ་ནས་ དེ␣འི་ ཆུང་མ␣ས་ སྐད་ ལ␣ས་ ངོ་ ཤེས་ ནས་"
 msgstr ""
 
-msgctxt "line 38, 13.txt"
+msgctxt "dcc4ac0711b54c929194281fdc03db84"
 msgid ""
 "ཚེམ་བུ་ མཁན་ རང་ གི་ ཁྱིམ་ དུ་ བཞག་པ་ དང་ །  ཞུ་ དྲལ་བ␣འི་ ཕྱིར་ ཤས་ ཆེ␣ར་ "
 "འཇིགས་པ་ སྐྱེས་ ནས་"
 msgstr ""
 
-msgctxt "line 39, 13.txt"
+msgctxt "b39a70da17dd4450bf976adb5b4a4cc1"
 msgid ""
 "དེ་ འཇིགས་ ཤིང་ སྐྲག་པ␣ས །  ཚེམ་བུ་ མཁན་ དེ་ ཁོང་ དུ་ ཆུད་པ␣ར་ བྱས་ ཏེ་"
 msgstr ""
 
 # [48a]གཟེབ་<«གཡུང་»བཟེབ།>ཀྱི་ནང་དུ་བཅུག་<«གཡུང་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»བཅུག>ནས་
-msgctxt "line 40, 13.txt"
+msgctxt "66c86594f10c453485d47e3ecc5cfd3b"
 msgid "གཟེབ་ ཀྱི་ ནང་ དུ་ བཅུག་ ནས་"
 msgstr ""
 
-msgctxt "line 41, 13.txt"
+msgctxt "1564f8ae7bc54f82a8bab43f965434f3"
 msgid "གཟེབ་ རྒྱས་ བཏབ་ སྟེ་"
 msgstr ""
 
-msgctxt "line 42, 13.txt"
+msgctxt "4a47aac0a1bd455a8db2b8b84e7ecf49"
 msgid "བཞག་ གོ ། །"
 msgstr ""
 
-msgctxt "line 43, 13.txt"
+msgctxt "0ab6729e4510415694ab00cc2184f52c"
 msgid "དེ་ནས་ སྒོ་ ཕྱེ་ སྟེ་"
 msgstr ""
 
-msgctxt "line 44, 13.txt"
+msgctxt "8ca0ad26c10d4c05afc20248cadde3d1"
 msgid "ཁྱིམ་ཐབ་ ནང་ དུ་ འོངས་ ནས་"
 msgstr ""
 
 # ཁ་གསག་<«གཡུང་»«ལི་»«སྣར་»«ཞོལ་»གསག «པེ་»«ཅོ་»གསོག>བྱས་ཏེ་
-msgctxt "line 45, 13.txt"
+msgctxt "875ca42826ea49eb8b39b4b310092de5"
 msgid "ཁ་གསག་ བྱས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 46, 13.txt"
+msgctxt "cee62a51076245ffa3a262cc82ce7f1c"
 msgid "ཅི་རིགས་པ␣ར་ བསྙེན་བཀུར་ བྱས་ ནས་"
 msgstr ""
 
-msgctxt "line 47, 13.txt"
+msgctxt "9ee9ee39a0494253ace8e27b433e0bee"
 msgid "དེ་ དང་ ལྷན་ཅིག་ ཏུ་ ཉལ་ ལོ ། །"
 msgstr ""
 
-msgctxt "line 48, 13.txt"
+msgctxt "aca4fc09d14a490697e12fad6c10d423"
 msgid "དེ་ གཉིས་ ཉལ་བ་ དང་"
 msgstr ""
 
-msgctxt "line 49, 13.txt"
+msgctxt "b4cacd45c11b43f39e76edca7efc069b"
 msgid "རྐུན་པོ་ དག་ ཅིག་ གིས་ ཁྱིམ་ ཕུག་ ནས་"
 msgstr ""
 
-msgctxt "line 50, 13.txt"
+msgctxt "4903aee78fcf432695dff32d60002e02"
 msgid "ནང་ དུ་ འོངས་ ཏེ་"
 msgstr ""
 
-# ཐོག་མ་ཁོ་<«གཡུང་»«པེ་»ཁོན།>ནར་གཟེབ་དེ་ལས་ཟིན་ནས། 
-msgctxt "line 51, 13.txt"
+# ཐོག་མ་ཁོ་<«གཡུང་»«པེ་»ཁོན།>ནར་གཟེབ་དེ་ལས་ཟིན་ནས།
+msgctxt "e66e229f6b8c4bb998978d8695f6bf60"
 msgid "ཐོག་མ་ ཁོ་ན␣ར་ གཟེབ་ དེ་ལས་ ཟིན་ ནས །"
 msgstr ""
 
-msgctxt "line 52, 13.txt"
+msgctxt "9d38c5528126419186e83aa4cae7db00"
 msgid "དེ་དག་ འདི་ སྙམ་ དུ་ སེམས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 53, 13.txt"
+msgctxt "069f9229a95f42f1891e130ada26a378"
 msgid "གཟེབ་ འདི་ འདི་ལྟར་ རྒྱས་ ལེགས་པ␣ར་ བཏབ་ ལ་"
 msgstr ""
 
 # ལྕི་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཞོལ་»ལྕིང་།>ལས་ན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ན།>ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོ་ཡོད་གོར་མ་ཆག་གོ།
 # །
-msgctxt "line 54, 13.txt"
+msgctxt "e0b337b503ff4a63a5b1425107263315"
 msgid "ལྕི་བ་ ལ␣ས་ ན་ ནོར་བུ་ རིན་པོ་ཆེ་ ཆེན་པོ་ ཡོད་ གོར་མ་ཆག་ གོ ། །"
 msgstr ""
 
-msgctxt "line 55, 13.txt"
+msgctxt "7632eb1b97fa4326a00ec4917650b56c"
 msgid ""
 "འདི␣ས་ ནི་ བདག་ཅག་ མི་ རབས་ བདུན་ གྱི་ བར་ དུ་ ཡང་ ཆོག་པ␣ར་ འགྱུར་ ཏེ །"
 msgstr ""
 
 # འདི་ཁོ་ནས་བདག་ཅག་ཆོག་གིས་<«ཞོལ་»གི།>
-msgctxt "line 56, 13.txt"
+msgctxt "fbf107f08df5450fbb06a6c657d91a87"
 msgid "འདི་ཁོ་ན␣ས་ བདག་ཅག་ ཆོག་ གིས་"
 msgstr ""
 
 # བདག་ཅག་ལ་རྫས་གཞན་མི་དགོས་སོ་སྙམ་<«ཅོ་»སྙམས།>དུ་
-msgctxt "line 57, 13.txt"
+msgctxt "338934f9451b40888f354fa2190b32c8"
 msgid "བདག་ཅག་ ལ་རྫས་ གཞན་ མི་ དགོས་ སོ་ སྙམ་ དུ་"
 msgstr ""
 
-msgctxt "line 58, 13.txt"
+msgctxt "f4d997af7b3a4e0ebbdff1abd7416b42"
 msgid "བསམས་ ནས །"
 msgstr ""
 
-msgctxt "line 59, 13.txt"
+msgctxt "5b1d5974f45d421d8c982530879d5d3a"
 msgid "དེ་དག་ གིས་ གཟེབ་ དེ་ གཅིག་པུ་ ཁྱེར་ ཏེ་"
 msgstr ""
 
 # ཕྱིར་ཕྱུང་<«སྣར་»«ཞོལ་»བྱུང་།>ནས་
-msgctxt "line 60, 13.txt"
+msgctxt "a64c42674f0045da97c041168dbd1475"
 msgid "ཕྱིར་ ཕྱུང་ ནས་"
 msgstr ""
 
 # ནགས་འདབ་ཏུ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»འདབ་དུ། «ཞོལ་»འདབས་སུ།>ཁྱེར་རོ། །
-msgctxt "line 61, 13.txt"
+msgctxt "5b3b4f144d7b410f888396b6a105c22c"
 msgid "ནགས་ འདབ་ ཏུ་ ཁྱེར་ རོ ། །"
 msgstr ""
 
-msgctxt "line 62, 13.txt"
+msgctxt "8e51386c777545c9a4f30c1924340242"
 msgid "དེ་དག་ འདོང་བ་ ན་ ཟླ་བ་ ཡང་ ཤར་ ལ་"
 msgstr ""
 
 # མི་དེས་ཀྱང་དེའི་ནང་ན་འདུག་བཞིན་དུ་<«གཡུང་»བུ།>གཅིན་ཤོར་ནས་
-msgctxt "line 63, 13.txt"
+msgctxt "81a65cc7e212444b814444f7ee979c78"
 msgid "མི་ དེ␣ས་ ཀྱང་ དེ␣འི་ ནང་ ན་ འདུག་ བཞིན་ དུ་ གཅིན་ཤོར་ ནས་"
 msgstr ""
 
 # གཅིན་<«ཁུ་»གཅིང་།>དེ་གཟེབ་ལས་ཐར་ཏེ་
-msgctxt "line 64, 13.txt"
+msgctxt "0c259803e2ed49db9c42fcac06996836"
 msgid "གཅིན་ དེ་ གཟེབ་ ལ␣ས་ ཐར་ ཏེ་"
 msgstr ""
 
 # ཕྱི་རོལ་དུ་ཟགས་<«པེ་»ཟིགས།>སོ། །
-msgctxt "line 65, 13.txt"
+msgctxt "bde24d0312b8489fac1b2ef19fe9f9b9"
 msgid "ཕྱི་རོལ་ དུ་ ཟགས་ སོ ། །"
 msgstr ""
 
 # དེ་ནས་རྐུན་པོ་དེ་དག་འདི་<«གཡུང་»བད།>སྙམ་དུ་
-msgctxt "line 66, 13.txt"
+msgctxt "56b6e25bfcdd4c4393001d15794a5383"
 msgid "དེ་ནས་ རྐུན་པོ་ དེ་དག་ འདི་ སྙམ་ དུ་"
 msgstr ""
 
-msgctxt "line 67, 13.txt"
+msgctxt "e3e9cca9b1f842769c68ee2325ee9bfb"
 msgid "སེམས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 68, 13.txt"
+msgctxt "22221122244f416e9fcc1cd151ee09df"
 msgid "འདི་ལྟར་"
 msgstr ""
 
-msgctxt "line 69, 13.txt"
+msgctxt "2ea2ba0089464222abce2f573b738742"
 msgid "ཟླ་བ་ ཤར་བ་ ན །  འདི␣འི་ ནང་ ནས་ཆུ་ འབབ་པ་ ལ␣ས་ ན །"
 msgstr ""
 
-# འདིའི་ནང་དུ་ནི་ནོར་<«གཡུང་»བདི་ལིན་ད་མནར།>བུ་ཆུ་ཤེལ་བཅུག་ཡང་དག་སྙམ་སྟེ། 
-msgctxt "line 70, 13.txt"
+# འདིའི་ནང་དུ་ནི་ནོར་<«གཡུང་»བདི་ལིན་ད་མནར།>བུ་ཆུ་ཤེལ་བཅུག་ཡང་དག་སྙམ་སྟེ།
+msgctxt "b36b00e67eb44584aa66598909e9a54a"
 msgid "འདི␣འི་ ནང་ དུ་ ནི་ ནོར་བུ་ ཆུ་ཤེལ་ བཅུག་ ཡང་དག་ སྙམ་ སྟེ །"
 msgstr ""
 
 # ལྷག་པར་<«གཡུང་»ལྷང་བར།>ཡང་སྙིང་དགའ་བར་གྱུར་ཏོ། །
-msgctxt "line 71, 13.txt"
+msgctxt "27a4ac7930644978b3c4162b1d3e949f"
 msgid "ལྷག་པར་ ཡང་སྙིང་ དགའ་བ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
 
 # དེ་ནས་དེ་དག་གིས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–གིས།>ཤ་ཐང་སྟེ་
-msgctxt "line 72, 13.txt"
+msgctxt "9a59b93155fd4faf909eb15f835a9195"
 msgid "དེ་ནས་ དེ་དག་ གིས་ ཤ་ཐང་ སྟེ་"
 msgstr ""
 
-msgctxt "line 73, 13.txt"
+msgctxt "a819005c083344cbad6cb40a7baf9556"
 msgid "གཟེབ་ དེ་ ཁྱེར་ ནས་"
 msgstr ""
 
 # ནགས་འདབ་ཏུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འདབ་དུ། «ཞོལ་»འདབས་སུ།>ལྷགས་སོ། །
-msgctxt "line 74, 13.txt"
+msgctxt "977d3f4421c64b74a46daa07d04dce01"
 msgid "ནགས་ འདབ་ ཏུ་ ལྷགས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 75, 13.txt"
+msgctxt "e5761a6ee30d4e8bb85004c0ac302b9d"
 msgid "དེ་ནས་ མི་རྒོད་ ཀྱི་ སྡེ་དཔོན་ དང་ མི་རྒོད་ གཞན་དག་ གིས་ དྲིས་པ །"
 msgstr ""
 
-msgctxt "line 76, 13.txt"
+msgctxt "26603340c00644daae0b7d9ac96dcaac"
 msgid "ཁྱོད་ ཀྱིས་ གཟེབ་ འདི␣འི་ ནང་ དུ་ ཅི་ཞིག་ ཁྱེར་ ཏེ་"
 msgstr ""
 
-msgctxt "line 77, 13.txt"
+msgctxt "cea41c6fe3d34a10a4202424d6c8b960"
 msgid "འོངས །"
 msgstr ""
 
-msgctxt "line 78, 13.txt"
+msgctxt "37a8fe9e0fed4e118f6b5c685d8cebe8"
 msgid "དེ་དག་ གིས་ སྨྲས་པ །"
 msgstr ""
 
 # སྡེ་<«གཡུང་»པ། «ཁུ་»དེད།>དཔོན་
-msgctxt "line 79, 13.txt"
+msgctxt "91482bd8a9394436bd006ce1b599fdb1"
 msgid "སྡེ་དཔོན་"
 msgstr ""
 
 # དེང་དུ་ནི་བདག་ཅག་གིས་ཐམས་ཅད་ཀྱི་དབུལ་བའི་རྒྱུན་བཅད་ཀྱིས་<«ཞོལ་»ཀྱི།>
-msgctxt "line 80, 13.txt"
+msgctxt "b4069d53c5f54e98b781eff68d98ec4d"
 msgid "དེང་ དུ་ ནི་ བདག་ཅག་ གིས་ ཐམས་ཅད་ ཀྱི་ དབུལ་བ␣འི་ རྒྱུན་ བཅད་ ཀྱིས་"
 msgstr ""
 
-msgctxt "line 81, 13.txt"
+msgctxt "bdabb3117ae44893a10deb7a0b63ded3"
 msgid "དགྱེས་པ་ བསྐྱེད་ དུ་ གསོལ །"
 msgstr ""
 
-msgctxt "line 82, 13.txt"
+msgctxt "dadb61a4c6664d2183d63ace1eee09dd"
 msgid "དེང་ བདག་ཅག་ གིས་ རིན་པོ་ཆེ␣ས་ གང་བ␣འི་ གཟེབ་ རྙེད་ དོ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 83, 13.txt"
+msgctxt "43ec5c827bc148339ae24d24557d0b8b"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 84, 13.txt"
+msgctxt "c58303456efa4302bbae5b76a07eff31"
 msgid "དེ་ནས་ དེ་ ཐོས་ མ་ ཐག་ ཏུ་ དེ་དག་ ཀྱང་ སྙིང་ དགའ་བ␣ར་ གྱུར་ ཏེ་"
 msgstr ""
 
-msgctxt "line 85, 13.txt"
+msgctxt "bbbe5f40d407455eb4a2344c08762893"
 msgid "སྨྲས་པ །"
 msgstr ""
 
-msgctxt "line 86, 13.txt"
+msgctxt "790a3168c83b44198a02c89bd5581748"
 msgid "གཟེབ་ ཕྱེ་ ཞིག་ དང་"
 msgstr ""
 
-msgctxt "line 87, 13.txt"
+msgctxt "7bbf8df7ec2d405eb37a90ab76bbb01e"
 msgid "འདི␣ར་ རིན་པོ་ཆེ་ ཇི་ལྟ་བུ་ དག་ བཅུག་པ་ བལྟ␣འོ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 88, 13.txt"
+msgctxt "3b4a262e69504b9fb9aad7fe8e2dcead"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
 # དེ་ནས་དེ་དག་གིས་གཟེབ་དེ་བཀྲོལ་<«གཡུང་»«པེ་»«ཁུ་»«ཞོལ་»དཀྲོལ།>ནས་
-msgctxt "line 89, 13.txt"
+msgctxt "524af0c0116244359dba25054e5dae38"
 msgid "དེ་ནས་ དེ་དག་ གིས་ གཟེབ་ དེ་ བཀྲོལ་ ནས་"
 msgstr ""
 
 # ཁ་ཕྱེ་<«གཡུང་»«པེ་»ཆེ།>སྟེ་
-msgctxt "line 90, 13.txt"
+msgctxt "1d8690f999b549a390115474b44095fd"
 msgid "ཁ་ཕྱེ་ སྟེ་"
 msgstr ""
 
 # བལྟས་ན་<«གཡུང་»«པེ་»ནས།>
-msgctxt "line 91, 13.txt"
+msgctxt "7b0211c5787e44c79250d926e6ec2796"
 msgid "བལྟས་ ན་"
 msgstr ""
 
-# གཟེབ་དེའི་ནང་དུ་འཕྱེ་བོ་<«ཁུ་»འཕྱེའོ།>ཞིག་བཅུག་ཅིང་འདུག་པ་མཐོང་ནས། 
-msgctxt "line 92, 13.txt"
+# གཟེབ་དེའི་ནང་དུ་འཕྱེ་བོ་<«ཁུ་»འཕྱེའོ།>ཞིག་བཅུག་ཅིང་འདུག་པ་མཐོང་ནས།
+msgctxt "46b4a2d5a61b43d98a1bb75b9f5f8dec"
 msgid "གཟེབ་ དེ␣འི་ ནང་ དུ་ འཕྱེ་བོ་ ཞིག་ བཅུག་ ཅིང་ འདུག་པ་ མཐོང་ ནས །"
 msgstr ""
 
-msgctxt "line 93, 13.txt"
+msgctxt "fa822ec9a1b64b45aae2a0cb19da18fd"
 msgid "མཐོང་ མ་ ཐག་ ཏུ་"
 msgstr ""
 
 # དེར་སོང་སོང་བ་དང་གཟེབ་དེ་ཁྱེར་ཁྱེར་བ་གང་ཡིན་པ་དེ་དག་ནི་འཕྱེ་བོ་འདིས་བདག་ཅག་མཚན་ཐོག་ཐག་<«གཡུང་»«ལི་»«པེ་»ཏག>ཉོན་མོངས་སོ་སྙམ་ནས་
-msgctxt "line 94, 13.txt"
+msgctxt "1f2a9bc8acaf45c2985d95d191200a95"
 msgid ""
 "དེ␣ར་ སོང་ སོང་བ་ དང་ གཟེབ་ དེ་ ཁྱེར་ ཁྱེར་བ་ གང་ཡིན་པ་ དེ་དག་ ནི་ འཕྱེ་བོ་ "
 "འདི␣ས་ བདག་ཅག་ མཚན་ ཐོག་ཐག་ ཉོན་མོངས་ སོ་ སྙམ་ ནས་"
 msgstr ""
 
-msgctxt "line 95, 13.txt"
+msgctxt "f96f78030418428aa5cbec3c6adfa799"
 msgid "སྡུག་བསྔལ་ བར་ གྱུར་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 96, 13.txt"
+msgctxt "4a471cdb3d9348f1a1936f93d455d925"
 msgid ""
 "དེ␣ར་ མ་ དོང་བ་ གང་ཡིན་པ་ དེ་དག་ གིས་ ནི་ མི་རྒོད་ དེ␣ར་ སོང་ སོང་བ་ དེ་དག་ "
 "ལ་ གད་མོ་ ཆེན་པོ␣ས་ བཏབ་ ནས་"
 msgstr ""
 
-msgctxt "line 97, 13.txt"
+msgctxt "a17a3328ea904d69bac49b59b586b340"
 msgid "སྨྲས་པ །"
 msgstr ""
 
-msgctxt "line 98, 13.txt"
+msgctxt "d8434dd97ab042a28bd5e1e113e6751d"
 msgid "ལེགས་པ␣ར་ ཉོན་མོངས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 99, 13.txt"
+msgctxt "9bede4b36277498397b44a86e5406e30"
 msgid "ཤིན་ཏུ་ ཉོན་མོངས་ སོ་ ཞེས་"
 msgstr ""
 
 # བྱས་<«གཡུང་»–བྱས།>སོ། །
-msgctxt "line 100, 13.txt"
+msgctxt "636a907cf53149b0a40f85583790f687"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 101, 13.txt"
+msgctxt "e1e4d120259f472883676293772f6503"
 msgid "དེ་ནས་ བུད་མེད་ དེ་ སད་ དེ་"
 msgstr ""
 
-msgctxt "line 102, 13.txt"
+msgctxt "9e49443640694ac587712175d481f865"
 msgid "ལངས་ ནས་"
 msgstr ""
 
-# ཁང་པ་དེའི་ནང་དུ་སོང་<«གཡུང་»མང་།>བ་དང་། 
-msgctxt "line 103, 13.txt"
+# ཁང་པ་དེའི་ནང་དུ་སོང་<«གཡུང་»མང་།>བ་དང་།
+msgctxt "7ba18db1b06c41b0867581dfa5549328"
 msgid "ཁང་པ་ དེ␣འི་ ནང་ དུ་ སོང་བ་ དང་ །"
 msgstr ""
 
-msgctxt "line 104, 13.txt"
+msgctxt "9e1e6aa0dcc04964a2d82d8bffd5b917"
 msgid "ཁྱིམ་ ཕུག་ སྟེ་"
 msgstr ""
 
 # གཟེབ་རྐུས་<«གཡུང་»བསྐུས། «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»བརྐུས།>པ་མཐོང་ངོ་། །
-msgctxt "line 105, 13.txt"
+msgctxt "c6c859f98db74687b0ffe1513133e30b"
 msgid "གཟེབ་ རྐུས་པ་ མཐོང་ ངོ་ ། །"
 msgstr ""
 
-msgctxt "line 106, 13.txt"
+msgctxt "947f6eaa2be64e11a370e3f2e6ab59a3"
 msgid "མཐོང་ ནས་ ཀྱང་"
 msgstr ""
 
 # སྙིང་དགའ་<«གཡུང་»«པེ་»+བ།>ནས་
-msgctxt "line 107, 13.txt"
+msgctxt "da091a2ed127484d84fd520738d34511"
 msgid "སྙིང་ དགའ་ ནས་"
 msgstr ""
 
-msgctxt "line 108, 13.txt"
+msgctxt "0d98dc8d982d4b84ac067fd0d336bb53"
 msgid "ཚིགས་ སུ་ བཅད་ དེ་"
 msgstr ""
 
-msgctxt "line 109, 13.txt"
+msgctxt "8f83662e1e2c4e14bb64941d68aad82a"
 msgid "སྨྲས་པ །"
 msgstr ""
 
-msgctxt "line 110, 13.txt"
+msgctxt "bd8640874f674e17987e8c00d63078f3"
 msgid "ཁང་པ་ ཕུག་ ནས་"
 msgstr ""
 
-msgctxt "line 111, 13.txt"
+msgctxt "f8597e0013994f479711e5bf9dbf9cdb"
 msgid "གཟེབ་ ཀྱང་ སྟོར ། །"
 msgstr ""
 
-msgctxt "line 112, 13.txt"
+msgctxt "db9f7df3466648ed98cf183f28536a6c"
 msgid "བདག་ ནི་ ཕྱེད་ དགའ་"
 msgstr ""
 
-msgctxt "line 113, 13.txt"
+msgctxt "a92bcdd529614fd589db4052623df74f"
 msgid "ཕྱེད་ མི་ དགའ ། །"
 msgstr ""
 
 # ནགས་འདབ་<«ཞོལ་»འདབས།>སོང་བའི་རྐུན་པོ་རྣམས།
 # །དེ་ནི་དགོད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»ད་ནི་རྒོད།>ཅིང་
-msgctxt "line 114, 13.txt"
+msgctxt "91194d502fb74925bdaabdf1ae298dbd"
 msgid "ནགས་ འདབ་ སོང་བ␣འི་ རྐུན་པོ་ རྣམས ། ། དེ་ ནི་ དགོད་ ཅིང་"
 msgstr ""
 
-msgctxt "line 115, 13.txt"
+msgctxt "2ff2e5afb6fa4c6ca57349f659ba008c"
 msgid "ངུ་བ␣ར་ འགྱུར ། ། ཞེས་"
 msgstr ""
 
-msgctxt "line 116, 13.txt"
+msgctxt "4044b41b4a214c549e1ae82f5963a45d"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
 # དེ་ནས་དེར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»དེ།>གཟེབ་དེ་ཁྱེར་ཏེ་འོངས་པ་གང་ཡིན་པ་དེ་དག་ཁྲོས་ཏེ་
-msgctxt "line 117, 13.txt"
+msgctxt "f1b43759947c4f79bfca8d2caf2613e0"
 msgid "དེ་ནས་ དེ␣ར་ གཟེབ་ དེ་ ཁྱེར་ ཏེ་ འོངས་པ་ གང་ཡིན་པ་ དེ་དག་ ཁྲོ␣ས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 118, 13.txt"
+msgctxt "347e01d058eb4858992dadb9059bf40e"
 msgid "སྨྲས་པ །"
 msgstr ""
 
-msgctxt "line 119, 13.txt"
+msgctxt "fcddebb660df4cf292b69149aa0ba43e"
 msgid "འདི་ལྟར་"
 msgstr ""
 
-msgctxt "line 120, 13.txt"
+msgctxt "513cde0702724c85af5a8bf34e4aaca8"
 msgid "འཕྱེ་བོ་ འདི␣ས་ བདག་ཅག་ མི་ དགའ་བ␣ར་ བྱས་ མོད་ ཀྱི །"
 msgstr ""
 
 # འོན་ཀྱང་བདག་ཅག་གི་གནོད་སྦྱིན་མཆོད་དགོས་ཀྱིས་<«ཞོལ་»ཀྱི།>
-msgctxt "line 121, 13.txt"
+msgctxt "2e21756151244c448714a9cddb5f5d2d"
 msgid "འོན་ཀྱང་ བདག་ཅག་ གི་ གནོད་སྦྱིན་ མཆོད་ དགོས་ ཀྱིས་"
 msgstr ""
 
 # བདག་ཅག་གིས་འདི་ཁོ་ནས་གནོད་སྦྱིན་ལ་མཆོད་པ་<«གཡུང་»པར།>བྱའོ་ཞེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཞེས།>
-msgctxt "line 122, 13.txt"
+msgctxt "58e1c4ea9247455ab9ae8fcdc1d4d729"
 msgid "བདག་ཅག་ གིས་ འདི་ཁོ་ན␣ས་ གནོད་སྦྱིན་ ལ་ མཆོད་པ་ བྱ␣འོ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 123, 13.txt"
+msgctxt "59ef9869f9a94d388feecd318e4a40e0"
 msgid "སྨྲ␣ས་ ནས །"
 msgstr ""
 
-msgctxt "line 124, 13.txt"
+msgctxt "ca8fb0e1bff840f9b37075fe36172242"
 msgid ""
 "དེ་དག་ གིས་ གནོད་སྦྱིན་ དེ␣འི་ མདུན་ དུ་བ་ ལང་ གི་ ལྕི་བ␣ས་ དཀྱིལ་འཁོར་ བྱས་"
 " ཏེ །"
 msgstr ""
 
-msgctxt "line 125, 13.txt"
+msgctxt "167d61f0a2d74ef2b5cf68a61a2d6de5"
 msgid ""
 "བདུག་པ་ དང་ མེ་ཏོག་ དང་ མཆོད་པ␣འི་ ཆོ་ག་ དང་ བུམ་པ་ གང་བ་ རྣམས་ བཞག་ ནས་"
 msgstr ""
 
-msgctxt "line 126, 13.txt"
+msgctxt "a4783df7bb72416aa503ae729fa5d716"
 msgid "རལ་གྲི་ རྣོན་པོ་ ཐོགས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 127, 13.txt"
+msgctxt "2af2fe7d971c4f82b4ba0f8219ebe7e2"
 msgid "མི་ དེ་ གནོད་སྦྱིན་ གྱི་ མདུན་ དུ་ བཞག་ ནས་"
 msgstr ""
 
-msgctxt "line 128, 13.txt"
+msgctxt "91516bc310de48568ebc4f039881250a"
 msgid "མཆོད་སྦྱིན་ བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 129, 13.txt"
+msgctxt "617599f90c4344058f809acd06086db7"
 msgid ""
 "དེ་ནས་ མི་ དེ␣ས་ ཀྱང་ ཇི་ལྟར་ བདག་ཉིད་ གནོད་སྦྱིན་ དེ␣འི་ མཆོད་པ␣ར་ "
 "དབུལ་བ␣ར་ ཆད་པ་ ཁོང་ དུ་ ཆུད་ ནས །"
 msgstr ""
 
-msgctxt "line 130, 13.txt"
+msgctxt "a8476a7c2c184182aa32ce8d6c5575c0"
 msgid "ཤིན་ཏུ་ སྐྲག་ སྟེ །"
 msgstr ""
 
-msgctxt "line 131, 13.txt"
+msgctxt "0882bb39e68f4dde83007f1333903e21"
 msgid "བསམས་པ །"
 msgstr ""
 
 # བཅོམ་ལྡན་འདས་མ་གཏོགས་པ་གཞན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–གཞན།>སུ་ཞིག་ལ་ད་བདག་སྐྱབས་<«གཡུང་»སྐྱིབས།>སུ་འགྲོ་བར་བྱ།
-msgctxt "line 132, 13.txt"
+msgctxt "da4f1d210c3f434da638fc9dec1cf929"
 msgid ""
 "བཅོམ་ལྡན་འདས་ མ་གཏོགས་པ་ གཞན་ སུ་ཞིག་ ལ་ད་ བདག་ སྐྱབས་ སུ་ འགྲོ་བ␣ར་ བྱ །"
 msgstr ""
 
 # སུ་ཞིག་བདག་ལ་སྲོག་ཕངས་<«ཁུ་»ཕོངས།>པ་སྦྱིན་པར་འགྱུར་སྙམ་དུ་
-msgctxt "line 133, 13.txt"
+msgctxt "258b9d9c237b411eada46284648398c7"
 msgid "སུ་ཞིག་ བདག་ ལ་ སྲོག་ ཕངས་པ་ སྦྱིན་པ␣ར་ འགྱུར་ སྙམ་ དུ་"
 msgstr ""
 
-msgctxt "line 134, 13.txt"
+msgctxt "24ad7bf96c0142dea1c1f183b233a845"
 msgid "བསམས་ ནས །"
 msgstr ""
 
-msgctxt "line 135, 13.txt"
+msgctxt "5afa14b29e934f51a489d1dfa562be21"
 msgid "དེ␣ས་ བཅོམ་ལྡན་འདས་ ལ་ སེམས་ ཀྱིས་ གསོལ་བ་ བཏབ་པ །"
 msgstr ""
 
-msgctxt "line 136, 13.txt"
+msgctxt "147b499ead2f4ffbb484add13f45928f"
 msgid "བཙུན་པ་"
 msgstr ""
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་ནི་འདི་ལྟ་སྟེ་འདས་པ་དང་མ་འོངས་པ་དང་།
 # ད་ལྟར་བྱུང་བ་ཅི་ཡང་མི་གཟིགས་པ་དང་མི་མཁྱེན་པ་དང་ཐུགས་སུ་མ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»མི།>ཆུད་པ་མི་མངའ་ན
-msgctxt "line 137, 13.txt"
+msgctxt "92e07f9c669d4667a3962d785a184ab7"
 msgid ""
 "བཅོམ་ལྡན་འདས་ ཀྱིས་ ནི་ འདི་ལྟ་སྟེ་ འདས་པ་ དང་ མ་འོངས་པ་ དང་ །  ད་ལྟར་ "
 "བྱུང་བ་ ཅི་ཡང་ མི་ གཟིགས་པ་ དང་ མི་ མཁྱེན་པ་ དང་ ཐུགས་ སུ་ མ་ ཆུད་པ་ མི་ "
 "མངའ་ ན"
 msgstr ""
 
-msgctxt "line 138, 13.txt"
+msgctxt "b051108da0b144a6969475269fc11fd9"
 msgid "ཀྱེ་མ་"
 msgstr ""
 
-msgctxt "line 139, 13.txt"
+msgctxt "149b931f390f485780cad12ad5404b88"
 msgid "བཅོམ་ལྡན་འདས །"
 msgstr ""
 
 # བདག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+ཅག>ནི་དཀོས་<«ཁུ་»དགོས།>ཐག་ཅིང་
-msgctxt "line 140, 13.txt"
+msgctxt "20b595cfa228483c8a18666f17abaeb4"
 msgid "བདག་ ནི་ དཀོས་ ཐག་ ཅིང་"
 msgstr ""
 
 # ཉམ་ང་ལ་<«གཡུང་»ང་བ།>
-msgctxt "line 141, 13.txt"
+msgctxt "292ee29c7d6741079e26112619e02e21"
 msgid "ཉམ་ང་ ལ་"
 msgstr ""
 
 # ཕོངས་པར་གྱུར་པ་ལགས་ཀྱིས་<«ཞོལ་»ཀྱི།>
-msgctxt "line 142, 13.txt"
+msgctxt "b9adff5adf464c7ab96cb79c06680eb0"
 msgid "ཕོངས་པ␣ར་ གྱུར་པ་ ལགས་ ཀྱིས་"
 msgstr ""
 
-msgctxt "line 143, 13.txt"
+msgctxt "9c2e0af0f57649ce8ceeeb2fca812544"
 msgid "བདག་ ཡོངས་སུ་ བསྐྱབ་ ཏུ་ གསོལ །"
 msgstr ""
 
-msgctxt "line 144, 13.txt"
+msgctxt "4dafc178fd1a4b57a9383ada7a537d19"
 msgid "སྲོག་ ཕངས་པ་ སྩལ་ དུ་ གསོལ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 145, 13.txt"
+msgctxt "7e2060fcdb91435e80c17ef6604d1445"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 146, 13.txt"
+msgctxt "6fb71ade50074b0d9c25a5813075a889"
 msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ བགྲོད་པ་ གཅིག་པུ␣འི་ ལམ་ སྟོན་པ་"
 msgstr ""
 
-msgctxt "line 147, 13.txt"
+msgctxt "b14d5cdec9bc4c2faba889847005b437"
 msgid "རྣམ་པ་ གཉིས་ ཀྱི་ ཤེས་བྱ་ དང་ ཡེ་ཤེས་ ལ་ མངའ་ བརྙེས་པ་"
 msgstr ""
 
-msgctxt "line 148, 13.txt"
+msgctxt "47c62ae852bb4142a76d04b708b6223d"
 msgid "མ་ འདྲེས་པ␣འི་ དྲན་པ་ ཉེ་བར་ གཞག་པ་ གསུམ་ ལ་ མཁས་པ་"
 msgstr ""
 
-msgctxt "line 149, 13.txt"
+msgctxt "13011f61e1c6442fa17e60f4808d2822"
 msgid "མི་ འཇིགས་པ་ བཞི␣ས་ མི་ འཇིགས་པ །"
 msgstr ""
 
-msgctxt "line 150, 13.txt"
+msgctxt "355bac03baf642d4a33d67374fc25444"
 msgid "འགྲོ་བ་ ལྔ␣ར་ འགྲོ་བ་ ལ␣ས་ རྣམ་པ␣ར་ གྲོལ་བ །"
 msgstr ""
 
-msgctxt "line 151, 13.txt"
+msgctxt "26e8d9adc51e4c5b9f0d8ead60d55e66"
 msgid "སྐྱེ་མཆེད་ དྲུག་ ལ་ མཁས་པ །"
 msgstr ""
 
-msgctxt "line 152, 13.txt"
+msgctxt "388b991235bd4909aedca2c341614298"
 msgid "བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ བདུན་ ལ་ སྤྱོད་ཡུལ་བ །"
 msgstr ""
 
-msgctxt "line 153, 13.txt"
+msgctxt "51714b6a047a47ad8cf909c289894a9f"
 msgid "རྣམ་པ␣ར་ ཐར་པ་ བརྒྱད་ ལ་ བསམ་གཏན་པ །"
 msgstr ""
 
-msgctxt "line 154, 13.txt"
+msgctxt "5853b549eaee4f848468f2804df0427a"
 msgid "མཐ་ ར་ གྱིས་ གནས་པ␣འི་ སྙོམས་པར་ འཇུག་པ་ དགུ་ ལ་ སྙོམས་པར་ འཇུག་པ །"
 msgstr ""
 
-msgctxt "line 155, 13.txt"
+msgctxt "850a1a69367a4b619195fe9d3f07fc58"
 msgid "སྟོབས་ བཅུ␣འི་ སྟོབས་ དང་ ལྡན་པ །"
 msgstr ""
 
 # ཡང་དག་པར་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་<«ཞོལ་»སྒྲོག>པ་རྣམས་ནི།
 # ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
 # ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ།
-msgctxt "line 156, 13.txt"
+msgctxt "fc5e3c90f53841618d2e9b1c61c8de8c"
 msgid ""
 "ཡང་དག་པ␣ར་ སེང་གེ␣འི་ སྒྲ་ ཆེན་པོ་ སྒྲོགས་པ་ རྣམས་ ནི །  ཆོས་ཉིད་ ཀྱིས་ ཉིན་"
 " དུས་གསུམ་ མཚན་ དུས་གསུམ་ སྟེ །  ཉིན་མཚན་ དུས་ དྲུག་ ཏུ་ སངས་རྒྱས་ ཀྱི་ "
 "སྤྱན་ གྱིས་ འཇིག་རྟེན་ ལ་ གཟིགས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 157, 13.txt"
+msgctxt "0234936178f94d28986385382dd9cbf5"
 msgid "སུ་ ནི་ རྒུད །"
 msgstr ""
 
-msgctxt "line 158, 13.txt"
+msgctxt "126947f320cc4aa89c80a7f65e74a3b7"
 msgid "སུ་ ནི་ དར །"
 msgstr ""
 
-msgctxt "line 159, 13.txt"
+msgctxt "94e503f740304a1dbe2da4dbea22634d"
 msgid "སུ་ ནི་ ཕོངས་ ཤིང་ འདུག  །"
 msgstr ""
 
-msgctxt "line 160, 13.txt"
+msgctxt "cdf6d362998d426182e48e5164c99d8a"
 msgid "སུ་ ནི་ ཉམ་ཐག་པ␣ར་ གྱུར །"
 msgstr ""
 
-msgctxt "line 161, 13.txt"
+msgctxt "434a459b0bcd4d35ad79072fe7d900cf"
 msgid "སུ་ ནི་ གནོད་པ་ དང་ ལྡན །"
 msgstr ""
 
-# སུ་ནི་ཕོངས་པ་དང་ཉམ་ང་བ་<«ཁུ་»པ།>དང་གནོད་པ་དང་ལྡན། 
-msgctxt "line 162, 13.txt"
+# སུ་ནི་ཕོངས་པ་དང་ཉམ་ང་བ་<«ཁུ་»པ།>དང་གནོད་པ་དང་ལྡན།
+msgctxt "fbd2721a978b44a1bf656672398d3bac"
 msgid "སུ་ ནི་ ཕོངས་པ་ དང་ ཉམ་ང་བ་ དང་ གནོད་པ་ དང་ ལྡན །"
 msgstr ""
 
-msgctxt "line 163, 13.txt"
+msgctxt "ca9a70fb4b87478dbbe82ca71c2b3781"
 msgid "སུ་ ནི་ ངན་སོང་ དུ་ གཞོལ །"
 msgstr ""
 
-msgctxt "line 164, 13.txt"
+msgctxt "c5412d802d2f41718641d65d4c5f2bc8"
 msgid "སུ་ ནི་ ངན་སོང་ དུ་ འབབ །"
 msgstr ""
 
-# སུ་ནི་ངན་སོང་དུ་<«པེ་»དུབ།>བབ<«གཡུང་»«པེ་»+བ།>། 
-msgctxt "line 165, 13.txt"
+# སུ་ནི་ངན་སོང་དུ་<«པེ་»དུབ།>བབ<«གཡུང་»«པེ་»+བ།>།
+msgctxt "525158ed409c4a038ca72e4cc12eadc8"
 msgid "སུ་ ནི་ ངན་སོང་ དུ་ བབ །"
 msgstr ""
 
-msgctxt "line 166, 13.txt"
+msgctxt "3ff1f40749ad4703a5cb2f6ebeddb07e"
 msgid "སུ་ ནི་ ངས་ ངན་སོང་ ནས་ ཕྱུང་ སྟེ །"
 msgstr ""
 
-msgctxt "line 167, 13.txt"
+msgctxt "7f8d1da57fae4ba9b15a0acc87c45ff3"
 msgid "མཐོ་རིས་ དང་ ཐར་པ་ དང་ འབྲས་བུ་ ལ་ གཞག་པ␣ར་ བྱ །"
 msgstr ""
 
-msgctxt "line 168, 13.txt"
+msgctxt "7e32b7106f764395a573c7899950ad8f"
 msgid "སུ་ ནི་ ཉེས་པ␣ར་ སྤྱོད་པ␣འི་ འདམ་ དུ་ བྱིང་བ་ ལ␣ས་"
 msgstr ""
 
-msgctxt "line 169, 13.txt"
+msgctxt "e65b68d6199a49f3ae88339692aa3cd5"
 msgid "ལག་ནས་ དྲང་བ␣ར་ བྱ །"
 msgstr ""
 
-msgctxt "line 170, 13.txt"
+msgctxt "3a46fac25cfc46308e35a9554e823452"
 msgid "སུ་ ནི་ འཕགས་པ␣འི་ ནོར་ བདུན་ མེད་པ་ ལ␣ས་"
 msgstr ""
 
-msgctxt "line 171, 13.txt"
+msgctxt "f0702114259e43a983c18a18518d0901"
 msgid "འཕགས་པ␣འི་ ནོར་ བདུན་ གྱི་ དབང་ཕྱུག་ ལ་ དབང་ བྱེད་ དུ་ གཞུག་པ␣ར་ བྱ །"
 msgstr ""
 
 # སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་མ་བསྐྱེད་<«གཡུང་»སྐྱེད།>པ་ལས་
-msgctxt "line 172, 13.txt"
+msgctxt "eef2519951f440a3a1e34af81cccfc0a"
 msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ མ་ བསྐྱེད་པ་ ལ␣ས་"
 msgstr ""
 
-msgctxt "line 173, 13.txt"
+msgctxt "cfebdcb74ae24e55b47c0fe6445a98a6"
 msgid "བསྐྱེད་པ␣ར་ བྱ །"
 msgstr ""
 
-msgctxt "line 174, 13.txt"
+msgctxt "3db5c0688d984dd7805b34533cd9a555"
 msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ བསྐྱེད་ ཟིན་པ་ ལ␣ས་"
 msgstr ""
 
-msgctxt "line 175, 13.txt"
+msgctxt "a6fe23c780c841309f56b303067a4fa0"
 msgid "ཡོངས་སུ་ སྨིན་པ␣ར་ བྱ །"
 msgstr ""
 
 # སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་ཡོངས་སུ་སྨིན་ཟིན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཟིན།>པ་ལས་
-msgctxt "line 176, 13.txt"
+msgctxt "fa83697ad13a487fa98d04f483c579ae"
 msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ ཡོངས་སུ་ སྨིན་ ཟིན་པ་ ལ␣ས་"
 msgstr ""
 
-msgctxt "line 177, 13.txt"
+msgctxt "3f8780f071444566933a2512e96c0cdf"
 msgid "ཡེ་ཤེས་ ཀྱི་ མཚོན་ གྱིས་ བརྟོལ་བ␣ར་ བྱ །"
 msgstr ""
 
 # སུ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལ།>ནི་སངས་རྒྱས་བྱུང་བས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ནས།>བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་སྙམ་དུ་
-msgctxt "line 178, 13.txt"
+msgctxt "d6cdcac319ab4dbda05e04ad316e62df"
 msgid ""
 "སུ་ ལ་ ནི་ སངས་རྒྱས་ བྱུང་བ␣ས་ བརྒྱན་པ␣འི་ འཇིག་རྟེན་ འབྲས་བུ་ དང་ བཅས་པ␣ར་ "
 "བྱ་ སྙམ་ དུ་"
@@ -820,142 +820,142 @@ msgstr ""
 
 # ཡེ་ཤེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»+ཀྱི།>གཟིགས་པ་<«གཡུང་»«པེ་»+ལ།>འཇུག་གོ།
 # །
-msgctxt "line 179, 13.txt"
+msgctxt "05132d0d770e4514b569c18f2025b714"
 msgid "ཡེ་ཤེས་ གཟིགས་པ་ འཇུག་ གོ ། །"
 msgstr ""
 
-msgctxt "line 180, 13.txt"
+msgctxt "18f1ee84460b4d4e8121004beac16061"
 msgid "རྒྱ་མཚོ་ ཆུ་སྲིན་ རྣམས་ ཀྱི་ གནས ། །"
 msgstr ""
 
 # དུས་རླབས་<«གཡུང་»«པེ་»བརླབས།>ཡོལ་བར་འགྱུར་ཡང་སྲིད། །
-msgctxt "line 181, 13.txt"
+msgctxt "db8a20b3955145d8a9b40d5a572f13dc"
 msgid "དུས་རླབས་ ཡོལ་བ␣ར་ འགྱུར་ ཡང་སྲིད ། །"
 msgstr ""
 
-msgctxt "line 182, 13.txt"
+msgctxt "917bdd7383fc4bb69cc9091d98a92253"
 msgid "གདུལ་བ␣ར་ བྱ་བ␣འི་ སྲས་ རྣམས་ ལ ། ། སངས་རྒྱས་ དུས་ ལ␣ས་ ཡོལ་བ་ མེད ། །"
 msgstr ""
 
-msgctxt "line 183, 13.txt"
+msgctxt "8efb187b7518437ba46be22d3d62b7ea"
 msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ གཟིགས་ ན །"
 msgstr ""
 
 # འཕྱེ་བོ་དེ་དང་མི་རྒོད་ལྔ་བརྒྱ་པོ་དེ་རྣམས་གདུལ་<«གཡུང་»«པེ་»གཏུལ།>བའི་དུས་ལ་བབ་པར་ཐུགས་སུ་ཆུད་ནས།
-msgctxt "line 184, 13.txt"
+msgctxt "9501ab6e839b409f87cb848628308cc4"
 msgid ""
 "འཕྱེ་བོ་ དེ་ དང་ མི་རྒོད་ ལྔ་ བརྒྱ་པོ་ དེ་ རྣམས་ གདུལ་བ␣འི་ དུས་ ལ་ བབ་པ␣ར་ "
 "ཐུགས་ སུ་ ཆུད་ ནས །"
 msgstr ""
 
-msgctxt "line 185, 13.txt"
+msgctxt "c1d62cd8b35c496dbb0053d79fb05942"
 msgid "ལྷ␣འི་ སྐུ་གཟུགས་ དེ་ཉིད་ ལ␣ས་ ལྷ␣འི་ ཆ་ལུགས་ སུ་ བཞུགས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 186, 13.txt"
+msgctxt "f8941032707d46669ba19016d418fc97"
 msgid "དེ་ནས་ མི་རྒོད་ ལྔ་ བརྒྱ་ འདི་ སྙམ་ དུ་"
 msgstr ""
 
-msgctxt "line 187, 13.txt"
+msgctxt "54c4c973e4f54d65860a82889b953904"
 msgid "སེམས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 188, 13.txt"
+msgctxt "d5c3e96441944c438270783b907ad56f"
 msgid "ལྷས་ བདག་ཅག་ ལ་ རང་ གི་ སྐུ་ བསྟན་ ཏོ་"
 msgstr ""
 
-msgctxt "line 189, 13.txt"
+msgctxt "61b9826f84e7412a9d313595ea93b346"
 msgid "སྙམ་ སྟེ །"
 msgstr ""
 
-msgctxt "line 190, 13.txt"
+msgctxt "8d6680addb0f4dac8bd27aaa870089e8"
 msgid "སྤུ་ ཟིང་ ཞེས་"
 msgstr ""
 
-msgctxt "line 191, 13.txt"
+msgctxt "51047d0566fd4ec684e05848e85e55dd"
 msgid "བྱས་ ནས །"
 msgstr ""
 
-msgctxt "line 192, 13.txt"
+msgctxt "664e0c9fa50d4a7f8499d2eb0f9b6d05"
 msgid "ཐལ་མོ་ སྦྱར་ ཏེ་"
 msgstr ""
 
-msgctxt "line 193, 13.txt"
+msgctxt "f07dd40413324c89a4d30ef654f66b4a"
 msgid "འཁོད་ ནས་"
 msgstr ""
 
-msgctxt "line 194, 13.txt"
+msgctxt "34187cdb9ebb4ad49c82620e89407cce"
 msgid "འདི་སྐད་ ཅེས་ སྨྲ␣ས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 195, 13.txt"
+msgctxt "1b9675cacea44f63ad10d14ee9585c83"
 msgid "བཅོམ་ལྡན་འདས་"
 msgstr ""
 
-msgctxt "line 196, 13.txt"
+msgctxt "0f04930f5ea04103a0879819cb176d8f"
 msgid "བཀའ་ ཅི་ སྩལ་"
 msgstr ""
 
-msgctxt "line 197, 13.txt"
+msgctxt "276775dad1844411ac561a3ac00e4db1"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
 msgstr ""
 
 # ང་<«པེ་»ངེ་།>ལ་མིས་མཆོད་མི་དགོས་ཀྱིས་<«ཞོལ་»ཀྱི།>
-msgctxt "line 198, 13.txt"
+msgctxt "b0df473658874a588f72156223e91efa"
 msgid "ང་ ལ་ མི␣ས་ མཆོད་ མི་ དགོས་ ཀྱིས་"
 msgstr ""
 
-msgctxt "line 199, 13.txt"
+msgctxt "3ee9e387c18b437a91b196e41f105616"
 msgid "མི␣འི་ མཆོད་པ་ འདི་ ཐོང་ ཤིག  །"
 msgstr ""
 
 # གལ་ཏེ་ཁྱེད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཁྱེད།>ཆོས་འདོད་ན་ནི་མཆོད་པ་གསོལ་བ་[49b]ཐོང་ལ་
-msgctxt "line 200, 13.txt"
+msgctxt "fa63e53aee634eeeb82a29c50f3ac9da"
 msgid "གལ་ཏེ་ ཁྱེད་ ཆོས་ འདོད་ ན་ ནི་ མཆོད་པ་ གསོལ་བ་ ཐོང་ ལ་"
 msgstr ""
 
-msgctxt "line 201, 13.txt"
+msgctxt "dac80fb71dc24de8b10611bbc9730001"
 msgid "འཁོད་ ཅིག་ དང་"
 msgstr ""
 
-msgctxt "line 202, 13.txt"
+msgctxt "78da38eea7f74dc3a40710ff4f674af1"
 msgid "ཆོས་ བསྟན་པ␣ར་ བྱ␣འོ ། །"
 msgstr ""
 
 # དེ་ནས་དེ་ལྟར་འཚལ་ལོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལོ>ཞེས་
-msgctxt "line 203, 13.txt"
+msgctxt "be5bb52e08184a1eb7e4b641da8656d8"
 msgid "དེ་ནས་ དེ་ལྟར་ འཚལ་ ལོ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 204, 13.txt"
+msgctxt "6d4247bca62543159e3adddac6822e1b"
 msgid "བྱས་ ནས་"
 msgstr ""
 
-msgctxt "line 205, 13.txt"
+msgctxt "3b0abdd8b65a47e1a73bd5b961e418d7"
 msgid "མི་རྒོད་ དེ་དག་ གིས་ མཆོད་པ་ བཏང་ ནས་"
 msgstr ""
 
-msgctxt "line 206, 13.txt"
+msgctxt "06e1b9665aaa4b558e1b69b2975f0cb1"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ ཞབས་ ལ་མགོ་ བོས་ ཕྱག་ འཚལ་ ཏེ་"
 msgstr ""
 
-msgctxt "line 207, 13.txt"
+msgctxt "3d0bb24776db463184242d8b64b55bdb"
 msgid "ཆོས་ མཉན་པ␣འི་ ཕྱིར་ སྤྱན་སྔ␣ར་ འཁོད་ དོ ། །"
 msgstr ""
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འཕྱེ་བོ་དེ་དང་མི་རྒོད་དེ་དག་གི་<«ལི་»«ཅོ་»གིས།>བསམ་པ་དང་བག་ལ་ཉལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+བ།>དང་ཁམས་དང་རང་བཞིན་ཐུགས་སུ་ཆུད་ནས་
-msgctxt "line 208, 13.txt"
+msgctxt "52acde7279cd42d78aa332e54c3c01d7"
 msgid ""
 "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ འཕྱེ་བོ་ དེ་ དང་ མི་རྒོད་ དེ་དག་ གི་ བསམ་པ་ དང་ "
 "བག་ ལ་ ཉལ་ དང་ ཁམས་ དང་ རང་བཞིན་ ཐུགས་ སུ་ ཆུད་ ནས་"
 msgstr ""
 
-msgctxt "line 209, 13.txt"
+msgctxt "24d1dfa854824a288fcdc19d3fb9c046"
 msgid "དེ་ དང་ འཐུན་པ␣འི་ ཆོས་ བསྟན་ ཏེ །"
 msgstr ""
 
 # དེས་ན་<«ཁུ་»དེ་ནས།>མི་རྒོད་ལྔ་བརྒྱ་པོ་དེ་དག་གིས་སྟན་དེ་ཉིད་ལ་འཁོད་བཞིན་དུ་འཇིག་<«གཡུང་»«པེ་»འཇིགས།>ཚོགས་ལ་ལྟ་བའི་རིའི་རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་རྡོ་རྗེས་བཅོམ་ནས་
-msgctxt "line 210, 13.txt"
+msgctxt "94d9bff9e2414428bed18b1c3ffbd3af"
 msgid ""
 "དེས་ན་ མི་རྒོད་ ལྔ་ བརྒྱ་པོ་ དེ་དག་ གིས་ སྟན་ དེ་ཉིད་ ལ་ འཁོད་ བཞིན་ དུ་ "
 "འཇིག་ཚོགས་ ལ་ ལྟ་བ␣འི་ རི␣འི་ རྩེ་མོ་ མཐོན་པོ་ ཉི་ཤུ་ ཡེ་ཤེས་ རྡོ་རྗེ␣ས་ "
@@ -963,182 +963,182 @@ msgid ""
 msgstr ""
 
 # རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་<«གཡུང་»–དུ།>བྱས་སོ། །
-msgctxt "line 211, 13.txt"
+msgctxt "a47d49c22cc5498d8e95e0ce2b652dfd"
 msgid "རྒྱུན་ དུ་ ཞུགས་པ␣འི་ འབྲས་བུ་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 212, 13.txt"
+msgctxt "98cc3e7507a94feca35cf7572c6c1d02"
 msgid ""
 "འཕྱེ་བོ་ དེ␣ས་ ཀྱང་ ཕྱིར་ མི་ འོང་བ␣འི་ འབྲས་བུ་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
 msgstr ""
 
 # དེ་ནས་<«གཡུང་»ནོས།>དེ་དག་གིས་བདེན་པ་མཐོང་ནས་
-msgctxt "line 213, 13.txt"
+msgctxt "cdee886a386d4615bc8c4a22887407ca"
 msgid "དེ་ནས་ དེ་དག་ གིས་ བདེན་པ་ མཐོང་ ནས་"
 msgstr ""
 
-msgctxt "line 214, 13.txt"
+msgctxt "a82918f25921426a8d3d5409f25ff4e6"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ ལྷ␣འི་ ཆ་ལུགས་ མི་སྣང་བ␣ར་ མཛད་ ནས་"
 msgstr ""
 
-msgctxt "line 215, 13.txt"
+msgctxt "82c75d630cbf4baeb42256e20f6ac044"
 msgid "རང་བཞིན་ གྱི་ སྐུར་ བཞུགས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 216, 13.txt"
+msgctxt "b3c72037dcc74a35b5f712b0de30c353"
 msgid "དེ་ནས་ དེ་དག་ གིས་ བཅོམ་ལྡན་འདས་ མཐོང་ ནས་"
 msgstr ""
 
-msgctxt "line 217, 13.txt"
+msgctxt "00da86bf48f34f67981ec3ce7393a6eb"
 msgid "ལྷག་པར་ ཡང་ དགའ་བ་ སྐྱེས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 218, 13.txt"
+msgctxt "0350b8caedd248f5af12b7b617cfbbec"
 msgid "དགའ་བ་ སྐྱེས་ ནས་"
 msgstr ""
 
-msgctxt "line 219, 13.txt"
+msgctxt "ec42e5ea8fe1424c86664a935989466d"
 msgid "སྟན་ ལ␣ས་ ལངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 220, 13.txt"
+msgctxt "0af2b677ffe74eb3a77eedab9f941c1a"
 msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ནས །"
 msgstr ""
 
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«པེ་»དེར།>ལོགས་སུ་ཐལ་<«གཡུང་»ཐ་མ།>མོ་སྦྱར་བ་བཏུད་དེ་
-msgctxt "line 221, 13.txt"
+msgctxt "7e85bd1a7526465b9dad3e4390e1ea28"
 msgid "བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ ཐལ་མོ་ སྦྱར་བ་ བཏུད་ དེ་"
 msgstr ""
 
-msgctxt "line 222, 13.txt"
+msgctxt "fdc79917771e46d48a4928eeb248599b"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 223, 13.txt"
+msgctxt "6f7fdcaae8f84f499057cf50554e4c26"
 msgid "བཙུན་པ་"
 msgstr ""
 
 # བདག་ཅག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་<«ཞོལ་»བྱུང་།>བ་དང་བསྙེན་པར་རྫོགས་ཤིང་དགེ་སློང་གི་དངོས་པོ་འཐོབ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»ཐོབ།>ཏུ་རུང་ན།
-msgctxt "line 224, 13.txt"
+msgctxt "5ceeb35a82104b0ca658bc676ed2a6aa"
 msgid ""
 "བདག་ཅག་ ལེགས་པ␣ར་ གསུངས་པ␣འི་ ཆོས་ འདུལ་བ་ ལ་ རབ་ཏུ་ འབྱུང་བ་ དང་ བསྙེན་པ␣ར་"
 " རྫོགས་ ཤིང་ དགེ་སློང་ གི་ དངོས་པོ་ འཐོབ་ ཏུ་ རུང་ ན །"
 msgstr ""
 
-msgctxt "line 225, 13.txt"
+msgctxt "2106473541144b9caacab809fbc427be"
 msgid ""
 "བདག་ཅག་ ཀྱང་ བཅོམ་ལྡན་འདས་ ཀྱི་ ཐད་ དུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་པ␣ར་ འཚལ་ ལོ "
 "། །"
 msgstr ""
 
-msgctxt "line 226, 13.txt"
+msgctxt "8131d5841cdc46da90b80b7303cf95e6"
 msgid ""
 "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ མི་རྒོད་ རྣམས་ ལ་ དགེ་སློང་ ཚུར་ ཤོག་ ཚངས་པ␣ར་ "
 "སྤྱོད་ ཅིག་ ཅེས་ བཀའ་ སྩལ་པ␣འི་ མོད་ ལ་"
 msgstr ""
 
-msgctxt "line 227, 13.txt"
+msgctxt "b9a40ca0deac417a94ee20f3433b92aa"
 msgid "སྐྲ་ དང་ཁ་ སྤུ་ ནི་ བྲེགས་ ནས །"
 msgstr ""
 
-msgctxt "line 228, 13.txt"
+msgctxt "a6286d07161347478fd98350904a9f81"
 msgid "ཞག་ བདུན་ ལོན་པ་ ཙམ་ དུ་ གྱུར་"
 msgstr ""
 
-msgctxt "line 229, 13.txt"
+msgctxt "d8c2e6966f6545b89d356a00a5ce2594"
 msgid ""
 "སྤྱོད་ལམ་ ནི་ བསྙེན་པ␣ར་ རྫོགས་ ནས་ ལོ་ བརྒྱ་ ལོན་པ་ ལྟ་བུ␣ར་ འདུག་པ␣ར་ "
 "གྱུར་ ནས་"
 msgstr ""
 
-msgctxt "line 230, 13.txt"
+msgctxt "3406d6568ae8475296fefa7f9f29bda0"
 msgid "ལག་ ན་ ལྷུང་བཟེད་ དང་ ཆུ་སྣོད་ ཐོགས་པ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 231, 13.txt"
+msgctxt "4cddd3cfb7464a298d73ee805a71f2ee"
 msgid "འདི␣ར་ སྨྲས་པ །"
 msgstr ""
 
-msgctxt "line 232, 13.txt"
+msgctxt "53ba058bf4054c41a3e876edc1e1178d"
 msgid "དེ་བཞིན་ གཤེགས་པ␣ས་ ཚུར་ ཞེས་ བཀའ་ སྩལ་པ␣ས ། །"
 msgstr ""
 
-msgctxt "line 233, 13.txt"
+msgctxt "dd15e006f35c43ae9b850e11277fb5f3"
 msgid "དེ་ ནི་ མགོ་ བྲེགས་"
 msgstr ""
 
-msgctxt "line 234, 13.txt"
+msgctxt "7da52825195e4585ab598d1dc4747246"
 msgid "ལུས་ ལ་ སྣམ་སྦྱར་ གྱོན ། །"
 msgstr ""
 
 # སངས་རྒྱས་ཀྱི་ནི་དགོངས་པས་གོས་<«གཡུང་»གོ།>བགོས་ནས། །
-msgctxt "line 235, 13.txt"
+msgctxt "3df197380fad4ef99fc4bcf69a62f4e0"
 msgid "སངས་རྒྱས་ ཀྱི་ ནི་ དགོངས་པ␣ས་ གོས་ བགོས་ ནས ། །"
 msgstr ""
 
-msgctxt "line 236, 13.txt"
+msgctxt "179b5465c64e47228b64308533c9417c"
 msgid "མོད་ ལ་ དབང་པོ་ རབ་ཏུ་ ཞི་བ␣ར་ གནས ། །"
 msgstr ""
 
-msgctxt "line 237, 13.txt"
+msgctxt "a2f4f92bcabe4226a2dfdf5ad4b64856"
 msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་ རྣམས་ ལ་ལུང་ ཕོག་ སྟེ"
 msgstr ""
 
 # དེ་དག་གིས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
-msgctxt "line 238, 13.txt"
+msgctxt "a0cef565c16a4948b222ec41dccee843"
 msgid ""
 "དེ་དག་ གིས་ ཀྱང་ བརྩོན་པ་ དང་ བསྒྲུབ་པ་ དང་ འབད་པ␣ས་ ཉོན་མོངས་པ་ ཐམས་ཅད་ "
 "སྤངས་ ནས་"
 msgstr ""
 
-msgctxt "line 239, 13.txt"
+msgctxt "a921f39867364efe85e98fb005027aa8"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 240, 13.txt"
+msgctxt "c882d4ba517e466a98a6f5c2a3551924"
 msgid "དེ་དག་ དགྲ་བཅོམ་པ་ ཁམས་ གསུམ་པ␣འི་ འདོད་ཆགས་ དང་ བྲལ་བ␣ར་ གྱུར་ ནས །"
 msgstr ""
 
 # གསེར་དང་བོང་<«གཡུང་»པོར།>བར་མཉམ་པ་
-msgctxt "line 241, 13.txt"
+msgctxt "c82012a7feac467e8dade400c8d84d42"
 msgid "གསེར་ དང་ བོང་བ␣ར་ མཉམ་པ་"
 msgstr ""
 
-# ནམ་མཁའ་དང་ལག་མཐིལ་<«གཡུང་»ཐིལ།>དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ། 
-msgctxt "line 242, 13.txt"
+# ནམ་མཁའ་དང་ལག་མཐིལ་<«གཡུང་»ཐིལ།>དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ།
+msgctxt "431b4fa7096a4dda9a45c34012f83d5e"
 msgid "ནམ་མཁའ་ དང་ ལག་མཐིལ་ དུ་ འདྲ་བ␣འི་ སེམས་ དང་ ལྡན་པ །"
 msgstr ""
 
-# ཙན་དན་སྦངས་པ་ལྟ་བུར་བསིལ་<«གཡུང་»«པེ་»གསིལ།>བར་གྱུར་པ། 
-msgctxt "line 243, 13.txt"
+# ཙན་དན་སྦངས་པ་ལྟ་བུར་བསིལ་<«གཡུང་»«པེ་»གསིལ།>བར་གྱུར་པ།
+msgctxt "56ad64ce10bd4c53b582db4c9ba4e3d7"
 msgid "ཙན་དན་ སྦངས་པ་ ལྟ་བུ␣ར་ བསིལ་བ␣ར་ གྱུར་པ །"
 msgstr ""
 
-msgctxt "line 244, 13.txt"
+msgctxt "65b6838f103f49e89c7a27752f0e46d1"
 msgid "རིག་པ␣ས་ སྒོ་ང␣འི་ སྦུབས་ བཅོམ་པ་"
 msgstr ""
 
-msgctxt "line 245, 13.txt"
+msgctxt "ff47d566cfb34fd3b33ecc761392956c"
 msgid "རིག་པ་ དང་ མངོན་པར་ ཤེས་པ་ དང་ སོ་སོ་ ཡང་དག་པ␣ར་ རིག་པ་ ཐོབ་པ་"
 msgstr ""
 
-msgctxt "line 246, 13.txt"
+msgctxt "08f7e2d7470e4ccc9dc93cd3ccf4c111"
 msgid "སྲིད་པ␣འི་ རྙེད་པ་ དང་ ཆགས་པ་ དང་ བཀུར་སྟི་ ལ་ རྒྱབ་ ཀྱིས་ ཕྱོགས་པ །"
 msgstr ""
 
 # དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+དང་།>པ་དང་གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ།
 # །
-msgctxt "line 247, 13.txt"
+msgctxt "cf77b4e621164c18ac80416d62c25e06"
 msgid ""
 "དབང་པོ་ དང་ ཉེ་དབང་ དང་ བཅས་པ␣འི་ ལྷ་ རྣམས་ ཀྱིས་ མཆོད་ ཅིང་ རྗེད་པ་ དང་ "
 "གུས་པ␣ར་ སྨྲ་བ␣འི་ གནས་ སུ་ གྱུར་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 248, 13.txt"
+msgctxt "4f15335837cd4d95b8a15db80cb99d89"
 msgid "དེ་ནས་ འཕྱེ་བོ␣ས་ བསམས་པ །"
 msgstr ""
 
-msgctxt "line 249, 13.txt"
+msgctxt "fe3523a11d9743b8a05d73ce80447836"
 msgid ""
 "གལ་ཏེ་ བདག་ ཀྱང་ ལུས་ འདི་འདྲ་ བར་མ་ གྱུར་ ན་ ནི་ བདག་ ཀྱང་ བཅོམ་ལྡན་འདས་ "
 "ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ སྟེ །"
@@ -1146,141 +1146,141 @@ msgstr ""
 
 # ཆུ་བོ་རྣམས་ལས་བརྒལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»རྒལ།>བར་བྱ་བ་དང་སྦྱོར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»འབྱོར།>བ་རྣམས་<«གཡུང་»«པེ་»+ཀྱིས།>ལས་འདའ་བར་བྱ་བའི་ཕྱིར་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པར་བྱ་བ་ཞིག་ན་སྙམ་མོ།
 # །
-msgctxt "line 250, 13.txt"
+msgctxt "71349f47e6334ba494df4fba4221e3af"
 msgid ""
 "ཆུ་བོ་ རྣམས་ ལ␣ས་ བརྒལ་བ␣ར་ བྱ་བ་ དང་ སྦྱོར་བ་ རྣམས་ ལ␣ས་ འདའ་བ␣ར་ བྱ་བ␣འི་ "
 "ཕྱིར་ བརྩོན་པ་ དང་ བསྒྲུབ་པ་ དང་ འབད་པ␣ར་ བྱ་བ་ ཞིག་ ན་ སྙམ་ མོ ། །"
 msgstr ""
 
-msgctxt "line 251, 13.txt"
+msgctxt "304a7f86ba8643ac8d618072bf7bfc49"
 msgid ""
 "དེ་ནས་ དེ་སྐད་ ཅེས་ བརྗོད་ མ་ ཐག་ ཏུ་ དེ␣འི་ ལུས་ དེ་ རྣམ་པ་ ཐམས་ཅད་ དུ་ "
 "ཡོངས་སུ་ རྫོགས་ ཤིང་"
 msgstr ""
 
-msgctxt "line 252, 13.txt"
+msgctxt "4b3a971acd9b41b187af831f3611431e"
 msgid "རངས་པ␣ར་ གྱུར་ ནས་"
 msgstr ""
 
-msgctxt "line 253, 13.txt"
+msgctxt "a70e07ddf21a4c0788fd99e37018e36b"
 msgid "དེ་ ལྷག་པར་ ཡང་ བཅོམ་ལྡན་འདས་ ལ་ དགའ་བ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 254, 13.txt"
+msgctxt "ce535d8462d64ce886ec613ac9c3ecc2"
 msgid "དགའ་བ␣ར་ གྱུར་ ནས་"
 msgstr ""
 
-msgctxt "line 255, 13.txt"
+msgctxt "f8211e43091242e891b624077ba03383"
 msgid "སྟན་ ལ␣ས་ ལངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 256, 13.txt"
+msgctxt "4592cf44f2f34054b218405c1e61cd4d"
 msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ནས་"
 msgstr ""
 
-msgctxt "line 257, 13.txt"
+msgctxt "33abc5e7dab74233b579dba70c0b0812"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 258, 13.txt"
+msgctxt "751840b805b84a6bb41b5c2f88c6a615"
 msgid "བཙུན་པ་"
 msgstr ""
 
 # ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་<«ཁུ་»«ཞོལ་»བྱུང་།>བ་དང་<«གཡུང་»གང་།>བསྙེན་པར་རྫོགས་ཤིང་དགེ་སློང་གི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན།
-msgctxt "line 259, 13.txt"
+msgctxt "b9eec4d4930e46c980e9d2296be2a9a1"
 msgid ""
 "ལེགས་པ␣ར་ གསུངས་པ␣འི་ ཆོས་ འདུལ་བ་ ལ་ རབ་ཏུ་ འབྱུང་བ་ དང་ བསྙེན་པ␣ར་ རྫོགས་ "
 "ཤིང་ དགེ་སློང་ གི་ དངོས་པོ་ འཐོབ་ ཏུ་ རུང་ ན །"
 msgstr ""
 
 # བདག་ཀྱང་<«ཞོལ་»ཅག>བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །
-msgctxt "line 260, 13.txt"
+msgctxt "afc0b11ccc884bc3825fe7dcaf0c08ce"
 msgid ""
 "བདག་ ཀྱང་ བཅོམ་ལྡན་འདས་ ཀྱི་ ཐད་ དུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་པ␣ར་ འཚལ་ ལོ ། །"
 msgstr ""
 
-msgctxt "line 261, 13.txt"
+msgctxt "077bf32fab63481f9f087fa0615337a8"
 msgid ""
 "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དགེ་སློང་ ཚུར་ ཤོག་ ཅེས་བྱ་བ␣ས་ རབ་ཏུ་ ཕྱུང་ སྟེ་"
 msgstr ""
 
-msgctxt "line 262, 13.txt"
+msgctxt "490c2ea3e9a645bf8b50303461515a55"
 msgid "བསྙེན་པ␣ར་ རྫོགས་པ␣ར་ མཛད་ ནས་"
 msgstr ""
 
-msgctxt "line 263, 13.txt"
+msgctxt "87ec719f1ee1423588567db92af18df8"
 msgid "ལུང་ ཡང་ ཕོག་ གོ ། །"
 msgstr ""
 
 # དེས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
-msgctxt "line 264, 13.txt"
+msgctxt "e5b3235081d9489786a71d02533db062"
 msgid ""
 "དེ␣ས་ ཀྱང་ བརྩོན་པ་ དང་ བསྒྲུབ་པ་ དང་ འབད་པ␣ས་ ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 265, 13.txt"
+msgctxt "0907946e790f445587e7f93993414590"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 266, 13.txt"
+msgctxt "b3de78021dea4cffba0ca3ee433a0d2a"
 msgid "དེ་ནས་ དགེ་སློང་ དག་ གིས་ བཅོམ་ལྡན་འདས་ ལ་ ཞུས་པ་"
 msgstr ""
 
-msgctxt "line 267, 13.txt"
+msgctxt "d1e8a070872d4253a6cfb36a2d767a3d"
 msgid "བཙུན་པ་"
 msgstr ""
 
 # འཕྱེ་བོས་ལས་ཅི་ཞིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཞིགགྱི>བགྱིས་ན་
-msgctxt "line 268, 13.txt"
+msgctxt "73371f7b3c0944199505e06e2e78e254"
 msgid "འཕྱེ་བོ␣ས་ ལ␣ས་ ཅི་ཞིག་ བགྱིས་ ན་"
 msgstr ""
 
-msgctxt "line 269, 13.txt"
+msgctxt "7495e69a667642f39393ad5fa5bbc19e"
 msgid "ལ␣ས་ དེ␣འི་ རྣམ་པ␣ར་ སྨིན་པ␣ས་ འཕྱེ་བོ␣ར་ གྱུར་ ལགས །"
 msgstr ""
 
-msgctxt "line 270, 13.txt"
+msgctxt "1b7c694a5db74b188a26dc09b218d698"
 msgid "ལ␣ས་ ཅི་ཞིག་ བགྱིས་ ན །"
 msgstr ""
 
-msgctxt "line 271, 13.txt"
+msgctxt "8c9819c5326b41e59fc292b074de0ad1"
 msgid "དེ␣ས་ བཅོམ་ལྡན་འདས་ མཉེས་པ␣ར་ བགྱིས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 272, 13.txt"
+msgctxt "af72fd52fcbc41c3913cfecf851a6a64"
 msgid "མི་ མཉེས་པ␣ར་ མ་ བགྱིས་ ལ །"
 msgstr ""
 
 # བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་<«གཡུང་»སྟན།>པ་ལ་རབ་ཏུ་བྱུང་ནས་
-msgctxt "line 273, 13.txt"
+msgctxt "97e2c504d63b42c881d858cd713a8e68"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
 msgstr ""
 
-msgctxt "line 274, 13.txt"
+msgctxt "1b936dbdeac44bfdadffdcb717f414a4"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 275, 13.txt"
+msgctxt "2cd2cff361f14dd5bf5de89545b6b375"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བགྱིས་ ལགས །"
 msgstr ""
 
-msgctxt "line 276, 13.txt"
+msgctxt "5ca3e757f22a4442bcd7f219a0edb478"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
 msgstr ""
 
-msgctxt "line 277, 13.txt"
+msgctxt "a7eedec06d8b4a6ca2ddf4c170966552"
 msgid "དགེ་སློང་ དག་"
 msgstr ""
 
 # འདི་ཉིད་ཀྱིས་ལས་དེ་<«ལི་»ཏེ།>ལྟ་བུ་བྱས་ཤིང་བསགས་ཏེ་
-msgctxt "line 278, 13.txt"
+msgctxt "e94fa38a58ad46389000010e7783a340"
 msgid "འདི་ཉིད་ ཀྱིས་ ལ␣ས་ དེ་ལྟ་ བུ་ བྱས་ ཤིང་ བསགས་ ཏེ་"
 msgstr ""
 
 # དགེ་སློང་དག་སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
 # བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ་སྐྱེས་བུ་གདུལ་བྱའི་<«གཡུང་»«པེ་»བའི།>ཁ་ལོ་སྒྱུར་བ།
 # བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་<«གཡུང་»«པེ་»བསྲུང་།>ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།
-msgctxt "line 279, 13.txt"
+msgctxt "564723fd949d43d8833d0e31e79d15af"
 msgid ""
 "དགེ་སློང་ དག་ སྔོན་བྱུང་བ་ འདས་པ␣འི་ དུས་ ན །  བསྐལ་པ་ བཟང་པོ་ འདི་ཉིད་ ལ་ "
 "སྐྱེ་དགུ␣འི་ ཚེ་ལོ་ ཉི་ཁྲི་ ཐུབ་པ་ ན་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ "
@@ -1289,200 +1289,200 @@ msgid ""
 "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ འོད་སྲུང་ ཞེས་ བྱ་བ་ འཇིག་རྟེན་ དུ་ བྱུང་ སྟེ །"
 msgstr ""
 
-msgctxt "line 280, 13.txt"
+msgctxt "2963d1334392407f8adcaba5c0c0147e"
 msgid ""
 "དེ␣འི་ ཚེ་ བཱ་རཱ་ཎ་སཱི་ འདི་ཉིད་ ན་ ཁྱིམ་བདག་ སྤུན་ གཉིས་ ཤིག་ གནས་པ་ ལ␣ས་"
 msgstr ""
 
 # གཅིག་གིས་ནི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་ལས་ཆོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཆོས།>ཐོས་ཏེ་
-msgctxt "line 281, 13.txt"
+msgctxt "ae4518aad3804b26848f6d8004541c8b"
 msgid ""
 "གཅིག་ གིས་ ནི་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ ལ␣ས་ ཆོས་ ཐོས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 282, 13.txt"
+msgctxt "bf2bdb5ab773446fb0fbfdc797992cf9"
 msgid "ཕྱིར་ མི་ འོང་བ␣འི་ འབྲས་བུ་ མངོན་སུམ་ དུ་ བྱས་ ནས །"
 msgstr ""
 
-msgctxt "line 283, 13.txt"
+msgctxt "3cedd6e98e2b47a8adf45a4e1862eb57"
 msgid "དེ␣ས་ ཁ་ན་མ་ཐོ་བ་ དང་ བཅས་པ␣འི་ ལ␣ས་ རྣམས་ སྤངས་ ཏེ"
 msgstr ""
 
 # གཅིག་ཏུ་ངེས་པར་ཁ་ན་མ་<«གཡུང་»«པེ་»–མ།>ཐོ་བ་མེད་པའི་ལས་རྣམས་ལ་གནས་སོ། །
-msgctxt "line 284, 13.txt"
+msgctxt "0e904b39dbcb46938a296c35de988ac9"
 msgid "གཅིག་ ཏུ་ ངེས་པར་ ཁ་ན་མ་ཐོ་བ་ མེད་པ␣འི་ ལ␣ས་ རྣམས་ ལ་ གནས་ སོ ། །"
 msgstr ""
 
 # ནུ་བོ་ཅིག་ཤོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག་ཤོས།
 # «ཁུ་»གཅིག་བཤོས།>ནི་ཞིང་ལས་<«གཡུང་»«པེ་»སླས།>བྱེད་དེ་
-msgctxt "line 285, 13.txt"
+msgctxt "95b78630ae0c4a8e99845abf12477566"
 msgid "ནུ་བོ་ ཅིག་ཤོས་ ནི་ ཞིང་ལས་ བྱེད་ དེ་"
 msgstr ""
 
-msgctxt "line 286, 13.txt"
+msgctxt "81f773eca7c147b39c3b1ae5d34e6fa9"
 msgid "དེ␣ས་ བསམས་པ་"
 msgstr ""
 
-msgctxt "line 287, 13.txt"
+msgctxt "44677f718693425f877916792d848586"
 msgid "བདག་ ནི་ གྲང་བ་ ན་ ཡང་ གྲང་བ␣ས་ ཉེན་"
 msgstr ""
 
-# ཚ་བ་<«གཡུང་»ཚ་བས «པེ་»ཆེ་བས། «ཅོ་»ཚེ་བ།>ན་ཡང་ཚ་བས་ཉེན་ལ། 
-msgctxt "line 288, 13.txt"
+# ཚ་བ་<«གཡུང་»ཚ་བས «པེ་»ཆེ་བས། «ཅོ་»ཚེ་བ།>ན་ཡང་ཚ་བས་ཉེན་ལ།
+msgctxt "b3344c1d74fe424ba501c96ac8c398a8"
 msgid "ཚ་བ་ ན་ ཡང་ཚ་ བས་ ཉེན་ ལ །"
 msgstr ""
 
-msgctxt "line 289, 13.txt"
+msgctxt "405072960f3d434495b4256453849af7"
 msgid "འདི་ ནི་ ཁྱིམ་ ན་ འདུག་ ཅིང་"
 msgstr ""
 
-msgctxt "line 290, 13.txt"
+msgctxt "2201cb3d4beb4c82940a019c491d06df"
 msgid "བདེ་བ་ ཉམས་ སུ་ མྱོང་བ␣ར་ བྱེད་ དོ་ སྙམ་ ནས །"
 msgstr ""
 
-msgctxt "line 291, 13.txt"
+msgctxt "bdb189be517e48c0994932de0395940b"
 msgid "དེ་ ཁྲོ␣ས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 292, 13.txt"
+msgctxt "adf9d6a5a4754fa488a8c70f0e9ef23a"
 msgid "ཕྱིར་ མི་ འོང་བ་ དེ་ ལ་ ཚིག་རྩུབ་པོ་ སྨྲས་པ །"
 msgstr ""
 
-msgctxt "line 293, 13.txt"
+msgctxt "9370d869f4b641108db1c17321591c00"
 msgid "བདག་ ནི་ གྲང་བ་ ན་ ཡང་ གྲང་བ␣ས་ ཉེན་"
 msgstr ""
 
 # ཚ་བ་ན་ཡང་<«གཡུང་»–ཡང་།>ཚ་བས་ཉེན་ཏེ་
-msgctxt "line 294, 13.txt"
+msgctxt "916f81b73a7d44ce8beddb97ab55f72a"
 msgid "ཚ་བ་ ན་ ཡང་ཚ་ བས་ ཉེན་ ཏེ་"
 msgstr ""
 
-msgctxt "line 295, 13.txt"
+msgctxt "c8b72323a91147c5a893fe1b842ce5e7"
 msgid "ལ␣ས་ ཐམས་ཅད་ བྱེད་ ལ་"
 msgstr ""
 
 # ཁྱོད་ནི་འཕྱེ་བོ་<«གཡུང་»ལ་བྱེ་འོ།>བཞིན་དུ་ཁྱིམ་ན་ཐེན་ཞིང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཐེན་ཅིང་།
 # «ཁུ་»ཐོན་ཞིང་། «ཞོལ་»འཐེན་ཅིང་།>འདུག་སྟེ་
-msgctxt "line 296, 13.txt"
+msgctxt "46790f942b9f47829831c360e4e2bbf4"
 msgid "ཁྱོད་ ནི་ འཕྱེ་བོ་ བཞིན་ དུ་ ཁྱིམ་ ན་ ཐེན་ ཞིང་ འདུག་ སྟེ་"
 msgstr ""
 
-msgctxt "line 297, 13.txt"
+msgctxt "ddc4bca3accf4d44ab8beaada4ad9ff2"
 msgid "ཅི་ཡང་ བྱེད་པ་ མི་ འདོད་ དམ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 298, 13.txt"
+msgctxt "4e63eaee7cae4bdaa2d623b9ccd25ad0"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 299, 13.txt"
+msgctxt "7d4db23dce3f412d91d42d7fbf45a181"
 msgid "དེ་ནས་ ཕྱིར་ མི་ འོང་བ␣ས་ བསམས་པ །"
 msgstr ""
 
 # ནུ་བོ་འདིས་བདག་ལ་ཚིག་རྩུབ་པོ་སྨྲས་ཀྱིས་<«ཞོལ་»ཀྱི།>
-msgctxt "line 300, 13.txt"
+msgctxt "99eae3c4c7894b3ea12ad1ac25883563"
 msgid "ནུ་བོ་ འདི␣ས་ བདག་ ལ་ ཚིག་རྩུབ་པོ་ སྨྲ␣ས་ ཀྱིས་"
 msgstr ""
 
 # གཏན་དུ་ཕུང་བར་མི་འགྱུར་བར་<«གཡུང་»«པེ་»བའི།>བྱ་བའི་ཕྱིར་འདིའི་ར་མདའ་<«གཡུང་»འདའ།>བྱ་དགོས་སོ་སྙམ་ནས་
-msgctxt "line 301, 13.txt"
+msgctxt "0b479e794bc848d68bcc30fa1622aa11"
 msgid ""
 "གཏན་ དུ་ ཕུང་བ␣ར་ མི་འགྱུར་བ␣ར་ བྱ་བ␣འི་ ཕྱིར་ འདི␣འི་ ར་མདའ་ བྱ་ དགོས་ སོ་ "
 "སྙམ་ ནས་"
 msgstr ""
 
 # དེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–དེས།>དེའི་མདུན་དུ་རྫུ་འཕྲུལ་བསྟན་ཏེ་
-msgctxt "line 302, 13.txt"
+msgctxt "b3e13b1a61584be2a55ef0868adad012"
 msgid "དེ␣ས་ དེ␣འི་ མདུན་ དུ་ རྫུ་འཕྲུལ་ བསྟན་ ཏེ་"
 msgstr ""
 
-msgctxt "line 303, 13.txt"
+msgctxt "418847de8db543d3bb9a890e4103b5ee"
 msgid "སྨྲས་པ །"
 msgstr ""
 
 # ཁྱོད་ཀྱིས་ང་ལ་ཚིག་རྩུབ་པོ་སྨྲས་ཀྱིས་<«ཞོལ་»ཀྱི།>
-msgctxt "line 304, 13.txt"
+msgctxt "d17e76edb2714a829d34e0a8a4efcf16"
 msgid "ཁྱོད་ ཀྱིས་ ང་ ལ་ ཚིག་རྩུབ་པོ་ སྨྲ␣ས་ ཀྱིས་"
 msgstr ""
 
-msgctxt "line 305, 13.txt"
+msgctxt "247d8c709bf44ac2ad5525fb4d627240"
 msgid "ཉེས་པ་ ལ་ཉེ␣ས་ སོ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 306, 13.txt"
+msgctxt "98e539205d3f4af5aef02a088d02be46"
 msgid "བཤགས་པ␣ར་ གྱིས་ ཤིག  །"
 msgstr ""
 
-msgctxt "line 307, 13.txt"
+msgctxt "74d9c921e1de43f4b6de806b2208ff83"
 msgid "འཁོར་བ་ ན་ འཁོར་ ཞིང་"
 msgstr ""
 
-# སྡུག་བསྔལ་ཆེན་པོ་རྙེད་ཏ་<«གཡུང་»«པེ་»ད།>རེ། 
-msgctxt "line 308, 13.txt"
+# སྡུག་བསྔལ་ཆེན་པོ་རྙེད་ཏ་<«གཡུང་»«པེ་»ད།>རེ།
+msgctxt "d187f2f48de24267b662228ee55b005d"
 msgid "སྡུག་བསྔལ་ ཆེན་པོ་ རྙེད་ ཏ་ རེ །"
 msgstr ""
 
-# དེ་ནས་དེ་<«གཡུང་»«པེ་»དེས།>ཐོས་མ་ཐག་ཏུ་ནུ་བོ་དེ་འགྱོད་པ་ཆེན་པོ་སྐྱེས་ཏེ། 
-msgctxt "line 309, 13.txt"
+# དེ་ནས་དེ་<«གཡུང་»«པེ་»དེས།>ཐོས་མ་ཐག་ཏུ་ནུ་བོ་དེ་འགྱོད་པ་ཆེན་པོ་སྐྱེས་ཏེ།
+msgctxt "c1e83b48cc58421aaecf350a543f9496"
 msgid "དེ་ནས་ དེ་ ཐོས་ མ་ ཐག་ ཏུ་ ནུ་བོ་ དེ་ འགྱོད་པ་ ཆེན་པོ་ སྐྱེས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 310, 13.txt"
+msgctxt "8a087b7c92354b49b608d0bac05af49f"
 msgid "དེ␣ས་ དེ␣འི་ རྐང་པ་ ལ་ ཕྱག་ འཚལ་ ནས་"
 msgstr ""
 
 # བཟོད་པར་<«གཡུང་»«པེ་»གཟེད་པ།>གསོལ་ཏེ་
-msgctxt "line 311, 13.txt"
+msgctxt "777a16f24af043b0bd856c8d6d7a30f8"
 msgid "བཟོད་པ␣ར་ གསོལ་ ཏེ་"
 msgstr ""
 
-msgctxt "line 312, 13.txt"
+msgctxt "64094915e4024e7b8a9a8b5b09461af3"
 msgid "འདི་སྐད་ ཅེས་ སྨྲ␣ས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 313, 13.txt"
+msgctxt "81320f2f9f3c4253bd793c04230aba14"
 msgid "བདག་ ཁྱིམ་ ན་ གནས་པ་ བཏང་ སྟེ །"
 msgstr ""
 
-msgctxt "line 314, 13.txt"
+msgctxt "69faa49e45294d27bf013654a0b7ac7b"
 msgid "སོང་ ལ་"
 msgstr ""
 
 # ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་འབྱུང་<«གཡུང་»«པེ་»བྱུང་།>ངོ་།
 # །
-msgctxt "line 315, 13.txt"
+msgctxt "383e5badd2ed4a919f3b134c241005ab"
 msgid ""
 "ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ རབ་ཏུ་ འབྱུང་ ངོ་ "
 "། །"
 msgstr ""
 
-msgctxt "line 316, 13.txt"
+msgctxt "1cf4fa377a824a6d8d137d90e165a961"
 msgid "ཕྱིར་ མི་ འོང་བ␣ས་ སྨྲས་པ །"
 msgstr ""
 
 # ཁྱིམ་གྱི་འཁོར་ཐོང་ལ་<«ཅོ་»བ།>
-msgctxt "line 317, 13.txt"
+msgctxt "e370c3033092493b89acf55135d55a60"
 msgid "ཁྱིམ་ གྱི་ འཁོར་ ཐོང་ ལ་"
 msgstr ""
 
-msgctxt "line 318, 13.txt"
+msgctxt "6feb2d317f1c4174b93a4ed2a97a8bf7"
 msgid "བདག་ཅག་ གཉིས་ཀ་ རབ་ཏུ་ འབྱུང་བ␣ར་ བྱ␣འོ ། །"
 msgstr ""
 
-msgctxt "line 319, 13.txt"
+msgctxt "760f606fb52f417a99b1aa006542c3ca"
 msgid "དེ␣ས་ སྨྲས་པ །"
 msgstr ""
 
-msgctxt "line 320, 13.txt"
+msgctxt "7c321d251fd6497e8d0d53e3402f57c1"
 msgid "དེ་ལྟར་ བགྱི␣འོ ། །"
 msgstr ""
 
-msgctxt "line 321, 13.txt"
+msgctxt "fa05cece7af044cf9aa84dd2bcd17700"
 msgid "དེ་ནས་ དེ␣ས་ ཁྱིམ་ གྱི་ འཁོར་ བཏང་ ནས་"
 msgstr ""
 
 # ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་གཉི་ག་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»གཉིས་ཀ>རབ་ཏུ་བྱུང་སྟེ།
-msgctxt "line 322, 13.txt"
+msgctxt "2b4cccb0910144e0b7c31208d259797b"
 msgid ""
 "ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ གཉི་ག་ རབ་ཏུ་ "
 "བྱུང་ སྟེ །"
@@ -1490,195 +1490,195 @@ msgstr ""
 
 # ཕྱིར་མི་འོང་བས་ནི་རབ་ཏུ་བྱུང་<«གཡུང་»«པེ་»བའི་འབྲས་བུ་ཐོབ།
 # «ལི་»«སྣར་»བའི་འབྲས་བུ་བྱུང་།>ནས་
-msgctxt "line 323, 13.txt"
+msgctxt "82fa51a4961c48b49ed418962d04367c"
 msgid "ཕྱིར་ མི་ འོང་བ␣ས་ ནི་ རབ་ཏུ་ བྱུང་ ནས་"
 msgstr ""
 
-msgctxt "line 324, 13.txt"
+msgctxt "fc44143951f34837943f482d5523ae55"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 325, 13.txt"
+msgctxt "47b52c4a496f4a72b4f27540bf47d104"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
 msgstr ""
 
 # ཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>ཤོས་ཀྱིས་ནི་རབ་ཏུ་བྱུང་ནས་
-msgctxt "line 326, 13.txt"
+msgctxt "7ddf002056d54551b9463668f9f38442"
 msgid "ཅིག་ཤོས་ ཀྱིས་ ནི་ རབ་ཏུ་ བྱུང་ ནས་"
 msgstr ""
 
-msgctxt "line 327, 13.txt"
+msgctxt "ee99925ee8f44e4e840d0b88b0c01270"
 msgid "ཚེ་ གཅིག་ ཏུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་ དེ་"
 msgstr ""
 
-# འཆི་ཀར་<«ཁུ་»གར། «ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ། 
-msgctxt "line 328, 13.txt"
+# འཆི་ཀར་<«ཁུ་»གར། «ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
+msgctxt "806e8a00940e4cad980dff3ef6684184"
 msgid "འཆི་ཀ␣ར་ སྨོན་ལམ་ བཏབ་པ །"
 msgstr ""
 
-msgctxt "line 329, 13.txt"
+msgctxt "583d0f025cf944db843ec62d3d938ede"
 msgid ""
 "བདག་ གིས་ འདི་ལྟར་ སེམས་ཅན་ དག་པ་ འདི་ ལྟ་བུ་ ལ་ ཚིག་རྩུབ་པོ་ སྨྲས་པ␣འི་ "
 "ལ␣ས་ དེ␣འི་ སྐལ་བ་ ཅན་ དུ་ བདག་ མ་ གྱུར་ཅིག  །"
 msgstr ""
 
 # བརྒྱལ་ལས་དེའི་འབྲས་བུ་བདག་ལ་སྨིན་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འགྱུར།>ན་ཡང་རབ་ཏུ་འབྱུང་བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་མ་ལེགས་པ་མེད་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»འགྱུར།>ཏེ་
-msgctxt "line 330, 13.txt"
+msgctxt "95c461155d9241229211906b10e31a1f"
 msgid ""
 "བརྒྱལ་ ལ␣ས་ དེ␣འི་ འབྲས་བུ་ བདག་ ལ་ སྨིན་པ␣ར་ གྱུར་ ན་ ཡང་ རབ་ཏུ་ "
 "འབྱུང་བ␣འི་ སེམས་བསྐྱེད་ མ་ ཐག་ ཏུ་ མ་ ལེགས་པ་ མེད་པ␣ར་ གྱུར་ ཏེ་"
 msgstr ""
 
-# ལེགས་པ་<«སྣར་»«ཞོལ་»པར།>འབྱུང་བར་གྱུར་ཅིག ། 
-msgctxt "line 331, 13.txt"
+# ལེགས་པ་<«སྣར་»«ཞོལ་»པར།>འབྱུང་བར་གྱུར་ཅིག །
+msgctxt "ba8d44fbf28f41c8803a03bcd45c70cc"
 msgid "ལེགས་པ་ འབྱུང་བ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
 
-msgctxt "line 332, 13.txt"
+msgctxt "7e27452daa4246ff8ea5fdc24381574d"
 msgid "འདི་ལྟར་"
 msgstr ""
 
-msgctxt "line 333, 13.txt"
+msgctxt "ea5d3354c98842fca7006bbed4d9e347"
 msgid "བདག་ རབ་ཏུ་ བྱུང་ ནས་"
 msgstr ""
 
 # ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ཀྱང་ཡོན་ཏན་ཅི་ཡང་མ་ཐོབ་ཀྱིས་<«གཡུང་»«པེ་»ཀྱང་།
 # «ཞོལ་»ཀྱི།>
-msgctxt "line 334, 13.txt"
+msgctxt "fd4b356fd420428aabe0999cd9980271"
 msgid ""
 "ཚེ་ གཅིག་ ཏུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་ ཀྱང་ ཡོན་ཏན་ ཅི་ཡང་ མ་ ཐོབ་ ཀྱིས་"
 msgstr ""
 
 # ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་<«གཡུང་»«པེ་»–པ།>གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་<«ཅོ་»དག>གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག
 # །
-msgctxt "line 335, 13.txt"
+msgctxt "6cad72bb9ee54d7bbae84a381611bb52"
 msgid ""
 "ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གིས་ བྲམ་ཟེ␣འི་ ཁྱེའུ་ བླ་མ་ "
 "ལུང་བསྟན་པ་ གང་ཡིན་པ␣འི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ དེ་ བདག་ གིས་ མཉེས་པ␣ར་ "
 "བྱེད་པ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
 
-# མི་མཉེས་པར་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག ། 
-msgctxt "line 336, 13.txt"
+# མི་མཉེས་པར་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག །
+msgctxt "b45d14f64e174612aa8d6248602fa4fe"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
 msgstr ""
 
 # དེ་ཁོ་<«གཡུང་»«པེ་»ཁོའ།>ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
-msgctxt "line 337, 13.txt"
+msgctxt "cc0af80f460d4983b2ecdb101c4f8a5d"
 msgid "དེ་ ཁོ་ན␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
 msgstr ""
 
-msgctxt "line 338, 13.txt"
+msgctxt "ce5e800d23dc4b63b3ca0c0932973671"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 339, 13.txt"
+msgctxt "0e2e5e33f13d4ccbaa0a8d60a84596a5"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱེད་པ␣ར་ གྱུར་ཅིག་ ཅེས་"
 msgstr ""
 
-msgctxt "line 340, 13.txt"
+msgctxt "444484f04d044bce9a0b9bce66845c4c"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 341, 13.txt"
+msgctxt "ba0af9da50c84be68d894c14b8491684"
 msgid "དགེ་སློང་ དག་"
 msgstr ""
 
-msgctxt "line 342, 13.txt"
+msgctxt "92d989cb7c144ed599967183213fc2aa"
 msgid "ཇི་སྙམ་ དུ་ སེམས །"
 msgstr ""
 
-msgctxt "line 343, 13.txt"
+msgctxt "a250cc717da241ed947fa4721fa96ed8"
 msgid ""
 "དེ␣འི་ ཚེ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ གསུང་རབ་ ལ་ རབ་ཏུ་"
 " བྱུང་བ␣འི་ དགེ་སློང་ དུ་ གྱུར་པ་ གང་ཡིན་པ་ དེ་ ནི་ འཕྱེ་བོ་ འདི་ཉིད་ ཡིན་ "
 "ཏེ"
 msgstr ""
 
-msgctxt "line 344, 13.txt"
+msgctxt "cb04077afc664bdaa959f6128fb6cf43"
 msgid ""
 "དེ␣ས་ དེ␣ར་ ཕུ་བོ་ ལ་ ཚིག་རྩུབ་པོ་ སྨྲས་པ␣འི་ ལ␣ས་ དེ␣ས་ ནི་ གང་དང་གང་ དུ་ "
 "སྐྱེས་པ་ དེ་ དང་ དེ␣ར་ འཕྱེ་བོ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 345, 13.txt"
+msgctxt "410edb3dc41347cb89d12cd074206060"
 msgid "དེ་ འགྱོད་པ␣ར་ གྱུར་ ཏེ་"
 msgstr ""
 
-msgctxt "line 346, 13.txt"
+msgctxt "40fd1b21367c4943b470aa1d01e672fd"
 msgid "རབ་ཏུ་ བྱུང་ ནས་"
 msgstr ""
 
-msgctxt "line 347, 13.txt"
+msgctxt "371a8cc250214436aebc226ebc72b5e8"
 msgid "ཚེ་ གཅིག་ ཏུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་ དེ་"
 msgstr ""
 
-# འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ། 
-msgctxt "line 348, 13.txt"
+# འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
+msgctxt "5305b9e820934757852d559a5907cc5d"
 msgid "འཆི་ཀ␣ར་ སྨོན་ལམ་ བཏབ་པ །"
 msgstr ""
 
-msgctxt "line 349, 13.txt"
+msgctxt "e5ee746df7de4d30a991f259769c4fe0"
 msgid "འདི་ལྟར་"
 msgstr ""
 
 # བདག་གིས་སེམས་ཅན་དག་པ་འདི་ལྟ་བུ་ལ་ཚིག་རྩུབ་པོ་<«གཡུང་»«པེ་»མོ།>སྨྲས་པའི་ལས་དེའི་སྐལ་བ་ཅན་དུ་བདག་མ་གྱུར་ཅིག
 # །
-msgctxt "line 350, 13.txt"
+msgctxt "e53ab0d7c4934a6585088befa66cc24c"
 msgid ""
 "བདག་ གིས་ སེམས་ཅན་ དག་པ་ འདི་ ལྟ་བུ་ ལ་ ཚིག་རྩུབ་པོ་ སྨྲས་པ␣འི་ ལ␣ས་ དེ␣འི་ "
 "སྐལ་བ་ ཅན་ དུ་ བདག་ མ་ གྱུར་ཅིག  །"
 msgstr ""
 
 # བརྒྱ་ལ་ལས་དེའི་རྣམ་པར་སྨིན་པ་བདག་ལ་སྨིན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ་བདགལ་སྨིན།>པར་གྱུར་ན་ཡང་རབ་ཏུ་འབྱུང་<«གཡུང་»«པེ་»«ཞོལ་»བྱུང་།>བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་བདག་གི་<«ཁུ་»གིས།>མ་ལེགས་པ་མེད་པར་གྱུར་ཏེ།
-msgctxt "line 351, 13.txt"
+msgctxt "6455f76e1ac84b81a3b8ec39b84748de"
 msgid ""
 "བརྒྱ་ལ་ ལ␣ས་ དེ␣འི་ རྣམ་པ␣ར་ སྨིན་པ་ བདག་ ལ་ སྨིན་པ␣ར་ གྱུར་ ན་ ཡང་ རབ་ཏུ་ "
 "འབྱུང་བ␣འི་ སེམས་བསྐྱེད་ མ་ ཐག་ ཏུ་ བདག་ གི་ མ་ ལེགས་པ་ མེད་པ␣ར་ གྱུར་ ཏེ །"
 msgstr ""
 
 # ལེགས་པ་འབྱུང་<«གཡུང་»«པེ་»བྱུང་།>བར་གྱུར་ཅིག་ཅེས་
-msgctxt "line 352, 13.txt"
+msgctxt "5889887769434c41bb591cc9651e15ee"
 msgid "ལེགས་པ་ འབྱུང་བ␣ར་ གྱུར་ཅིག་ ཅེས་"
 msgstr ""
 
 # བྱས་པ་དེས་ནི་ད་<«གཡུང་»དེ།>ལྟར་རབ་ཏུ་བྱུང་བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་ལུས་ཀྱི་ཡན་ལག་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་པར་གྱུར་ཏོ།
 # །
-msgctxt "line 353, 13.txt"
+msgctxt "40fcbc1f17804c28b7ee572641729fdc"
 msgid ""
 "བྱས་པ་ དེ␣ས་ ནི་ ད་ལྟར་ རབ་ཏུ་ བྱུང་བ␣འི་ སེམས་བསྐྱེད་ མ་ ཐག་ ཏུ་ ལུས་ ཀྱི་ "
 "ཡན་ལག་ ཐམས་ཅད་ ཡོངས་སུ་ རྫོགས་པ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 354, 13.txt"
+msgctxt "c6eef0a6ca654b71a97751dfeed571c7"
 msgid "དེ␣ས་ དེ␣ར་ སྨོན་ལམ་ བཏབ་ སྟེ་"
 msgstr ""
 
-msgctxt "line 355, 13.txt"
+msgctxt "c2a1ab59dc194049a6c720a928da1ae8"
 msgid ""
 "ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གིས །  བྲམ་ཟེ␣འི་ ཁྱེའུ་ བླ་མ་ "
 "ལུང་བསྟན་པ་ གང་ཡིན་པ␣འི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ དེ་ བདག་ གིས་ མཉེས་པ␣ར་ "
 "བྱེད་པ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
 
-# མི་མཉེས་པར་<«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག ། 
-msgctxt "line 356, 13.txt"
+# མི་མཉེས་པར་<«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག །
+msgctxt "1737fa18e13847e3975d716c7119856e"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
 msgstr ""
 
-msgctxt "line 357, 13.txt"
+msgctxt "7473353021d945bcbfddf5b9b9c3d012"
 msgid "དེ་ ཁོ་ན␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
 msgstr ""
 
-msgctxt "line 358, 13.txt"
+msgctxt "ca929dd633294d67a4b526832b72ac28"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 359, 13.txt"
+msgctxt "74b51687569a495193f192398b93b921"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱེད་པ␣ར་ གྱུར་ཅིག་ ཅེས་"
 msgstr ""
 
-msgctxt "line 360, 13.txt"
+msgctxt "0829ee45cf1f4471a3741180bb8cef19"
 msgid ""
 "བྱས་པ␣ས་ ནི །  དགེ་སློང་ དག་ ང་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ "
 "དང་ ཤིན་ཏུ་ མཉམ་པ་ དང་ ཤུགས་ མཉམ་པ་ དང་ མཛད་པ་ མཉམ་པ་ དང་ ཐབས་ མཉམ་པ་ "
@@ -1686,360 +1686,360 @@ msgid ""
 msgstr ""
 
 # འདིས་ང་མཉེས་པར་བྱས་ཏེ་<«གཡུང་»«པེ་»སྟེ།>
-msgctxt "line 361, 13.txt"
+msgctxt "12af0c3fa8b944a29d551cd846fcc1e6"
 msgid "འདི␣ས་ ང་ མཉེས་པ␣ར་ བྱས་ ཏེ་"
 msgstr ""
 
 # མི་མཉེས་པར་<«ཅོ་»+བྱས་ཏེ་མི་མཉེས་པར།>མ་བྱས་ལ་
-msgctxt "line 362, 13.txt"
+msgctxt "9bdd91f64aab435fb9d7b1647e6a0c72"
 msgid "མི་ མཉེས་པ␣ར་ མ་ བྱས་ ལ་"
 msgstr ""
 
-msgctxt "line 363, 13.txt"
+msgctxt "79466dc8372448369d42c8e51d9c4d23"
 msgid "ང་ཉིད་ ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
 msgstr ""
 
-msgctxt "line 364, 13.txt"
+msgctxt "74ee6dba49d84449a83856bae99bc526"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
 msgstr ""
 
-msgctxt "line 365, 13.txt"
+msgctxt "8640bde9164749649f4cea521d436c26"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 366, 13.txt"
+msgctxt "2bf8d21f4b2d407e819532860af35abb"
 msgid "དེ་ནས་ དགེ་སློང་ དག་ གིས་ བཅོམ་ལྡན་འདས་ ལ་ ཞུས་པ །"
 msgstr ""
 
-msgctxt "line 367, 13.txt"
+msgctxt "c258da66ed6146199645cd427e94a522"
 msgid "བཙུན་པ་"
 msgstr ""
 
-msgctxt "line 368, 13.txt"
+msgctxt "b9b2965c1b39434a9aa55994480d04be"
 msgid "ཀྱེ་མ་"
 msgstr ""
 
 # མི་རྒོད་ལྔ་བརྒྱ་པོ་འདི་དག་འཕྱེ་བོ་འདི་དང་མཇལ་<«གཡུང་»«པེ་»འཇལ།>ནས་
-msgctxt "line 369, 13.txt"
+msgctxt "5f967fed8df2456ba8178719af4d38a5"
 msgid "མི་རྒོད་ ལྔ་ བརྒྱ་པོ་ འདི་དག་ འཕྱེ་བོ་ འདི་ དང་ མཇལ་ ནས་"
 msgstr ""
 
-msgctxt "line 370, 13.txt"
+msgctxt "121b38c5edb446e99d607538501b52fc"
 msgid "རབ་ཏུ་ བྱུང་ སྟེ །"
 msgstr ""
 
-msgctxt "line 371, 13.txt"
+msgctxt "938c544543b34f889e8cab059719026f"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ནས་"
 msgstr ""
 
-msgctxt "line 372, 13.txt"
+msgctxt "d3bab42065fb40a58e1f3803900052d3"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བགྱིས་པ་ ལ་ གཟིགས །"
 msgstr ""
 
-msgctxt "line 373, 13.txt"
+msgctxt "4624e2b2ace748ca90928fa2a8e01ec9"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
 msgstr ""
 
-msgctxt "line 374, 13.txt"
+msgctxt "d2fdd0a94ee04194a2211f3684a9a891"
 msgid "དགེ་སློང་ དག་"
 msgstr ""
 
-msgctxt "line 375, 13.txt"
+msgctxt "6aad53dc7f1142a4a12ef4308b1fb568"
 msgid "ད་ལྟར་ འབའ་ཞིག་ མ་ ཡིན་ གྱི་"
 msgstr ""
 
 # འདས་པའི་དུས་ན་ཡང་མི་རྒོད་ལྔ་བརྒྱ་པོ་འདི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+ཉིད།>དག་འཕྱེ་བོ་འདི་ཉིད་དང་ཕྲད་ནས་
-msgctxt "line 376, 13.txt"
+msgctxt "cce3de2f59004b34a3a9f9745c679862"
 msgid ""
 "འདས་པ␣འི་ དུས་ ན་ ཡང་ མི་རྒོད་ ལྔ་ བརྒྱ་པོ་ འདི་དག་ འཕྱེ་བོ་ འདི་ཉིད་ དང་ "
 "ཕྲད་ ནས་"
 msgstr ""
 
-msgctxt "line 377, 13.txt"
+msgctxt "fe6b0a6e708d449fa09af5c1404e1db9"
 msgid "རབ་ཏུ་ བྱུང་ སྟེ །"
 msgstr ""
 
-msgctxt "line 378, 13.txt"
+msgctxt "6c8f36e286c44ce68f2092fa203d96f6"
 msgid "བསམ་གཏན་ བཞི་ དང་ མངོན་པར་ ཤེས་པ་ ལྔ་ བསྐྱེད་པ་ དེ་ ཉོན་ ཅིག  །"
 msgstr ""
 
-msgctxt "line 379, 13.txt"
+msgctxt "5e9e6fde7b874cd1989a4268a9430283"
 msgid "དགེ་སློང་ དག་"
 msgstr ""
 
-msgctxt "line 380, 13.txt"
+msgctxt "bd66b53b89954669b7cc145949fa92e0"
 msgid ""
 "སྔོན་བྱུང་བ་ འདས་པ␣འི་ དུས་ ན་ མི་རྒོད་ ལྔ་ བརྒྱ་ ཙམ་ ནགས་ཁྲོད་ ཅིག་ ན་ "
 "རྟེན་ ཅིང་ གནས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 381, 13.txt"
+msgctxt "6ca8a70fc90a444dae9454b6cf33bcf4"
 msgid "དེ་དག་ གིས་ རི་ཁྲོད་ ཀྱི་ གྲོང་ ཞིག་ བཅོམ་ སྟེ །"
 msgstr ""
 
-msgctxt "line 382, 13.txt"
+msgctxt "9df2b6f99566436caf927d0a51ad49ef"
 msgid "ནོར་ ཟས་ མང་པོ་ དེ་ནས་ བླངས་ སོ ། །"
 msgstr ""
 
 # མི་འདི་ཡང་ནགས་<«ཅོ་»ནག>ཁྲོད་དེ་ཉིད་ན་རྟེན་ཅིང་འདུག་པ་ལས་
-msgctxt "line 383, 13.txt"
+msgctxt "a18617e346c14010925461a55238e20e"
 msgid "མི་ འདི་ ཡང་ ནགས་ཁྲོད་ དེ་ཉིད་ ན་ རྟེན་ ཅིང་ འདུག་པ་ ལ␣ས་"
 msgstr ""
 
 # མི་རྒོད་དེ་དག་དེར་དོང་བས་<«སྣར་»«ཞོལ་»བ་ལས།>གནོད་སྦྱིན་ལ་<«གཡུང་»«པེ་»ལས།>མི་མཆོད་པའི་ཕྱིར་བཟུང་སྟེ།
-msgctxt "line 384, 13.txt"
+msgctxt "ae93617496f84689967301068bf2a172"
 msgid ""
 "མི་རྒོད་ དེ་དག་ དེ␣ར་ དོང་བ␣ས་ གནོད་སྦྱིན་ ལ་ མི་ མཆོད་པ␣འི་ ཕྱིར་ བཟུང་ སྟེ"
 " །"
 msgstr ""
 
-msgctxt "line 385, 13.txt"
+msgctxt "dae28e92c5d04beb80964813ec8b5851"
 msgid "དེ་དག་ ནགས་ཁྲོད་ དེ␣ར་ དོང་ ནས་"
 msgstr ""
 
-msgctxt "line 386, 13.txt"
+msgctxt "6e107a2437b5434eb3330ef6a9ef0e03"
 msgid "གནོད་སྦྱིན་ དེ␣འི་ མདུན་ དུ་བ་ ལང་ གི་ ལྕི་བ␣ས་ བྱུགས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 387, 13.txt"
+msgctxt "d6dbdec902aa442eaca7507e5434b289"
 msgid "བུམ་པ་ གང་བ་ དང་ མི་ དེ་ བཞག་ ནས་"
 msgstr ""
 
-msgctxt "line 388, 13.txt"
+msgctxt "48c646696560446194f133fa81f1a7f1"
 msgid "རལ་གྲི་ རྣོན་པོ་ ཐོགས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 389, 13.txt"
+msgctxt "ccb5be93795b4c0a81bab6fc0d342329"
 msgid "གནོད་སྦྱིན་ གྱི་ མདུན་ དུ་ འདུག་ ནས་"
 msgstr ""
 
-msgctxt "line 390, 13.txt"
+msgctxt "29a67f93f81e424fa003b4eb94727e6a"
 msgid "མཆོད་སྦྱིན་ བྱས་ སོ ། །"
 msgstr ""
 
 # མི་དེས་ཀྱང་བདག་འདི་རྣམས་ཀྱིས་བསད་དེ་གནོད་སྦྱིན་གྱི་མཆོད་པ་བྱེད་པར་སེམས་སམ་<«གཡུང་»མི་སེམས།>སྙམ་ནས་
-msgctxt "line 391, 13.txt"
+msgctxt "bd6abdf9ce224b8fb744c18da0e98b19"
 msgid ""
 "མི་ དེ␣ས་ ཀྱང་ བདག་ འདི་ རྣམས་ ཀྱིས་ བསད་ དེ་ གནོད་སྦྱིན་ གྱི་ མཆོད་པ་ "
 "བྱེད་པ␣ར་ སེམས་ སམ་ སྙམ་ ནས་"
 msgstr ""
 
-msgctxt "line 392, 13.txt"
+msgctxt "329bff8f221a4ebf9728f2369eb1e305"
 msgid "དེ་ ཤིན་ཏུ་ འཇིགས་ ཤིང་ སྐྲག་པ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 393, 13.txt"
+msgctxt "fdab04e285f6417db92dd3cc1342e753"
 msgid "འཇིགས་ ཤིང་ སྐྲག་ ནས་"
 msgstr ""
 
-msgctxt "line 394, 13.txt"
+msgctxt "ce67bf70b1384a378c85f57607268a03"
 msgid "བསམས་པ །"
 msgstr ""
 
-msgctxt "line 395, 13.txt"
+msgctxt "612d77c836714305b78f4dce25d69473"
 msgid "བདག་ སུ་ཞིག་ ལ་ སྐྱབས་ སུ་ འགྲོ་བ␣ར་ བྱ །"
 msgstr ""
 
-msgctxt "line 396, 13.txt"
+msgctxt "e444e2a1172c4f07aea6fc8c030a33d6"
 msgid "བདག་ ལ་ སུ་ཞིག་ སྲོག་ ཕངས་པ་ སྦྱིན་པ␣ར་ འགྱུར་ སྙམ་ མོ ། །"
 msgstr ""
 
 # དེ་ནས་དེའི་ཚེ་རི་ཁྲོད་དེ་ནས་ཐག་མི་རིང་བ་ཞིག་ན་དཀའ་ཐུབ་ཀྱི་གནས་ཤིག་གི་ནང་ན་<«གཡུང་»«པེ་»ནས།>[52a]དྲང་སྲོང་ཞིག་གནས་སོ།
 # །
-msgctxt "line 397, 13.txt"
+msgctxt "808d1a96d57b48a1a45144bdb4698a2d"
 msgid ""
 "དེ་ནས་ དེ␣འི་ ཚེ་ རི་ཁྲོད་ དེ་ནས་ ཐག་ མི་ རིང་བ་ ཞིག་ ན་ དཀའ་ཐུབ་ ཀྱི་ གནས་ "
 "ཤིག་ གི་ ནང་ ན་ དྲང་སྲོང་ ཞིག་ གནས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 398, 13.txt"
+msgctxt "cc972d5be6914dc1847eb7606c361d12"
 msgid "དེ␣འི་ ཚེ་ མི་ དེ␣ས་ དྲང་སྲོང་ དེ་ ཡིད་ ལ་ དྲན་ ནས་"
 msgstr ""
 
-msgctxt "line 399, 13.txt"
+msgctxt "006a12a5c5044eeaaa7a5db68ba2dbe7"
 msgid "དེ␣ས་ དད་པ␣འི་ སེམས་ ཀྱིས་ དྲང་སྲོང་ དེ་ ལ་ གསོལ་བ་ བཏབ་པ །"
 msgstr ""
 
 # བཅོམ་ལྡན་འདས་ནི་མི་གཟིགས་པ་དང་། མི་མཁྱེན་པ་དང་།
 # ཐུགས་སུ་<«གཡུང་»–སུ།>མི་ཆུད་པ་ཅི་ཡང་མི་མངའ་ན་
-msgctxt "line 400, 13.txt"
+msgctxt "a17e11e7dd0a49e9a469484169b3c94c"
 msgid ""
 "བཅོམ་ལྡན་འདས་ ནི་ མི་ གཟིགས་པ་ དང་ །  མི་ མཁྱེན་པ་ དང་ །  ཐུགས་ སུ་ མི་ "
 "ཆུད་པ་ ཅི་ཡང་ མི་ མངའ་ ན་"
 msgstr ""
 
-msgctxt "line 401, 13.txt"
+msgctxt "7e25cb2fff1d47baa82848feedea157b"
 msgid "ཀྱེ་མ་"
 msgstr ""
 
-msgctxt "line 402, 13.txt"
+msgctxt "a30fed31f73f4388bc8a55295d4282b6"
 msgid "བདག་ ལ་ སྲོག་ ཕངས་པ་ སྩལ་ དུ་ གསོལ །"
 msgstr ""
 
-msgctxt "line 403, 13.txt"
+msgctxt "2223a42ab0444eaaafba257fabc90638"
 msgid "དཀའ་བ་ སྐུ་ཉམས་ སུ་ བཞེས་པ␣ར་ གསོལ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 404, 13.txt"
+msgctxt "4dd21985d5ba4b009965098636a6b597"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
 # དེ་ནས་དྲང་སྲོང་དེ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–ལ།>དགའ་བའི་ལྷ་ཞིག་གིས་མི་དེའི་བསམ་པ་སེམས་ཀྱིས་ཤེས་ནས་
-msgctxt "line 405, 13.txt"
+msgctxt "e806ff35815b459e8bdb8a81d1907e49"
 msgid ""
 "དེ་ནས་ དྲང་སྲོང་ དེ་ ལ་ དགའ་བ␣འི་ ལྷ་ ཞིག་ གིས་ མི་ དེ␣འི་ བསམ་པ་ སེམས་ "
 "ཀྱིས་ ཤེས་ ནས་"
 msgstr ""
 
-msgctxt "line 406, 13.txt"
+msgctxt "4a279d136328458e8881d9d79265760f"
 msgid "དྲང་སྲོང་ དེ་ ལ་ སྦྲན་ ཏོ ། །"
 msgstr ""
 
 # དེ་ནས་དྲང་སྲོང་གིས་ཐོས་མ་ཐག་ཏུ་རང་གི་དཀའ་ཐུབ་ཀྱི་གནས་ནས་མི་སྣང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གནང་།>བར་གྱུར་ཏེ།
-msgctxt "line 407, 13.txt"
+msgctxt "88c700ab01ae4437acd7394444d3ec6f"
 msgid ""
 "དེ་ནས་ དྲང་སྲོང་ གིས་ ཐོས་ མ་ ཐག་ ཏུ་ རང་ གི་ དཀའ་ཐུབ་ ཀྱི་ གནས་ ནས་ "
 "མི་སྣང་བ␣ར་ གྱུར་ ཏེ །"
 msgstr ""
 
 # མི་རྒོད་དེ་དག་གི་མདུན་<«གཡུང་»«ལི་»«ཅོ་»འདུན།>དུ་འོངས་ནས་
-msgctxt "line 408, 13.txt"
+msgctxt "3baf5ab24bae411e8d0e44c3bcb43ed5"
 msgid "མི་རྒོད་ དེ་དག་ གི་ མདུན་ དུ་ འོངས་ ནས་"
 msgstr ""
 
-msgctxt "line 409, 13.txt"
+msgctxt "fe6169c1d51947b4962dd4aa9a6cfdac"
 msgid "མི་རྒོད་ དེ་དག་ གིས་ དྲང་སྲོང་ དེ་ མཐོང་ ངོ་ ། །"
 msgstr ""
 
-msgctxt "line 410, 13.txt"
+msgctxt "6497891e8518418cb4cd75b56d9b8487"
 msgid "མཐོང་ ནས་ ཀྱང་"
 msgstr ""
 
-msgctxt "line 411, 13.txt"
+msgctxt "ddf2ada2eb074f55b34afcdaf7e89b90"
 msgid "དེ་དག་ མཆོག་ ཏུ་ དགའ་བ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
 
-msgctxt "line 412, 13.txt"
+msgctxt "3bc2da65511a4263bcb2f3b2b1e68f6b"
 msgid "དགའ་བ␣ར་ གྱུར་ ནས་"
 msgstr ""
 
-msgctxt "line 413, 13.txt"
+msgctxt "2ed12ef65f914939a59de7d3b30c9477"
 msgid "དྲང་སྲོང་ བཀའ་ ཅི་ སྩལ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 414, 13.txt"
+msgctxt "010ac620b2b84fb8ac7de59ce552f796"
 msgid "བྱས་ སོ ། །"
 msgstr ""
 
-msgctxt "line 415, 13.txt"
+msgctxt "5f71531bec784c44a1f055a661c245f1"
 msgid "དྲང་སྲོང་ གིས་ སྨྲས་པ །"
 msgstr ""
 
-msgctxt "line 416, 13.txt"
+msgctxt "f04d591f06db4436a04ffa73fe041f9a"
 msgid "མི་ འདི་ ཐོང་ ལ་"
 msgstr ""
 
-msgctxt "line 417, 13.txt"
+msgctxt "9d61a64965dc40bc8553a48f2e3b9334"
 msgid "ང␣འི་ མདུན་ དུ་ འཁོད་ ཅིག་ དང་"
 msgstr ""
 
-msgctxt "line 418, 13.txt"
+msgctxt "3638f0d23ad34ababf06e923ba6726b7"
 msgid "ཁྱོད་ ལ་ ཆོས་ བཤད་ དོ ། །"
 msgstr ""
 
-msgctxt "line 419, 13.txt"
+msgctxt "fe72b15c22f848e5a131b0cc2c31bfb4"
 msgid "དེ་ནས་ དྲང་སྲོང་ གིས་ བཀའ་ སྩལ་པ་ བཞིན་ དུ་ འཚལ་ ལོ་ ཞེས་"
 msgstr ""
 
-msgctxt "line 420, 13.txt"
+msgctxt "674a614c42064b239aa13a25db84ec4f"
 msgid "སྨྲ␣ས་ ནས །"
 msgstr ""
 
-msgctxt "line 421, 13.txt"
+msgctxt "b63729257f2f40828928c6ffa814d035"
 msgid "མི་རྒོད་ དེ་དག་ གིས་ མི་ དེ་ བཏང་ སྟེ །"
 msgstr ""
 
-msgctxt "line 422, 13.txt"
+msgctxt "f9a0a82f9be24c7ab3f38edd178b18f1"
 msgid "དྲང་སྲོང་ དེ␣འི་ རྐང་པ་ ལ་ ཕྱག་ འཚལ་ ནས་"
 msgstr ""
 
-msgctxt "line 423, 13.txt"
+msgctxt "97ee05df6b6840a9a907dfa3b4887680"
 msgid "ཆོས་ མཉན་པ␣འི་ ཕྱིར་ མདུན་ དུ་ འཁོད་ དོ ། །"
 msgstr ""
 
-msgctxt "line 424, 13.txt"
+msgctxt "3cc4cd560ed347efa3d4cbe1862becc8"
 msgid "དེ་ནས་ དྲང་སྲོང་ དེ␣ས་ དེ་དག་ ལ་ ཆོས་ དེ་ལྟ་ བུ་ བསྟན་ ཏེ་"
 msgstr ""
 
 # དེས་ན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ན།>མི་དེ་དང་མི་རྒོད་ལྔ་བརྒྱ་དྲང་སྲོང་དེ་ཉིད་ཀྱི་ཐད་དུ་རབ་ཏུ་བྱུང་ནས།
-msgctxt "line 425, 13.txt"
+msgctxt "c334dd52b98b40f6b9c417867f86cc43"
 msgid ""
 "དེས་ན་ མི་ དེ་ དང་ མི་རྒོད་ ལྔ་ བརྒྱ་ དྲང་སྲོང་ དེ་ཉིད་ ཀྱི་ ཐད་ དུ་ རབ་ཏུ་ "
 "བྱུང་ ནས །"
 msgstr ""
 
 # བསམ་<«གཡུང་»བསམས།>གཏན་བཞི་དང་མངོན་པར་ཤེས་པ་ལྔ་བསྐྱེད་དོ། །
-msgctxt "line 426, 13.txt"
+msgctxt "abe6928570584701b20c841f8b0a00e7"
 msgid "བསམ་གཏན་ བཞི་ དང་ མངོན་པར་ ཤེས་པ་ ལྔ་ བསྐྱེད་ དོ ། །"
 msgstr ""
 
-msgctxt "line 427, 13.txt"
+msgctxt "14b46ec800604408bce9d40d65018a47"
 msgid "དགེ་སློང་ དག་"
 msgstr ""
 
-# ཇི་<«གཡུང་»«པེ་»འདི།>སྙམ་དུ་སེམས། 
-msgctxt "line 428, 13.txt"
+# ཇི་<«གཡུང་»«པེ་»འདི།>སྙམ་དུ་སེམས།
+msgctxt "9651343abab94106b844a6d3fbfe2b2e"
 msgid "ཇི་སྙམ་ དུ་ སེམས །"
 msgstr ""
 
-msgctxt "line 429, 13.txt"
+msgctxt "26779088064049db80156c96dd83160e"
 msgid ""
 "དེ␣འི་ ཚེ་ དྲང་སྲོང་ དུ་ གྱུར་པ་ བྱང་ཆུབ་ སེམས་དཔ␣འི་ སྤྱོད་པ་ ལ་ གནས་པ␣ར་ "
 "གྱུར་པ་ གང་ཡིན་པ་ དེ་ ནི་ ང་ ཡིན་ ནོ ། །"
 msgstr ""
 
-msgctxt "line 430, 13.txt"
+msgctxt "162c5fc6838749978fcbd7e69089cd96"
 msgid "དེ␣འི་ ཚེ་ མི་གང་ ཡིན་པ་ དེ་ ནི་ འཕྱེ་བོ་ འདི་ཉིད་ ཡིན་ ནོ ། །"
 msgstr ""
 
-msgctxt "line 431, 13.txt"
+msgctxt "976de465dcc9433e8e6e0096bec2ca99"
 msgid ""
 "མི་རྒོད་ ལྔ་ བརྒྱ␣ར་ གྱུར་པ་ གང་ཡིན་པ་ དེ་དག་ ནི་ མི་རྒོད་ ལྔ་ བརྒྱ་པོ་ "
 "འདི་དག་ ཉིད་ ཡིན་ ཏེ །"
 msgstr ""
 
 # དེའི་ཚེ་འདི་རྣམས་ཀྱིས་མི་དེ་ལས་<«གཡུང་»«པེ་»«ཞོལ་»ལ།>བརྟེན་ནས་
-msgctxt "line 432, 13.txt"
+msgctxt "4c0f6e8f327c44fcac25a254ed11849e"
 msgid "དེ␣འི་ ཚེ་ འདི་ རྣམས་ ཀྱིས་ མི་ དེ་ལས་ བརྟེན་ ནས་"
 msgstr ""
 
-msgctxt "line 433, 13.txt"
+msgctxt "2322217fb01f4f62a75b7d5c3661000e"
 msgid "རབ་ཏུ་ བྱུང་ སྟེ་"
 msgstr ""
 
-msgctxt "line 434, 13.txt"
+msgctxt "bc89834832d3412c8073b9bc968fcb17"
 msgid "བསམ་གཏན་ བཞི་ དང་ མངོན་པར་ ཤེས་པ་ ལྔ་ བསྐྱེད་ དོ ། །"
 msgstr ""
 
-msgctxt "line 435, 13.txt"
+msgctxt "0cfe19ed9b944daa9644bb7659292ba8"
 msgid "ད་ལྟར་ ཡང་ འཕྱེ་བོ་ འདི་ཉིད་ ལ་ བརྟེན་ ནས་"
 msgstr ""
 
 # རབ་ཏུ་བྱུང་སྟེ་<«ཁུ་»ཏེ།>
-msgctxt "line 436, 13.txt"
+msgctxt "b4086b3a411c469ca6856beb01296d5b"
 msgid "རབ་ཏུ་ བྱུང་ སྟེ་"
 msgstr ""
 
-msgctxt "line 437, 13.txt"
+msgctxt "3b9635c60ff648098e3c30352a664d9b"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ །"
 msgstr ""
 
-msgctxt "line 438, 13.txt"
+msgctxt "278beacba7e54347b6dc28d55f8b680d"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
 msgstr ""
 
 # ལས་བརྒྱ་པ་ལས་སྡོམ་གྱི་ཚིགས་སུ་བཅད་<«ཅོ་»བཅུད།>པ་དང་པོ་རྫོགས་སོ<«གཡུང་»«ལི་»«པེ་»«ཅོ་»སྷོ།>།།
 # །།
-msgctxt "line 439, 13.txt"
+msgctxt "ff96343b24ba4b41aaccbb171741dfb3"
 msgid "ལ␣ས་ བརྒྱ་པ་ ལ␣ས་ སྡོམ་ གྱི་ ཚིགས་ སུ་ བཅད་པ་ དང་པོ་ རྫོགས་ སོ །། །།"
 msgstr ""
