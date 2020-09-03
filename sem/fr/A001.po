@@ -12,15 +12,10 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-# ﻿[182b]གྲོག་མ་
-msgctxt "line 1a, A001.txt"
-msgid "﻿གྲོག་མ་"
-msgstr "La deuxième [histoire des]"
-
-# ﻿གཉིས་པ་<«གཡུང་»མ།>ནི།
-msgctxt "line 1b, A001.txt"
-msgid "གཉིས་པ་ ནི །"
-msgstr "fourmis"
+# ﻿[182b]གྲོག་མ་ ﻿གཉིས་པ་<«གཡུང་»མ།>ནི།
+msgctxt "line 1, A001.txt"
+msgid "﻿གྲོག་མ་ གཉིས་པ་ ནི །"
+msgstr "La deuxième [histoire des] fourmis"
 
 msgctxt "line 2, A001.txt"
 msgid "གླེང་ གཞི་ མཉན་ དུ་ཡོད་པ་ ན་ བཞུགས་ ཏེ །"
