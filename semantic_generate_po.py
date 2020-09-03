@@ -88,10 +88,13 @@ class Transfer:
     def generate_entries(self, dump, po_file):
         if po_file.is_file():
             dump = self.extract_entries(dump, po_file)
+
         updated = self.add_missing_uuids(dump)
+
         entries = []
         for line in updated.strip().split('\n'):
             line = line.strip()
+            line = self.remove_extra_uuid(line)
             txt, ctxt = line[:-1].split('—')
             entries.append([txt, ctxt])
         return entries
@@ -103,7 +106,7 @@ class Transfer:
             if p.tcomment:
                 line = p.tcomment
             else:
-                line = p.msgid.replace(' ', '').replace('–', ' ')
+                line = p.msgid.replace(' ', '').replace(' ', ' ')
             po_entries.append([line, p.msgctxt])
         po_dump = '\n'.join([''.join((a, f'—{b}—')) for a, b in po_entries])
         pattern = [['uuid', '(—.+?—)']]
@@ -117,6 +120,16 @@ class Transfer:
             if not l.endswith('—'):
                 lines[num] = l + f'—{self.get_unique_id()}—'
         return '\n'.join(lines)
+
+    @staticmethod
+    def remove_extra_uuid(line):
+        if line.count('—') > 2:
+            idx1 = line.find('—')
+            idx2 = line.find('—', idx1+1)
+            return (line[:idx1] + line[idx2+1:]).strip()
+
+        else:
+            return line
 
     def get_unique_id(self):
         return uuid4().hex
