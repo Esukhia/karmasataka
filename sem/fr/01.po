@@ -1579,7 +1579,7 @@ msgid ""
 "གདགས་པ␣ར་ བྱ་ གོར་མ་ཆག་ སྙམ་ དུ་"
 msgstr ""
 "Toutes ces choses nécessaires (lit. à obtenir) que j'obtiens comme dons et "
-"comme marques de respect, je l'emploierai assurément (lit. sans doute) au "
+"comme marques de respect, je les emploierai assurément (lit. sans doute) au "
 "bénéfice (lit. faire le bien) de ceux qui vivent une vie chaste (lit. suivre"
 " le brahmacarya)."
 
