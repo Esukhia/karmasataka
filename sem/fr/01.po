@@ -1343,7 +1343,8 @@ msgstr ""
 # ཐོས་མ་ཐག་ཏུ་<«གཡུང་»«ལི་»«པེ་»དུ།>དེ་དག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་དྲིས་པ།
 msgctxt "b107de1da93b4b0a967938555477b3af"
 msgid "ཐོས་ མ་ ཐག་ ཏུ་ དེ་དག་ གིས་ ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི␣འི་ བུ་ ལ་ དྲིས་པ །"
-msgstr "après l'avoir entendu, ils demandèrent à l'honorable Śāriputra : «"
+msgstr ""
+"dès qu'ils l'eurent entendu, ils demandèrent à l'honorable Śāriputra : «"
 
 msgctxt "481f84d7c94848e18f6500a95e310318"
 msgid "ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི␣འི་ བུ་"
