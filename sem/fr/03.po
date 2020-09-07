@@ -1608,7 +1608,7 @@ msgstr "dirent : «"
 # དགེ་སློང་འདི་ཡི་<«ཞོལ་»འདིའི།>སྐུ་གདུང་གི་མཆོད་པ་བདག་ཅག་བགྱིད་ཀྱིས<«ཞོལ་»ཀྱི།>།
 msgctxt "768599ae25f240f2af245b6bbfa03ea3"
 msgid "དགེ་སློང་ འདི་ ཡི་ སྐུ་གདུང་ གི་ མཆོད་པ་ བདག་ཅག་ བགྱིད་ ཀྱིས །"
-msgstr "Nous ferons les offrandes au corps de ce moine."
+msgstr "Nous ferons les offrandes aux reliques corporelles de ce moine."
 
 msgctxt "d3e03522841347a68d752553529d50ac"
 msgid "བཅོམ་ལྡན་འདས་ འོ་བརྒྱལ་ མི་ འཚལ་ ལོ ། །"
