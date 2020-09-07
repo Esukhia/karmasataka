@@ -56,5 +56,7 @@ if __name__ == '__main__':
     folder = 'fr/sem_pars'
     for file in Path(folder).glob('*.txt'):
         print(file)
+        if not file.stem == '01':
+            continue
         po = Po()
         po.txt_to_po(file)

@@ -5,7 +5,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# ﻿[182b]གྲོག་མ་ ﻿གཉིས་པ་<«གཡུང་»མ།>ནི།
+# ﻿[182b]གྲོག་མ་གཉིས་པ་<«གཡུང་»མ།>ནི།
 msgctxt "line 1, A001.txt"
 msgid "La deuxième [histoire des] fourmis"
 msgstr ""
