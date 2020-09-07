@@ -21,9 +21,7 @@ msgstr "En sanskrit : Karmaśataka"
 # བོད་སྐད་དུ། ལས་བརྒྱ་ཐམ་པ་པ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ།>།
 msgctxt "7d64506ac00d4af0bb93cd15140a605a"
 msgid "བོད་སྐད་ དུ །  ལ␣ས་ བརྒྱ་ ཐམ་པ་པ །"
-msgstr ""
-"En tibétain : lé gya thampa pa\n"
-"En français : les cent karmas."
+msgstr "En tibétain : lé gya thampa pa En français : les cent karmas."
 
 msgctxt "71d5636bcfda4c18bdc633519ea1ab34"
 msgid "བམ་པོ་ དང་པོ །"
