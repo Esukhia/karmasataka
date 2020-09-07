@@ -1681,7 +1681,9 @@ msgstr "les insérèrent dans un vase et"
 # ས་ཕྱོགས་དེ་ཉིད་དུ་སྐུ་གདུང་གི་མཆོད་རྟེན་བརྩིགས་<«གཡུང་»«པེ་»ཅིགག>ནས།
 msgctxt "0def22651d8c4dbbb4df49687ca6592c"
 msgid "ས་ཕྱོགས་ དེ་ཉིད་ དུ་ སྐུ་གདུང་ གི་ མཆོད་རྟེན་ བརྩིགས་ ནས །"
-msgstr "construisirent un stūpa pour les restes à cet endroit-même. Puis,"
+msgstr ""
+"construisirent un stūpa pour les reliques corporelles à cet endroit-même. "
+"Puis,"
 
 msgctxt "ca4858ee54a34a099378eb5ecdd360c7"
 msgid "མཆོད་རྟེན་ དེ་ ལ་ མཆོད་པ་ ཆེན་པོ་ བྱས་ ཏེ་"
