@@ -1209,8 +1209,12 @@ msgctxt "30f7da309e5f4958b44fcdb3eb40fe22"
 msgid "བདག་ ལ་ སྡུག་བསྔལ་ འདི་ ལྟ་བུ་ ཅི་ དགོས་ ཀྱིས །"
 msgstr ""
 
+msgctxt "91ff49bf71874be0ae84fc5148f90990"
+msgid "མ་ལ་"
+msgstr ""
+
 msgctxt "32cf037ff8f74106b246ae9a3dea2ceb"
-msgid "མ་ལ་ བདག་ ཞི་བ␣འི་ དབྱིངས་ སུ་ འཇུག་པ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
+msgid "བདག་ ཞི་བ␣འི་ དབྱིངས་ སུ་ འཇུག་པ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
 msgstr ""
 
 msgctxt "f5f9a094e90c4cfa8281fd487e3e08c5"
