@@ -1545,8 +1545,8 @@ msgstr "L'ayant compris,"
 msgctxt "0130ba21c1724e32bda22367125f5c1c"
 msgid "དེ␣ས་ ཀྱང་ དེ␣འི་ སྔོན་ གྱི་ གནས་ རྗེས་སུ་ དྲན་པ␣ར་ བྱས་ ཏེ་"
 msgstr ""
-"elle aussi, regarda (lit. se souvenir) les vies (lit. conditions) "
-"précédentes du moine (lit. de lui) et"
+"elle aussi se souvint des vies (lit. conditions) précédentes du moine (lit. "
+"de lui) et"
 
 # འཁོར་ལྔ་བརྒྱ་དང་ཁྱིམ་བདག་<«གཡུང་»«པེ་»དག>དེའི་ཁྱིམ་ག་ལ་བ་དེར་དོང་ངོ་། །
 msgctxt "75442f14a83f491bad269d5b5e57f59a"
