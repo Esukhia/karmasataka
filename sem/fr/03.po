@@ -1463,8 +1463,7 @@ msgstr "le lui racontèrent."
 
 msgctxt "91881f95e2a441aca44082b38705aa46"
 msgid "དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ མ་ འགགས་པ␣ས་ དྲན་པ␣ར་ བྱས་ ཏེ །"
-msgstr ""
-"Ensuite, l'honorable Aniruddha fit en sorte de savoir (lit. s'en souvint)"
+msgstr "Ensuite, l'honorable Aniruddha fit en sorte de se souvenir "
 
 # བསམས་<«སྣར་»བསམ་པ།>ན་
 msgctxt "872826e8cd464a25acd4730040d594dc"
