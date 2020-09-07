@@ -1,5 +1,6 @@
 from pathlib import Path
 import re
+import sys
 from uuid import uuid4
 import polib
 from antx import transfer
@@ -137,7 +138,7 @@ class Transfer:
 
 if __name__ == '__main__':
     folder = 'sem/bo/'
-    idx = 0
+    idx = int(sys.argv[1]) if len(sys.argv) > 1 else 0
     files = sorted(list(Path(folder).glob('*.txt')))
     to_loop = files[idx-1:idx] if idx > 0 else files
     for file in to_loop:

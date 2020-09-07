@@ -1031,8 +1031,12 @@ msgctxt "46af14b140ea4c1680353810ccdaf673"
 msgid "སྨྲས་པ །"
 msgstr ""
 
+msgctxt "0b06d4a5efcb4c2a987eb166e038bbc5"
+msgid "འཕགས་པ་"
+msgstr ""
+
 msgctxt "bdd270f4701040828e7771c7e4b9aa1f"
-msgid "འཕགས་པ་ མཁྱེན་པ␣ར་ མཛད་ དུ་ གསོལ །"
+msgid "མཁྱེན་པ␣ར་ མཛད་ དུ་ གསོལ །"
 msgstr ""
 
 msgctxt "70f6c2992dbc46648ce296921e9bc529"
