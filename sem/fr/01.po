@@ -72,8 +72,9 @@ msgid ""
 "སྤྱི་ སྡོམ་ ནི །  ཁྱི་ མོ་ དང་ ནི་ ཤིང་རྟ་ དང་ ། ། ཀ་ ཙང་ ཀ་ལ་ བྱམས་ མི་ "
 "སྡུག  །  བྱ་ དང་ འཕྱེ་བོ་ གང་པོ་ དང་ ། ། བུ་ རྣམས་ དང་ ནི་ བརྒྱ་བྱིན་ ནོ ། །"
 msgstr ""
-"La structure générale (lit. le sommaire général) : La chienne, Kacaṅkalā, "
-"Maitrībala, Virūpa, L'oiseau, Le Cul-de-jatte, Pūrṇa, Les fils et Śakra."
+"La structure générale (lit. le sommaire général) : La chienne, le Chariot, "
+"Kacaṅkalā, Maitrībala, Virūpa, L'oiseau, Le Cul-de-jatte, Pūrṇa, Les fils et"
+" Śakra."
 
 # སྡོམ་ནི། ཁྱི་མོ་མིག་ཆུང་<«གཡུང་»«པེ་»ཅུང་།>རྫོགས་བྱེད་དང་།
 # །སྒུར་གཉིས་འཆར་ཀ་རྒྱལ་མཚན་<«གཡུང་»«པེ་»འཚན།>དང་།
