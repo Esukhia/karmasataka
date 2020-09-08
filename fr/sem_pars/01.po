@@ -7,11 +7,16 @@ msgstr ""
 
 # [1b]<མཚན་བྱང་འདི་ཆོས་ཚན་འདིའི་མཚན་བོད་སྐད་དུ་སྨོས་པ་ལྟར་བཀོད།>༄༅༅།
 # །རྒྱ་གར་སྐད་དུ། ཀརྨ་ཤ་ཏ་ཀ། བོད་སྐད་དུ།
-# ལས་བརྒྱ་ཐམ་པ་པ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ།>། བམ་པོ་དང་པོ།
+# ལས་བརྒྱ་ཐམ་པ་པ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ།>།
 msgctxt "line 1, 01.txt"
 msgid ""
 "En sanskrit : Karmaśataka En tibétain : lé gya thampa pa En français : les "
-"cent karmas. Premier feuillet"
+"cent karmas."
+msgstr ""
+
+# བམ་པོ་དང་པོ།
+msgctxt "line 2, 01.txt"
+msgid "Premier feuillet"
 msgstr ""
 
 # ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །
@@ -23,7 +28,7 @@ msgstr ""
 # «ཅོ་»མཐོམས་ཞིང་།>འཁྲུགས་པ་རྣམས་ལ་རབ་གསུངས་པ།
 # །དེ་ཡི་<«གཡུང་»«པེ་»དེའི།>མིང་ནི་ལས་རྣམ་<«གཡུང་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»རྣམས།>བརྒྱ་པ་ཞེས་བྱ་
 # ཡོངས་སུ་ཚང་བ་བདག་གིས་བཤད་ཀྱིས་<«ཞོལ་»ཀྱི།> ཉོན། །
-msgctxt "line 2, 01.txt"
+msgctxt "line 3, 01.txt"
 msgid ""
 "Hommage à l'Omniscient ! « Les Cent Karmas » est le nom de ce que "
 "l'Insurpassable dans ce monde a parfaitement exposé aux êtres par des "
@@ -38,21 +43,26 @@ msgstr ""
 # སྤྱི་སྡོམ་ནི། ཁྱི་མོ་དང་ནི་ཤིང་རྟ་དང་།
 # །ཀ་ཙང་<«གཡུང་»«པེ་»ཅང་།>ཀ་ལ་བྱམས་མི་སྡུག །
 # བྱ་དང་འཕྱེ་བོ་<«གཡུང་»«པེ་»འོ།>གང་པོ་དང་། །བུ་རྣམས་དང་ནི་བརྒྱ་བྱིན་ནོ། །
+msgctxt "line 4, 01.txt"
+msgid ""
+"La structure générale (lit. le sommaire général) : La chienne, le Chariot, "
+"Kacaṅkalā, Maitrībala, Virūpa, L'oiseau, Le Cul-de-jatte, Pūrṇa, Les fils et"
+" Śakra."
+msgstr ""
+
 # སྡོམ་ནི། ཁྱི་མོ་མིག་ཆུང་<«གཡུང་»«པེ་»ཅུང་།>རྫོགས་བྱེད་དང་།
 # །སྒུར་གཉིས་འཆར་ཀ་རྒྱལ་མཚན་<«གཡུང་»«པེ་»འཚན།>དང་།
 # །བདེ་བྱེད་མ་དང་ནོར་བུའི་འོད། །སྣ་མའི་མེ་ཏོག་ང་<«པེ་»དེ།>བྱིན་དང་།
 # །འདུས་མོ་དང་ནི་ཚེམ་བུ་མཁན། །
-msgctxt "line 3, 01.txt"
+msgctxt "line 5, 01.txt"
 msgid ""
-"La structure générale (lit. le sommaire général) : La chienne, Kacaṅkalā, "
-"Maitrībala, Virūpa, L'oiseau, Le Cul-de-jatte, Pūrṇa, Les fils et Śakra. La "
-"structure [de cette partie] : La Chienne, Petits-Yeux, Pūraṇa, les deux "
-"[histoires] du Bossu, Udayin, La Bannière de victoire, Maṇiprabha, Fleur-de-"
-"Jasmin, « Donne-le-moi », Celle-de-l'Assemblée et Le Couturier."
+"La structure [de cette partie] : La Chienne, Petits-Yeux, Pūraṇa, les deux "
+"[histoires] du Bossu, Udayin, La Bannière de victoire, Kṣemā, Maṇiprabha, "
+"Fleur-de-Jasmin, « Donne-le-moi », Celle-de-l'Assemblée et Le Couturier."
 msgstr ""
 
 # ཁྱི་མོ་ཞེས་བྱ་བ་ནི།
-msgctxt "line 4, 01.txt"
+msgctxt "line 6, 01.txt"
 msgid "L'histoire de la chienne"
 msgstr ""
 
@@ -61,7 +71,7 @@ msgstr ""
 # ཁྱིམ་བདག་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ་ཡོངས་སུ་འཛིན་པ་ཡངས་ཤིང་རྒྱ་ཆེ་བ།
 # རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་ལྡན་པ། རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་འགྲན་པ་ཞིག་གནས་ཏེ།
 # མུ་སྟེགས་ཅན་ལ་དགའོ། །
-msgctxt "line 5, 01.txt"
+msgctxt "line 7, 01.txt"
 msgid ""
 "Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī. "
 "À cette époque, dans la ville de Śrāvastī, vivait un homme riche qui "
@@ -83,7 +93,7 @@ msgstr ""
 # དེ་ནས་དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས། རིགས་དང་འཐུན་<«སྣར་»«ཞོལ་»མཐུན།
 # པོད་འདིའི་ནང་དུ་རིགས་དང་འཐུན་དང་མི་འཐུན་སོགས་ཀྱི་འཐུན་ཞེས་པ་རྣམས་༼སྣར་༽༼ཅོ་༽༼ཞོལ་༽ལ་མཐུན་དང་༼གཡུང་༽༼ལི་༽༼པེ་༽ལ་སྐབས་འགར་མཐུན་ཞེས་འཁོད་ཀྱང་གཤམ་དུ་བསྡུར་མཆན་དུ་བཀོད་མེད།>པར་མིང་བཏགས་<«གཡུང་»མི་བརྟགས།
 # «པེ་»མི་མིང་བཏགས།>ཏེ།
-msgctxt "line 6, 01.txt"
+msgctxt "line 8, 01.txt"
 msgid ""
 "Ensuite, arrivé à (lit. tombé à) l'âge de se marier (lit. d'une épouse), il "
 "prit une épouse et avec elle, ils se séduisirent (lit. jouèrent), ils "
@@ -115,7 +125,7 @@ msgstr ""
 # ལྕེས་རྐང་པ་ལ་བལྡགས་<«གཡུང་»བསྔགས།>ཏེ། མཇུག་<«གཡུང་»འཇུག>མ་དྲིལ་ནས་
 # གཡས་ཕྱོགས་སུ་སྐོར་བ་<«ལི་»«པེ་»«སྣར་»«ཅོ་»སྐོར་བར། «ཞོལ་»བསྐོར་བར།>བྱེད་དོ།
 # །
-msgctxt "line 7, 01.txt"
+msgctxt "line 9, 01.txt"
 msgid ""
 "il se développa au fil du temps grâce à du lait, du yaourt, du beurre, du "
 "beurre purifié (lit. fondu) et du beurre sur-purifié (lit. l'essence du "
@@ -141,7 +151,7 @@ msgstr ""
 # «ཞོལ་»སྒྲོག>པ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
 # ཉིན་མཚན་དུས་དྲུག་ཏུ།
 # སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པ་ནི།>།
-msgctxt "line 8, 01.txt"
+msgctxt "line 10, 01.txt"
 msgid ""
 "Les Bienheureux Bouddhas montrent l'unique voie à parcourir ; ils possèdent "
 "(lit. obtenu la possession de) les deux aspects de la connaissance et la "
@@ -174,7 +184,7 @@ msgstr ""
 # ཡེ་ཤེས་ཀྱི་མཚོན་གྱིས་བརྟོལ་བར་བྱ།
 # སུ་ལ་ནི་སངས་རྒྱས་བྱུང་བས་བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་སྙམ་དུ་
 # ཡེ་ཤེས་གཟིགས་པ་འཇུག་གོ། །
-msgctxt "line 9, 01.txt"
+msgctxt "line 11, 01.txt"
 msgid ""
 "« Qui décline ? Qui prospère (lit. s'étendre)? Qui est dans la misère ? Qui "
 "vit dans la peur ? Qui est accablé (lit. être sujet à un mal) ? Qui est dans"
@@ -198,7 +208,7 @@ msgstr ""
 
 # རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས། །དུས་རླབས་<«གཡུང་»བསླབས།>ཡོལ་བར་འགྱུར་ཡང་སྲིད།
 # ། གདུལ་བར་བྱ་བའི་སྲས་རྣམས་ལ། །སངས་རྒྱས་དུས་ལས་ཡོལ་བ་མེད། །
-msgctxt "line 10, 01.txt"
+msgctxt "line 12, 01.txt"
 msgid ""
 "[Dans] l'océan, où vivent les makaras, il est envisageable (lit. il est "
 "éventuellement possible que) que les marées [toujours régulières] arrivent "
@@ -215,7 +225,7 @@ msgstr ""
 # ཁྱིམ་བདག་འཁོར་དང་བཅས་པ་གདུལ་བའི་དུས་ལ་བབ་པར་མཐོང་ནས།
 # སྔ་དྲོ་ཤམ་ཐབས་དང་ཆོས་གོས་བགོས་ཏེ། ལྷུང་བཟེད་ཐོགས་ནས་
 # མཉན་དུ་ཡོད་པར་བསོད་སྙོམས་ལ་སོང་ངོ་། །
-msgctxt "line 11, 01.txt"
+msgctxt "line 13, 01.txt"
 msgid ""
 "De même que les Bienheureux Bouddhas regardent le monde avec les yeux de "
 "bouddha pendant les six périodes de la journée, les trois du jour et les "
@@ -247,7 +257,7 @@ msgstr ""
 # པོད་འདིའི་ནང་དུ་ཕྱག་འཚལ་ཞེས་པ་རྣམས་༼སྣར་༽༼ཞོལ་༽ལ་ཕྱག་བཙལ་ཞེས་འཁོད་ཀྱང་གཤམ་དུ་བསྡུར་མཆན་དུ་བཀོད་མེད།>ཏེ།
 # འདི་སྐད་ཅེས་སྨྲས་སོ། ། བཙུན་པ་ཤཱ་རིའི་བུ་ འོ་ན་
 # འདི་ཉིད་དུ་བཤོས་གསོལ་དུ་ཅི་གནང་ཞེས་ བྱས་ནས།
-msgctxt "line 12, 01.txt"
+msgctxt "line 14, 01.txt"
 msgid ""
 "Faisant progressivement l'aumône,  il se rendit à l'endroit de la maison de "
 "ce père de famille et à ce moment, la chienne vit au loin l'honorable "
@@ -272,7 +282,7 @@ msgstr ""
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་སྟན་བཤམས་ཏེ་ འདི་སྐད་ཅེས་སྨྲས་སོ། །
 # བཙུན་པ་ཤཱ་རིའི་བུ་ གདན་<«པེ་»+ལ།>བཤམས་པ་ལ་བཞུགས་སུ་གསོལ།
 # དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སྟན་<«གཡུང་»«པེ་»བསྟན།>བཤམས་པ་ལ་འདུག་གོ། །
-msgctxt "line 13, 01.txt"
+msgctxt "line 15, 01.txt"
 msgid ""
 "l'honorable Śāriputra accepta en ne disant rien au père de famille. Alors, "
 "le père de famille vit que l'honorable Śāriputra avait accepté en ne lui "
@@ -287,7 +297,7 @@ msgstr ""
 # རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོ་རྣམ་གྲངས་དུ་མས་ཚིམ་པར་བྱས་ཏེ།
 # ཅི་འདོད་པ་བསྟབས་པའི་འོག་ཏུ་སྡེར་ནི་གྱུ<«ཅོ་»གྱུར།>།ལྷུང་བཟེད་ནི་བཀྲུས་<«ཁུ་»དཀྲུས།>པར་རིག་ནས།
 # ཆོས་མཉན་པའི་ཕྱིར་མདུན་དུ་འདུག་གོ། །
-msgctxt "line 14, 01.txt"
+msgctxt "line 16, 01.txt"
 msgid ""
 "Alors, le père de famille vit que l'honorable Śāriputra était "
 "confortablement assis et il le satisfit de nombreux mets et condiments purs "
@@ -308,7 +318,7 @@ msgstr ""
 # ཡང་དག་པར་འཛིན་དུ་བཅུག<«གཡུང་»«པེ་»+པ།> ། ཡང་དག་པར་གཟེངས་བསྟོད།
 # ཡང་དག་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པར།>དགའ་བར་བྱས་ནས་
 # སྟན་<«གཡུང་»«པེ་»བསྟན།>ལས་ལངས་ཏེ་ སོང་ངོ་། །
-msgctxt "line 15, 01.txt"
+msgctxt "line 17, 01.txt"
 msgid ""
 "Alors, l'honorable Śāriputra discerna les pensées, les tendances "
 "habituelles, le tempérament (lit. l'élément) et le caractère (lit. la "
@@ -335,7 +345,7 @@ msgstr ""
 # དེ་ནས་ཁྱིམ་བདག་དེས་བསམས་པ་
 # བདག་གིས་ལེགས་<«གཡུང་»«པེ་»ལགས།>པ་འདི་ལྟ་བུ་རྟོགས་པ་<«ཅོ་»–པ།>ཅི་ཡང་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཅིའང་།>རུང་བ་དེ་དག་ཐམས་ཅད་ནི་ཁྱི་མོ་འདིའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»མོའི།>མཐུ་ལས་བྱུང་བ་ཡིན་ནོ།
 # །སྙམ་དུ་ རིག་གོ། ། རིག་ནས་ཀྱང་དེ་ལ་ཤིན་ཏུ་སྐྱོང་བར་བྱེད་དོ། །
-msgctxt "line 16, 01.txt"
+msgctxt "line 18, 01.txt"
 msgid ""
 "Ce père de famille, après avoir vu les vérités, il pratiqua la générosité et"
 " accumula des mérites. Sa maison devint comme un puits pour les personnes "
@@ -357,7 +367,7 @@ msgstr ""
 # ང་ལ་སེམས་དགའ་བར་<«ཅོ་»བ།>གྱིས་ཤིག་དང་།
 # དུད་འགྲོའི་སྐྱེ་གནས་དང་འབྲལ་བར་འགྱུར་ཡང་སྲིད་དོ་ཞེས་ སྨྲས་ནས།
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སོང་ངོ་། །
-msgctxt "line 17, 01.txt"
+msgctxt "line 19, 01.txt"
 msgid ""
 "Alors, après un certain temps, cette chienne tomba malade et Śāriputra lui "
 "dit : « Enfant, Eh bien (lit. comme ceci) Tous les [phénomènes] composés "
@@ -375,7 +385,7 @@ msgstr ""
 # དེ་ཤི་བའི་ཚེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སླར་ཁྱིམ་དེར་འོངས་ནས།
 # ཁྱིམ་བདག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་བསྙད་<«གཡུང་»བརྙད།>དེ།
 # བཙུན་པ་ཤཱ་<«གཡུང་»«པེ་»ཤ>རིའི་བུ་ ཁྱི་མོ་དེ་གུམ་ལགས་སོ་ཞེས་ བྱས་སོ། །
-msgctxt "line 18, 01.txt"
+msgctxt "line 20, 01.txt"
 msgid ""
 "Peu de temps après son départ, la chienne mourut le cœur (lit. esprit) plein"
 " de joie à la pensée de l'honorable Śāriputra. Elle mourut et passa au-delà "
@@ -393,7 +403,7 @@ msgstr ""
 # སྨྲས་ནས།
 # ཁྱིམ་བདག་དེས་ཁྱི་རོ་དེ་གང་དུ་སུས་ཀྱང་མི་མཐོང་བར་འགྱུར་བ་དེ་ལྟ་བུའི་ཕྱོགས་ཤིག་ཏུ་བཞག་གོ།
 # །
-msgctxt "line 19, 01.txt"
+msgctxt "line 21, 01.txt"
 msgid ""
 "L'honorable Śāriputra dit : « Dépose le cadavre de cette chienne dans un "
 "endroit isolé. Plus tard, ces ossements lui seront utiles. » Le père de "
@@ -411,7 +421,7 @@ msgstr ""
 # འོ་མ་དང་མར་དང་ཞོ་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»སྙིང་གུས།
 # «ཅོ་»«ཞོལ་»སྙིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
 # མཚོའི་ནང་གི་པད་མ་བཞིན་དུ་སྐྱེ་དྲག་པར་གྱུར་ཏོ། །
-msgctxt "line 20, 01.txt"
+msgctxt "line 22, 01.txt"
 msgid ""
 "Ensuite, l'épouse de ce père de famille accoucha après que neuf ou dix mois "
 "soient passés. Ainsi, naquit une fille au corps harmonieux (lit. noble), qui"
@@ -433,7 +443,7 @@ msgstr ""
 # དེ་ནས་ཕྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་དེ་ཤེད་བྱེ་བར་རིག་ནས།
 # ཁྱི་མོའི་རུས་བུ་དེ་དེ་ཉིད་ཀྱི་མདུན་དུ་བཞག་སྟེ།
 # ཅི་ནས་ཀྱང་བུ་མོ་དེས་ཚེ་རབས་དྲན་པར་འགྱུར་བ་དེ་ལྟ་བུར་བྱིན་གྱིས་བརླབས་ནས།
-msgctxt "line 21, 01.txt"
+msgctxt "line 23, 01.txt"
 msgid ""
 "Ensuite, lorsqu'elle eut grandi, l'honorable Śāriputra lui dit : « Enfant, "
 "assieds-toi et écoute le Dharma. » dit-il. À ce moment, Enorgueillie, [très]"
@@ -453,7 +463,7 @@ msgstr ""
 # ཁམས་དང་རང་བཞིན་རྟོགས་ནས་ དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ། དེ་ཐོས་ནས་
 # བུ་མོ་དེས་སྟན་དེ་<«ལི་»«སྣར་»«ཅོ་»ཏེ།>ཁོ་ན་ལ་འདུག་བཞིན་དུ་འཇིག་ཚོགས་ལ་ལྟ་བའི་རིའི་<«གཡུང་»–རིའི།>རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་རྡོ་རྗེས་བཅོམ་ནས།
 # རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ཏེ།
-msgctxt "line 22, 01.txt"
+msgctxt "line 24, 01.txt"
 msgid ""
 "dès qu'elle se souvint de la suite de ses vies, elle ressentit (lit. faire "
 "naître) un désenchantement intense. Ayant ressenti (lit. fait naître) le "
@@ -474,7 +484,7 @@ msgstr ""
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། ། བཙུན་པ་ཤཱ་རིའི་བུ་
 # བདག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་བ་དང་བསྙེན་པར་རྫོགས་ཤིང་དགེ་སློང་མའི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན་
 # བདག་ཀྱང་། བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །
-msgctxt "line 23, 01.txt"
+msgctxt "line 25, 01.txt"
 msgid ""
 "elle vit les vérités, et se leva de son siège et elle [replia] son châle sur"
 " une épaule et le laissa retomber [devant elle], joignit les mains et "
@@ -501,7 +511,7 @@ msgstr ""
 # སྲིད་པའི་རྙེད་པ་དང་ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ་
 # དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«སྣར་»བརྗེད།
 # «པེ་»བརྗོད།>པ་དང་། གུས་པར་སྨྲ་བའི་<«ཁུ་»སྨྲས་པའི།>གནས་སུ་གྱུར་ཏོ། །
-msgctxt "line 24, 01.txt"
+msgctxt "line 26, 01.txt"
 msgid ""
 "Ensuite, l'honorable Śāriputra fit part de ses aspirations à ses parents, "
 "puis la remit à Mahā­prajāpatī, puis Mahā­prajāpatī lui fit renoncer au "
@@ -527,7 +537,7 @@ msgstr ""
 # ཡོན་ཏན་འདི་ལྟ་བུ་དག་ཀྱང་ཐོབ་པར་གྱུར་པས་ན།
 # འཕགས་པ་ནི་བདག་ལ་དཀའ་བ་མཛད་མཛད་པ་ལགས་སོ་ཞེས་ ཟེར་རོ། །
 # དེ་ཡང་དང་ཡང་དུ་ཟེར་བ་དགེ་སློང་མང་པོས་ཐོས་ནས་
-msgctxt "line 25, 01.txt"
+msgctxt "line 27, 01.txt"
 msgid ""
 "Après être devenue une arhat, elle vit se souvint de la bonté de Śāriputra "
 "et allait régulièrement auprès de lui, se prosternait à ses pieds et "
@@ -544,7 +554,7 @@ msgstr ""
 # ཚེ་དང་ལྡན་པ་ཤཱ་<«གཡུང་»«པེ་»ཤ>རིའི་བུས་སྨྲས་པ།
 # ཁྱེད་ཀྱིས་ཁྱིམ་བདག་འདིའི་ཁྱིམ་ན་ཁྱི་མོ་ཞིག་འདུག་པ་མཐོང་ངམ། དེ་དག་གིས་སྨྲས་པ།
 # བཙུན་པ་ཤཱ་རིའི་བུ་ མཐོང་ངོ་། །
-msgctxt "line 26, 01.txt"
+msgctxt "line 28, 01.txt"
 msgid ""
 "dès qu'ils l'eurent entendu, ils demandèrent à l'honorable Śāriputra : « "
 "Honorable Śāriputra, à quoi pense cette nonne quand elle répète (lit. se "
@@ -556,7 +566,7 @@ msgstr ""
 # དེ་ཁོ་ནས་<«ཁུ་»ན།>བདག་ལ་དགའ་བའི་སེམས་བསྐྱེད་ནས་ ཤི་སྟེ་འདས་པ་དང་།
 # ཁྱིམ་བདག་དེ་ཉིད་ཀྱི་ཁྱིམ་དུ་སྐྱེས་ཏེ། དེས་སྔོན་གྱི་ཚེ་རབས་རྗེས་སུ་དྲན་ནས།
 # སྔོན་གྱི་དྲིན་གཟོ་བའི་ཕྱིར་བདག་ལ་དེ་སྐད་ཅེས་ཟེར་རོ། །
-msgctxt "line 27, 01.txt"
+msgctxt "line 29, 01.txt"
 msgid ""
 "« [C'est] elle et nulle autre dont le cœur (lit. esprit) s'était empli de "
 "joie à ma pensée et qui mourut, passa au-delà [de cette vie], puis naquit "
@@ -570,7 +580,7 @@ msgstr ""
 # བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ་ མི་མཉེས་པར་མ་<«གཡུང་»«པེ་»མི།>བགྱིས་ལ།
 # བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
 # ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས།
-msgctxt "line 28, 01.txt"
+msgctxt "line 30, 01.txt"
 msgid ""
 "Alors, les moines demandèrent au Bienheureux : « Vénérable, Quelles actions "
 "cette nonne a[-t-elle] réalisées pour que le résultat de ces actions la "
@@ -584,14 +594,14 @@ msgstr ""
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ འདས་པའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་ལ་
 # ད་ལྟར་<«གཡུང་»«པེ་»ལྟ།>བྱུང་བའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་དོ། །
-msgctxt "line 29, 01.txt"
+msgctxt "line 31, 01.txt"
 msgid ""
 "Le Bienheureux répondit : « Moines, il y a une part d'actions du passé, mais"
 " aussi une part d'actions qui ont eu lieu maintenant. »"
 msgstr ""
 
 # བཙུན་པ་ འདས་པའི་ལས་ཅི་བགྱིས་ལགས།
-msgctxt "line 30, 01.txt"
+msgctxt "line 32, 01.txt"
 msgid "« Vénérable, quelles actions du passé a-t-elle réalisées ? »"
 msgstr ""
 
@@ -602,7 +612,7 @@ msgstr ""
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།
 # དེའི་ཚེ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་<«སྣར་»བ་ར་ཎཱ་སི། «ཞོལ་»ཝཱ་ར་ཎཱ་སི།
 # པོད་འདིའི་ནང་དུ་བཱ་རཱ་ཎ་སཱི་ཞེས་པ་རྣམས་༼སྣར་༽ལ་བ་ར་ཎཱ་སི་དང་༼ཞོལ་༽ལ་ཝཱ་ར་ཎཱ་སི།༼གཡུང་༽༼ལི་༽༼པེ་༽༼ཅོ་༽ལ་སྐབས་འགར་པཱ་རཱ་ཎ་སཱི་དང་བཱ་རཱ་ན་སི་སོགས་འཁོད་ཀྱང་གཤམ་དུ་བསྡུར་མཆན་དུ་བཀོད་མེད།>སཱི་ན་ཁྱིམ་བདག་ཅིག་གནས་པ་ལས་
-msgctxt "line 31, 01.txt"
+msgctxt "line 33, 01.txt"
 msgid ""
 "« Moines, à un moment du passé qui s'est déroulé auparavant, pendant ce même"
 " éon fortuné, quand la durée de vie des personnes pouvaient [atteindre] "
@@ -621,7 +631,7 @@ msgstr ""
 # དེ་རིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»རིགས།>པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བ<«གཡུང་»«པེ་»སྨྲས་པ།>།
 # གོས་དང་ཟས་དང་མལ་ཆ་<«གཡུང་»ཅ་བ «མི་»«ཅོ་»མལ་ཅ།>དང་།
 # སྟན་དང་ནད་གསོས་དང་སྨན་ཟོང་རྣམས་རྙེད་པར་གྱུར་ནས་
-msgctxt "line 32, 01.txt"
+msgctxt "line 34, 01.txt"
 msgid ""
 "à un moment donné (lit. plus tard), une fille au corps harmonieux (lit. "
 "noble), qui était belle et agréable au regard naquit, et lorsqu'elle eut "
@@ -640,7 +650,7 @@ msgstr ""
 # བདག་གིས་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་རྣམས་ལ་ཕན་གདགས་<«གཡུང་»བདགས།>པར་བྱ་གོར་མ་ཆག་<«ཅོ་»ཆགས།>སྙམ་དུ་
 # བསམས་ནས།
 # ཆོས་བཞིན་དུ་གཉི་གའི་<«སྣར་»«ཞོལ་»གཉིས་ཀའི།>དགེ་འདུན་གྱི་ཞལ་ཏ་བྱས་སོ། །
-msgctxt "line 33, 01.txt"
+msgctxt "line 35, 01.txt"
 msgid ""
 "elle pensa : « Décidément Toutes ces choses nécessaires (lit. à obtenir) que"
 " j'obtiens comme dons et comme marques de respect, je les emploierai "
@@ -653,7 +663,7 @@ msgstr ""
 # དེས་སློབ་པ་དང་མི་སློབ་པའི་དགེ་སློང་མ་མང་པོ་ཞིག་ལ་གསོལ་བ་བཏབ་ན། དེ་དག་ན་རེ་
 # བདག་ཅག་གི་དགེ་བའི་ཕྱོགས་བཏང་སྟེ།
 # ཁྱོད་ཀྱི་དོན་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>མི་ནུས་སོ་ཞེས་ ཟེར་རོ། །
-msgctxt "line 34, 01.txt"
+msgctxt "line 36, 01.txt"
 msgid ""
 "Ensuite, elle eut une affaire pressante et elle sollicita de nombreuses "
 "nonnes qui s'entraînaient ou qui avaient parfait leur entraînement (lit. qui"
@@ -667,7 +677,7 @@ msgstr ""
 # ང་ནི་ཁྱི་མོ་དང་འདྲ་བ་ཁྱེད་དགང་བ་དང་གསོ་བ་འབའ་ཞིག་བྱེད་ན་
 # ཁྱེད་ནི་སྐད་ཅིག་ཙམ་བདག་གི་དོན་བྱེད་དུ་ཡང་མི་བཏུབ་བམ་<«གཡུང་»བས
 # «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པས།>ཞེས་ བྱས་སོ། །
-msgctxt "line 35, 01.txt"
+msgctxt "line 37, 01.txt"
 msgid ""
 "Alors, en entendant ceci, cette nonne donna naissance à une émotion (lit. ce"
 " qui enserre entièrement) de colère intense. Alors, s'étant mise en colère, "
@@ -684,7 +694,7 @@ msgstr ""
 # ཁྱོད་ཀྱིས་ངེད་<«གཡུང་»«པེ་»དེད།>སུ་ཡིན་པ་དང་། ཁྱོད་བདག་སུ་ཡིན་པ་ཤེས་སམ་
 # དེས་སྨྲས་པ། ངས་<«གཡུང་»དེས།>ཤེས་ཏེ་ ཁྱེད་ཀྱང་རབ་ཏུ་བྱུང་བ་ཡིན་ལ་
 # ང་ཡང་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ། །
-msgctxt "line 36, 01.txt"
+msgctxt "line 38, 01.txt"
 msgid ""
 "Alors, les nonnes pensèrent : « Cette [personne] perturbée est enserrée et "
 "perdue [par ses émotions]. il n'est pas acceptable qu'elle erre dans le "
@@ -703,7 +713,7 @@ msgstr ""
 # འགྱོད་པ་ཆེན་པོ་སྐྱེས་ནས།
 # ལྷག་པར་ཡང་ཆོས་བཞིན་དུ་གཉི་གའི་<«སྣར་»«ཞོལ་»གཉིས་ཀའི།>དགེ་འདུན་གྱི་ཞལ་ཏ་བྱས་ཏེ་
 # ཚེ་གཅིག་ཏུ་ཚངས་པར་<«གཡུང་»«པེ་»པས།>སྤྱོད་པ་སྤྱད་ནས།
-msgctxt "line 37, 01.txt"
+msgctxt "line 39, 01.txt"
 msgid ""
 "elles dirent : « Sœur aînée, il est vrai que nous sommes des renonçantes, "
 "mais tu es un être ordinaire que tous les liens enserrent, et quant à nous, "
@@ -727,7 +737,7 @@ msgstr ""
 # བདག་ཁྲོས་ནས་
 # ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་རྣམས་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པ་གང་ཡིན་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པའི་སྐལ་བ་ཅན་དུ་བདག་མ་གྱུར་ཅིག་ཅེས་
 # བྱས་སོ། །
-msgctxt "line 38, 01.txt"
+msgctxt "line 40, 01.txt"
 msgid ""
 "fit ce souhait au moment de mourir : « Quelle merveille ! J'ai renoncé au "
 "monde selon l'enseignement du complet et parfait Bouddha Kāśyapa, et j'ai "
@@ -760,7 +770,7 @@ msgstr ""
 # དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་
 # བྱས་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི།
 # འདི་ད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ད།>ལྟར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་<«གཡུང་»སྤྱོ།>ཆེ་བའི་རིགས་སུ་སྐྱེས་<«སྣར་»སྐྱེས།>ཏེ།
-msgctxt "line 39, 01.txt"
+msgctxt "line 41, 01.txt"
 msgid ""
 "Moines, qu'en pensez-vous ? À ce moment, celle qui était cette nonne[-là] "
 "est cette nonne[-ci] [elle-]même, et elle est née cinq cent vie d'affilée en"
@@ -785,7 +795,7 @@ msgstr ""
 # ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
 # དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་པ་འདི་ནི་འདིས་འདས་པའི་ལས་<«གཡུང་»«པེ་»ལམ།>ཡིན་ནོ།
 # །
-msgctxt "line 40, 01.txt"
+msgctxt "line 42, 01.txt"
 msgid ""
 "Moines, Je suis devenu en tout point (lit. très) l'égal du complet et "
 "parfait Bouddha Kāśyapa, j'ai obtenu une force égale [à la sienne], des "
@@ -800,7 +810,7 @@ msgstr ""
 # དེ་<«ཅོ་»འདི།>ཁྱིར་སྐྱེས་ནས་
 # ཤཱ་རིའི་བུ་ལ་སེམས་དགའ་བར་གྱུར་པ་དེས་ནི་མིའི་ནང་དུ་སྐྱེས་<«ཅོ་»སྐྱེས།>ཏེ།
 # འདི་ནི་ད་ལྟར་བྱུང་བའི་ལས་ཡིན་ནོ།། །།
-msgctxt "line 41, 01.txt"
+msgctxt "line 43, 01.txt"
 msgid ""
 "« Quelles actions qui ont eu lieu maintenant a-t-elle réalisées ? » « Étant "
 "née en tant que chienne, elle a empli son cœur (lit. esprit) de joie à la "
