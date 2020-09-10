@@ -116,7 +116,7 @@ msgstr ""
 
 msgctxt "c3ac5b80969241f8b873a8e5221363a0"
 msgid "མུ་སྟེགས་ ཅན་ ལ་ དག␣འོ ། །"
-msgstr "Il aimait les tīrthikas."
+msgstr "il aimait les tīrthikas."
 
 # དེ་ནས་དེས་ཐབས་ཟླར་བབ་པ་ལས་ཆུང་<«ལི་»«པེ་»+ཆུང་།>མ་བླངས་ནས།
 msgctxt "15b2371147a84327a5b063f89c2df785"
