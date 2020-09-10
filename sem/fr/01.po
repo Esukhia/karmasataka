@@ -301,7 +301,7 @@ msgid ""
 "དུས་གསུམ་ མཚན་ དུས་གསུམ་ སྟེ །  ཉིན་མཚན་ དུས་ དྲུག་ ཏུ །  སངས་རྒྱས་ ཀྱི་ "
 "སྤྱན་ གྱིས་ འཇིག་རྟེན་ ལ་ གཟིགས་ ཏེ །"
 msgstr ""
-"Eux qui font résonner le parfait [et] grand rugissement du lion, "
+"eux qui font résonner le parfait [et] grand rugissement du lion, "
 "naturellement, ils regardent le monde avec les yeux de bouddha pendant les "
 "six périodes de la journée, les trois du jour et les trois de la nuit :"
 
