@@ -1719,7 +1719,9 @@ msgstr "Sœur aînée,"
 # འུ་བུ་<«གཡུང་»–བུ།>ཅག་རབ་ཏུ་བྱུང་བར་འདྲ་མོད་ཀྱི།
 msgctxt "5c86342b56664985bdc1e1901f6027ca"
 msgid "འུ་བུ་ཅག་ རབ་ཏུ་ བྱུང་བ␣ར་ འདྲ་ མོད་ ཀྱི །"
-msgstr "il est vrai que nous sommes des renonçantes, mais"
+msgstr ""
+"il est vrai que nous sommes semblables en tant que personnes qui se sont "
+"retirées du monde, mais"
 
 # ཁྱོད་ནི་བཅིང་བ་ཐམས་ཅད་ཀྱིས་བཅིངས་པའི་སོ་སོའི་སྐྱེ་<18,〈ཉེ>བོ་ཡིན་ལ་
 msgctxt "1ee360d3cdd44d01849429145bfa0edb"
@@ -1787,8 +1789,8 @@ msgid ""
 "བདག་ ཀྱང་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ རབ་ཏུ་ "
 "བྱུང་ ནས་"
 msgstr ""
-"J'ai renoncé au monde selon l'enseignement du complet et parfait Bouddha "
-"Kāśyapa, et"
+"Je me suis retirée du monde selon l'enseignement du complet et parfait "
+"Bouddha Kāśyapa, et"
 
 # ཚེ་གཅིག་ཏུ་ཚངས་པར་<«གཡུང་»པ།>སྤྱོད་པ་སྤྱད་དེ།
 msgctxt "75908868d1d94468978cd6ec7facfc0d"
