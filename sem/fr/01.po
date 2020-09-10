@@ -1300,7 +1300,7 @@ msgstr "Après être devenue une arhat,"
 
 msgctxt "bffd3c1571c846b5a0d8c2299660f01d"
 msgid "ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི␣འི་ བུ␣འི་ སྔོན་ གྱི་ དྲིན་ དྲན་ ཏེ །"
-msgstr "elle vit se souvint de la bonté de Śāriputra et"
+msgstr "elle souvint de la bonté de Śāriputra et"
 
 msgctxt "1986970e35c04d0dbda7d6a0f9ca8204"
 msgid "ཡང་ དང་ ཡང་ དུ་ ཐད་ དུ་ འགྲོ་ ཞིང་"
