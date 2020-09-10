@@ -1224,7 +1224,7 @@ msgstr "la remit à Mahā­prajāpatī, puis"
 # སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོས་<«ཁུ་»མོ།>དེ་རབ་ཏུ་ཕྱུང་ནས་
 msgctxt "e2cc515e63cc4d41ba739959ab998658"
 msgid "སྐྱེ་དགུ␣འི་ བདག་མོ་ ཆེན་ མོས་ དེ་ རབ་ཏུ་ ཕྱུང་ ནས་"
-msgstr "Mahā­prajāpatī lui fit s'extraire du monde, puis"
+msgstr "Mahā­prajāpatī lui fit se retirer du monde, puis"
 
 msgctxt "6ac531590f0b454abd7ddf4079ca8bbd"
 msgid "བསྙེན་པ␣ར་ རྫོགས་པ␣ར་ བྱས་ ཏེ །"
