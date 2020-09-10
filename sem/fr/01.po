@@ -1706,7 +1706,7 @@ msgstr "vous êtes des personnes qui se sont retirées du monde et"
 
 msgctxt "449ebfccb389408687508f3d6d6e7aa4"
 msgid "ང་ ཡང་ རབ་ཏུ་ བྱུང་བ་ ཡིན་ ནོ ། །"
-msgstr "je suis aussi une renonçante. »"
+msgstr "je suis aussi une personne qui s'est retirée du monde. »"
 
 msgctxt "49b1720dff424fbc9e32e07a5bbc5443"
 msgid "དེ་དག་ གིས་ སྨྲས་པ །"
