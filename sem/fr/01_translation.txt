@@ -10,7 +10,7 @@ La structure [de cette partie] : La Chienne, Petits-Yeux, Pūraṇa, les deux [h
 L'histoire de la chienne
 Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī.
 À cette époque, dans la ville de Śrāvastī, vivait un homme riche qui possédait beaucoup de richesses, dont les biens étaient grands, dont les possessions étaient étendues et vastes, qui possédait la richesse de Vaiśravaṇa, qui possédait des richesses rivalisant celles de Vaiśravaṇa. Et
-Il aimait les tīrthikas.
+il aimait les tīrthikas.
 Ensuite, arrivé à (lit. tombé à) l'âge de se marier (lit. d'une épouse), il prit une épouse et
 avec elle, ils se séduisirent (lit. jouèrent), ils [apprirent] à s'aimer et laissèrent libre cours (lit. faire) à leurs envies.
 Du fait de s'être séduits, d'avoir [appris] à s'aimer et d'avoir laissé libre cours à leurs envies,
@@ -39,7 +39,7 @@ ils vivent les sept branches de l'Éveil ;
 ils contemplent les huit libérations complètes ;
 ils s'absorbent dans les neuf absorptions méditatives successives ;
 ils possèdent la puissance (lit. force) des dix forces ;
-Eux qui font résonner le parfait [et] grand rugissement du lion, naturellement, ils regardent le monde avec les yeux de bouddha pendant les six périodes de la journée, les trois du jour et les trois de la nuit :
+eux qui font résonner le parfait [et] grand rugissement du lion, naturellement, ils regardent le monde avec les yeux de bouddha pendant les six périodes de la journée, les trois du jour et les trois de la nuit :
 « Qui décline ?
 Qui prospère (lit. s'étendre)?
 Qui est dans la misère ?
@@ -203,11 +203,11 @@ elle [replia] son châle sur une épaule et le laissa retomber [devant elle],
 joignit les mains et s'inclina en direction de l'honorable Śāriputra et
 Elle dit ceci à l'honorable Śāriputra : «
 Vénérable Śāriputra,
-s'il est possible de s'extraire du monde selon le Vinaya, le Dharma si bien exprimé, et [s'il est possible] de parfaire l'approche [de la libération], d'obtenir la condition de nonne pleinement ordonnée,
+s'il est possible de se retirer du monde selon le Vinaya, le Dharma si bien exprimé, et [s'il est possible] de parfaire l'approche [de la libération], d'obtenir la condition de nonne pleinement ordonnée,
 moi aussi, j'aimerais vivre une vie chaste (lit. suivre le brahmacarya) auprès du Bienheureux. »
 Ensuite, l'honorable Śāriputra fit part de ses aspirations à ses parents, puis
 la remit à Mahā­prajāpatī, puis
-Mahā­prajāpatī lui fit renoncer au monde, puis
+Mahā­prajāpatī lui fit se retirer du monde, puis
 lui donna l'ordination complète et
 lui [accorda] la transmission orale.
 De son côté, elle s'efforça, s'appliqua et s'évertua à éliminer toutes les émotions perturbatrices et
@@ -269,8 +269,8 @@ quelles actions du passé a-t-elle réalisées ? »
 à un moment donné (lit. plus tard), une fille au corps harmonieux (lit. noble), qui était belle et agréable au regard naquit, et
 lorsqu'elle eut grandi,
 elle conçut de la dévotion pour l'enseignement du complet et parfait bouddha Kāśyapa, et
-elle demanda [la permission] à ses parents et renonça au monde.
-Après avoir renoncé au monde,
+elle demanda [la permission] à ses parents et se retira du monde.
+Après s'être retirée du monde,
 elle étudia les trois corbeilles et
 elle [devint] une enseignante du Dharma qui possédait les connaissances et l'éloquence pour libérer. Elle recevait (lit. obtenait) des habits, de la nourriture, des couvertures, des coussins, des médicaments et des fournitures médicales et
 elle pensa : «
@@ -299,11 +299,11 @@ ils dirent : «
 Sais-tu qui nous sommes et qui tu es toi-même ? »
 Elle répondit : «
 Je le sais :
-vous êtes des renonçantes et
-je suis aussi une renonçante. »
+vous êtes des personnes qui se sont retirées du monde et
+je suis aussi une personne qui s'est retirée du monde. »
 elles dirent : «
 Sœur aînée,
-il est vrai que nous sommes des renonçantes, mais
+il est vrai que nous sommes semblables en tant que personnes qui se sont retirées du monde, mais
 tu es un être ordinaire que tous les liens enserrent, et
 quant à nous, nous sommes [de celles] qui ont fait ce qui devait être fait. Donc,
 [concernant] ta mauvaise action, [dis] « J'ai mal agi » et
@@ -316,12 +316,12 @@ elle servit plus encore les deux sanghas en accord avec le Dharma et
 vécut chastement toute sa vie, puis
 fit ce souhait au moment de mourir : «
 Quelle merveille !
-J'ai renoncé au monde selon l'enseignement du complet et parfait Bouddha Kāśyapa, et
+Je me suis retirée du monde selon l'enseignement du complet et parfait Bouddha Kāśyapa, et
 j'ai vécu chastement toute ma vie (lit. une vie), et
 j'ai servi [la saṅgha] en accord avec le Dharma. Par ces racines de vertus, où (lit. où et où) que je naisse, puissé-je toujours (lit. à chacun de ces endroits) naître dans une lignée familiale qui est riche, posséde de grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens, posséder un corps harmonieux (lit. noble), être belle et agréable au regard.
 Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le jeune brahmane Uttara [d'après] la prophécie du complet et parfait bouddha Kāśyapa.
 Puissé-je ne rien faire qui le mécontente.
-Ayant renoncé au monde d'après son (lit. à lui-même) enseignement et
+M'étant retirée du monde d'après son (lit. à lui-même) enseignement et
 après avoir éliminé toutes les émotions perturbatrices,
 puissé-je manifester l'état d'arhat (lit. l'arhat-même).
 M'étant mis en colère,
@@ -335,7 +335,7 @@ Le vœu qu'elle fit au moment de mourir («
 Puissé-je toujours naître dans une lignée familiale qui est riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens.
 Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le jeune brahmane Uttara [d'après] la prophécie du complet et parfait bouddha Kāśyapa.
 Puissé-je ne rien faire qui le mécontente.
-Ayant renoncé au monde d'après son (lit. à lui-même) enseignement et
+M'étant retirée du monde d'après son (lit. à lui-même) enseignement et
 après avoir éliminé toutes les émotions perturbatrices,
 puissé-je manifester l'état d'arhat (lit. l'arhat-même). »)
 le résultat de l'action d'avoir fait [ces souhaits] la fit naître dans une lignée familiale qui est riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens. Ainsi,
@@ -343,7 +343,7 @@ Moines,
 Je suis devenu en tout point (lit. très) l'égal du complet et parfait Bouddha Kāśyapa, j'ai obtenu une force égale [à la sienne], des moyens [habiles] égaux [aux siens] et des actes égaux [aux siens],
 elle m'a contentée et
 n'a rien fait qui me mécontente, puis
-elle a renoncé au monde selon mon (lit. à moi-même) enseignement et
+elle s'est retirée du monde selon mon (lit. à moi-même) enseignement et
 elle a éliminé toutes les émotions perturbatrices et
 elle a manifesté l'état d'arhat (lit. l'arhat-même). Ceci est la [partie] des actions passées. »
 « Quelles actions qui ont eu lieu maintenant a-t-elle réalisées ? »

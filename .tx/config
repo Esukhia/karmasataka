@@ -2,8 +2,14 @@
 host = https://www.transifex.com
 
 [karmasataka_fr.fr_sem_pars_A001]
-file_filter = <lang>/reader/A001.po
+file_filter = <lang>/reader
 source_file = fr/sem_pars/A001.po
+source_lang = fr
+type = PO
+
+[karmasataka_fr.fr_sem_pars_01]
+file_filter = <lang>/reader
+source_file = fr/sem_pars/01.po
 source_lang = fr
 type = PO
 
