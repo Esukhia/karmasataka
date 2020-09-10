@@ -1965,7 +1965,8 @@ msgstr "n'a rien fait qui me mécontente, puis"
 
 msgctxt "78c101607cd94902831a8a6c38296f18"
 msgid "ང་ཉིད་ ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས །"
-msgstr "elle a renoncé au monde selon mon (lit. à moi-même) enseignement et"
+msgstr ""
+"elle s'est retirée du monde selon mon (lit. à moi-même) enseignement et"
 
 msgctxt "40199e90b39a4bb8b364e5b94a9dfbab"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ །"
