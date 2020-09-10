@@ -1541,7 +1541,7 @@ msgstr "elle demanda [la permission] à ses parents et se retira du monde."
 
 msgctxt "16fedfc022bb4b779cf14389ca9a053f"
 msgid "རབ་ཏུ་ བྱུང་ ནས་"
-msgstr "Après avoir renoncé au monde,"
+msgstr "Après s'être retirée du monde,"
 
 # སྡེ་སྣོད་<«གཡུང་»«པེ་»+ག་དང་།>གསུམ་བསླབས་ཏེ།
 msgctxt "d5cf8e9e1df649c2814b34c59962669a"
