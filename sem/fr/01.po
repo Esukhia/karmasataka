@@ -1198,7 +1198,7 @@ msgid ""
 "རྫོགས་ ཤིང་ དགེ་སློང་ མ␣འི་ དངོས་པོ་ འཐོབ་ ཏུ་ རུང་ ན་"
 msgstr ""
 "s'il est possible de se retirer du monde selon le Dharma du Vinaya si bien "
-"exprimé, et [s'il est possible] de parfaire l'approche [de la libération], "
+"enseigné, et [s'il est possible] de parfaire l'approche [de la libération], "
 "d'obtenir la condition de nonne pleinement ordonnée,"
 
 msgctxt "e2b5eea007db40de800bda00507b0768"
