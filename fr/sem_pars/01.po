@@ -757,7 +757,8 @@ msgid ""
 "perturbatrices, puissé-je manifester l'état d'arhat (lit. l'arhat-même). "
 "M'étant mis en colère, avoir dit des paroles blessantes (lit. rugueuses) à "
 "celles qui vivent une vie chaste (lit. suivre le brahmacarya), puissé-je ne "
-"pas devoir subir les résultats de ces actions. » formula-t-il (lit. fit-il)."
+"pas devoir subir les résultats de ces actions. » formula-t-elle (lit. fit-"
+"elle)."
 msgstr ""
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས་
