@@ -1768,7 +1768,7 @@ msgstr "regrettant fortement [ses agissements],"
 # ལྷག་པར་ཡང་ཆོས་བཞིན་དུ་གཉི་གའི་<«སྣར་»«ཞོལ་»གཉིས་ཀའི།>དགེ་འདུན་གྱི་ཞལ་ཏ་བྱས་ཏེ་
 msgctxt "8b2e20c84453499299fbd8f9866c79f5"
 msgid "ལྷག་པར་ ཡང་ ཆོས་བཞིན་ དུ་ གཉི་ག␣འི་ དགེ་འདུན་ གྱི་ ཞལ་ཏ་ བྱས་ ཏེ་"
-msgstr "elle servit plus encore les deux sanghas en accord avec le Dharma et"
+msgstr "elle servit plus encore les deux saṅghas en accord avec le Dharma et"
 
 # ཚེ་གཅིག་ཏུ་ཚངས་པར་<«གཡུང་»«པེ་»པས།>སྤྱོད་པ་སྤྱད་ནས།
 msgctxt "44d6a51afdcc4aaf95333010590ffdcf"
