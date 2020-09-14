@@ -1415,7 +1415,7 @@ msgstr "Vénérable,"
 
 msgctxt "9d9bca8e162943efa9c6e2546927ca3a"
 msgid "དགེ་སློང་ མ་ འདི␣ས་ ལ␣ས་ ཅི་ བགྱིས་ ན །"
-msgstr "Quelles actions cette nonne a[-t-elle] réalisées pour que"
+msgstr "quelles actions cette nonne a[-t-elle] réalisées pour que"
 
 msgctxt "60f2c0baae4a484f957668c337504dd0"
 msgid "ལ␣ས་ དེ␣འི་ རྣམ་པ␣ར་ སྨིན་པ␣ས་ སྔོན་ ཁྱིར་ སྐྱེས་ ལགས །"
