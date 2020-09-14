@@ -801,7 +801,7 @@ msgstr ""
 # །
 msgctxt "line 42, 01.txt"
 msgid ""
-"Moines, Je suis devenu en tout point (lit. très) l'égal du complet et "
+"Moines, je suis devenu en tout point (lit. très) l'égal du complet et "
 "parfait Bouddha Kāśyapa, j'ai obtenu une force égale [à la sienne], des "
 "moyens [habiles] égaux [aux siens] et des actes égaux [aux siens], elle m'a "
 "contentée et n'a rien fait qui me mécontente, puis elle s'est retirée du "
