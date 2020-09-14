@@ -1858,7 +1858,7 @@ msgstr ""
 
 msgctxt "db9a5b0d1af844488964aab7896c481e"
 msgid "བྱས་ སོ ། །"
-msgstr "formula-t-il (lit. fit-il)."
+msgstr "formula-t-elle (lit. fit-elle)."
 
 msgctxt "f0412f23c4e5443787281b9870fc1434"
 msgid "དགེ་སློང་ དག་"
