@@ -1952,7 +1952,7 @@ msgid ""
 "ང་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ དང་ ཤིན་ཏུ་ མཉམ་པ་ དང་ ཤུགས་ "
 "མཉམ་པ་ དང་ མཛད་པ་ མཉམ་པ་ དང་ ཐབས་ མཉམ་པ་ བརྙེས་པ␣ར་ གྱུར་ ནས །"
 msgstr ""
-"Je suis devenu en tout point (lit. très) l'égal du complet et parfait "
+"je suis devenu en tout point (lit. très) l'égal du complet et parfait "
 "Bouddha Kāśyapa, j'ai obtenu une force égale [à la sienne], des moyens "
 "[habiles] égaux [aux siens] et des actes égaux [aux siens],"
 
