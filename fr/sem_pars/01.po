@@ -588,9 +588,9 @@ msgid ""
 "fassent naître dans le passé comme chienne ? Quelles actions a[-t-elle] "
 "réalisées pour que elle meure par après et renaisse en tant qu'humain, "
 "qu'elle contente le Bienheureux et ne fasse rien qui le mécontente, puis "
-"[pour qu']elle renonce [au monde] selon l'enseignement du Bienheureux, puis "
-"[qu']elle élimine toutes les émotions perturbatrices et [qu']elle manifeste "
-"l'état d'arhat ? »"
+"[pour qu']elle se retire [du monde] selon l'enseignement du Bienheureux, "
+"puis [qu']elle élimine toutes les émotions perturbatrices et [qu']elle "
+"manifeste l'état d'arhat ? »"
 msgstr ""
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ འདས་པའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་ལ་
