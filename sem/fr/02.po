@@ -322,7 +322,7 @@ msgid ""
 "ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི␣འི་ བུས །  ཉན་ཐོས་ ཀྱི་ མིག་ གིས་ འཇིག་རྟེན་ ལ་ བལྟས་ "
 "ན་"
 msgstr ""
-"lorsque l'honorable Śāriputra regardait le monde avec les yeux d'auditeur,"
+"Lorsque l'honorable Śāriputra regardait le monde avec les yeux d'auditeur,"
 
 msgctxt "f0036459e7f1470fbfbdc4c3fd49ceb8"
 msgid "ཁྱིམ་བདག་ འཁོར་ དང་ བཅས་པ་ གདུལ་བ␣འི་ དུས་ ལ་ བབ་པ␣ར་ མཐོང་ ནས །"
