@@ -1421,7 +1421,7 @@ msgstr ""
 
 msgctxt "2a30d0efbe4643569b87f6257dffa34a"
 msgid "དེ་དག་ གིས་ སྨྲས་པ །"
-msgstr "ils dirent : «"
+msgstr "Ils dirent : «"
 
 # ཁྱོད་ལ་མཁན་པོས་ལྷག་པར་དྲིན་ཅི་ཞིག་བཏགས<«གཡུང་»ཅིག་བརྟགས།>།
 msgctxt "81285e228c954e638feae18d19ab182c"
