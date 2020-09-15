@@ -837,7 +837,7 @@ msgid ""
 "ཁྱེད་ཅག་ ལྟ་བུ་ འབའ་ཞིག་ གིས་ བྱིན་པ་ མ་གཏོགས་པ␣ར་ བདག་ཅག་ ལ་ གུད་ ན་ གཡོག་ "
 "གི་ འབྱུང་ཁུངས་ ག་ལ་ ཡོད །"
 msgstr ""
-"en dehors de [ceux] qui seraient donnés par [ceux] comme vous, où ailleurs "
+"En dehors de [ceux] qui seraient donnés par [ceux] comme vous, où ailleurs "
 "pourrait-il y avoir de source de serviteurs ? »"
 
 msgctxt "9d5037463e14490d8e2ec878a1c8dade"
