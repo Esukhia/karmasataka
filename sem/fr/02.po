@@ -2145,7 +2145,7 @@ msgid ""
 "བྱས་པ␣འི་ ལ␣ས་ དེ␣འི་ རྣམ་པ␣ར་ སྨིན་པ␣ས་ ནི །  ད་ལྟར་ ཕྱུག་ ཅིང་ ནོར་ མང་ ལ་"
 " ལོངས་སྤྱོད་ ཆེ་བ␣འི་ རིགས་ སུ་ སྐྱེས་ ཏེ །"
 msgstr ""
-"le résultat de l'action d'avoir fait [ces souhaits] le fit naître maintenant"
+"Le résultat de l'action d'avoir fait [ces souhaits] le fit naître maintenant"
 " dans une lignée familiale qui est riche, possède de grandes (lit. "
 "nombreuses) richesses et de nombreux (lit. grands) biens. Ainsi,"
 
