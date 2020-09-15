@@ -567,10 +567,10 @@ msgid ""
 msgstr ""
 "Un jour, Śāriputra vit que la chienne était tombée malade et lui dit avant "
 "de rentrer au monastère : « Mon enfant, voici comment sont les choses. Tous "
-"les phénomènes composés sont impermanents. Tous les phénomènes composés sont"
-" faits de souffrance. Tous les phénomènes sont libres d’existence inhérente."
-" L’au-delà de la souffrance est l'apaisement. Que ma pensée emplisse ton "
-"cœur de joie, il se pourrait que tes renaissances animales cessent. »"
+"les phénomènes composés sont impermanents. Ils sont tous faits de "
+"souffrance. Ils sont tous libres d’existence inhérente. L’au-delà de la "
+"souffrance est l'apaisement. Que ma pensée emplisse ton cœur de joie. Il est"
+" possible que tes renaissances animales cessent. »"
 
 # དེ་<«གཡུང་»«པེ་»+ན།>སོང་ནས་རིང་པོ་མ་ལོན་པར་ཁྱི་མོ་དེ་ཡང་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་སེམས་དགའ་བར་གྱུར་ནས་ཤིའོ།
 # ། དེ་ཤི་འཕོས་ཏེ་ འདས་ནས་
