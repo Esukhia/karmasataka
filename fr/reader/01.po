@@ -846,9 +846,9 @@ msgstr ""
 "« Vénérable, demandèrent les moines au Bienheureux, qu'a fait cette nonne "
 "pour naître parmi les chiens ? Qu'a-t-elle fait pour renaître parmi les "
 "hommes après sa mort, pour vous contenter, Bienheureux, et ne rien faire qui"
-" vous mécontente ? Qu’a-t-elle fait pour se retirer du monde d’après votre "
-"enseignement, Bienheureux, pour éliminer toutes les émotions négatives et "
-"manifester l’état d’arhat ? »"
+" vous mécontente ? Qu’a-t-elle fait pour se retirer du monde selon votre "
+"enseignement, pour éliminer toutes les émotions perturbatrices et manifester"
+" l’état d’arhat ? »"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ འདས་པའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་ལ་
 # ད་ལྟར་<«གཡུང་»«པེ་»ལྟ།>བྱུང་བའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་དོ། ། བཙུན་པ་
