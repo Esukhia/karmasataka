@@ -31,7 +31,7 @@ class Po:
             pairs = '\n'.join(['\n'.join(['\t' + a, '\t' + b]) for a, b in pairs])
             all_formatted += com + '\n' + pairs + '\n\n'
 
-        return '\n'.join(['\n'.join(e) for e in entries]), '\n'.join([e[0] for e in entries]), all_formatted
+        return '\n'.join(['\n'.join(e) for e in entries]), '\n\n'.join([e[0] for e in entries]), all_formatted
 
     def parse_txt_dump(self, dump):
         parsed = []
