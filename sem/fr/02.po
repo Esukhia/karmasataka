@@ -1882,7 +1882,7 @@ msgstr "L'arhat dit : «"
 
 msgctxt "66ac93ef03fd45d0820b53ee18210488"
 msgid "འུ་བུ་ཅག་ གཉིས་ རབ་ཏུ་ བྱུང་བ␣ར་ འདྲ་ མོད་ ཀྱི་"
-msgstr "il est vrai que nous sommes semblables en tant que renonçants, mais"
+msgstr "Il est vrai que nous sommes semblables en tant que renonçants, mais"
 
 # ཁྱོད་ནི་བཅིང་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བཅིངས་པ།>ཐམས་ཅད་ཀྱིས་བཅིངས་པའི་སོ་སོའི་སྐྱེ་བོ་ཡིན་ལ།
 msgctxt "b8e44bfbaf3d4a30879b90ebc638c594"
