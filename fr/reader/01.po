@@ -20,6 +20,8 @@ msgid ""
 "En sanskrit : Karmaśataka En tibétain : lé gya thampa pa En français : les "
 "cent karmas."
 msgstr ""
+"En sanskrit : Karmaśataka En tibétain : lé gya thampa pa En français : les "
+"cent karmas."
 
 # བམ་པོ་དང་པོ།
 msgctxt "line 2, 01.txt"
@@ -294,6 +296,21 @@ msgid ""
 "fructifierais-je ce monde qui est orné puisqu'un bouddha y est apparu ? » "
 "[Ainsi] s'applique leur regard de sagesse."
 msgstr ""
+"«Qui décline? Qui prospère ? Qui est dans la misère ? Qui vit dans la peur ?"
+" Qui est accablé de souffrances ? Qui est dans le malheur, vit dans la peur "
+"et est accablé de souffrances ? Qui chute dans les mondes inférieurs ? Qui "
+"tombe dans les mondes inférieurs ? Qui tombera dans les mondes inférieurs ? "
+"Qui vais-je extraire des mondes inférieurs et les déposer dans les mondes "
+"supérieurs, la libération et le résultat ultime ? Quel être enlisé dans le "
+"marais des actions mauvaises vais-je tirer par la main ? Quel être dépourvu "
+"des sept richesses des êtres sublimes vais-je inciter à devenir le détenteur"
+" de ces sept richesses ? Quel être n'ayant pas développé les racines "
+"vertueuses pourrais-je inciter à les développer ? Chez quel être ayant déjà "
+"développé les racines vertueuses, pourrais-je les mener à maturité ? Chez "
+"quel être dont les racines vertueuses sont parvenues à maturité pourrais-je "
+"les pousser à émerger grâce à l'épée de la sagesse ? Pour quel être "
+"fructifierais-je le cycle des existences qui est orné de la présence d'un "
+"bouddha ? » Ainsi se pose sur le monde leur regard de sagesse."
 
 # རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས། །དུས་རླབས་<«གཡུང་»བསླབས།>ཡོལ་བར་འགྱུར་ཡང་སྲིད།
 # ། གདུལ་བར་བྱ་བའི་སྲས་རྣམས་ལ། །སངས་རྒྱས་དུས་ལས་ཡོལ་བ་མེད། །
@@ -388,6 +405,10 @@ msgid ""
 " Décidément Je vais moi aussi inviter ce moine et lui offrir le repas. » "
 "pensa-t-il."
 msgstr ""
+"Le père de famille qui la regardait, pensa : « Quel hommage cette chienne "
+"lui rend-elle ! Et elle est un être échoué dans une condition aussi "
+"mauvaise… Ce moine est un grand être sans l'ombre d'un doute. C’est décidé. "
+"Je vais l’inviter à déjeuner. »"
 
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་རྐང་པ་ལ་ཕྱག་འཚལ་<«སྣར་»«ཞོལ་»བཙལ།
@@ -401,6 +422,9 @@ msgid ""
 " « Vénérable Śāriputra, Eh bien, quelle [réponse] donneriez-vous [à l'offre]"
 " de prendre votre repas ici ? » dit-il. Puis,"
 msgstr ""
+"Il se rendit auprès du noble Śāriputra et se prosterna à ses pieds. « "
+"Vénérable Śāriputra, demanda-t-il, accepteriez-vous de venir chez moi "
+"prendre votre déjeuner ? »"
 
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་ལ་ཅང་མི་ཟེར་བས་གནང་ངོ་། །
 # དེ་ནས་ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཅང་མི་ཟེར་བས་གནང་བར་རིག་ནས་
@@ -415,6 +439,10 @@ msgid ""
 ": « Vénérable Śāriputra, Veuillez vous asseoir sur le siège disposé [pour "
 "vous]. » Alors, l'honorable Śāriputra s’assit sur le siège disposé pour lui."
 msgstr ""
+"L'honorable acquiesça par son silence. Voyant sa demande acceptée, le père "
+"de famille disposa un siège à l’intention de son hôte. « Vénérable "
+"Śāriputra, veuillez prendre place sur ces coussins. » L'honorable moine s’y "
+"assit."
 
 # དེ་ནས་ཁྱིམ་བདག་<«གཡུང་»བདུག>དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་བདེ་བར་འདུག་པར་རིག་ནས།
 # རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོས་ཚིམ་པར་བྱས་ཏེ།
@@ -513,6 +541,11 @@ msgid ""
 "qu'elles sont, elles me sont arrivées (lit. proviennent) grâce à cette "
 "chienne. » vit-il. l'ayant vu, il s'occupa beaucoup d'elle."
 msgstr ""
+"Régulièrement, il conviait l'honorable Śāriputra pour le déjeuner. À ces "
+"occasions, ils donnaient tous deux leurs restes à la petite chienne, qui "
+"s'asseyait avec le père de famille devant l'honorable moine et qui écoutait "
+"aussi le Dharma. « Toutes ces merveilles que j’ai comprises, je les dois à "
+"ma chienne », pensa-t-il. Et il prit soin d'elle avec une grande affection."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་<«གཡུང་»«པེ་»ནས།>ཁྱི་མོ་དེ་ནད་ཀྱིས་ཐེབས་ནས།
 # ཤཱ་རིའི་བུས་དེ་ལ་སྨྲས་པ<«གཡུང་»མ།>། བུ་ འདི་ལྟར་
@@ -532,6 +565,12 @@ msgid ""
 "il se pourrait que tu sois débarassée (lit. séparée) des naissances "
 "animales. » dit-il. Puis, l'honorable Śāriputra s'en alla."
 msgstr ""
+"Un jour, Śāriputra vit que la chienne était tombée malade et lui dit avant "
+"de rentrer au monastère : « Mon enfant, voici comment sont les choses. Tous "
+"les phénomènes composés sont impermanents. Ils sont tous faits de "
+"souffrance. Ils sont tous libres d’existence inhérente. L’au-delà de la "
+"souffrance est l'apaisement. Que ma pensée emplisse ton cœur de joie. Il est"
+" possible que tes renaissances animales cessent. »"
 
 # དེ་<«གཡུང་»«པེ་»+ན།>སོང་ནས་རིང་པོ་མ་ལོན་པར་ཁྱི་མོ་དེ་ཡང་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་སེམས་དགའ་བར་གྱུར་ནས་ཤིའོ།
 # ། དེ་ཤི་འཕོས་ཏེ་ འདས་ནས་
@@ -560,6 +599,9 @@ msgid ""
 " comme le vénérable Śāriputra l'a demandé. » dit-il. Puis, Ce père de "
 "famille déposa le cadavre de chienne à un endroit où personne ne le verrait."
 msgstr ""
+"Peu après son départ, la chienne mourut, le cœur empli de joie à la pensée de l'honorable moine. Passée au-delà de cette vie, elle reprit naissance dans cette même maison, dans le sein de l’épouse principale du père de famille. L'honorable Śāriputra, qui était revenu dans cette demeure après la mort de la chienne, fut informé du triste événement.\n"
+"« Posez son cadavre dans un endroit isolé. Ses ossements lui seront utiles dans le futur », conseilla-t-il.\n"
+"« Il sera fait comme le Vénérable Śāriputra le demande », répondit le père de famille avant d'aller à un endroit connu de lui seul pour y cacher la dépouille."
 
 # དེ་ནས་ཁྱིམ་བདག་གི་ཆུང་མ་དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་བུ་བྱུང་སྟེ<«ཁུ་»–བུ་བྱུང་སྟེ།>།
 # བུ་མོ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་<«གཡུང་»«པེ་»ལ།>མདོག་བཟང་བ་གསེར་གྱི་ཁ་དོག་ཅན་མགོ་བོ་གདུགས་ལྟར་འདུག་པ།
@@ -612,6 +654,14 @@ msgid ""
 "souvienne de la suite de ses vies, Alors, dès qu'elle se souvint de la suite"
 " de ses vies, elle ressentit (lit. faire naître) un désenchantement intense."
 msgstr ""
+"« Mon enfant, assieds-toi et écoute le Dharma. » disait l'honorable "
+"Śāriputra à la fille devenue une jeune femme. Mais toute enorgueillie par sa"
+" beauté et par les charmes de la jeunesse, les distractions accaparaient "
+"toujours son attention et elle ne suivait jamais l’enseignement. Un jour, "
+"l'honorable Śāriputra voulut lui ouvrir les yeux. Il disposa devant elle les"
+" ossements de la chienne et la bénit pour qu’immanquablement, ses vies "
+"successives lui reviennent en mémoire. À l'instant où elle se remémora son "
+"passé, elle ressentit un désenchantement intense."
 
 # དེ་སྐྱོ་བ་སྐྱེས་ནས་ བསམས་པ། འཕགས་པ་ཤཱ་རིའི་བུ་ནི།
 # བདག་ལ་དཀའ་བ་བྱེད་བྱེད་པ་ཡིན་པ་ལྟ་ཞིག་སྟེ། འདི་ལས་<«ཞོལ་»ལ།>བརྟེན་ནས།
@@ -625,6 +675,9 @@ msgid ""
 "[ceci] la combla (lit. faire naître) de joie et elle s'assit devant "
 "l'honorable Śāriputra pour écouter le Dharma."
 msgstr ""
+"« Le sublime Śāriputra a grandement œuvré pour moi, pensa-t-elle. Grâce à "
+"lui, je suis maintenant débarrassée des renaissances animales. » Puis, toute"
+" heureuse, elle prit place devant l'honorable moine pour écouter le Dharma."
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་དེའི་བསམ་པ་དང་བག་ལ་ཉལ་དང་།
 # ཁམས་དང་རང་བཞིན་རྟོགས་ནས་ དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ། དེ་ཐོས་ནས་
@@ -663,6 +716,12 @@ msgid ""
 "de nonne pleinement ordonnée, moi aussi, j'aimerais vivre une vie chaste "
 "(lit. suivre le brahmacarya) auprès du Bienheureux. »"
 msgstr ""
+"Ayant vu les vérités, elle se releva. S'inclinant, elle laissa retomber "
+"d'une épaule son vêtement supérieur qu'elle avait replié, puis elle joignit "
+"les mains. « Vénérable Śāriputra, si toute femme peut se retirer du monde, "
+"prendre les vœux complets et ainsi devenir nonne selon le Dharma du Vinaya "
+"si bien enseigné, j’aimerais moi aussi vivre une vie chaste auprès du "
+"Bienheureux. »"
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་<«གཡུང་»«པེ་»–པ།>ཤཱ་རིའི་<«གཡུང་»རཱིའི།>བུས་དེའི་ཕ་མ་ལ་དད་པ་སྨྲས་ནས།
 # སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་ལ་གཏད་དེ་
@@ -732,6 +791,11 @@ msgid ""
 "comme celles-ci. C'est pourquoi, [être] sublime, vous avez enduré tant de "
 "difficultés pour moi. » disait-elle."
 msgstr ""
+"Par après, elle se souvint de la bonté de l'honorable Śāriputra et se rendit"
+" régulièrement auprès de lui. Elle se prosternait à ses pieds et lui disait "
+": « Grâce à vous, sublime Śāriputra, je suis débarrassée des naissances "
+"animales et j’ai obtenu toutes ces qualités. Être sublime, je suis "
+"immensément reconnaissante de tout ce que vous avez enduré pour moi. »"
 
 # དེ་ཡང་དང་ཡང་དུ་ཟེར་བ་དགེ་སློང་མང་པོས་ཐོས་ནས་
 # ཐོས་མ་ཐག་ཏུ་<«གཡུང་»«ལི་»«པེ་»དུ།>དེ་དག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་དྲིས་པ།
@@ -756,6 +820,11 @@ msgid ""
 "famille et se souvint de la suite de ses naissances précédentes, et qui me "
 "dit ceci pour repayer la bonté passée. »"
 msgstr ""
+"De nombreux moines qui l'entendaient répéter sans cesse la même chose voulurent en savoir plus.\n"
+"« Honorable Śāriputra, à quoi pense cette nonne qui répète sans cesse ces paroles ? » \n"
+"« Vous aviez vu que ce père de famille avait une chienne dans sa maison ? » leur demanda-t-il.\n"
+"« Vénérable Śāriputra, nous l'avions vu. »\n"
+"« Au moment de mourir, poursuit-il, le cœur de cette chienne s'était empli de joie à ma pensée. Elle renaquit dans la maison de ce même père de famille. Maintenant, elle se souvient de ses vies précédentes et elle vient à moi pour repayer la bonté dont elle a bénéficié. »"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ལ་དགེ་སློང་རྣམས་ཀྱིས་ཞུས་པ། བཙུན་པ་
 # དགེ་སློང་མ་འདིས་ལས་ཅི་བགྱིས་ན། ལས་དེའི་རྣམ་པར་སྨིན་པས་སྔོན་ཁྱིར་སྐྱེས་ལགས།
@@ -774,6 +843,12 @@ msgid ""
 "puis [qu']elle élimine toutes les émotions perturbatrices et [qu']elle "
 "manifeste l'état d'arhat ? »"
 msgstr ""
+"« Vénérable, demandèrent les moines au Bienheureux, qu'a fait cette nonne "
+"pour naître parmi les chiens ? Qu'a-t-elle fait pour renaître parmi les "
+"hommes après sa mort, pour vous contenter, Bienheureux, et ne rien faire qui"
+" vous mécontente ? Qu’a-t-elle fait pour se retirer du monde selon votre "
+"enseignement, pour éliminer toutes les émotions perturbatrices et manifester"
+" l’état d’arhat ? »"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ འདས་པའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་ལ་
 # ད་ལྟར་<«གཡུང་»«པེ་»ལྟ།>བྱུང་བའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་དོ། ། བཙུན་པ་
@@ -784,6 +859,8 @@ msgid ""
 " aussi une part d'actions qui ont eu lieu maintenant. » « Vénérable, quelles"
 " actions du passé a-t-elle réalisées ? »"
 msgstr ""
+"« Moines, une part des actions viennent du passé, mais l'autre part a eu lieu à notre époque. »\n"
+"« Vénérable, qu'a-t-elle fait dans le passé ? »"
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
 # བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན།
@@ -849,6 +926,13 @@ msgid ""
 "brahmacarya). pensa-t-elle. Puis, elle servit les deux sanghas en accord "
 "avec le Dharma."
 msgstr ""
+"Nonne, elle étudia le Tripiṭaka et devint une enseignante dotée des "
+"connaissances et de l'éloquence qui libère autrui. Des habits, de la "
+"nourriture, des couvertures, des coussins, des médicaments et des "
+"fournitures médicales lui étaient offerts. « Voilà qui est bien, "
+"pensa-t-elle. Je peux désormais aider ceux qui vivent une vie chaste avec "
+"tout ce que je reçois comme dons et comme marques de respect. » Ainsi, elle "
+"servit les deux saṅghas conformément au Dharma."
 
 # དེ་ནས་ཕྱིས་དེ་ལ་བྲེལ་བ་ཞིག་བྱུང་སྟེ།
 # དེས་སློབ་པ་དང་མི་སློབ་པའི་དགེ་སློང་མ་མང་པོ་ཞིག་ལ་གསོལ་བ་བཏབ་ན། དེ་དག་ན་རེ་
@@ -872,6 +956,13 @@ msgid ""
 " vous, vous ne pouvez même pas passer un moment à m'aider (lit. faire mon "
 "bien) ? » dit-elle."
 msgstr ""
+"Plus tard, prise par une affaire urgente, elle alla trouver de nombreuses "
+"nonnes qui avaient ou non parfait leur apprentissage. Toutes lui répondirent"
+" qu'elles ne pourraient pas délaisser leurs occupations vertueuses pour lui "
+"venir en aide. Ces réponses l'enserrèrent toute entière dans une colère "
+"intense. « Comme une chienne, je passe tout mon temps à vous nourrir et à "
+"vous soigner. Et vous ? Vous ne pouvez pas m'aider un court instant ? » "
+"s’écria-t-elle."
 
 # དེ་ནས་དགེ་སློང་མ་དེ་རྣམས་ཀྱིས་བསམས་པ།
 # ཉོན་མོངས་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»+པ།>མ་འདི་ནི་དམས་<«གཡུང་»«པེ་»སྨྲས།>ཤིང་ཉམས་པར་གྱུར་ཏེ།
@@ -908,6 +999,11 @@ msgid ""
 " et regrettant fortement [ses agissements], elle servit plus encore les deux"
 " saṅghas en accord avec le Dharma et vécut chastement toute sa vie, puis"
 msgstr ""
+"Ne pouvant la laisser errer dans le samsara et subir d'atroces souffrances du fait des émotions qui la contrôlaient et la perdraient, elles décidèrent de lui venir en aide. \n"
+"« Sais-tu qui nous sommes et qui tu es toi-même ? » lui demandèrent-elles. \n"
+"« Et comment ! Vous êtes de celles qui se sont retirées du monde et moi tout autant ! » leur lança-t-elle.\n"
+"« Sœur aînée, lui dirent-elles, il est vrai que nous nous sommes toutes retirées du monde. Pourtant, tu es un être ordinaire lié par toutes les émotions tandis que nous avons accompli tout ce qui devait l'être. Donc, confesse ta mauvaise action en la reconnaissant. Sinon, il est certain que tu erreras dans le saṃsāra et que tu subiras de grandes souffrances ! » \n"
+"Prise d'un regret amer, elle redoubla de dévouement pour servir les deux saṅghas en accord avec le Dharma et vécut chastement toute sa vie."
 
 # འཆི་ཀར་<«ཞོལ་»གར།>སྨོན་ལམ་བཏབ་པ། ཀྱེ་མ་
 # བདག་ཀྱང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཀྱང་།>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
@@ -941,6 +1037,20 @@ msgid ""
 "pas devoir subir les résultats de ces actions. » formula-t-elle (lit. fit-"
 "elle)."
 msgstr ""
+"Au moment de mourir, elle formula le souhait suivant : « Quelle merveille ! "
+"Je me suis retirée du monde selon l'enseignement du complet et parfait "
+"Bouddha Kāśyapa. J'ai vécu chastement toute ma vie. J'ai servi la saṅgha en "
+"accord avec le Dharma. Par ces racines de vertus, où que je naisse, puissé-"
+"je toujours naître dans une lignée familiale qui est riche, posséde de "
+"grandes richesses et de nombreux (lit. grands) biens. Puissé-je être belle "
+"et bien proportionnée et être jolie à ravir. Puissé-je contenter par mes "
+"actes le Bienheureux Bouddha que deviendra le jeune brahmane Uttara, en "
+"accord avec la prophécie du complet et parfait bouddha Kāśyapa. Puissé-je ne"
+" rien faire qui le mécontente. Puissé-je me retirer du monde d'après son "
+"enseignement, éliminer toutes les émotions perturbatrices et manifester "
+"l'état d'arhat. Puissé-je ne pas devoir subir les résultats de m'être mis en"
+" colère et d'avoir dit des paroles blessantes à celles qui vivaient une vie "
+"chaste. »"
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས་
 # དེའི་ཚེ་དགེ་སློང་མར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་དགེ་སློང་མ་འདི་ཉིད་ཡིན་ཏེ།
