@@ -28,7 +28,7 @@ on lui donna un nom en accord avec sa caste. Puis,
 
 il se développa au fil du temps grâce à du lait, du yaourt, du beurre, du beurre purifié (lit. fondu) et du beurre sur-purifié (lit. l'essence du beurre). Ainsi,
 	འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་<«གཡུང་»སྙིང་ཀུས། «ལི་»«པེ་»«སྣར་»སྙིང་གུས། «ཅོ་»«ཞོལ་»སྙིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ་
-Ensuite, lorsqu'il fut capable de marcher, son père apporta à la maison un chiot pour l'inciter à jouer et
+ensuite, lorsqu'il fut capable de marcher, son père apporta à la maison un chiot pour l'inciter à jouer et
 	དེ་གང་གི་ཚེ། འགྲོ་ནུས་པར་གྱུར་པ་དེའི་ཚེ། དེ་རྩེར་གཞུག་<«ཅོ་»«ཁུ་»གཞུགས།>པའི་ཕྱིར་ཕས་ཁྱི་གུ་ཞིག་ཁྱིམ་དུ་བཞག་སྟེ་
 le donna au garçon.
 	ཁྱེའུ་ལ་བྱིན་ནོ། །
@@ -62,7 +62,7 @@ ils s'absorbent dans les neuf absorptions méditatives successives ;
 	མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་<«པེ་»ལ།>དགུ་ལ་སྙོམས་པར་འཇུག་པ།
 ils possèdent la puissance (lit. force) des dix forces ;
 	སྟོབས་བཅུའི་སྟོབས་དང་ལྡན་པ་
-Eux qui font résonner le grand rugissement parfait du lion, ils contemplent spontanément le monde avec les yeux de bouddhas pendant les six périodes de la journée, trois fois le jour et trois fois la nuit.
+eux qui font résonner le grand rugissement parfait du lion, ils contemplent spontanément le monde avec les yeux de bouddhas pendant les six périodes de la journée, trois fois le jour et trois fois la nuit.
 	ཡང་དག་པའི་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་<«ཞོལ་»སྒྲོག>པ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ<«གཡུང་»སྟེ།>།
 
 
@@ -120,13 +120,13 @@ Pour leurs enfants qu'ils doivent dompter, les bouddhas ne prennent [jamais] de 
 	གདུལ་བར་བྱ་བའི་སྲས་རྣམས་ལ། །སངས་རྒྱས་དུས་ལས་ཡོལ་བ་མེད། །
 
 
-De même que les Bienheureux Bouddhas regardent le monde avec les yeux de bouddha pendant les six périodes de la journée, les trois du jour et les trois de la nuit,
+De même que les Bienheureux Bouddhas regardent le monde avec les yeux de bouddha pendant les six périodes de la journée, les trois du jour et les trois de la nuit, 
 	སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཇི་ལྟར་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་པ་དེ་བཞིན་དུ་
 les grands auditeurs, eux aussi, regardent le monde avec les yeux d'auditeur pendant les six périodes de la journée, les trois du jour et les trois de la nuit.
 	ཉན་ཐོས་ཆེན་པོ་རྣམས་ཀྱང་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་རྟེན་ལ་ལྟ་བར་བྱེད་དོ། །
 
 
-lorsque l'honorable Śāriputra regardait le monde avec les yeux d'auditeur,
+Lorsque l'honorable Śāriputra regardait le monde avec les yeux d'auditeur,
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་རྟེན་ལ་བལྟས་ན་
 il vit que le moment était venu de dompter le père de famille et tout son entourage. Puis,
 	ཁྱིམ་བདག་འཁོར་དང་བཅས་པ་གདུལ་བའི་དུས་ལ་བབ་པར་མཐོང་ནས།
@@ -140,7 +140,7 @@ partit à Śrāvastī pour [y recevoir] l'aumône.
 	མཉན་དུ་ཡོད་པར་བསོད་སྙོམས་ལ་སོང་ངོ་། །
 
 
-Faisant progressivement l'aumône,
+Faisant progressivement l'aumône, 
 	དེ་མཐར་གྱིས་བསོད་སྙོམས་ལ་རྒྱུ་བ་ལས།
 il se rendit à l'endroit de la maison de ce père de famille et à ce moment,
 	ཁྱིམ་བདག་དེའི་ཁྱིམ་ག་ལ་བ་དེར་སོང་བ་དང་།
@@ -332,7 +332,7 @@ il vit qu'il naquit dans le sein de l'épouse de ce père de famille dans la mai
 	ཁྱིམ་བདག་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–དེ།>ཉིད་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>ཁྱིམ་དུ་ཁྱིམ་བདག་གི་ཆུང་མའི་མངལ་དུ་སྐྱེས་པར་མཐོང་ངོ་། །
 L'ayant vu,
 	མཐོང་ནས་<«གཡུང་»སུ།>ཀྱང་
-Par compassion pour lui (lit. lui-même), il alla seul, sans serviteur, dans la maison de ce père de famille. Alors,
+par compassion pour lui (lit. lui-même), il alla seul, sans serviteur, dans la maison de ce père de famille. Alors,
 	དེ་ཉིད་ལ་སྙིང་བརྩེ་བའི་ཕྱིར་གཡོག་མེད་པར་གཅིག་པུ་<11,#>ཁྱིམ་བདག་དེའི་ཁྱིམ་དུ་སོང་བ་དང་།
 ce père de famille vit l'honorable Śāriputra arriver seul, sans compagnon ni serviteur.
 	ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཟླ་མེད་པ་དང་། གཡོག་མེད་པར་གཅིག་པུ་འོང་བར་<«གཡུང་»»«ལི་»»«པེ་»»«སྣར་»»«ཅོ་»«ཞོལ་»»བ།>མཐོང་ངོ་། །
@@ -350,7 +350,7 @@ demanda-t-il.
 	དྲིས་སོ། །
 L'honorable Śāriputra dit : «
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ།
-en dehors de [ceux] qui seraient donnés par [ceux] comme vous, où ailleurs pourrait-il y avoir de source de serviteurs ? »
+En dehors de [ceux] qui seraient donnés par [ceux] comme vous, où ailleurs pourrait-il y avoir de source de serviteurs ? »
 	ཁྱེད་ཅག་ལྟ་བུ་འབའ་ཞིག་གིས་བྱིན་པ་མ་གཏོགས་པར་བདག་ཅག་ལ་གུད་ན་གཡོག་གི་འབྱུང་ཁུངས་<«གཡུང་»»«ལི་»»«པེ་»»«སྣར་»»«ཅོ་»»ཁུང་།>ག་ལ་ཡོད།
 Le père de famille dit : «
 	ཁྱིམ་བདག་གིས་སྨྲས་པ།
@@ -364,7 +364,7 @@ je [vous] l'offrirai, être sublime, comme serviteur. »
 	དེ་བདག་གིས་འཕགས་པའི་ཞམ་རིང་དུ་དབུལ་ལོ། །
 L'honorable Śāriputra dit : «
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ།
-[ceux dont] l'esprit (lit. l'intérieur) est vertueux sont stables dans leurs promesses. »
+[Ceux dont] l'esprit (lit. l'intérieur) est vertueux sont stables dans leurs promesses. »
 	ཁོང་དགེ་བ་རྣམས་ནི་དམ་བཅས་པ་ལ་བརྟན་པ་ཡིན་ནོ། །
 dit-il. Puis,
 	དེ་སྐད་ཅེས་སྨྲས་ནས<«གཡུང་»པ་དང་།>།
@@ -380,7 +380,7 @@ Ensuite, la fête de sa naissance fut faite [de manière] grandiose (lit. vastem
 	དེ་ནས་དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས།
 « Comment nommer ce garçon ? »
 	ཁྱེའུ་འདིའི་མིང་ཇི་སྐད་གདགས་ཞེས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཤེས།>
-un nom lui fut donné : 
+Un nom lui fut donné : 
 	མིང་འདོགས་པར་བྱེད་དེ།
 « Puisque les yeux de ce garçon sont petits, il sera nommé Petits-Yeux. »
 	ཁྱེའུ་འདི་མིག་ཆུང་བས་ན་མིང་མིག་ཆུང་ཞེས་གདགས་སོ་ཞེས་
@@ -420,7 +420,7 @@ il s'assit sur le siège disposé [pour lui].
 
 S'étant assis,
 	འདུག་ནས་ཀྱང་
-L'honorable Śāriputra dit à ce père de famille : «
+l'honorable Śāriputra dit à ce père de famille : «
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་ལ་སྨྲས་པ།
 Père de famille,
 	ཁྱིམ་བདག་
@@ -446,7 +446,7 @@ dit : «
 	སྨྲས་པ།
 Enfant,
 	བུ་
-Avant que tu naisses, je t'avais offert à [cet] [être] sublime. Donc,
+avant que tu naisses, je t'avais offert à [cet] [être] sublime. Donc,
 	ཁྱོད་མ་བཙས་པའི་སྔ་རོལ་ནས། འཕགས་པ་ལ་ངས་ཕུལ་[9a]གྱིས་<«ཞོལ་»གྱི།>
 va et
 	སོང་ལ་
@@ -508,7 +508,7 @@ L'honorable Śāriputra dit : «
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ།
 Enfant,
 	བུ་
-Réfléchis (lit. pense) de quoi ces cicatrices viennent. »
+réfléchis (lit. pense) de quoi ces cicatrices viennent. »
 	རྨའི་སྒྲོས་འདི་སྔོན་ཅི་ལས་གྱུར་པ་སོམས་ཤིག །
 
 
@@ -598,7 +598,7 @@ Je dois repayer la bonté de Précepteur, et
 	བདག་གིས་མཁན་པོའི་དྲིན་བསབ་དགོས་ཏེ།
 je lui offrirai (lit. ferai) [mes] services tant que je serai en vie en étant un novice. »
 	བདག་ཇི་སྲིད་འཚོའི་བར་དུ་དགེ་ཚུལ་བར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཕར།>འདུག་བཞིན་དུ་དེའི་བསྙེན་བཀུར་བྱེད་དོ། །
-ils dirent : «
+Ils dirent : «
 	དེ་དག་གིས་སྨྲས་པ།
 Quelle bonté spéciale (lit. supérieure) Précepteur t'a octroyé ? »
 	ཁྱོད་ལ་མཁན་པོས་ལྷག་པར་དྲིན་ཅི་ཞིག་བཏགས<«གཡུང་»ཅིག་བརྟགས།>།
@@ -646,7 +646,7 @@ Moines,
 	དགེ་སློང་དག་
 Petits-Yeux lui-même a réalisé et accumulé des actions dans le passé, et
 	མིག་ཆུང་འདི་ཉིད་ཀྱིས་སྔོན་ལས་བྱས་ཤིང་བསགས་<«ཁུ་»གསགས།>ཏེ།
-Moines,
+moines,
 	དགེ་སློང་དག་
 les actions réalisées et accumulées ne mûrissent pas sur l'élément de la terre à l'extérieur.
 	ལས་བྱས་ཤིང་བསགས་པ་རྣམས་ནི། ཕྱི་རོལ་གྱི་སའི་ཁམས་ལ་རྣམ་པར་སྨིན་པར་མི་འགྱུར།
@@ -656,9 +656,9 @@ les actions vertueuses et non-vertueuses qui sont réalisées et accumulées mû
 	ལས་དགེ་བ་དང་མི་དགེ་བ་བྱས་ཤིང་བསགས་པ་རྣམས་ནི་ཟིན་པའི་ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་འབའ་ཞིག་ལ་རྣམ་པར་སྨིན་པར་འགྱུར་རོ། །
 
 
-les actes de ceux possédant un corps, ne se détérioreront pas même après cent kalpas.
+Les actes de ceux possédant un corps, ne se détérioreront pas même après cent kalpas.
 	ལུས་ཅན་དག་གི་ལས་<«པེ་»ལམ།>རྣམས་ནི། །བསྐལ་པ་བརྒྱར་ཡང་ཆུད་མི་ཟ། །
-lorsque [les causes et les conditions] sont rassemblées et que le moment est venu,
+Lorsque [les causes et les conditions] sont rassemblées et que le moment est venu,
 	ཚོགས་ཤིང་དུས་ལ་བབ་པ་ན། །
 elles mûrissent dans leur propre résultat.
 	འབྲས་བུ་ཉིད་དུ་སྨིན་པར་འགྱུར། །
@@ -696,9 +696,9 @@ il [devint] une enseignante du Dharma qui possédait les connaissances et l'élo
 	དེ་རིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»རིགས།>པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བ། གོས་དང་ཟས་དང་མལ་ཆ་དང་སྟན་<«གཡུང་»«པེ་»བསྟན།>དང་ནད་གསོས་དང་སྨན་ཟོང་རྣམས་རྙེད་པར་གྱུར་ནས།
 il pensa : «
 	དེས་<«གཡུང་»«པེ་»དེ།>བསམས་པ་
-Décidément
+Décidément,
 	མ་ལ་
-Toutes ces choses nécessaires (lit. à obtenir) que j'obtiens comme dons et comme marques de respect, je les emploierai assurément (lit. sans doute) au bénéfice (lit. faire le bien) de ceux qui vivent une vie chaste (lit. suivre le brahmacarya).
+toutes ces choses nécessaires (lit. à obtenir) que j'obtiens comme dons et comme marques de respect, je les emploierai assurément (lit. sans doute) au bénéfice (lit. faire le bien) de ceux qui vivent une vie chaste (lit. suivre le brahmacarya).
 	བདག་གིས་རྙེད་པ་དང་བཀུར་སྟིའི་སྒོ་ནས། རྙེད་པར་བྱ་བ་རྙེད་པ་གང་ཡིན་པ་དེས། བདག་གིས་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་རྣམས་ལ་ཕན་གདགས་[10b]པར་བྱ་གོར་<«གཡུང་»གོ།>མ་ཆག་སྙམ་དུ་
 pensa-t-il. Puis,
 	བསམས་ནས།
@@ -724,9 +724,9 @@ il dit aux autres moines : «
 	དེས་དགེ་སློང་གཞན་དག་ལ་སྨྲས་པ།
 De qui est-ce le tour de servir la boisson du soir ? »
 	དེང་གུང་སྐྱེམས་ཀྱི་ཞལ་<«གཡུང་»ལྟ།>ཏ་བྱེད་པའི་རེས་སུ་<«གཡུང་»«པེ་»–སུ།>ལ་བབ།
-ils dirent : «
+Ils dirent : «
 	དེ་དག་གིས་སྨྲས་པ།
-c'est le tour (lit. ça tombe sur) du moine "untel". »
+C'est le tour (lit. ça tombe sur) du moine "untel". »
 	དགེ་སློང་ཆེ་གེ་མོ་ཞིག་ལ་བབ་བོ། །
 Alors, celui qui servait [la saṅgha] se mit en colère et
 	དེ་ནས་ཞལ་ཏ་བྱེད་པ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེ།>ཁྲོས་ནས་
@@ -738,7 +738,7 @@ dit-il.
 	སྨྲས་སོ། །
 
 
-après avoir dit ceci,
+Après avoir dit ceci,
 	དེ་སྐད་སྨྲས་ནས།
 il se dirigea et alla à l'endroit où se trouvait cet arhat et
 	དགྲ་བཅོམ་པ་དེ་ག་ལ་བ་དེར་དོང་སྟེ་ཕྱིན་ནས་
@@ -746,7 +746,7 @@ dit : «
 	སྨྲས་པ།
 Vénérable,
 	བཙུན་པ་
-Pour vous, je rends heureux les bienfaiteurs et les donateurs et
+pour vous, je rends heureux les bienfaiteurs et les donateurs et
 	བདག་ནི་ཁྱེད་ཀྱི་ཕྱིར་སྦྱིན་བདག་དང་སྦྱིན་པ་པོ་རྣམས་དགའ་བར་བྱས་ནས།
 je vous sers [en t'offrant] tous les objets [nécessaire à la vie quotidienne]. Pendant ce temps,
 	ཡོ་བྱད་ཐམས་ཅད་ཀྱིས་བསྙེན་བཀུར་བྱེད་ན་
@@ -764,7 +764,7 @@ Alors, cet arhat pensa : «
 	དེ་ནས་དགྲ་བཅོམ་པ་དེས་བསམས་པ།
 Cette [personne] perturbée est enserrée et perdue [par ses émotions].
 	ཉོན་མོངས་པ་འདི་ནི་དམས་<«གཡུང་»«པེ་»སྨྲས།>ཤིང་ཉམས་པར་གྱུར་ཏེ།
-il n'est pas acceptable qu'elle erre dans le samsara et subisse (lit. obtienne) de grandes souffrances. »
+Il n'est pas acceptable qu'elle erre dans le samsara et subisse (lit. obtienne) de grandes souffrances. »
 	འཁོར་བ་ན་འཁོར་ཞིང་སྡུག་བསྔལ་ཆེན་པོ་རྙེད་ན་མི་རུང་ངོ་སྙམ་དུ་
 pensa-t-il.
 	བསམས་ནས་
@@ -784,9 +784,9 @@ vous êtes un renonçant et
 	ཁྱོད་ཀྱང་རབ་ཏུ་བྱུང་བ་ཡིན་ལ་
 je suis aussi un renonçant. »
 	ང་ཡང་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ། །
-l'arhat dit : «
+L'arhat dit : «
 	དགྲ་བཅོམ་པས་སྨྲས་པ།
-il est vrai que nous sommes semblables en tant que renonçants, mais
+Il est vrai que nous sommes semblables en tant que renonçants, mais
 	འུ་བུ་ཅག་གཉིས་རབ་ཏུ་བྱུང་བར་འདྲ་མོད་ཀྱི་
 tu es un être ordinaire que tous les liens enserrent, et
 	ཁྱོད་ནི་བཅིང་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བཅིངས་པ།>ཐམས་ཅད་ཀྱིས་བཅིངས་པའི་སོ་སོའི་སྐྱེ་བོ་ཡིན་ལ།
@@ -834,7 +834,7 @@ après avoir éliminé toutes les émotions perturbatrices,
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
 puissé-je manifester l'état d'arhat (lit. l'arhat-même).
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །
-puissé-je ne pas obtenir le résultat de l'action d'avoir dit des paroles blessantes (lit. rugueuses) à ce [moine] vivant une vie chaste »
+Puissé-je ne pas obtenir le résultat de l'action d'avoir dit des paroles blessantes (lit. rugueuses) à ce [moine] vivant une vie chaste »
 	བདག་གིས་ཚངས་པ་མཚུངས་པར་སྤྱོད་པ་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པའི་སྡིག་པའི་ལས་དེའི་འབྲས་བུ་བདག་གིས་རྙེད་པར་མ་གྱུར་ཅིག ། ཅེས་
 dit-il.
 	བྱས་སོ། །
@@ -884,7 +884,7 @@ après avoir éliminé toutes les émotions perturbatrices,
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་<«ལི་»«ཅོ་»སྤོངས།>ཏེ།
 puissé-je manifester l'état d'arhat (lit. l'arhat-même). »)
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་
-le résultat de l'action d'avoir fait [ces souhaits] le fit naître maintenant dans une lignée familiale qui est riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens. Ainsi,
+Le résultat de l'action d'avoir fait [ces souhaits] le fit naître maintenant dans une lignée familiale qui est riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens. Ainsi,
 	བྱས་པའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»པ།>ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི། ད་ལྟར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ཏེ།
 
 
