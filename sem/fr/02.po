@@ -788,7 +788,7 @@ msgid ""
 "དེ་ཉིད་ ལ་ སྙིང་བརྩེ་བ␣འི་ ཕྱིར་ གཡོག་ མེད་པ␣ར་ གཅིག་པུ་ ཁྱིམ་བདག་ དེ␣འི་ "
 "ཁྱིམ་ དུ་ སོང་བ་ དང་ །"
 msgstr ""
-"Par compassion pour lui (lit. lui-même), il alla seul, sans serviteur, dans "
+"par compassion pour lui (lit. lui-même), il alla seul, sans serviteur, dans "
 "la maison de ce père de famille. Alors,"
 
 # ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཟླ་མེད་པ་དང་།
