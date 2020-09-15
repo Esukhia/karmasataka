@@ -1878,7 +1878,7 @@ msgstr "je suis aussi un renonçant. »"
 
 msgctxt "9b2e2b1477b2497b8072a806c797f55b"
 msgid "དགྲ་བཅོམ་པ␣ས་ སྨྲས་པ །"
-msgstr "l'arhat dit : «"
+msgstr "L'arhat dit : «"
 
 msgctxt "66ac93ef03fd45d0820b53ee18210488"
 msgid "འུ་བུ་ཅག་ གཉིས་ རབ་ཏུ་ བྱུང་བ␣ར་ འདྲ་ མོད་ ཀྱི་"
