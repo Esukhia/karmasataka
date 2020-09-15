@@ -212,12 +212,12 @@ msgid ""
 "pieds de sa langue et elle remuait sa queue et tournait autour d'eux en les "
 "maintenant à sa droite (lit. par la droite)."
 msgstr ""
-"Quand il sut marcher, son père apporta à la maison une petite chienne comme "
-"compagnon de jeu. Dès qu'elle voyait des fidèles non-bouddhistes, elle se "
-"jetait sur eux, les mordait et déchirait leurs vêtements. À l'inverse, quand"
-" elle voyait des moines bouddhistes, elle se frottait contre eux, leur "
-"léchait les pieds, puis, la queue frétillante, elle tournait autour d’eux en"
-" les maintenant à sa droite."
+"Quand il sut marcher, son père rentra à la maison avec une petite chienne "
+"qu'il lui donna comme compagnon de jeu. Dès qu'elle voyait des fidèles non-"
+"bouddhistes, elle se jetait sur eux, les mordait et déchirait leurs "
+"vêtements. À l'inverse, quand elle voyait des moines bouddhistes, elle se "
+"frottait contre eux, leur léchait les pieds, puis, la queue frétillante, "
+"elle tournait autour d’eux en les maintenant à sa droite."
 
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་ལམ་སྟོན་པ།
 # རྣམ་པ་གཉིས་ཀྱི་ཤེས་བྱ་དང་། ཡེ་ཤེས་ལ་མངའ་བརྙེས་པ།
