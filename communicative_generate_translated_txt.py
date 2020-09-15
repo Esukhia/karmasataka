@@ -60,20 +60,19 @@ class Po:
     @staticmethod
     def _format_fr(text):
         # see http://unicode.org/udhr/n/notes_fra.html
-        text = re.sub(r'\s+', r' ', text)  # remove all double spaces
-        text = re.sub(r'\s,', r',', text)
-        text = re.sub(r'\s\.', r'.', text)
-        text = re.sub(r'\s?;', '\u202f;', text)
-        text = re.sub(r'\s?!', '\u202f!', text)
-        text = re.sub('\s?\?', '\u202f?', text)
-        text = re.sub('\s?:', '\u00a0:', text)
-        text = re.sub(r'-\s', '–\u0020', text)
-        text = re.sub(r'«\s?', '«\u202f', text)
-        text = re.sub('\s?»', '\u00a0»', text)
-        text = re.sub(r'\(\s', r'(', text)
-        text = re.sub(r'\[\s', r']', text)
-        text = re.sub(r'\s\)', r')', text)
-        text = re.sub(r'\s]', r']', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+,', r',', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+\.', r'.', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+?;', '\u202f;', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+?!', '\u202f!', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+?\?', '\u202f?', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+?:', '\u00a0:', text)
+        text = re.sub(r'-[ \r\f\v\u202f\u00a0]+', '–\u0020', text)
+        text = re.sub(r'«[ \r\f\v\u202f\u00a0]+?', '«\u202f', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+?»', '\u00a0»', text)
+        text = re.sub(r'\([ \r\f\v\u202f\u00a0]+', r'(', text)
+        text = re.sub(r'\[[ \r\f\v\u202f\u00a0]+', r']', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+\)', r')', text)
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+]', r']', text)
         return text
 
     def _format_fields(self):

@@ -1,4 +1,4 @@
-En sanskrit : Karmaśataka
+En sanskrit : Karmaśataka
 	[1b]<མཚན་བྱང་འདི་ཆོས་ཚན་འདིའི་མཚན་བོད་སྐད་དུ་སྨོས་པ་ལྟར་བཀོད།>༄༅༅། །རྒྱ་གར་སྐད་དུ། ཀརྨ་ཤ་ཏ་ཀ།
 En tibétain : lé gya thampa pa En français : les cent karmas.
 	བོད་སྐད་དུ། ལས་བརྒྱ་ཐམ་པ་པ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ།>།
@@ -112,7 +112,7 @@ eux qui font résonner le parfait [et] grand rugissement du lion, naturellement,
 
 « Qui décline ?
 	སུ་ནི་རྒུད་
-Qui prospère (lit. s'étendre) ?
+Qui prospère (lit. s'étendre)?
 	སུ་ནི་དར་
 Qui est dans la misère ?
 	སུ་ནི་ཕོངས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»འཕོངས།>ཤིང་འདུག །
@@ -206,7 +206,7 @@ tourna trois fois [autour de lui].
 
 Ceci, le père de famille le vit.
 	དེ་ཡང་ཁྱིམ་བདག་དེས་མཐོང་ངོ་། །
-L'ayant vu, il se dit : « 
+L'ayant vu, il se dit : «
 	མཐོང་ནས་ཀྱང་བསམས་<«ཞོལ་»བསམ། པོད་འདིའི་ནང་དུ་བསམས་པ་དང་བསམས་ཏེ་སོགས་ཀྱི་བསམས་ཞེས་པ་རྣམས་༼ཞོལ་༽ལ་བསམ་ཞེས་དང་༼གཡུང་༽༼པེ་༽༼ཁུ་༽ལ་སྐབས་འགར་བསམ་ཞེས་འཁོད་ཀྱང་གཤམ་དུ་བསྡུར་མཆན་དུ་བཀོད་མེད།>པ།
 Décidément
 	མ་ལ་
@@ -216,7 +216,7 @@ même cette chienne, un être (lit. qui-a-un-corps) tombé dans une condition co
 	ཁྱི་མོ་ལོག་པར་ལྟུང་བའི་ལུས་ཅན་འདི་ཡང་འདི་ལ་དེ་ལྟ་བུའི་བཀུར་སྟི་<«ཅོ་»བསྟི།>བྱེད་པར་སེམས་པ་ལས་ན།
 il ne fait aucun doute que ce moine est un grand être. »
 	དགེ་སློང་འདི་ནི་བདག་ཉིད་ཆེན་པོ་ཞིག་ཡིན་གོར་མ་ཆག་སྙམ་དུ་
-pensa-t-il. Puis, « 
+pensa-t-il. Puis, «
 	བསམས་ཏེ།
 Décidément
 	མ་ལ་
@@ -232,7 +232,7 @@ il alla à l'endroit où se trouvait l'honorable Śāriputra, et [une fois] arri
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་
 il se prosterna aux pieds de l'honorable Śāriputra et
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་རྐང་པ་ལ་ཕྱག་འཚལ་<«སྣར་»«ཞོལ་»བཙལ། པོད་འདིའི་ནང་དུ་ཕྱག་འཚལ་ཞེས་པ་རྣམས་༼སྣར་༽༼ཞོལ་༽ལ་ཕྱག་བཙལ་ཞེས་འཁོད་ཀྱང་གཤམ་དུ་བསྡུར་མཆན་དུ་བཀོད་མེད།>ཏེ།
-lui dit ceci : « 
+lui dit ceci : «
 	འདི་སྐད་ཅེས་སྨྲས་སོ། །
 Vénérable Śāriputra,
 	བཙུན་པ་ཤཱ་རིའི་བུ་
@@ -250,7 +250,7 @@ Alors, le père de famille vit que l'honorable Śāriputra avait accepté en ne 
 	དེ་ནས་ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཅང་མི་ཟེར་བས་གནང་བར་རིག་ནས་
 il disposa le siège de l'honorable Śāriputra et
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་སྟན་བཤམས་ཏེ་
-dit ceci : « 
+dit ceci : «
 	འདི་སྐད་ཅེས་སྨྲས་སོ། །
 Vénérable Śāriputra,
 	བཙུན་པ་ཤཱ་རིའི་བུ་
@@ -324,7 +324,7 @@ La chienne s'asseyait aussi devant l'honorable Śāriputra et
 	ཁྱི་མོ་དེ་ཡང་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་མདུན་དུ་འདུག་ནས་
 écoutait le Dharma.
 	ཆོས་ཉན་ཏོ། །
-Alors, le père de famille pensa : « 
+Alors, le père de famille pensa : «
 	དེ་ནས་ཁྱིམ་བདག་དེས་བསམས་པ་
 Toutes les [choses] merveilleuses comme [celles-ci] que j'ai comprises, autant qu'elles sont, elles me sont arrivées (lit. proviennent) grâce à cette chienne. »
 	བདག་གིས་ལེགས་<«གཡུང་»«པེ་»ལགས།>པ་འདི་ལྟ་བུ་རྟོགས་པ་<«ཅོ་»–པ།>ཅི་ཡང་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཅིའང་།>རུང་བ་དེ་དག་ཐམས་ཅད་ནི་ཁྱི་མོ་འདིའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»མོའི།>མཐུ་ལས་བྱུང་བ་ཡིན་ནོ། །སྙམ་དུ་
@@ -336,7 +336,7 @@ l'ayant vu, il s'occupa beaucoup d'elle.
 
 Alors, après un certain temps, cette chienne tomba malade et
 	དེ་ནས་ཕྱི་ཞིག་ན་<«གཡུང་»«པེ་»ནས།>ཁྱི་མོ་དེ་ནད་ཀྱིས་ཐེབས་ནས།
-Śāriputra lui dit : « 
+Śāriputra lui dit : «
 	ཤཱ་རིའི་བུས་དེ་ལ་སྨྲས་པ<«གཡུང་»མ།>།
 Enfant,
 	བུ་
@@ -370,7 +370,7 @@ dans cette même maison, elle renaquit dans le sein de l'épouse principale de c
 	ཁྱིམ་དེ་ཉིད་དུ་ཁྱིམ་བདག་དེའི་ཆུང་མ་ཆེན་མའི་མངལ་དུ་སྐྱེས་སོ། །
 Après la mort de la chienne (lit. sa mort), l'honorable Śāriputra était revenu à cette maison et
 	དེ་ཤི་བའི་ཚེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་སླར་ཁྱིམ་དེར་འོངས་ནས།
-le père de famille avait raconté [la mort de la chienne] à l'honorable Śāriputra : « 
+le père de famille avait raconté [la mort de la chienne] à l'honorable Śāriputra : «
 	ཁྱིམ་བདག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་བསྙད་<«གཡུང་»བརྙད།>དེ།
 Vénérable Śāriputra,
 	བཙུན་པ་ཤཱ་<«གཡུང་»«པེ་»ཤ>རིའི་བུ་
@@ -378,13 +378,13 @@ cette chienne est morte »
 	ཁྱི་མོ་དེ་གུམ་ལགས་སོ་ཞེས་
 dit-il.
 	བྱས་སོ། །
-L'honorable Śāriputra dit : « 
+L'honorable Śāriputra dit : «
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ།
 Dépose le cadavre de cette chienne dans un endroit isolé.
 	ཁྱི་མོ་དེའི་རོ་དེ་ཕྱོགས་དབེན་པ་ཞིག་ཏུ་ཞོག་ཤིག་དང་།
 Plus tard, ces ossements lui seront utiles. »
 	རུས་པ་དེ་དག་ཕྱིས་དེ་ཉིད་ལ་ཕན་འདོགས་པར་འགྱུར་རོ། །
-Le père de famille dit : « 
+Le père de famille dit : «
 	ཁྱིམ་བདག་གིས་སྨྲས་པ།
 Je ferai comme le vénérable Śāriputra l'a demandé. »
 	བཙུན་པ་ཤཱ་རིའི་བུས་ཇི་སྐད་བཀའ་སྩལ་པ་བཞིན་དུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–དུ།>བགྱིའོ་ཞེས་
@@ -408,7 +408,7 @@ comme un lotus dans un lac, elle grandit avec force.
 	མཚོའི་ནང་གི་པད་མ་བཞིན་དུ་སྐྱེ་དྲག་པར་གྱུར་ཏོ། །
 
 
-Ensuite, lorsqu'elle eut grandi, l'honorable Śāriputra lui dit : « 
+Ensuite, lorsqu'elle eut grandi, l'honorable Śāriputra lui dit : «
 	དེ་ནས་དེ་གང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དག>གི་ཚེ་ཆེན་མོར་གྱུར་པ་དེའི་ཚེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་སྨྲས་པ།
 Enfant,
 	བུ་
@@ -436,7 +436,7 @@ dès qu'elle se souvint de la suite de ses vies, elle ressentit (lit. faire naî
 
 Ayant ressenti (lit. fait naître) le désenchantement,
 	དེ་སྐྱོ་བ་སྐྱེས་ནས་
-elle pensa : « 
+elle pensa : «
 	བསམས་པ།
 Regarde toutes les difficultés que le sublime Śāriputra a endurées pour moi.
 	འཕགས་པ་ཤཱ་རིའི་བུ་ནི། བདག་ལ་དཀའ་བ་བྱེད་བྱེད་པ་ཡིན་པ་ལྟ་ཞིག་སྟེ།
@@ -472,7 +472,7 @@ elle [replia] son châle sur une épaule et le laissa retomber [devant elle],
 	བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས།
 joignit les mains et s'inclina en direction de l'honorable Śāriputra et
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་[4b]བ་བཏུད་ནས།
-Elle dit ceci à l'honorable Śāriputra : « 
+Elle dit ceci à l'honorable Śāriputra : «
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་འདི་སྐད་ཅེས་སྨྲས་སོ། །
 Vénérable Śāriputra,
 	བཙུན་པ་ཤཱ་རིའི་བུ་
@@ -524,7 +524,7 @@ allait régulièrement auprès de lui,
 	ཡང་དང་ཡང་དུ་ཐད་དུ་འགྲོ་ཞིང་
 se prosternait à ses pieds et
 	རྐང་པ་ལ་ཕྱག་འཚལ་ནས།
-[s'adressait à lui] en ces termes : « 
+[s'adressait à lui] en ces termes : «
 	འདི་སྐད་དུ་
 Grâce au sublime Śāriputra,
 	འཕགས་པ་ཤཱ་རིའི་བུ་ལས་<«ཞོལ་»ལ།>བརྟེན་ཏེ་
@@ -540,7 +540,7 @@ disait-elle.
 
 Alors, de nombreux moines l'entendirent répéter ceci encore et encore, et
 	དེ་ཡང་དང་ཡང་དུ་ཟེར་བ་དགེ་སློང་མང་པོས་ཐོས་ནས་
-dès qu'ils l'eurent entendu, ils demandèrent à l'honorable Śāriputra : « 
+dès qu'ils l'eurent entendu, ils demandèrent à l'honorable Śāriputra : «
 	ཐོས་མ་ཐག་ཏུ་<«གཡུང་»«ལི་»«པེ་»དུ།>དེ་དག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་དྲིས་པ།
 Honorable Śāriputra,
 	ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་
@@ -548,11 +548,11 @@ Honorable Śāriputra,
 	དགེ་སློང་མ་འདིས་ཅི་ལས་བསམས་ཏེ<«གཡུང་»བསིལ་ཏེ། «ཞོལ་»བསམ་སྟེ།>།
 elle répète (lit. se trouve [à dire]) encore et encore ceci ? »
 	དེ་ཡང་དང་ཡང་དུ་དེ་སྐད་<«གཡུང་»«པེ་»+དེ་སྐད།>མཆི།
-L'honorable Śāriputra dit : « 
+L'honorable Śāriputra dit : «
 	ཚེ་དང་ལྡན་པ་ཤཱ་<«གཡུང་»«པེ་»ཤ>རིའི་བུས་སྨྲས་པ།
 Avez-vous vu une chienne dans la maison de ce père de famille ? »
 	ཁྱེད་ཀྱིས་ཁྱིམ་བདག་འདིའི་ཁྱིམ་ན་ཁྱི་མོ་ཞིག་འདུག་པ་མཐོང་ངམ།
-ils dirent : « 
+ils dirent : «
 	དེ་དག་གིས་སྨྲས་པ།
 Vénérable Śāriputra,
 	བཙུན་པ་ཤཱ་རིའི་བུ་
@@ -570,7 +570,7 @@ qui me dit ceci pour repayer la bonté passée. »
 	སྔོན་གྱི་དྲིན་གཟོ་བའི་ཕྱིར་བདག་ལ་དེ་སྐད་ཅེས་ཟེར་རོ། །
 
 
-Alors, les moines demandèrent au Bienheureux : « 
+Alors, les moines demandèrent au Bienheureux : «
 	དེ་ནས་བཅོམ་ལྡན་འདས་ལ་དགེ་སློང་རྣམས་ཀྱིས་ཞུས་པ།
 Vénérable,
 	བཙུན་པ་
@@ -596,7 +596,7 @@ ne fasse rien qui le mécontente, puis
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས།
 
 
-Le Bienheureux répondit : « 
+Le Bienheureux répondit : «
 	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
 Moines,
 	དགེ་སློང་དག་
@@ -634,7 +634,7 @@ elle étudia les trois corbeilles et
 	སྡེ་སྣོད་<«གཡུང་»«པེ་»+ག་དང་།>གསུམ་བསླབས་ཏེ།
 elle [devint] une enseignante du Dharma qui possédait les connaissances et l'éloquence pour libérer. Elle recevait (lit. obtenait) des habits, de la nourriture, des couvertures, des coussins, des médicaments et des fournitures médicales et
 	དེ་རིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»རིགས།>པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བ<«གཡུང་»«པེ་»སྨྲས་པ།>། གོས་དང་ཟས་དང་མལ་ཆ་<«གཡུང་»ཅ་བ «མི་»«ཅོ་»མལ་ཅ།>དང་། སྟན་དང་ནད་གསོས་དང་སྨན་ཟོང་རྣམས་རྙེད་པར་གྱུར་ནས་
-elle pensa : « 
+elle pensa : «
 	དེས་བསམས་པ་
 Décidément,
 	མ་ལ་
@@ -650,7 +650,7 @@ Ensuite, elle eut une affaire pressante et
 	དེ་ནས་ཕྱིས་དེ་ལ་བྲེལ་བ་ཞིག་བྱུང་སྟེ།
 elle sollicita de nombreuses nonnes qui s'entraînaient ou qui avaient parfait leur entraînement (lit. qui ne s'entraînaient plus), mais
 	དེས་སློབ་པ་དང་མི་སློབ་པའི་དགེ་སློང་མ་མང་པོ་ཞིག་ལ་གསོལ་བ་བཏབ་ན།
-elle lui disaient : « 
+elle lui disaient : «
 	དེ་དག་ན་རེ་
 laisser nos activités (lit. le côté) vertueuses pour
 	བདག་ཅག་གི་དགེ་བའི་ཕྱོགས་བཏང་སྟེ།
@@ -662,7 +662,7 @@ Alors, en entendant ceci, cette nonne donna naissance à une émotion (lit. ce q
 	དེ་ནས་དེ་ཐོས་པའི་མོད་ལ་དགེ་སློང་མ་དེ་ཤིན་ཏུ་ཁྲོ་བའི་ཀུན་ནས་དཀྲིས་པ་སྐྱེས་ཏེ།
 s'étant mise en colère,
 	དེ་ཁྲོས་ནས་
-elle dit à ces nonnes : « 
+elle dit à ces nonnes : «
 	དགེ་སློང་མ་དེ་དག་ལ་སྨྲས་པ།
 Moi, comme une chienne, je ne fais que vous nourrir et m'occuper de vous, et
 	ང་ནི་ཁྱི་མོ་དང་འདྲ་བ་ཁྱེད་དགང་བ་དང་གསོ་བ་འབའ་ཞིག་བྱེད་ན་
@@ -672,7 +672,7 @@ dit-elle.
 	བྱས་སོ། །
 
 
-Alors, les nonnes pensèrent : « 
+Alors, les nonnes pensèrent : «
 	དེ་ནས་དགེ་སློང་མ་དེ་རྣམས་ཀྱིས་བསམས་པ།
 Cette [personne] perturbée est enserrée et perdue [par ses émotions].
 	ཉོན་མོངས་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»+པ།>མ་འདི་ནི་དམས་<«གཡུང་»«པེ་»སྨྲས།>ཤིང་ཉམས་པར་གྱུར་ཏེ།
@@ -682,11 +682,11 @@ pensèrent-ils. Puis,
 	བསམས་ནས།
 « Nous devons l'aider » pensèrent-ils, puis
 	འདིའི་ར་མདའ་<«གཡུང་»«པེ་»འདའ།>བྱ་དགོས་སོ་སྙམ་སྟེ་
-ils dirent : « 
+ils dirent : «
 	དེ་དག་གིས་སྨྲས་པ།
 Sais-tu qui nous sommes et qui tu es toi-même ? »
 	ཁྱོད་ཀྱིས་ངེད་<«གཡུང་»«པེ་»དེད།>སུ་ཡིན་པ་དང་། ཁྱོད་བདག་སུ་ཡིན་པ་ཤེས་སམ་
-Elle répondit : « 
+Elle répondit : «
 	དེས་སྨྲས་པ།
 Je le sais :
 	ངས་<«གཡུང་»དེས།>ཤེས་ཏེ་
@@ -694,7 +694,7 @@ vous êtes des personnes qui se sont retirées du monde et
 	ཁྱེད་ཀྱང་རབ་ཏུ་བྱུང་བ་ཡིན་ལ་
 je suis aussi une personne qui s'est retirée du monde. »
 	ང་ཡང་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ། །
-elles dirent : « 
+elles dirent : «
 	དེ་དག་གིས་སྨྲས་པ།
 Sœur aînée,
 	ཆེ་ཞེ་
@@ -722,7 +722,7 @@ vécut chastement toute sa vie, puis
 	ཚེ་གཅིག་ཏུ་ཚངས་པར་<«གཡུང་»«པེ་»པས།>སྤྱོད་པ་སྤྱད་ནས།
 
 
-fit ce souhait au moment de mourir : « 
+fit ce souhait au moment de mourir : «
 	འཆི་ཀར་<«ཞོལ་»གར།>སྨོན་ལམ་བཏབ་པ།
 Quelle merveille !
 	ཀྱེ་མ་
