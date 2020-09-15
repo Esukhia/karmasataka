@@ -188,8 +188,8 @@ msgid ""
 "beurre). Ainsi, comme un lotus dans un lac, il grandit avec force."
 msgstr ""
 "Le jeune enfant grandit grâce au lait, au yaourt, au beurre, au beurre "
-"clarifié et au au beurre sur-clarifié dont il était nourri. Il s'épanouit "
-"aussi rapidement qu'un lotus dans un lac."
+"clarifié et au beurre sur-clarifié dont il était nourri. Il s'épanouit aussi"
+" rapidement qu'un lotus dans un lac."
 
 # དེ་ནས་དེ་གང་གི་ཚེ་འགྲོ་ནུས་པར་<«གཡུང་»«པེ་»པས།>གྱུར་པ་དེའི་ཚེ་དེ་རྩེར་གཞུག་པའི་ཕྱིར་ཕས།
 # ཁྱི་<«གཡུང་»གཞུག་པའི་ཕས་ཁྱེ།
