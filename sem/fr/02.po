@@ -1747,7 +1747,7 @@ msgstr "De qui est-ce le tour de servir la boisson du soir ? »"
 
 msgctxt "95c83f05e2984e25bc78648c8b89b161"
 msgid "དེ་དག་ གིས་ སྨྲས་པ །"
-msgstr "ils dirent : «"
+msgstr "Ils dirent : «"
 
 msgctxt "bc0401a22a4344f0bae2907ae0ebee6b"
 msgid "དགེ་སློང་ ཆེ་གེ་མོ་ ཞིག་ ལ་ བབ་བོ ། །"
