@@ -517,8 +517,9 @@ msgid ""
 "qui mendiaient."
 msgstr ""
 "Par la suite, le père de famille s’engagea dans la pratique de l’aumône et "
-"de l’accumulation des mérites tant et si bien que les mendiants vinrent à "
-"cette demeure comme l’on va au puits chercher de l’eau."
+"de l’accumulation des mérites, tant et si bien que les mendiants "
+"commencèrent à venir à cette demeure comme l’on va au puits chercher de "
+"l’eau."
 
 # ཁྱིམ་བདག་དེས་ཀྱང་།
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ཡང་དང་ཡང་དུ་ཁྱིམ་གྱི་ནང་དུ་བཤོས་གསོལ་བར་བྱེད་དོ། །
