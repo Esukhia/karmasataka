@@ -2010,7 +2010,7 @@ msgid ""
 "བདག་ གིས་ ཚངས་པ་ མཚུངས་པ␣ར་ སྤྱོད་པ་ ལ་ ཚིག་རྩུབ་པོ་ སྨྲས་པ␣འི་ སྡིག་པ␣འི་ "
 "ལ␣ས་ དེ␣འི་ འབྲས་བུ་ བདག་ གིས་ རྙེད་པ␣ར་ མ་ གྱུར་ཅིག  །  ཅེས་"
 msgstr ""
-"puissé-je ne pas obtenir le résultat de l'action d'avoir dit des paroles "
+"Puissé-je ne pas obtenir le résultat de l'action d'avoir dit des paroles "
 "blessantes (lit. rugueuses) à ce [moine] vivant une vie chaste »"
 
 msgctxt "4489f54a007a4531a59cec6bdb38530d"
