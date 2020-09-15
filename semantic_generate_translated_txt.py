@@ -52,6 +52,7 @@ class Po:
     @staticmethod
     def _format_fr(text):
         # see http://unicode.org/udhr/n/notes_fra.html
+        text = re.sub(r'([ \r\f\v\u202f\u00a0])+', r'\1', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+,', r',', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+\.', r'.', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?;', '\u202f;', text)
