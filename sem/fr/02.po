@@ -573,7 +573,7 @@ msgid ""
 "བདག་ ཇི་སྲིད་ འཚོ␣འི་ བར་ དུ་ བདག་ ལ␣ས་ གོས་ དང་ ཟས་ དང་ མལ་ཆ་ དང་ སྟན་ དང་ "
 "སྙུན་ གསོས་ དང་ སྨན་ཟོང་ རྣམས་ བཞེས་པ␣ར་ གསོལ །"
 msgstr ""
-"Tant que je serai en vie, veuillez accepter de ma part les vêtements, la "
+"tant que je serai en vie, veuillez accepter de ma part les vêtements, la "
 "nourriture, les couvertures, les sièges, les médicaments et les fournitures "
 "médicales. »"
 
