@@ -1751,7 +1751,7 @@ msgstr "Ils dirent : «"
 
 msgctxt "bc0401a22a4344f0bae2907ae0ebee6b"
 msgid "དགེ་སློང་ ཆེ་གེ་མོ་ ཞིག་ ལ་ བབ་བོ ། །"
-msgstr "c'est le tour (lit. ça tombe sur) du moine \"untel\". »"
+msgstr "C'est le tour (lit. ça tombe sur) du moine \"untel\". »"
 
 # དེ་ནས་ཞལ་ཏ་བྱེད་པ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེ།>ཁྲོས་ནས་
 msgctxt "b2b2fc2ad84b44a398992e0502c19704"
@@ -1775,7 +1775,7 @@ msgstr "dit-il."
 
 msgctxt "d9abf3a328994731869a37a36dce9f26"
 msgid "དེ་སྐད་ སྨྲ␣ས་ ནས །"
-msgstr "après avoir dit ceci,"
+msgstr "Après avoir dit ceci,"
 
 msgctxt "08f8183176f148d3bbff046196ad56bc"
 msgid "དགྲ་བཅོམ་པ་ དེ་ག་ ལ་བ་ དེ␣ར་ དོང་ སྟེ་ ཕྱིན་ ནས་"
@@ -1793,7 +1793,7 @@ msgctxt "fb1149ccc5944de0bee0ef361ea7caea"
 msgid ""
 "བདག་ ནི་ ཁྱེད་ ཀྱི་ ཕྱིར་ སྦྱིན་བདག་ དང་ སྦྱིན་པ་པོ་ རྣམས་ དགའ་བ␣ར་ བྱས་ ནས "
 "།"
-msgstr "Pour vous, je rends heureux les bienfaiteurs et les donateurs et"
+msgstr "pour vous, je rends heureux les bienfaiteurs et les donateurs et"
 
 msgctxt "4d8276bb9e4b48569602b8843e051b09"
 msgid "ཡོ་བྱད་ ཐམས་ཅད་ ཀྱིས་ བསྙེན་བཀུར་ བྱེད་ ན་"
