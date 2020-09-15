@@ -441,8 +441,8 @@ msgid ""
 msgstr ""
 "L'honorable acquiesça par son silence. Voyant sa demande acceptée, le père "
 "de famille disposa un siège à l’intention de son hôte. « Vénérable "
-"Śāriputra, veuillez prendre place sur ces coussins. » Le noble Śāriputra s’y"
-" assit."
+"Śāriputra, veuillez prendre place sur ces coussins. » L'honorable moine s’y "
+"assit."
 
 # དེ་ནས་ཁྱིམ་བདག་<«གཡུང་»བདུག>དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་བདེ་བར་འདུག་པར་རིག་ནས།
 # རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོས་ཚིམ་པར་བྱས་ཏེ།
