@@ -7,6 +7,7 @@ class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
         self.file = polib.pofile(self.infile)
+        self._format_fields()
         self.par_marker = '\n\n\n'
         self.trans_pattern = r'(.*?\n\t.*)\n'
         self.trans_delimiter = '\n\t'
@@ -55,6 +56,30 @@ class Po:
 
         total = self.infile.parent / (self.infile.stem + '_total.txt')
         total.write_text(all)
+
+    @staticmethod
+    def _format_fr(text):
+        # see http://unicode.org/udhr/n/notes_fra.html
+        text = re.sub(r'\s+', r' ', text)  # remove all double spaces
+        text = re.sub(r'\s,', r',', text)
+        text = re.sub(r'\s\.', r'.', text)
+        text = re.sub(r'\s?;', '\u202f;', text)
+        text = re.sub(r'\s?!', '\u202f!', text)
+        text = re.sub('\s?\?', '\u202f?', text)
+        text = re.sub('\s?:', '\u00a0:', text)
+        text = re.sub(r'-\s', '–\u0020', text)
+        text = re.sub(r'«\s?', '«\u202f', text)
+        text = re.sub('\s?»', '\u00a0»', text)
+        text = re.sub(r'\(\s', r'(', text)
+        text = re.sub(r'\[\s', r']', text)
+        text = re.sub(r'\s\)', r')', text)
+        text = re.sub(r'\s]', r']', text)
+        return text
+
+    def _format_fields(self):
+        for entry in self.file:
+            entry.msgid = self._format_fr(entry.msgid)
+            entry.msgstr = self._format_fr(entry.msgstr)
 
 
 if __name__ == '__main__':

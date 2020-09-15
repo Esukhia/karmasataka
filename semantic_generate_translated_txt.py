@@ -1,5 +1,6 @@
 from pathlib import Path
 import polib
+import re
 from antx import transfer
 
 
@@ -7,6 +8,7 @@ class Po:
     def __init__(self, infile):
         self.infile = Path(infile)
         self.file = polib.pofile(self.infile)
+        self._format_fields()
 
     def format_entries(self):
         entries = []
@@ -46,6 +48,29 @@ class Po:
         updated = transfer(source, pattern, target, "txt")
         updated = updated.replace('\n\n\n\n', '\n\n\n')  # hack for a strange behaviour
         return updated
+
+    @staticmethod
+    def _format_fr(text):
+        # see http://unicode.org/udhr/n/notes_fra.html
+        text = re.sub(r'\s+', r' ', text)  # remove all double spaces
+        text = re.sub(r'\s,', r',', text)
+        text = re.sub(r'\s\.', r'.', text)
+        text = re.sub(r'\s?;', '\u202f;', text)
+        text = re.sub(r'\s?!', '\u202f!', text)
+        text = re.sub('\s?\?', '\u202f?', text)
+        text = re.sub('\s?:', '\u00a0:', text)
+        text = re.sub(r'-\s', '–\u0020', text)
+        text = re.sub(r'«\s?', '«\u202f', text)
+        text = re.sub('\s?»', '\u00a0»', text)
+        text = re.sub(r'\(\s', r'(', text)
+        text = re.sub(r'\[\s', r']', text)
+        text = re.sub(r'\s\)', r')', text)
+        text = re.sub(r'\s]', r']', text)
+        return text
+
+    def _format_fields(self):
+        for entry in self.file:
+            entry.msgstr = self._format_fr(entry.msgstr)
 
 
 if __name__ == '__main__':
