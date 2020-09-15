@@ -791,12 +791,11 @@ msgid ""
 "comme celles-ci. C'est pourquoi, [être] sublime, vous avez enduré tant de "
 "difficultés pour moi. » disait-elle."
 msgstr ""
-"Par après, elle se souvint de la bonté de l'honorable Śāriputra. Elle "
-"commença à se rendre régulièrement auprès de l'honorable. Elle se "
-"prosternait à ses pieds et lui disait : « Grâce à vous, sublime Śāriputra, "
-"je suis débarrassée des naissances animales et j’ai obtenu toutes ces "
-"qualités. Être sublime, je suis immensément reconnaissante de tout ce que "
-"vous avez enduré pour moi. »"
+"Par après, elle se souvint de la bonté de l'honorable Śāriputra et se rendit"
+" régulièrement auprès de lui. Elle se prosternait à ses pieds et lui disait "
+": « Grâce à vous, sublime Śāriputra, je suis débarrassée des naissances "
+"animales et j’ai obtenu toutes ces qualités. Être sublime, je suis "
+"immensément reconnaissante de tout ce que vous avez enduré pour moi. »"
 
 # དེ་ཡང་དང་ཡང་དུ་ཟེར་བ་དགེ་སློང་མང་པོས་ཐོས་ནས་
 # ཐོས་མ་ཐག་ཏུ་<«གཡུང་»«ལི་»«པེ་»དུ།>དེ་དག་གིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ལ་དྲིས་པ།
