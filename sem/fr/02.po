@@ -1014,7 +1014,7 @@ msgstr "S'étant assis,"
 
 msgctxt "f7792fe8743347319ea1e7b91088512c"
 msgid "ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི␣འི་ བུས་ ཁྱིམ་བདག་ དེ་ ལ་ སྨྲས་པ །"
-msgstr "L'honorable Śāriputra dit à ce père de famille : «"
+msgstr "l'honorable Śāriputra dit à ce père de famille : «"
 
 msgctxt "bc922071abfc404dac5d17f7887d84cb"
 msgid "ཁྱིམ་བདག་"
