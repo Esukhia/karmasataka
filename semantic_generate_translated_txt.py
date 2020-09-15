@@ -59,7 +59,7 @@ class Po:
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?\?', '\u202f?', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?:', '\u00a0:', text)
         text = re.sub(r'-[ \r\f\v\u202f\u00a0]+', '–\u0020', text)
-        text = re.sub(r'«[ \r\f\v\u202f\u00a0]+?', '«\u202f', text)
+        text = re.sub(r'«[ \r\f\v\u202f\u00a0]+?', '«\u00a0', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?»', '\u00a0»', text)
         text = re.sub(r'\([ \r\f\v\u202f\u00a0]+', r'(', text)
         text = re.sub(r'\[[ \r\f\v\u202f\u00a0]+', r']', text)
