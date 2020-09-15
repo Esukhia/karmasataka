@@ -1215,7 +1215,7 @@ msgstr "Enfant,"
 
 msgctxt "755f5a9a3fba4d1c961b52ea64742c29"
 msgid "རྨ␣འི་ སྒྲོས་ འདི་ སྔོན་ ཅི་ ལ␣ས་ གྱུར་པ་ སོམས་ ཤིག  །"
-msgstr "Réfléchis (lit. pense) de quoi ces cicatrices viennent. »"
+msgstr "réfléchis (lit. pense) de quoi ces cicatrices viennent. »"
 
 msgctxt "bc0ce029d081446d9b56c52a7fa9a59b"
 msgid ""
