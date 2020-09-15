@@ -869,7 +869,7 @@ msgstr "L'honorable Śāriputra dit : «"
 msgctxt "dd084550773546b5bf30c1cdcab45ba1"
 msgid "ཁོང་ དགེ་བ་ རྣམས་ ནི་ དམ་བཅ␣ས་པ་ ལ་ བརྟན་པ་ ཡིན་ ནོ ། །"
 msgstr ""
-"[ceux dont] l'esprit (lit. l'intérieur) est vertueux sont stables dans leurs"
+"[Ceux dont] l'esprit (lit. l'intérieur) est vertueux sont stables dans leurs"
 " promesses. »"
 
 # དེ་སྐད་ཅེས་སྨྲས་ནས<«གཡུང་»པ་དང་།>།
