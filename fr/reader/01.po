@@ -822,9 +822,9 @@ msgid ""
 msgstr ""
 "L'entendant répéter sans cesse la même chose, de nombreux moines en demandèrent la raison au noble Śāriputra.\n"
 "« Honorable Śāriputra, à quoi pense cette nonne qui répète sans cesse ces paroles ? » \n"
-"« Vous aviez vu que ce père de famille avait une chienne dans sa maison » leur dit-il.\n"
+"« Vous aviez vu que ce père de famille avait une chienne dans sa maison » leur demanda-t-il.\n"
 "« Nous l'avions vu, vénérable Śāriputra. »\n"
-"« Au moment de mourir, dit-il, le cœur de cette chienne s'était empli de joie à ma pensée. Elle naquit ensuite dans la maison de ce même père de famille. Elle se souvint de ses vies précédentes et elle vient me dire ceci pour repayer la bonté dont elle a bénéficié. »"
+"« Au moment de mourir, poursuit-il, le cœur de cette chienne s'était empli de joie à ma pensée. Elle renaquit dans la maison de ce même père de famille. Elle se souvint de ses vies précédentes et maintenant, elle vient me dire ceci pour repayer la bonté dont elle a bénéficié. »"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ལ་དགེ་སློང་རྣམས་ཀྱིས་ཞུས་པ། བཙུན་པ་
 # དགེ་སློང་མ་འདིས་ལས་ཅི་བགྱིས་ན། ལས་དེའི་རྣམ་པར་སྨིན་པས་སྔོན་ཁྱིར་སྐྱེས་ལགས།
