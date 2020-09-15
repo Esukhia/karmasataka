@@ -76,6 +76,7 @@ class Po:
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+]', r']', text)
         # additions
         text = text.replace('...', '…')
+        text = text.replace("'", '’')
         return text
 
     def _format_fields(self):
