@@ -661,7 +661,7 @@ msgstr ""
 "l'honorable Śāriputra voulut lui ouvrir les yeux. Il disposa devant elle les"
 " ossements de la chienne et la bénit pour qu’immanquablement, ses vies "
 "successives lui reviennent en mémoire. Elle ressentit un désenchantement "
-"intense à l'instant où elle se souvint de ses vies."
+"intense à l'instant où elle se remémora son passé."
 
 # དེ་སྐྱོ་བ་སྐྱེས་ནས་ བསམས་པ། འཕགས་པ་ཤཱ་རིའི་བུ་ནི།
 # བདག་ལ་དཀའ་བ་བྱེད་བྱེད་པ་ཡིན་པ་ལྟ་ཞིག་སྟེ། འདི་ལས་<«ཞོལ་»ལ།>བརྟེན་ནས།
