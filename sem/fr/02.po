@@ -1834,7 +1834,7 @@ msgctxt "244e9a72f2894a09908d0db2b49ef0b2"
 msgid ""
 "འཁོར་བ་ ན་ འཁོར་ ཞིང་ སྡུག་བསྔལ་ ཆེན་པོ་ རྙེད་ ན་ མི་ རུང་ ངོ་ སྙམ་ དུ་"
 msgstr ""
-"il n'est pas acceptable qu'elle erre dans le samsara et subisse (lit. "
+"Il n'est pas acceptable qu'elle erre dans le samsara et subisse (lit. "
 "obtienne) de grandes souffrances. »"
 
 msgctxt "3528343e2e3744d088c576fcb4d8120d"
