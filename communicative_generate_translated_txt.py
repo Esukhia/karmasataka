@@ -67,7 +67,7 @@ class Po:
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?!', '\u202f!', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?\?', '\u202f?', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?:', '\u00a0:', text)
-        text = re.sub(r'-[ \r\f\v\u202f\u00a0]+', '–\u0020', text)
+        text = re.sub(r'\n-[ \r\f\v\u202f\u00a0]+', '\n—\u0020', text)
         text = re.sub(r'«[ \r\f\v\u202f\u00a0]+?', '«\u00a0', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?»', '\u00a0»', text)
         text = re.sub(r'\([ \r\f\v\u202f\u00a0]+', r'(', text)
@@ -77,6 +77,8 @@ class Po:
         # additions
         text = text.replace('...', '…')
         text = text.replace("'", '’')
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+-[ \r\f\v\u202f\u00a0]+(.+?)[ \r\f\v\u202f\u00a0]+-[ \r\f\v\u202f\u00a0]',
+                      r' – \1 – ', text)
         return text
 
     def _format_fields(self):

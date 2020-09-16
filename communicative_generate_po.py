@@ -53,7 +53,7 @@ class Po:
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?!', '\u202f!', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?\?', '\u202f?', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?:', '\u00a0:', text)
-        text = re.sub(r'-[ \r\f\v\u202f\u00a0]+', '–\u0020', text)
+        text = re.sub(r'\n-[ \r\f\v\u202f\u00a0]+', '\n—\u0020', text)
         text = re.sub(r'«[ \r\f\v\u202f\u00a0]+?', '«\u00a0', text)
         text = re.sub(r'[ \r\f\v\u202f\u00a0]+?»', '\u00a0»', text)
         text = re.sub(r'\([ \r\f\v\u202f\u00a0]+', r'(', text)
@@ -63,13 +63,17 @@ class Po:
         # additions
         text = text.replace('...', '…')
         text = text.replace("'", '’')
+        text = re.sub(r'[ \r\f\v\u202f\u00a0]+-[ \r\f\v\u202f\u00a0]+(.+?)[ \r\f\v\u202f\u00a0]+-[ \r\f\v\u202f\u00a0]',
+                      r' – \1 – ', text)
         return text
 
     def txt_to_po(self, filename):
         lines = filename.read_text(encoding='utf-8')
         if self.par_marker not in lines:
-            print('\thas no paragraphs. passing...')
+            print(' — has no paragraphs. passing...')
             return
+        else:
+            print('')
 
         self.dump_po_entries(lines, filename.name)
         self.write_to_file((filename.parent / (filename.stem + ".po")))
@@ -78,6 +82,6 @@ class Po:
 if __name__ == '__main__':
     folder = 'fr/sem_pars'
     for file in Path(folder).glob('*.txt'):
-        print(file)
+        print(file, end='')
         po = Po()
         po.txt_to_po(file)
