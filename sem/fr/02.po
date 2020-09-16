@@ -1714,7 +1714,7 @@ msgstr ""
 
 msgctxt "bde557aa598a4a9395f3626035fdc5a6"
 msgid "གནས་ཁང་ དུ་ སོང་ ནས་"
-msgstr "il se rendit dans sa hutte (lit. sa maison) et"
+msgstr "il se rendit dans sa hutte (lit. sa demeure) et"
 
 # སྐྱིལ་མོ་ཀྲུང་<«གཡུང་»དཀྱིལ་མོ་བཀྲུང་། «ལི་»ཀྱིལ་མོ་དཀྲུང་།
 # «པེ་»དཀྱིལ་མོ་དགྲུང་། «ཅོ་»སྐྱིལ་མོ་དཀྲུང་།>བཅས་ཏེ་<«གཡུང་»«པེ་»སྟེ།>
