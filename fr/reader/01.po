@@ -123,11 +123,11 @@ msgid ""
 "Vaiśravaṇa, qui possédait des richesses rivalisant celles de Vaiśravaṇa. Et "
 "il aimait les tīrthikas."
 msgstr ""
-"À cette époque, vivait dans cette ville un homme riche qui se plaisait en "
-"compagnie de fidèles d'autres confessions. Il jouissait d’une grande "
-"fortune, d’innombrables biens et de très vastes propriétés. Sa richesse "
-"était si grande qu’elle égalait celle de Vaiśravaṇa et rivalisait avec celle"
-" du dieu."
+"À cette époque, dans cette ville, un père de famille vivait dans l'opulence "
+"et possédait de grandes richesses. Des nombreux biens lui appartenaient. Une"
+" armée de domestiques s'activaient dans ses larges propriétés. On eut dit "
+"qu'il possédait les richesses du dieu Vaiśravaṇa ou encore qu'il rivalisait "
+"de fortune avec lui. La compagnie des non-bouddhistes lui était agréable."
 
 # དེ་ནས་དེས་ཐབས་ཟླར་བབ་པ་ལས་ཆུང་<«ལི་»«པེ་»+ཆུང་།>མ་བླངས་ནས།
 # དེ་དེ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་དོ། །
