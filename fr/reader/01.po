@@ -1100,7 +1100,7 @@ msgstr ""
 "renoncer au monde selon son enseignement, d'éliminer toutes les émotions "
 "perturbatrices et d'actualiser l'état d'arhat, lui valut de naître dans une "
 "famille qui vit dans l'opulence, possède de grandes richesses et "
-"d'innombreux biens."
+"d'innombrables biens."
 
 # དགེ་སློང་དག་
 # ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་<«པེ་»+ཅད།>མཉམ་པ་བརྙེས་པར་གྱུར་ནས།
