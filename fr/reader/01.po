@@ -124,11 +124,11 @@ msgid ""
 "il aimait les tīrthikas."
 msgstr ""
 "À cette époque, dans cette ville, un père de famille vivait dans l'opulence "
-"et possédait de grandes richesses. D'innombreux biens lui appartenaient. Une"
-" armée de domestiques s'activaient dans ses larges propriétés. On eut dit "
-"qu'il possédait les richesses du dieu Vaiśravaṇa ou encore qu'il rivalisait "
-"de fortune avec lui. La compagnie des non-bouddhistes plaisait à ce père de "
-"famille."
+"et possédait de grandes richesses. D'innombrables biens lui appartenaient. "
+"Une armée de domestiques s'activaient dans ses larges propriétés. On eut dit"
+" qu'il possédait les richesses du dieu Vaiśravaṇa ou encore qu'il rivalisait"
+" de fortune avec lui. La compagnie des non-bouddhistes plaisait à ce père de"
+" famille."
 
 # དེ་ནས་དེས་ཐབས་ཟླར་བབ་པ་ལས་ཆུང་<«ལི་»«པེ་»+ཆུང་།>མ་བླངས་ནས།
 # དེ་དེ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་དོ། །
