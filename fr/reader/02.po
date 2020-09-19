@@ -1145,8 +1145,8 @@ msgstr ""
 " et parfait Bouddha Kāśyapa, de ne rien faire qui le mécontenterait, de "
 "renoncer au monde selon son enseignement, d'éliminer toutes les émotions "
 "perturbatrices et d'actualiser l'état d'arhat, lui valut de naître dans une "
-"famille qui vit dans l'opulence, possède de grandes richesses et de nombreux"
-" biens."
+"famille qui vit dans l'opulence, possède de grandes richesses et "
+"d'innombreux biens."
 
 # དགེ་སློང་དག་
 # ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་<«གཡུང་»«པེ་»བརྙིས།>པར་གྱུར་ནས།
