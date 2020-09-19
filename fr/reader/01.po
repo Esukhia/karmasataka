@@ -860,7 +860,7 @@ msgid ""
 " actions du passé a-t-elle réalisées ? »"
 msgstr ""
 "« Moines, une part des actions viennent du passé, mais l'autre part a eu lieu à notre époque. »\n"
-"« Vénérable, qu'a-t-elle fait dans le passé ? »"
+"« Vénérable, quelles sont ses actions du passé ? »"
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
 # བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན།
