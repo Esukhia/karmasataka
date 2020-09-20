@@ -711,7 +711,7 @@ msgstr ""
 msgctxt "6fdf1c53d8fd4b46995bbed4c7c58939"
 msgid "སྦྱིན་པ་ དང་ སྦྱིན་པ␣འི་ བགོ་བཤའ་ ལ་ ཡང་ དད་པ␣ར་ བཙུད་ དེ །"
 msgstr ""
-"il le fit aussi entrer avec dévotion dans la [pratique de la] générosité et "
+"Il le fit aussi entrer avec dévotion dans la [pratique de la] générosité et "
 "l'échange de la générosité."
 
 # དེས་རིང་པོ་མ་ལོན་པར།
