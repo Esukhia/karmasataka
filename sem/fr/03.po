@@ -1744,7 +1744,7 @@ msgstr "Pūraṇa lui-même a réalisé et accumulé des actions dans le passé,
 
 msgctxt "c5c1c5143b584d05a02f5f2ddf1507f7"
 msgid "དགེ་སློང་ དག་"
-msgstr "Moines,"
+msgstr "moines,"
 
 # ལས་བྱས་ཤིང་བསགས་པ་རྣམས་ནི།
 # ཕྱི་རོལ་གྱི་སའི་ཁམས་ལ་རྣམ་པར་<«གཡུང་»«པེ་»–རྣམ་པར།>སྨིན་པར་མི་འགྱུར།
