@@ -1252,7 +1252,7 @@ msgstr ""
 
 msgctxt "8f4db4492f0747d98de5f1053fe9ff9d"
 msgid "དེ␣ས་ ཁྱི་ ལ␣ས་ ཤི་འཕོས་ ཏེ །"
-msgstr "il mourrait d['avoir été] chien et"
+msgstr "il mourrait [ayant été] chien et"
 
 msgctxt "38b02c4d09264bf0b9c7e21fab4bd670"
 msgid "ཁྱི་ འབའ་ཞིག་ ཏུ་ སྐྱེས་པ␣ར་ མཐོང་ ངོ་ ། །"
