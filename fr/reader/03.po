@@ -62,12 +62,12 @@ msgid ""
 "reçoivent les offrandes jetées, aux dieux qui naissent en même temps que soi"
 " et aux dieux qui suivent constamment les personnes vertueuses. Puis,"
 msgstr ""
-"Cependant, n'arrivant pas à avoir d'enfant, il sollicitait les dieux. Il "
-"priait Śiva, Varuna, Kubera, Indra et Brahmā et d'autres encore. Il priait "
-"aussi les dieux des parcs, ceux des forêts, ceux des croisements de quatre "
-"chemins, ceux des croisements de trois chemins, ceux qui se nourrissent "
-"d'offrandes de nourriture, ceux qui nous accompagnent depuis la naissance et"
-" ceux qui suivent constamment les vertueux."
+"Cependant, ne parvenant pas à avoir d'enfant, il sollicitait les dieux. Il "
+"priait Śiva, Varuna, Kubera, Indra et Brahmā et d'autres dieux encore. Il "
+"priait aussi les dieux des parcs, ceux des forêts, ceux des croisements de "
+"quatre chemins, ceux des croisements de trois chemins, ceux qui se "
+"nourrissent d'offrandes de nourriture, ceux qui nous accompagnent depuis la "
+"naissance et ceux qui suivent constamment les vertueux."
 
 # འཇིག་རྟེན་ན་ཡང་<«ཞོལ་»–ཡང་།>གསོལ་བ་བཏབ་པའི་རྒྱུས་བུ་དང་བུ་མོ་སྐྱེ་བར་འགྱུར་རོ་ཞེས་
 # གྲག་<«ཞོལ་»གྲགས།>མོད་ཀྱི། དེ་ཡང་དེ་ལྟ་ནི་མ་ཡིན་ཏེ།
