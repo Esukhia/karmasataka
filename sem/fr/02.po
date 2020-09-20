@@ -1106,7 +1106,7 @@ msgstr "l'honorable Śāriputra mena le garçon au monastère et"
 # རབ་ཏུ་ཕྱུང་<«ལི་»དབྱུང་། «ཅོ་»དབྱུང་།>སྟེ།
 msgctxt "f45e485a059f469a8e7caf3fd2066729"
 msgid "རབ་ཏུ་ ཕྱུང་ སྟེ །"
-msgstr "il [lui fit] renoncer au monde et"
+msgstr "il lui fit se retirer du monde et"
 
 msgctxt "8021db0419cd40df90ec599940f2a7b4"
 msgid "དེ་ ལ་ལུང་ ཡང་ ཕོག་ གོ ། །"
