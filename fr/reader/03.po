@@ -488,8 +488,14 @@ msgid ""
 " complété). C’est pourquoi, il sera nommé Pūraṇa (Celui-qui-Exauce (lit. "
 "complète)) » dit-il."
 msgstr ""
-"Environ neuf mois plus tard, l’épouse du père de famille donna naissance à un fils bien proportionné, dont la beauté réjouissait la vue. Sa peau était d’une ravissante teinte dorée. Il avait un port de tête aussi droit qu’un parasol, les mains longues, le front large, le nez proéminent, bien dessiné et les sourcils denses. Lors des célébrations de sa naissance, elle reçut un nom en accord avec sa caste. Elle grandit grâce au lait, au yaourt, au beurre, au beurre clarifié et au beurre sur-clarifié dont elle était nourrie. Elle s'épanouit aussi rapidement qu'un lotus dans un lac.\n"
-"Lors des célébrations de sa naissance, son père lui cherchait un nom : « J'attends sa naissance depuis si longtemps. Mon seul désir depuis si longtemps est d'avoir un enfant. Grâce à lui, je suis parfaitement comblé. Oui. Son nom sera Pūraṇa, Celui-qui-Exauce. »"
+"Environ neuf mois plus tard, l’épouse du père de famille donna naissance à "
+"un fils bien proportionné, dont la beauté réjouissait la vue. Sa peau était "
+"d’une ravissante teinte dorée. Il avait un port de tête aussi droit qu’un "
+"parasol, les mains longues, le front large, le nez proéminent, bien dessiné "
+"et les sourcils denses. Lors des célébrations de sa naissance, son père lui "
+"cherchait un nom : « J'attends sa naissance depuis si longtemps. Mon seul "
+"désir depuis longtemps est d'avoir un enfant. Grâce à lui, je suis "
+"parfaitement comblé. Oui. Son nom sera Pūraṇa, Celui-qui-Exauce. »"
 
 # དེ་ནས་ཁྱེའུ་རྫོགས་བྱེད་པང་ན་འཚོ་བའི་མ་མ་གཉིས་དང་། ནུ་མ་སྣུན་<«ཁུ་»སྣུམ།
 # «ཞོལ་»བསྣུན།>པའི་མ་མ་གཉིས་དང་དྲི་མ་འཁྲུ་བའི་མ་མ་གཉིས་དང་རྩེ་བའི་མ་མ་གཉིས་ཏེ་མ་མ་[14a]བརྒྱད་ལ་གཏད་ནས།
