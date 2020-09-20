@@ -1497,7 +1497,7 @@ msgstr "nous allons faire les rituels (lit. actions) d'offrande à ce moine. »"
 
 msgctxt "3f61f81c13a845b5a54c977e213cb056"
 msgid "བཀའ་ སྩལ་ ནས །"
-msgstr "dit-Il. Puis,"
+msgstr "dit-il. Puis,"
 
 msgctxt "6a03db88d349445abf2491ee17d35a8c"
 msgid "བཅོམ་ལྡན་འདས་ དགེ་སློང་ གི་ ཚོགས་ ཀྱིས་ ཞམ་རིང་ བྱས་ ཏེ །"
