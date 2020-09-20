@@ -976,7 +976,7 @@ msgid ""
 "ལ་ བབ་པ␣ར་ མཐོང་ ནས །"
 msgstr ""
 "Ensuite, l'honorable Śāriputra vit que le moment était venu [que] Petits-"
-"Yeux renonce au monde, et"
+"Yeux se retire du monde, et"
 
 # སྔ་དྲོ་ཤམ་<«གཡུང་»«པེ་»གྲོ་ཤམ། «ལི་»དྲོ་ཤམས།>ཐབས་དང་ཆོས་གོས་བགོས་ཏེ་
 msgctxt "9237cea3b104426aaa1f1fc788b7ec35"
