@@ -1484,7 +1484,7 @@ msgstr "il en parla au Bienheureux et"
 
 msgctxt "bbe57b828d814f7ea99aa94ae2c8b9b2"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
-msgstr "Le Bienheureux dit : «"
+msgstr "le Bienheureux dit : «"
 
 msgctxt "b43023a2dcb545aba0e99d7be7a89f4f"
 msgid "དགེ་སློང་ དག་ ཆོས་གོས་ དག་ གྱོན་ ལ །"
