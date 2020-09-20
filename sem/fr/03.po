@@ -1614,7 +1614,7 @@ msgstr "Nous ferons les offrandes aux reliques corporelles de ce moine."
 
 msgctxt "d3e03522841347a68d752553529d50ac"
 msgid "བཅོམ་ལྡན་འདས་ འོ་བརྒྱལ་ མི་ འཚལ་ ལོ ། །"
-msgstr "Le Bienheureux ne doit pas s'en soucier. »"
+msgstr "Le Bienheureux ne doit pas faire cet effort. »"
 
 msgctxt "335aeb832f484f48819e5d626f96cb9a"
 msgid ""
