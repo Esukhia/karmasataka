@@ -604,7 +604,7 @@ msgstr "Vénérable Śāriputra,"
 
 msgctxt "f5d0a770a5cd4f289eca1b184ad53d53"
 msgid "འོ་ན་"
-msgstr "Eh bien,"
+msgstr "eh bien,"
 
 msgctxt "9719f70def5c4b2a9ea573973b83d7ef"
 msgid "འདི་ཉིད་ དུ་ བཤོས་ གསོལ་ དུ་ ཅི་ གནང་ ཞེས་"
