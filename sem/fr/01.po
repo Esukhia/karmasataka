@@ -1424,7 +1424,7 @@ msgstr ""
 
 msgctxt "d695e2da6e1f4043a29694682c1b8a6e"
 msgid "ལ␣ས་ ཅི་ བགྱིས་ ན་"
-msgstr "Quelles actions a[-t-elle] réalisées pour que"
+msgstr "Quelles actions a[-t-elle] réalisées pour qu'"
 
 msgctxt "f423b6ff832e4906a00815f10a66c617"
 msgid "དེ་ནས་ ཤི་འཕོས་ ཏེ་"
