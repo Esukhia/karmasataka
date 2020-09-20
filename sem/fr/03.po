@@ -834,7 +834,8 @@ msgstr "l'honorable Aniruddha s'en alla."
 msgctxt "8bbfabf312354b1d88eef96e15aa038c"
 msgid "ཁྱིམ་བདག་ དེ␣འི་ ཆུང་མ་ ཡང་ ཟླ་བ་ དགུ་ འམ་ བཅུ་ ལོན་པ་ དང་"
 msgstr ""
-"L'épouse de ce père de famille, après que neuf ou dix mois soient passés,"
+"[À] l'épouse de ce père de famille, après que neuf ou dix mois soient "
+"passés,"
 
 # ཁྱེའུ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་མདོག་བཟང་བ་གསེར་གྱི་ཁ་དོག་ཅན་མགོ་གདུགས་ལྟར་འདུག་པ་ལག་པ་རིང་བ་དཔྲལ་<«པེ་»དབྲལ།>བའི་དབྱེས་ཆེ་བ།
 # སྣ་མཐོ་བ་སྣ་ལེགས་པ་སྨིན་མ་སྟུག་པ་ཞིག་བཙས་སོ། །
