@@ -1058,7 +1058,7 @@ msgstr "dit-il. À ce moment,"
 # དེ་བྱད་<«གཡུང་»«པེ་»བྱེད།>གཟུགས་དང་ལང་ཚོའི་<«གཡུང་»ཙོའི།>རྒྱགས་པས་དྲེགས་ནས་
 msgctxt "f00fd24632ee4456b5df019ebeb7f480"
 msgid "དེ་ བྱད་གཟུགས་ དང་ ལང་ཚོ␣འི་ རྒྱགས་པ␣ས་ དྲེགས་ ནས་"
-msgstr "Enorgueillie, [très] imbue de sa beauté et de sa jeunesse,"
+msgstr "enorgueillie, imbue de sa beauté et de sa jeunesse,"
 
 msgctxt "97bf1dc8b3dd4ad99845472f11592171"
 msgid "ཕན་ཚུན་ དུ་ གཡེངས་ ཏེ་"
