@@ -1542,7 +1542,7 @@ msgstr "elle l'entendit et"
 # དེ་ལྟར་རིག་<«གཡུང་»«པེ་»རིགས།>ནས།
 msgctxt "671dc839aa994f9095c783b4aa63952d"
 msgid "དེ་ལྟར་ རིག་ ནས །"
-msgstr "L'ayant compris,"
+msgstr "l'ayant compris,"
 
 msgctxt "0130ba21c1724e32bda22367125f5c1c"
 msgid "དེ␣ས་ ཀྱང་ དེ␣འི་ སྔོན་ གྱི་ གནས་ རྗེས་སུ་ དྲན་པ␣ར་ བྱས་ ཏེ་"
