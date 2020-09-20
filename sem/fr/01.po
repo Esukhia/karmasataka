@@ -976,8 +976,8 @@ msgid ""
 "ཁྱིམ་བདག་ དེ␣ས་ ཁྱི་རོ་ དེ་ གང་ དུ་ སུ␣ས་ ཀྱང་ མི་ མཐོང་བ␣ར་ འགྱུར་བ་ དེ་ལྟ་"
 " བུ␣འི་ ཕྱོགས་ ཤིག་ ཏུ་ བཞག་ གོ ། །"
 msgstr ""
-"Ce père de famille déposa le cadavre de chienne à un endroit où personne ne "
-"le verrait."
+"Ce père de famille déposa le cadavre de la chienne à un endroit où personne "
+"ne le verrait."
 
 # དེ་ནས་ཁྱིམ་བདག་གི་ཆུང་མ་དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་བུ་བྱུང་སྟེ<«ཁུ་»–བུ་བྱུང་སྟེ།>།
 msgctxt "9a2379bb8ae94c32926d1d531f5636db"
