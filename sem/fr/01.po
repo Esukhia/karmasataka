@@ -168,7 +168,7 @@ msgstr ""
 msgctxt "4a29ee2e27e4411c882f283705f14df8"
 msgid "དེ་ནས་ དེ␣འི་ བཙས་ སྟོན་ རྒྱས་པ␣ར་ བྱས་ ནས །"
 msgstr ""
-"Ensuite, la fête de sa naissance fut faite [de manière] grandiose (lit. "
+"Ensuite, la fête de sa naissance fut célébrée [de manière] grandiose (lit. "
 "vastement) et"
 
 # རིགས་དང་འཐུན་<«སྣར་»«ཞོལ་»མཐུན།
