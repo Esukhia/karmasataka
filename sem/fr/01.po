@@ -559,7 +559,7 @@ msgstr ""
 
 msgctxt "f1f4ef7d6e8e4837a83226278ab6afbb"
 msgid "དགེ་སློང་ འདི་ ནི་ བདག་ཉིད་ ཆེན་པོ་ ཞིག་ ཡིན་ གོར་མ་ཆག་ སྙམ་ དུ་"
-msgstr "il ne fait aucun doute que ce moine est un grand être. »"
+msgstr "il ne fait aucun doute que ce moine soit un grand être. »"
 
 msgctxt "ae69f43344784569a02fa0358d993cea"
 msgid "བསམས་ ཏེ །"
