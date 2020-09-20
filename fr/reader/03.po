@@ -937,7 +937,7 @@ msgstr ""
 "sur l’élément eau ni sur l’élément feu ni sur l’élément vent. Ainsi, les "
 "actions vertueuses et non-vertueuses mûrissent uniquement sur les "
 "constituants de l'individu : les agrégats, les dimensions et les sources des"
-" sens. »"
+" sens."
 
 # ལུས་ཅན་དག་གི་ལས་རྣམས་ནི། །བསྐལ་པ་བརྒྱར་ཡང་ཆུད་མི་ཟ། །
 # ཚོགས་ཤིང་དུས་ལ་བབ་པ་<«མི་»«སྣར་»«ཅོ་»པས།>ན། །
