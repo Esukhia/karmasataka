@@ -697,7 +697,7 @@ msgstr "enseigna le Dharma de temps en temps à ce père de famille."
 msgctxt "5ea35e1550fa45fb95b9764b2480a4f7"
 msgid "དེ␣ས་ ཁྱིམ་བདག་ དེ་ དད་པ་ ཕུན་སུམ་ ཚོགས་པ་ ལ་ གནས་པ␣ར་ བྱས་ སོ ། །"
 msgstr ""
-"il installa (lit. faire rester) ce père de famille dans une dévotion "
+"Il installa (lit. faire rester) ce père de famille dans une dévotion "
 "parfaite (lit. auspicieuse)."
 
 # སྐྱབས་སུ་འགྲོ་བ་དང་། བསླབ་<«གཡུང་»བརླབ།>པའི་གཞི་རྣམས་ལ་ཡང་གནས་པར་བྱས་སོ། །
