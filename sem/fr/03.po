@@ -879,7 +879,7 @@ msgid ""
 "ཡུན་རིང་པོ་ ནས །  བདག་ གིས་ སྨོན་ སྨོན་པ་ དང་ ཡུན་རིང་པོ་ ནས་ བདག་ འདོད་ "
 "ཅིང་ །"
 msgstr ""
-"ce que j'ai tant souhaité (lit. souhaité et souhaité) depuis longtemps et ce"
+"Ce que j'ai tant souhaité (lit. souhaité et souhaité) depuis longtemps et ce"
 " que j'ai tant désiré depuis longtemps,"
 
 # ཡིད་སྨོན་དུ་བགྱི་བགྱི་བ་དེ། ཁྱེའུ་འདིས་ཡོངས་སུ་རྫོགས་པར་བྱས་པས་<«ཞོལ་»པ།>ན།
