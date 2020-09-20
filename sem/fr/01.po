@@ -1684,7 +1684,7 @@ msgstr "« Nous devons l'aider » pensèrent-elles. Puis"
 
 msgctxt "7ad356c0ba294771bb386c330eba86af"
 msgid "དེ་དག་ གིས་ སྨྲས་པ །"
-msgstr "ils dirent : «"
+msgstr "elles dirent : «"
 
 # ཁྱོད་ཀྱིས་ངེད་<«གཡུང་»«པེ་»དེད།>སུ་ཡིན་པ་དང་། ཁྱོད་བདག་སུ་ཡིན་པ་ཤེས་སམ་
 msgctxt "d3437a7f9fc1499ab3fa60189af05d8d"
