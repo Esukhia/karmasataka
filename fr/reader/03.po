@@ -767,8 +767,9 @@ msgid ""
 "lui racontèrent."
 msgstr ""
 "Ses deux parents le posèrent sur une civière ornée de tissus bleus, jaunes, "
-"rouges et blancs, mais il fut impossible de soulever la civière. Ils se "
-"rendirent auprès de l’honorable Aniruddha pour le lui expliquer."
+"rouges et blancs, mais ils étaient incapables de soulever la civière malgré "
+"leurs tentatives répétées. Ils se rendirent auprès de l’honorable Aniruddha "
+"pour le lui expliquer."
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་མ་འགགས་པས་དྲན་པར་བྱས་ཏེ། བསམས་<«སྣར་»བསམ་པ།>ན་
 # དེ་ཉིད་ཀྱིས། དེ་ལྟ་བུར་འགྱུར་བའི་སྨོན་ལམ་བཏབ་པར་རིག་ནས་
