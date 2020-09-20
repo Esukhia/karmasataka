@@ -1242,7 +1242,7 @@ msgstr "[d'une vie] de chien, il était mort et"
 
 msgctxt "d1b595a89df14ed7955fb4078069f6a9"
 msgid "ཁྱི་ ཉིད་ དུ་ སྐྱེས་པ␣ར་ མཐོང་ ངོ་ ། །"
-msgstr "il était mort en tant que chien"
+msgstr "il était né en tant que chien, vit-il."
 
 # དེ་བཞིན་དུ་དེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེས།>ཚེ་རབས་ལྔ་བརྒྱའི་བར་དུ་བལྟས་ན་<«གཡུང་»«པེ་»ནས།>
 msgctxt "35f2679a754b45adaae8fcc35db205b4"
