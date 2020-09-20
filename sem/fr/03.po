@@ -1488,7 +1488,7 @@ msgstr "le Bienheureux dit : «"
 
 msgctxt "b43023a2dcb545aba0e99d7be7a89f4f"
 msgid "དགེ་སློང་ དག་ ཆོས་གོས་ དག་ གྱོན་ ལ །"
-msgstr "Moines, mettez vos habits monastiques parce que"
+msgstr "Moines, mettez vos habits monastiques,"
 
 # དགེ་སློང་དེའི་མཆོད་པའི་ལས་བྱེད་དུ་<«ཁུ་»དོ།>འདོང་ངོ་ཞེས་
 msgctxt "175dab744e914e22bed65d342c168ee2"
