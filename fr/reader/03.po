@@ -172,9 +172,10 @@ msgid ""
 "positionne (lit. s’appuie) du côté droit de mon ventre (lit. matrice). Donc,"
 " il est certain que ce soit un garçon. Donc, réjouissez-vous.» dit-il. Puis,"
 msgstr ""
-"Elle déborda de joie lorsqu'elle tomba enceinte. Elle fit appeler son époux "
-": « Bien-aimé, j'attends un enfant ! dit-elle. Réjouissez-vous ! Je suis "
-"sûre que c'est un garçon : il se blottit du côté droit de mon ventre. »"
+"L'épouse du père de famille fut transportée de joie lorsqu'elle tomba "
+"enceinte. Elle fit appeler son mari : « Bien-aimé, j'attends un enfant ! "
+"dit-elle. Réjouissez-vous ! Je suis sûre que c'est un garçon : il se blottit"
+" du côté droit de mon ventre. »"
 
 # དེ་ཡང་དགའ་ཆེས་ཏེ་ རོ་སྟོད་ནི་བཏེག་<«གཡུང་»སྟེག«ཞོལ་»བཏེགས།>
 # ལག་པ་གཡས་པ་ནི་བརྐྱང་<«གཡུང་»«པེ་»བརྒྱང་། «ཙོ་»«ཞོལ་»བརྐྱངས།>ནས།
