@@ -2220,7 +2220,7 @@ msgstr "J'ai fait ce qui devait être fait avec ce corps samsarique."
 
 msgctxt "b26ee5d3fae14a479c90ab95ba1b1e8d"
 msgid "མ་ལ་"
-msgstr "Décidément"
+msgstr "Décidément,"
 
 # ད་<«པེ་»དེ།>ནི་བདག་ཞི་བའི་དབྱིངས་སུ་འཇུག་པར་བྱའོ་སྙམ་དུ་
 msgctxt "d0b1f5862ce84a54b1c47e1461789a46"
