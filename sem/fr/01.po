@@ -542,7 +542,7 @@ msgstr "L'ayant vu, il se dit : «"
 
 msgctxt "a35675f280b54c6da2a3a54932eecd58"
 msgid "མ་ལ་"
-msgstr "Décidément"
+msgstr "Décidément."
 
 msgctxt "4e27b39dd5e54637931ac58b74e65125"
 msgid "འདི་ལྟར །"
