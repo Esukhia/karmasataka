@@ -1903,7 +1903,7 @@ msgstr ""
 # ཁྱོད་ཀྱིས་ཚིག་རྩུབ་པོ་སྨྲས་ཀྱིས་<«ཞོལ་»ཀྱི།>
 msgctxt "383a1b09c6c342cb904435647489fd6d"
 msgid "ཁྱོད་ ཀྱིས་ ཚིག་རྩུབ་པོ་ སྨྲ␣ས་ ཀྱིས་"
-msgstr "puisque tu as dit des paroles blessantes (lis. rugueuses),"
+msgstr "puisque tu as dit des paroles blessantes (lit. rugueuses),"
 
 msgctxt "6e5cc6dbdfb44c77a98d5b85aff4b625"
 msgid "ཉེས་པ་ ལ་ཉེ␣ས་ སོ་ ཞེས་"
