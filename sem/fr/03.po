@@ -2035,7 +2035,7 @@ msgstr ""
 
 msgctxt "b793ebad0de348cfaaa813dd3e9e3167"
 msgid "སྟོན་པ་ འདི་ ལྟ་བུ་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ གྱུར་ཅིག  །"
-msgstr "Puissé-je contenter un enseignant comme Lui."
+msgstr "Puissé-je contenter un enseignant comme lui."
 
 msgctxt "73af15942d1146d299804d0d1abb734e"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
