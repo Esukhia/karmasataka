@@ -770,7 +770,7 @@ msgstr "Ce père de famille, après avoir vu les vérités,"
 
 msgctxt "6ed260df571846769ab89e4c9ccc4d02"
 msgid "སྦྱིན་པ་ དག་ སྦྱིན་ ཞིང་"
-msgstr "il pratiqua la générosité et"
+msgstr "pratiqua la générosité et"
 
 # བསོད་ནམས་དག་<«གཡུང་»–དག>བྱེད་དོ། །
 msgctxt "ef3cf8dc3e2245a5aacc69dfcd2e20b5"
