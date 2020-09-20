@@ -1048,12 +1048,12 @@ msgid ""
 "perturbatrices, puissé-je manifester l’état d’arhat (lit. l’arhat-même). » "
 "dit-il."
 msgstr ""
-"Au moment de mourir, il formula le souhait suivant : « Quelle merveille ! "
+"Au moment de mourir, il formula le souhait suivant : \"Quelle merveille ! "
 "Grâce à ces racines vertueuses, puissé-je toujours naître dans une famille "
 "qui vit dans l’opulence, possède de grandes richesses et d’innombrables "
 "biens. Puissé-je contenter un enseignant comme lui. Puissé-je ne rien faire "
 "qui le mécontente. Puissé-je me retirer du monde d'après son enseignement, "
-"éliminer toutes les émotions perturbatrices et manifester l'état d'arhat. »"
+"éliminer toutes les émotions perturbatrices et manifester l'état d'arhat.\""
 
 # དགེ་སློང་དག་ ཅི་སྙམ་དུ་སེམས།
 # དེའི་ཚེ་དེའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཚེ་དེའི།>དུས་ན་བྲམ་ཟེའི་བུར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་རྫོགས་བྱེད་འདི་ཉིད་ཡིན་ཏེ།
