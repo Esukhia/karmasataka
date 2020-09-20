@@ -870,7 +870,7 @@ msgstr "Un nom lui fut donné : "
 # བདག་གི་བུ་ནམ་བཙའ་<«གཡུང»ཙ།>བར་འགྱུར་ཞིག་གུ་སྙམ་དུ་
 msgctxt "cccc105375a346aab0b799eb830c030b"
 msgid "བདག་ གི་ བུ་ ནམ་ བཙའ་བ␣ར་ འགྱུར་ ཞིག་ གུ་ སྙམ་ དུ་"
-msgstr "« \"Mais quand naîtra mon enfant ?\""
+msgstr "« \"Mais quand naîtra mon enfant ?\" [pensai-je]."
 
 # ཡུན་རིང་<«ཅོ་»རིན།>པོ་ནས།
 # བདག་གིས་སྨོན་སྨོན་པ་དང་ཡུན་རིང་པོ་ནས་བདག་འདོད་ཅིང་།
