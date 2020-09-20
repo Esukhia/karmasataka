@@ -894,7 +894,7 @@ msgstr ""
 
 msgctxt "3c8e8edb4a934a2d84b06417da82314b"
 msgid "འོན་ཀྱང་ མིག་ ཆུང་ ངོ་ ། །"
-msgstr "mais il avait de petits yeux."
+msgstr "mais qui avait de petits yeux."
 
 msgctxt "56a61e4b461045e9abf135d8014355f9"
 msgid "དེ་ནས་ དེ␣འི་ བཙས་ སྟོན་ རྒྱས་པ␣ར་ བྱས་ ནས །"
