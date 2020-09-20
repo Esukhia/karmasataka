@@ -255,7 +255,7 @@ msgstr ""
 "colliers courts et longs, et comme une jeune déesse qui évolue dans un "
 "jardin merveilleux, on la porta d'un lit à un autre, d'un siège à un autre, "
 "lui évitant ainsi de toucher le sol. De plus, on la préserva de tout bruit "
-"qu'elle jugea désagréable."
+"désagréable."
 
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་ལམ་སྟོན་པ།
 # རྣམ་པ་གཉིས་ཀྱི་ཤེས་བྱ་དང་ཡེ་ཤེས་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལ།>མངའ་བརྙེས་པ།
