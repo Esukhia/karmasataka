@@ -1675,7 +1675,7 @@ msgstr ""
 
 msgctxt "052e8783dc2047a29ed255f1d05ffb76"
 msgid "བསམས་ ནས །"
-msgstr "pensèrent-ils. Puis,"
+msgstr "pensèrent-elles. Puis,"
 
 # འདིའི་ར་མདའ་<«གཡུང་»«པེ་»འདའ།>བྱ་དགོས་སོ་སྙམ་སྟེ་
 msgctxt "5e167a6ff3eb4981a1b3f4f75ba114d3"
