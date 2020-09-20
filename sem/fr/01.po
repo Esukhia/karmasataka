@@ -1186,7 +1186,7 @@ msgstr ""
 
 msgctxt "e6e96ef5b14b44f0b9988ff18c083311"
 msgid "ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི␣འི་ བུ་ ལ་ འདི་སྐད་ ཅེས་ སྨྲ␣ས་ སོ ། །"
-msgstr "Elle dit ceci à l'honorable Śāriputra : «"
+msgstr "elle dit ceci à l'honorable Śāriputra : «"
 
 msgctxt "ac7773086ff94d2f827188e4a11984b4"
 msgid "བཙུན་པ་ ཤཱ་རི␣འི་ བུ་"
