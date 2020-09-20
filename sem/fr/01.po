@@ -567,7 +567,7 @@ msgstr "pensa-t-il. Puis, «"
 
 msgctxt "07e397731cb24555bd38f8d68dae36d5"
 msgid "མ་ལ་"
-msgstr "Décidément"
+msgstr "Décidément."
 
 # བདག་<«གཡུང་»«པེ་»དག>གིས་ཀྱང་དགེ་སློང་འདི་སྤྱན་དྲངས་ལ་
 msgctxt "2fca604c24534c36b214dce0e8da67ed"
