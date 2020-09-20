@@ -2064,7 +2064,7 @@ msgstr ""
 
 msgctxt "b4cd0840cdf94c9ca611209487c6d0b8"
 msgid "དགེ་སློང་ དག་"
-msgstr "Moines,"
+msgstr "moines,"
 
 msgctxt "bbd457930332426ab6891e59acafbde6"
 msgid ""
