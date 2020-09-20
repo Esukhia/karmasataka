@@ -546,7 +546,7 @@ msgstr "Décidément."
 
 msgctxt "4e27b39dd5e54637931ac58b74e65125"
 msgid "འདི་ལྟར །"
-msgstr "Eh bien (lit. comme ceci)"
+msgstr "Eh bien (lit. comme ceci)."
 
 # ཁྱི་མོ་ལོག་པར་ལྟུང་བའི་ལུས་ཅན་འདི་ཡང་འདི་ལ་དེ་ལྟ་བུའི་བཀུར་སྟི་<«ཅོ་»བསྟི།>བྱེད་པར་སེམས་པ་ལས་ན།
 msgctxt "0161dedf62814be2b0083ddb9e679288"
