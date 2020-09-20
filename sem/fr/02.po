@@ -2185,4 +2185,4 @@ msgstr "il a éliminé toutes les émotions perturbatrices et"
 
 msgctxt "a82c66cf39684900a4fd30c34cdbb0d7"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ སོ །། །།"
-msgstr "il a manifesté l'état d'arhat."
+msgstr "il a manifesté l'état d'arhat. »"
