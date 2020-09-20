@@ -1257,7 +1257,7 @@ msgstr "[qu']il mourrait [ayant été] chien et"
 msgctxt "38b02c4d09264bf0b9c7e21fab4bd670"
 msgid "ཁྱི་ འབའ་ཞིག་ ཏུ་ སྐྱེས་པ␣ར་ མཐོང་ ངོ་ ། །"
 msgstr ""
-"naissait uniquement dans [la condition d'un] chien. C'est ce qu'il vit."
+"[qu'il] naissait uniquement dans [la condition d'un] chien, il le vit."
 
 msgctxt "3680edd01f64409cb8a3414985ea14a1"
 msgid "དེ␣ས་ ཡང་ མ་འོངས་པ␣འི་ དུས་ ལ་ བསམས་ ཏེ །"
