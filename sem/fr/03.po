@@ -1953,7 +1953,7 @@ msgstr ""
 # སྟོན་པ་འདི་ལྟ་<«ལི་»སྟ།>བུ་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །
 msgctxt "ef67d3a621e74327ae55b7ede9c224a7"
 msgid "སྟོན་པ་ འདི་ ལྟ་བུ་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ གྱུར་ཅིག  །"
-msgstr "Puissé-je contenter un enseignant comme Lui."
+msgstr "Puissé-je contenter un enseignant comme lui."
 
 msgctxt "28256c32763e4aee8e24c672c9f9ffdf"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
