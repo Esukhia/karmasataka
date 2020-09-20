@@ -2246,7 +2246,7 @@ msgid ""
 "ལ␣ས་ འདས་ ནས །"
 msgstr ""
 "il passa entièrement au-delà de la souffrance dans la sphère de l'au-delà de"
-" la souffrance sans restes d'un corps (lit. d'un agrégat) et"
+" la souffrance sans restes corporels (lit. d'un agrégat) et"
 
 # མཁན་པོས་དེའི་ཕ་མ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–ལ།>སྦྲན་ཏེ།
 msgctxt "117fd1fa124a45e6b9b2a79ae9a24c23"
