@@ -705,7 +705,7 @@ msgctxt "f5f8bf586c404151a82befebc4476ff1"
 msgid ""
 "སྐྱབས་ སུ་ འགྲོ་བ་ དང་ །  བསླབ་པ␣འི་ གཞི་ རྣམས་ ལ་ ཡང་ གནས་པ␣ར་ བྱས་ སོ ། །"
 msgstr ""
-"il l'installa (lit. fit rester) aussi dans le refuge (lit. la prise de "
+"Il l'installa (lit. fit rester) aussi dans le refuge (lit. la prise de "
 "refuge) et dans les vœux (lit. bases de l'entraînement)."
 
 msgctxt "6fdf1c53d8fd4b46995bbed4c7c58939"
