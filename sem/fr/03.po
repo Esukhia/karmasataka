@@ -1112,7 +1112,7 @@ msgctxt "86921d968a334439a5ccc69005823422"
 msgid ""
 "དེ་ནས་ དེ་ སྲོད་ དང་ ཐོ་རངས་ མི་ ཉལ་བ␣ར་ བརྩོན་པ་ ལྷུར་ བྱེད་པ་ ལ་ གནས་ ཀྱང་"
 msgstr ""
-"Ensuite, sans dormir ni à l'aube ni au crépuscule, bien qu'il maintenait de "
+"Ensuite, sans dormir ni à l'aube ni au crépuscule, bien qu'il maintint de "
 "grands efforts [dans sa pratique],"
 
 msgctxt "5c492b2c17184af9b4f8ccf1e922b02e"
