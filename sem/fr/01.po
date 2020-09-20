@@ -1680,7 +1680,7 @@ msgstr "pensèrent-elles. Puis,"
 # འདིའི་ར་མདའ་<«གཡུང་»«པེ་»འདའ།>བྱ་དགོས་སོ་སྙམ་སྟེ་
 msgctxt "5e167a6ff3eb4981a1b3f4f75ba114d3"
 msgid "འདི␣འི་ ར་མདའ་ བྱ་ དགོས་ སོ་ སྙམ་ སྟེ་"
-msgstr "« Nous devons l'aider » pensèrent-ils, puis"
+msgstr "« Nous devons l'aider » pensèrent-elles. Puis"
 
 msgctxt "7ad356c0ba294771bb386c330eba86af"
 msgid "དེ་དག་ གིས་ སྨྲས་པ །"
