@@ -560,11 +560,11 @@ msgid ""
 "Faisant progressivement l’aumône, il alla et se rendit à l’endroit de la "
 "maison de ce père de famille et il s’assit sur le siège disposé [pour lui]."
 msgstr ""
-"L'honorable Aniruddha vit que le moment était venu d’inciter du monde Pūraṇa"
-" à se retirer du monde. Le matin tôt, il revêtit les habits monastiques, "
-"puis le bol à aumône à la main, il partit à Śrāvastī quêter des offrandes. "
-"Demandant l’aumône de porte en porte, il se dirigea vers la demeure du père "
-"de famille, où il s'assit sur le siège qui lui était préparé."
+"L'honorable Aniruddha vit que le moment était venu d’inciter Pūraṇa à se "
+"retirer du monde. Le matin tôt, il revêtit les habits monastiques, puis le "
+"bol à aumône à la main, il partit à Śrāvastī quêter des offrandes. Demandant"
+" l’aumône de porte en porte, il se dirigea vers la demeure du père de "
+"famille, où il s'assit sur le siège qui lui était préparé."
 
 # འདུག་ནས་ཀྱང་ ཚེ་དང་ལྡན་པ་མ་འགགས་པས། ཁྱིམ་བདག་དེ་ལ་སྨྲས་པ། ཁྱིམ་བདག་
 # ཁྱེའུ་འདི་ནི་མ་བཙས་པའི་<«གཡུང་»བཙམ་བའི «པེ་»བཙའ་བའི།>སྔ་རོལ་ནས།
