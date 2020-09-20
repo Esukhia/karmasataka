@@ -1372,7 +1372,7 @@ msgstr "Avez-vous vu une chienne dans la maison de ce père de famille ? »"
 
 msgctxt "abbe8ab964ab4391bb8a17347174380f"
 msgid "དེ་དག་ གིས་ སྨྲས་པ །"
-msgstr "ils dirent : «"
+msgstr "Ils dirent : «"
 
 msgctxt "8303f8145b9e44d6984c46fb55ae9dda"
 msgid "བཙུན་པ་ ཤཱ་རི␣འི་ བུ་"
