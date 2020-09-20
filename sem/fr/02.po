@@ -1871,7 +1871,7 @@ msgstr "Je le sais :"
 
 msgctxt "eed5dd5e59c44701a10ff0b58384969e"
 msgid "ཁྱོད་ ཀྱང་ རབ་ཏུ་ བྱུང་བ་ ཡིན་ ལ་"
-msgstr "vous êtes un renonçant et"
+msgstr "vous êtes une personne qui s'est retirée du monde et"
 
 msgctxt "25ce31ed1c8145e8b49b785b937348e0"
 msgid "ང་ ཡང་ རབ་ཏུ་ བྱུང་བ་ ཡིན་ ནོ ། །"
