@@ -1761,7 +1761,7 @@ msgstr "Alors, celui qui servait [la saṅgha] se mit en colère et"
 
 msgctxt "a82f4e7bdc8a457b8b23c074efb29915"
 msgid "མིག་ བཙུམས་ ཏེ་"
-msgstr "il ferma les yeux et"
+msgstr "il ferma les yeux et [dit :]"
 
 # མིག་འདི་འདྲ་<«སྣར་»དེ།>བ་དེ་ཡིན་པ་ལྟ་ཞེས་
 msgctxt "e32405e3f5434c0d93f72bf6ba67ecf3"
