@@ -937,7 +937,7 @@ msgstr ""
 # །
 msgctxt "598ae220860145c5b9ac0e1216e207c2"
 msgid "མཚོ␣འི་ ནང་ གི་ པད་མ་ བཞིན་ དུ་ སྐྱེ་ དྲག་པ␣ར་ གྱུར་ ཏོ ། །"
-msgstr "comme un lotus dans un lac, elle grandit avec force."
+msgstr "comme un lotus dans un lac, il grandit avec force."
 
 # དེ་<«ཁུ་»དེའི།>གང་གི་ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ་ཡི་གེ་དང་ཁོང་རྩིས་དང་།
 # ཤོད་དགོད་པ་དང་ལག་རྩིས་དང་དབྱུང་བ་དང་།
