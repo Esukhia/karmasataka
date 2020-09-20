@@ -883,7 +883,7 @@ msgstr ""
 msgctxt "2eba96949f124b43838a470cbebcc85e"
 msgid "དུད་འགྲོ␣འི་ སྐྱེ་གནས་ དང་ འབྲལ་བ␣ར་ འགྱུར་ ཡང་སྲིད་ དོ་ ཞེས་"
 msgstr ""
-"il se pourrait que tu sois débarassée (lit. séparée) des naissances "
+"Il se pourrait que tu sois débarrassée (lit. séparée) des naissances "
 "animales. »"
 
 msgctxt "38060a08eeb643fa94c294b898faf2a1"
