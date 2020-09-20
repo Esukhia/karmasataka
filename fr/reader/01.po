@@ -963,8 +963,8 @@ msgstr ""
 "nonnes qui avaient ou non parfait leur apprentissage. Toutes lui répondirent"
 " qu'elles ne pourraient pas délaisser leurs occupations vertueuses pour lui "
 "venir en aide. Ces réponses l'enserrèrent toute entière dans une colère "
-"intense. « Comme une chienne, je passe tout mon temps à vous nourrir et à "
-"vous soigner. Et vous ? Vous ne pouvez pas m'aider un court instant ? » "
+"intense. \"Comme une chienne, je passe tout mon temps à vous nourrir et à "
+"vous soigner. Et vous ? Vous ne pouvez pas m'aider un court instant ?\" "
 "s’écria-t-elle."
 
 # དེ་ནས་དགེ་སློང་མ་དེ་རྣམས་ཀྱིས་བསམས་པ།
