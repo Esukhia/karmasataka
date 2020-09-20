@@ -1839,7 +1839,7 @@ msgstr "obtint l'insurpassable éveil, complet et parfait et"
 
 msgctxt "b880600526c44ce9ba3eddb5d5375c3c"
 msgid "ཆོས་ ཀྱི་ འཁོར་ལོ་ རྣམ་པ་ བཅུ་གཉིས་ ལན་ གསུམ་ དུ་ བསྐོར་ ནས་"
-msgstr "tourna à trois reprises la roue du Dharma en ses douze aspects, puis"
+msgstr "tourna à trois reprises la roue du Dharma en ses douze aspects. Puis"
 
 msgctxt "17c82e92a76c45b8984603648467227c"
 msgid "སེམས་ཅན་ ལ་ ཕན་པ་ མཛད་ དེ །"
