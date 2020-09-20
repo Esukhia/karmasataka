@@ -1333,7 +1333,7 @@ msgstr ""
 
 msgctxt "f352f753a4574577964775848ca31a26"
 msgid "རྒྱུན་ དུ་ ཞུགས་པ␣འི་ འབྲས་བུ་ མངོན་སུམ་ དུ་ བྱས་ ཏེ །"
-msgstr "ils manifestèrent le résultat de l'entrée dans le courant, puis"
+msgstr "ils manifestèrent le résultat de l'entrée dans le courant. Puis,"
 
 msgctxt "6beea4b60275478b9012e7adac9bf6bf"
 msgid "དེ␣ས་ ཕ་མ་ གཉིས་ བདེན་པ་ རྣམས་ ལ་ བཀོད་ ནས །"
