@@ -1169,7 +1169,7 @@ msgstr ""
 
 msgctxt "143727859e274ec39e70e431e14cc750"
 msgid "མ་ལ་"
-msgstr "Décidément"
+msgstr "décidément,"
 
 msgctxt "71cb7ec6e9f9447cbd7c3f69f4a12b91"
 msgid "བུ་ འདི་ ཁྱིམ་ དུ་ ཁྲིད་ ལ་"
