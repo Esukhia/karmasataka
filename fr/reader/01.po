@@ -1004,9 +1004,9 @@ msgid ""
 "toute sa vie, puis"
 msgstr ""
 "Ne pouvant la laisser errer dans le samsara et subir d'atroces souffrances du fait des émotions qui la contrôlaient et la perdraient, elles décidèrent de lui venir en aide. \n"
-"« Sais-tu qui nous sommes et qui tu es toi-même ? » lui demandèrent-elles. \n"
-"« Et comment ! Vous êtes de celles qui se sont retirées du monde et moi tout autant ! » leur lança-t-elle.\n"
-"« Sœur aînée, lui dirent-elles, il est vrai que nous nous sommes toutes retirées du monde. Pourtant, tu es un être ordinaire lié par toutes les émotions tandis que nous avons accompli tout ce qui devait l'être. Donc, confesse ta mauvaise action en la reconnaissant. Sinon, il est certain que tu erreras dans le saṃsāra et que tu subiras de grandes souffrances ! » \n"
+"\"Sais-tu qui nous sommes et qui tu es toi-même ?\" lui demandèrent-elles. \n"
+"\"Et comment ! Vous êtes de celles qui se sont retirées du monde et moi tout autant !\" leur lança-t-elle.\n"
+"\"Sœur aînée, lui dirent-elles, il est vrai que nous nous sommes toutes retirées du monde. Pourtant, tu es un être ordinaire lié par toutes les émotions tandis que nous avons accompli tout ce qui devait l'être. Donc, confesse ta mauvaise action en la reconnaissant. Sinon, il est certain que tu erreras dans le saṃsāra et que tu subiras de grandes souffrances !\" \n"
 "Prise d'un regret amer, elle redoubla de dévouement pour servir les deux saṅghas en accord avec le Dharma et vécut chastement toute sa vie."
 
 # འཆི་ཀར་<«ཞོལ་»གར།>སྨོན་ལམ་བཏབ་པ། ཀྱེ་མ་
