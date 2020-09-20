@@ -804,8 +804,7 @@ msgstr ""
 
 msgctxt "f5988c86883e4e62989e17b829c8dd8b"
 msgid "ཆོས་ མཉན་པ␣འི་ ཕྱིར་ མདུན་ དུ་ འདུག་ གོ ། །"
-msgstr ""
-"[le père de famille] s'asseyait devant lui pour écouter l'enseignement."
+msgstr "[le père de famille] s'asseyait devant lui pour écouter le Dharma."
 
 msgctxt "ee200df32aa946019eeadc9374e42b8e"
 msgid "ཁྱི་ མོ་ དེ་ཡང་ ཚེ་ དང་ ལྡན་པ་ ཤཱ་རི␣འི་ བུ␣འི་ མདུན་ དུ་ འདུག་ ནས་"
