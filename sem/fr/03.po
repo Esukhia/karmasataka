@@ -1402,7 +1402,7 @@ msgstr "je n'ai plus à vouloir des souffrances comme celles-ci."
 
 msgctxt "91ff49bf71874be0ae84fc5148f90990"
 msgid "མ་ལ་"
-msgstr "Décidément"
+msgstr "Décidément,"
 
 msgctxt "32cf037ff8f74106b246ae9a3dea2ceb"
 msgid "བདག་ ཞི་བ␣འི་ དབྱིངས་ སུ་ འཇུག་པ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
