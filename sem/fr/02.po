@@ -889,7 +889,7 @@ msgid ""
 "གཟུགས་བཟང་ ཞིང་ །  བལྟ་ ན་ སྡུག་ ལ་ མཛེས་པ་ ཞིག་ བཙས་ མོད་ ཀྱི་"
 msgstr ""
 "L'épouse de ce père de famille, après que neuf ou dix mois soient passés, "
-"elle donna le jour à un fils bien proportionné (lit. noble), dont la beauté "
+"donna le jour à un fils bien proportionné (lit. noble), dont la beauté "
 "réjouissait la vue,"
 
 msgctxt "3c8e8edb4a934a2d84b06417da82314b"
