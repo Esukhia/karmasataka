@@ -1041,7 +1041,7 @@ msgid ""
 "pas devoir subir les résultats de ces actions. » formula-t-elle (lit. fit-"
 "elle)."
 msgstr ""
-"Au moment de mourir, elle formula le souhait suivant : « Quelle merveille ! "
+"Au moment de mourir, elle formula le souhait suivant : \"Quelle merveille ! "
 "Je me suis retirée du monde selon l'enseignement du complet et parfait "
 "Bouddha Kāśyapa. J'ai vécu chastement toute ma vie. J'ai servi la saṅgha en "
 "accord avec le Dharma. Par ces racines de vertus, où que je naisse, puissé-"
@@ -1053,7 +1053,7 @@ msgstr ""
 "qui le mécontente. Puissé-je me retirer du monde d'après son enseignement, "
 "éliminer toutes les émotions perturbatrices et manifester l'état d'arhat. "
 "Puissé-je ne pas devoir subir les résultats de m'être mis en colère et "
-"d'avoir dit des paroles blessantes à celles qui vivaient une vie chaste. »"
+"d'avoir dit des paroles blessantes à celles qui vivaient une vie chaste.\""
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས་
 # དེའི་ཚེ་དགེ་སློང་མར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་དགེ་སློང་མ་འདི་ཉིད་ཡིན་ཏེ།
