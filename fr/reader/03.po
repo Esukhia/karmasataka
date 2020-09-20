@@ -1122,9 +1122,9 @@ msgid ""
 msgstr ""
 "Moines, je suis devenu en tout point l'égal du complet et parfait Bouddha "
 "Krakucchanda. J'ai obtenu une force égale à la sienne, des moyens habiles et"
-" des actes égaux aux siens. Il m'a contenté et n'a rien fait qui me "
+" des actes égaux aux siens. Il m'a contenté, n'a rien fait qui me "
 "mécontente. Il s'est retiré du monde selon mon enseignement. Il a éliminé "
-"toutes les émotions perturbatrices et il a manifesté l'état d'arhat. »"
+"toutes les émotions perturbatrices et a manifesté l'état d'arhat. »"
 
 # ལས་ཅི་བགྱིས་ན་
 # ལས་དེའི་རྣམ་པར་སྨིན་པས་ཡོངས་སུ་མྱ་ངན་ལས་འདས་པ་ན་འཁོར་བཞི་པོ་རྣམས་མཆོད་པ་བགྱིད་པར་འགྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»གྱུར།>ལགས།
