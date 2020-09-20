@@ -857,7 +857,7 @@ msgstr "eh bien (lit. comme ceci)"
 
 msgctxt "424780095b6a43f683568a931c965917"
 msgid "འདུ་བྱེད་ ཐམས་ཅད་ ནི་ མི་རྟག་པ␣འོ ། །"
-msgstr "Tous les [phénomènes] composés sont impermanents."
+msgstr "tous les [phénomènes] composés sont impermanents."
 
 msgctxt "c0fe5f1c3bfd4bd79fe488b9093d3f72"
 msgid "འདུ་བྱེད་ ཐམས་ཅད་ ནི་ སྡུག་བསྔལ་བ␣འོ ། །"
