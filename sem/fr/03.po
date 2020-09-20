@@ -953,10 +953,10 @@ msgid ""
 "ཡི་གེ་ མཁས་པ་ དང་ ཀློག་ མཁས་པ་ དང་ མཛངས་པ་ དང་ བྱ་བ་ ལ་ གསལ་བ་ དང་ "
 "ཡིད་གཞུངས་པ་ དང་ བརྟག་པ་ རྣམ་པ་ བརྒྱད་ ལ་ བྱང་བ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
-"il sut parfaitement écrire (lit. versé dans les lettres), sut parfaitement "
-"lire (lit. versé dans la lecture), il devint ingénieux, habile de ses mains "
-"(lit. clair sur les choses à faire), vif d'esprit et rompu (lit. entraîné) "
-"aux huit évaluations."
+"il sut parfaitement écrire (lit. versé dans les lettres). Il sut "
+"parfaitement lire (lit. versé dans la lecture). Il devint ingénieux, habile "
+"de ses mains (lit. clair sur les choses à faire), vif d'esprit et rompu "
+"(lit. entraîné) aux huit évaluations."
 
 # དེ་ནས་ཕྱི་ཞིག་ན། ཚེ་དང་ལྡན་པ་མ་འགགས་<«ལི་»«སྣར་»«ཅོ་»འགག>པས།
 # ཁྱེའུ་དེ་རབ་ཏུ་དབྱུང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»བྱུང་།>བའི་དུས་ལ་བབ་པར་མཐོང་ནས།
