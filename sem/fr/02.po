@@ -1247,7 +1247,8 @@ msgstr "il était né en tant que chien, vit-il."
 # དེ་བཞིན་དུ་དེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེས།>ཚེ་རབས་ལྔ་བརྒྱའི་བར་དུ་བལྟས་ན་<«གཡུང་»«པེ་»ནས།>
 msgctxt "35f2679a754b45adaae8fcc35db205b4"
 msgid "དེ་བཞིན་ དུ་ དེ␣ས་ ཚེ་རབས་ ལྔ་ བརྒྱ␣འི་ བར་ དུ་ བལྟས་ ན་"
-msgstr "De même, lorsqu'il regarda la succession de vies jusqu'à cinq-cent,"
+msgstr ""
+"De même, lorsqu'il regarda la succession de [ses] vies jusqu'à cinq-cent,"
 
 msgctxt "8f4db4492f0747d98de5f1053fe9ff9d"
 msgid "དེ␣ས་ ཁྱི་ ལ␣ས་ ཤི་འཕོས་ ཏེ །"
