@@ -1843,7 +1843,7 @@ msgstr "tourna à trois reprises la roue du Dharma en ses douze aspects. Puis"
 
 msgctxt "17c82e92a76c45b8984603648467227c"
 msgid "སེམས་ཅན་ ལ་ ཕན་པ་ མཛད་ དེ །"
-msgstr "fit le bien des êtres et"
+msgstr "il fit le bien des êtres et"
 
 msgctxt "af66ca5c50c848c5bd632bae7c874c42"
 msgid ""
