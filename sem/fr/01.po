@@ -1582,7 +1582,7 @@ msgstr ""
 "toutes ces choses nécessaires (lit. à obtenir) que j'obtiens comme dons et "
 "comme marques de respect, je les emploierai assurément (lit. sans doute) au "
 "bénéfice (lit. faire le bien) de ceux qui vivent une vie chaste (lit. suivre"
-" le brahmacarya)."
+" le brahmacarya). »"
 
 msgctxt "0846b22f4ea5401384b2b3c9062a1c30"
 msgid "བསམས་ ནས །"
