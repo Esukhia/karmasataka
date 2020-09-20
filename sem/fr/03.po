@@ -731,7 +731,7 @@ msgid ""
 " བྱ་བ␣འི་ ཕྱིར་"
 msgstr ""
 "Ensuite, plus tard, l'honorable Aniruddha, pour rendre ces deux parents "
-"stables,"
+"stables [dans leurs engagements],"
 
 msgctxt "3a7172f1f0f1461793b6ea0cbc5c569b"
 msgid "ཟླ་མེད་པ་ དང་ །  གཡོག་ མེད་པ␣ར་ གཅིག་པུ་ ཁྱིམ་ དེ␣ར་ སོང་བ་ དང་"
