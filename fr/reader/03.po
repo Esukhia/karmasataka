@@ -127,11 +127,11 @@ msgid ""
 msgstr ""
 "Ainsi, cet homme priait avec ferveur lorsqu’un grand être entra dans le sein"
 " de son épouse. Cet être était renommé pour sa grandeur. Il était sur sa "
-"dernière existence. Il touchait à son but. Il était en position d'atteindre "
-"la libération. Il avait accumulé les mérites. Son regard s'était détourné du"
-" cycle des existences. Son regard était tourné vers l'au-delà de la "
-"souffrance.  Il ne voulait plus des naissances contenues dans le cycle des "
-"existences et son corps suivant serait le dernier."
+"dernière existence. Il avait trouvé ce qu'il cherchait. Il était en position"
+" d'atteindre la libération. Il avait accumulé les mérites. Son regard "
+"s'était détourné du cycle des existences. Son regard était tourné vers l'au-"
+"delà de la souffrance.  Il ne voulait plus des naissances contenues dans le "
+"cycle des existences et son corps suivant serait le dernier."
 
 # བུད་མེད་མཁས་པའི་རང་བཞིན་ཅན་ཁ་ཅིག་ལ་ནི་ཐུན་མོང་མ་ཡིན་པའི་ཆོས་ལྔ་ཡོད་དེ།
 # ལྔ་གང་ཞེ་ན། སྐྱེས་པ་ཆགས་པར་ཡང་ཤེས་ལ་ མ་ཆགས་པར་ཡང་ཤེས་པ་དང་ དུས་ཀྱང་ཤེས་ལ་
