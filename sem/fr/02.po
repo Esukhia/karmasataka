@@ -899,7 +899,7 @@ msgstr "mais qui avait de petits yeux."
 msgctxt "56a61e4b461045e9abf135d8014355f9"
 msgid "དེ་ནས་ དེ␣འི་ བཙས་ སྟོན་ རྒྱས་པ␣ར་ བྱས་ ནས །"
 msgstr ""
-"Ensuite, la fête de sa naissance fut faite [de manière] grandiose (lit. "
+"Ensuite, la fête de sa naissance fut célébrée [de manière] grandiose (lit. "
 "vastement) et"
 
 # ཁྱེའུ་འདིའི་མིང་ཇི་སྐད་གདགས་ཞེས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཤེས།>
