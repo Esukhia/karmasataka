@@ -2090,7 +2090,7 @@ msgstr ""
 
 msgctxt "58b37e6ccc8e4f19baf0712d9a22a424"
 msgid "མིག་ གཉིས་ འདི་འདྲ་ བར་ གྱུར་ ཏོ ། །"
-msgstr "ses deux yeux sont devenus comme ça."
+msgstr "ses deux yeux sont devenus comme ceci."
 
 msgctxt "b3a4b6cd4c33464180b40ee9135c12e1"
 msgid "དེ␣ས་ དེ␣ར་ སྨོན་ལམ་ བཏབ་ སྟེ །"
