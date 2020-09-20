@@ -1164,7 +1164,7 @@ msgid ""
 "བདག་ཅག་ གཉིས་ གཙུག་ལག་ཁང་ དུ་ འདུག་ ན་ ནི་ ཁྱིམ་ གྱི་ བྱ་བ་ མང་པོ་ དག་ "
 "ཤོར་བ␣ར་ འགྱུར་ ན་"
 msgstr ""
-"si, tous les deux, nous restons au vihāra, nous laisserons passer beaucoup "
+"Si, tous les deux, nous restons au vihāra, nous laisserons passer beaucoup "
 "de [choses] à faire de la maison. Donc,"
 
 msgctxt "143727859e274ec39e70e431e14cc750"
