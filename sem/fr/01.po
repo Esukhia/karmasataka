@@ -1358,7 +1358,7 @@ msgstr "à quoi pense cette nonne quand"
 # དེ་ཡང་དང་ཡང་དུ་དེ་སྐད་<«གཡུང་»«པེ་»+དེ་སྐད།>མཆི།
 msgctxt "fc4454b212414ff9bb2968cbcef341be"
 msgid "དེ་ཡང་ དང་ ཡང་ དུ་ དེ་སྐད་ མཆི །"
-msgstr "elle répète (lit. se trouve [à dire]) encore et encore ceci ? »"
+msgstr "elle répète ceci (lit. se trouve [à dire]) encore et encore ? »"
 
 # ཚེ་དང་ལྡན་པ་ཤཱ་<«གཡུང་»«པེ་»ཤ>རིའི་བུས་སྨྲས་པ།
 msgctxt "f38ff5258df6427087c38df2cf280efc"
