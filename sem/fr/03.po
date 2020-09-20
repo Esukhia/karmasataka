@@ -1589,7 +1589,7 @@ msgstr ""
 
 msgctxt "b7c9e7cb0fd84fd8b14c53be47a8b223"
 msgid "ཐོས་ སོ ། །"
-msgstr "l'entendirent."
+msgstr "[elles] l'entendirent."
 
 msgctxt "8128f53d3c8a459383641db963fec0e2"
 msgid "ཐོས་ ནས་"
