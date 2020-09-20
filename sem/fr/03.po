@@ -966,7 +966,7 @@ msgid ""
 "དབྱུང་བ␣འི་ དུས་ ལ་ བབ་པ␣ར་ མཐོང་ ནས །"
 msgstr ""
 "Ensuite, l'honorable Aniruddha vit que le moment était venu [que] ce garçon "
-"renonce au monde, et"
+"se retire du monde, et"
 
 msgctxt "27ff53f93738429fbc2fdabebffb19e2"
 msgid "སྔ་དྲོ་ ཤམ་ཐབས་ དང་ ཆོས་གོས་ བགོས་ ཏེ །"
@@ -983,7 +983,7 @@ msgstr "partit à Śrāvastī pour [y recevoir] l'aumône et"
 
 msgctxt "2668e5515f1d422bb000299fe15baf59"
 msgid "དེ་ མཐར་གྱིས་ བསོད་སྙོམས་ ལ་ རྒྱུ་བ་ ལ␣ས །"
-msgstr "Faisant progressivement l'aumône, "
+msgstr "faisant progressivement l'aumône, "
 
 # ཁྱིམ་བདག་དེའི་ཁྱིམ་ག་ལ་བ་<«གཡུང་»–བ།>དེར་སོང་སྟེ་ཕྱིན་ནས།
 msgctxt "2688149d4bb64547ba4dcfa4dd95b4cd"
