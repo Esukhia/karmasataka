@@ -395,9 +395,10 @@ msgid ""
 "lui-même (lit. moi-même) qui le dompterait."
 msgstr ""
 "Ainsi, tandis que l’honorable Aniruddha scrutait le monde, il vit qu’un être"
-" sur sa dernière vie allait naître dans la maison de ce père de famille. Au "
-"moment où il se demandait si le Bouddha ou un auditeur permettrait à cet "
-"être de se libérer, il vit que c’était à lui-même de le faire."
+" sur sa dernière existence allait naître dans la maison de ce père de "
+"famille. Au moment où il se demandait si le Bouddha ou un auditeur "
+"permettrait à cet être de se libérer, il vit que c’était à lui-même de le "
+"faire."
 
 # མཐོང་ནས་ཀྱང་ ཁྱིམ་དེར་སོང་ནས། ཁྱིམ་བདག་དེ་ལ་དུས་དུས་སུ་ཆོས་སྟོན་ཏོ། །
 # དེས་<«གཡུང་»«པེ་»དེ་ནས།>ཁྱིམ་བདག་དེ་དད་པ་ཕུན་སུམ་ཚོགས་པ་ལ་གནས་པར་བྱས་སོ། །
