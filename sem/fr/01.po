@@ -853,7 +853,7 @@ msgstr "Enfant,"
 
 msgctxt "b095d3a13cd64c10b1555c6101ede8c3"
 msgid "འདི་ལྟར་"
-msgstr "Eh bien (lit. comme ceci)"
+msgstr "eh bien (lit. comme ceci)"
 
 msgctxt "424780095b6a43f683568a931c965917"
 msgid "འདུ་བྱེད་ ཐམས་ཅད་ ནི་ མི་རྟག་པ␣འོ ། །"
