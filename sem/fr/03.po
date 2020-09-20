@@ -1199,7 +1199,7 @@ msgstr "« [Être] sublime,"
 
 msgctxt "bdd270f4701040828e7771c7e4b9aa1f"
 msgid "མཁྱེན་པ␣ར་ མཛད་ དུ་ གསོལ །"
-msgstr "Veuillez écouter (lit. savoir) [ce qui suit]."
+msgstr "veuillez écouter (lit. savoir) [ce qui suit]."
 
 msgctxt "70f6c2992dbc46648ce296921e9bc529"
 msgid ""
