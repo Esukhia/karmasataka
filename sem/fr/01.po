@@ -554,7 +554,7 @@ msgid ""
 "ཁྱི་ མོ་ ལོག་པ␣ར་ ལྟུང་བ␣འི་ ལུས་ཅན་ འདི་ ཡང་ འདི་ ལ་ དེ་ལྟ་ བུ␣འི་ "
 "བཀུར་སྟི་ བྱེད་པ␣ར་ སེམས་པ་ ལ␣ས་ ན །"
 msgstr ""
-"même cette chienne, un être (lit. qui-a-un-corps) tombé dans une condition "
+"Même cette chienne, un être (lit. qui-a-un-corps) tombé dans une condition "
 "contraire, pense à lui rendre un tel hommage. Donc"
 
 msgctxt "f1f4ef7d6e8e4837a83226278ab6afbb"
