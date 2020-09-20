@@ -1212,7 +1212,7 @@ msgstr ""
 # བདག་ཅག་གཉིས་ཀྱིས་<«གཡུང་»«པེ་»ཀྱི།>བུ་འདི་<«ཁུ་»དེ།>ཁྱིམ་དུ་ཁྲིད་དེ་
 msgctxt "2c92ef45c38d49c8ab59f6b2f7f14f3f"
 msgid "བདག་ཅག་ གཉིས་ ཀྱིས་ བུ་ འདི་ ཁྱིམ་ དུ་ ཁྲིད་ དེ་"
-msgstr "nous prendrions (lit. mènerions) ce fils à la maison et"
+msgstr "nous prendrons (lit. mènerons) ce fils à la maison et"
 
 msgctxt "6d650ee11bbb4be491ee52c551c55d26"
 msgid "ནད་གཡོག་ བགྱི་ བར་ འཚལ་ ན་"
