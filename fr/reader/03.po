@@ -1028,7 +1028,7 @@ msgstr ""
 "lui fit prendre le refuge et lui fit observer certains vœux. Ce dernier "
 "construisit un monastère, s'assura qu'il n'y manqua pas le moindre détail et"
 " l'offrit au complet et parfait bouddha Krakucchanda et à la saṅgha de ses "
-"auditeurs. Il offrit tout le nécessaire à la vie de la communauté "
+"auditeurs. Il offrit aussi tout le nécessaire à la vie de la communauté "
 "monastique."
 
 # འཆི་ཀར་<«ཞོལ་»གར།>སྨོན་ལམ་བཏབ་<«གཡུང་»«པེ་»གཏབ།>པ། ཀྱེ་<«གཡུང་»སྐུ།>མ་
