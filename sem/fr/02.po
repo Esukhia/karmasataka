@@ -1342,7 +1342,7 @@ msgid ""
 "བསྙེན་པ␣ར་ རྫོགས་ ནས་ ནི་ བདག་ གིས་ བསྙེན་བཀུར་ རིམ་གྱིས་ བྱ␣ར་ མི་ རུང་ ན །"
 msgstr ""
 "si je prends les vœux complets (lit. si je parfait l'approche [de la "
-"libération]), je vais progressivement ne plus pouvoir le lui offrir (lit. "
+"libération]), je vais progressivement ne plus pouvoir lui offrir (lit. "
 "faire) [mes] services. C'est pourquoi"
 
 msgctxt "8b76b6c4aa004ac38058e4f4e9be206c"
