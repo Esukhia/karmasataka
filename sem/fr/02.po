@@ -530,7 +530,7 @@ msgstr ""
 msgctxt "dfb60bde25cd446e89dd892896ba5f82"
 msgid "དེ་ དང་ འཐུན་པ␣འི་ ཆོས་སྟོན་པ␣ར་ བྱེད་ དེ །"
 msgstr ""
-"il lui prodigua un enseignement lui (lit. à ceci) correspondant. Alors,"
+"il leur prodigua un enseignement leur (lit. à ceci) correspondant. Alors,"
 
 msgctxt "4a159202d00744b1aa690198f28f95fc"
 msgid "དེ་ ཐོས་ ནས་"
