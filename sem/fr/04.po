@@ -886,7 +886,7 @@ msgid ""
 "དེ␣ས་ ཀྱང་ བརྩོན་པ་ དང་ །  བསྒྲུབ་པ་ དང་ འབད་པ␣ས་ ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ "
 "ནས །"
 msgstr ""
-"De son côté, il s'efforça, s'appliqua et s'évertua à éliminer toutes les "
+"de son côté, il s'efforça, s'appliqua et s'évertua à éliminer toutes les "
 "émotions perturbatrices et"
 
 # དགྲ་བཅོམ་པ་<«གཡུང་»ལ།>ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
