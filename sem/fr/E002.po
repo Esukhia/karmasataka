@@ -16,7 +16,7 @@ msgstr ""
 # «སྣར་»བི་གཉིས་ཤེས།>བྱ་བ་དེ་ལ། ཤི་བི་<«གཡུང་»བཱི།«པེ་»བའི།>དང་པོ་ནི།
 msgctxt "39fe6132c1a04792a8971910eba03fbc"
 msgid "﻿ཤི་ བི་ གཉིས་ ཞེས་ བྱ་བ་ དེ་ ལ །  ཤི་ བི་ དང་པོ་ ནི །"
-msgstr "La première des deux histoire du Roi Śibi"
+msgstr "La première des deux histoires du Roi Śibi"
 
 # བཅོམ་ལྡན་འདས་:གྱད་ཀྱི་<«ལི་»«པེ་»«ཅོ་»ཀྱིས།>ཡུལ་དུ་ལྗོངས་<«ལི་»«ཅོ་»+སུ།>རྒྱུ་ཞིང་གཤེགས་པ་ལས།
 msgctxt "faed06f87cea4569a1bdafc01e91e056"
