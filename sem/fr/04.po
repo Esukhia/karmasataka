@@ -15,7 +15,7 @@ msgstr ""
 # [17b]ལས་བརྒྱ་ཐམ་པ<«གཡུང་»བ།>།
 msgctxt "70f5aaa96dfe4f7b983814c7bdf061b6"
 msgid "ལ␣ས་ བརྒྱ་ ཐམ་པ །"
-msgstr "Les cent karmas."
+msgstr "Les cent karmas"
 
 msgctxt "9f4ec94929654dc6992ed24bf7cf8ea0"
 msgid "བམ་པོ་ གཉིས་པ །"
