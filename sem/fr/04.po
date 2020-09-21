@@ -476,7 +476,7 @@ msgstr ""
 # མེ་ལུས་ཀྱི་དབྱིབས་<«གཡུང་»དབྱིངས།>སུ་འདུག་པ་ལྟ་བུ་
 msgctxt "130b99101296496bac50731a52115045"
 msgid "མེ་ ལུས་ ཀྱི་ དབྱིབས་ སུ་ འདུག་པ་ ལྟ་བུ་"
-msgstr "Il se tenait comme une masse de feu à forme humaine,"
+msgstr "il se tenait comme une masse de feu à forme humaine,"
 
 msgctxt "4f830d2a3bc74c1487d2f5a2ced90d13"
 msgid "མེ་ལྕེ་ མར་ གྱིས་ བཏབ་པ་ ལྟ་བུ །"
