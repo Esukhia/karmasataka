@@ -53,9 +53,9 @@ msgid ""
 "དང་ སྐྱེ་བོ་ དང་ མི་ མང་པོ␣ས་ གང་བ␣འི་ ལྗོངས་ དེ་ དང་ དེ་དག་ ཏུ་ སོང་ ནས་"
 msgstr ""
 "Elles partent aussi à Kurava, le continent du Nord, à Godānīya, le continent"
-" de l'Ouest, au monde des Trente-Troix Dieux, et aussi dans les contrées "
-"riches, prospères et heureuses, où les moissons sont bonnes, et où vivent de"
-" grandes populations d'animaux et d'humains et"
+" de l'Ouest, dans le monde des Trente-Troix Dieux, et aussi dans les "
+"contrées riches, prospères et heureuses, où les moissons sont bonnes, et où "
+"vivent de grandes populations d'animaux et d'humains et"
 
 # ཁ་ཟས་གཙང་<«ཞོལ་»གཅིང་།>མ་བཟང་པོ་མང་པོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–མང་པོ།>དག་ཁྱེར་ནས་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»ཏེ།>
 msgctxt "dbe2057e90e2451d95ec037ef049d7c9"
