@@ -878,9 +878,9 @@ msgid ""
 "puisqu’il a fait [ce vœu], maintenant, je l’ai entièrement soulagé (lit. "
 "refugié) de ses deux maux."
 msgstr ""
-"Puisqu'il a formulé le souhait que le Bienheureux dissipe les souffrances de"
-" son corps et de son esprit si cette action venait à mûrir, je l'ai "
-"entièrement soulagé."
+"Puisqu'il a formulé le souhait que le Bienheureux dissipe ses souffrances "
+"physiques et mentales si cette action venait à mûrir, je l'ai entièrement "
+"soulagé."
 
 # དེས་དེར་སྨོན་ལམ་བཏབ་སྟེ།
 # བདག་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་གྱུར་ཅིག
