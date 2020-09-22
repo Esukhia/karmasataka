@@ -227,7 +227,7 @@ msgstr "Je voudrais développer les pouvoirs surnaturels. De plus,"
 msgctxt "c8d20e77cc0746deb0ec7e47486b47d9"
 msgid "ཁྱེད་ ཀྱང་ བདག་ ལ་ རྫུ་འཕྲུལ་ གྱི་ ལམ་ སྟོན་པ␣ར་ སྤྱོད་ ཀྱིས་"
 msgstr ""
-"Il vous est possible de m'enseigner la voie des pouvoirs surnaturels. Donc,"
+"il vous est possible de m'enseigner la voie des pouvoirs surnaturels. Donc,"
 
 msgctxt "e40817e9c5b64936b193e2072c943950"
 msgid "བདག་ ལ་ རྫུ་འཕྲུལ་ གྱི་ ལམ་ གྱི་ མན་ངག་ བསྟན་ དུ་ གསོལ །"
