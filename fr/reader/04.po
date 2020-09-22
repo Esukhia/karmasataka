@@ -810,9 +810,9 @@ msgid ""
 "Dharma et la Saṅgha et j’ai vécu chastement toute ma vie (lit. une vie), et "
 "je n’ai obtenu aucune de l’ensemble des qualités."
 msgstr ""
-"Au moment de mourir, il formula le souhait suivant : \"Bien que j'ai servi "
-"le Bouddha, le Dharma et la Saṅgha et que j’ai vécu chastement toute ma vie,"
-" je n’ai obtenu aucune qualité."
+"Au moment de mourir, il formula le souhait suivant : \"Bien que j'aie servi "
+"le Bouddha, le Dharma et la Saṅgha et que j’aie vécu chastement toute ma "
+"vie, je n’ai obtenu aucune qualité."
 
 # ད་<«གཡུང་»«པེ་»–ད། «ཅོ་»ཀྱིས་དེ། «ཞོལ་»ཀྱི་ད།>དགེ་བའི་རྩ་བ་འདིས་ན།
 # བདག་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་<«གཡུང་»རང་།>དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་གྱུར་ཅིག
