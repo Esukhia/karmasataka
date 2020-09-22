@@ -823,7 +823,7 @@ msgstr "Ce que nous connaissons est limité à uniquement. Alors,"
 msgctxt "aedd4e7e24e54958938b72f464e9749c"
 msgid "དེ་ ཕན་ ཅད་ ཇི་ལྟར་ བྱ་བ་ ནི་ ཁྱོད་ ཉིད་ ཤེས་ སུ་ ཟད་ དོ ། །"
 msgstr ""
-"après ça, ce que vous ferez dépend de vous (lit. vous le savez vous-même)."
+"après ça, ce que vous ferez dépend de vous (lit. vous le savez vous-même). »"
 
 msgctxt "3567ff2dce7f4e2f9214336952eb3c8e"
 msgid "དེ་ནས་ དེ་ སྐྱེངས་ ཏེ་"
