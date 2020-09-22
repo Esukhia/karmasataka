@@ -864,7 +864,7 @@ msgid ""
 "།"
 msgstr ""
 "À cette époque, ceux qui étaient les charpentiers sont les [membres du] "
-"Groupe des Six. Ainsi,"
+"Groupe des Six eux-mêmes. Ainsi,"
 
 msgctxt "d37653bc728d4548a334f51bf1c68612"
 msgid "དེ␣འི་ ཚེ་ ཡང་ འདི་ དེ་དག་ གིས་ བྲིད་ ནས་"
