@@ -348,7 +348,7 @@ msgstr "Ils dirent : «"
 # རེ་ཞིག་ཁ་ཟས་ཉུང་དུ་ཟོ་<«གཡུང་»«པེ་»ཟོས། «ཞོལ་»བོ།>ཤིག །
 msgctxt "b00e7a3614c24f1f88d48e154291db24"
 msgid "རེ་ཞིག་ ཁ་ཟས་ ཉུང་ དུ་ ཟོ་ ཤིག  །"
-msgstr "Pour un temps, mange peu de nourriture."
+msgstr "Pour un temps, mangez peu de nourriture."
 
 # དེ་ནས་དང་པོའི་ཉིན་པར་ནི་ཁྲིའུ་གཅིག་གི་སྟེང་དུ་འཛེགས་<«གཡུང་»«པེ་»མཛེགས།>ལ་
 msgctxt "7b0a8636265c45539fa1d2dde07aa126"
