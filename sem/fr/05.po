@@ -466,11 +466,11 @@ msgstr "Le Groupe des Six lui répondit : «"
 msgctxt "81dda44274044387a9f2ad879a09f1be"
 msgid "བདག་ཅག་ གིས་ ཅི་ ཤེས་པ␣འི་ མན་ངག་ ནི་ ཁྱོད་ ལ་ བསྟན་ ཟིན་ ཏེ །"
 msgstr ""
-"Nous vous avons enseigné toutes les instructions que nous connaissons."
+"Nous vous avons enseigné toutes les instructions que nous connaissons :"
 
 msgctxt "c061f40c8d134ca981272ecbbfcb939f"
 msgid "ཐབས་ འདི␣ས་ ན་ ཁྱོད་ ཀྱི་ ལུས་ ཟོན་ ཡང་བ␣ར་ གྱུར་ ལ །"
-msgstr "Par ce moyen, votre corps deviendra plus léger par précaution :"
+msgstr "Par ce moyen, votre corps deviendra plus léger par précaution et"
 
 msgctxt "9eaa5c17c2ed45e0b12b5909e833bd10"
 msgid "ཕྱིས་ རྫུ་འཕྲུལ་ ཡང་ དཀའ་བ་ མེད་ དོ ། །"
