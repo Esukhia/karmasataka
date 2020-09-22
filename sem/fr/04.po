@@ -1134,7 +1134,7 @@ msgstr "Mes deux enfants,"
 msgctxt "da78344cf285416ca42f1584e6841a89"
 msgid ""
 "བཅོམ་ལྡན་འདས་ ཀྱི་ བསྟན་པ་ འདི་ ནི་ འཁོར་ལོ་ གཉིས་ ཀྱིས་ གཟུང་བ་ བྱེད་ དེ །"
-msgstr "l'enseignement du Bienheureux et détenu par les deux roues :"
+msgstr "l'enseignement du Bienheureux est détenu par les deux roues :"
 
 msgctxt "7f31b18de2214a768d4a24636abc793f"
 msgid ""
