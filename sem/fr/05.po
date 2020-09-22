@@ -168,7 +168,7 @@ msgid ""
 "དེ་དག་ གིས་ ནི་ བདག་ ལ་ རྫུ་འཕྲུལ་ གྱི་ ལམ་ གྱི་ མན་ངག་ སྟོན་ ཀྱང་ ནུས་ ན་"
 msgstr ""
 "et puisqu'ils sont en capacité de m'enseigner les instructions de la voie "
-"vers les pouvoirs surnaturels, "
+"des pouvoirs surnaturels, "
 
 msgctxt "8d94db2d21c8497bb28360a4d208c8e5"
 msgid "བདག་ གིས་ ཇི་ལྟར་ བྱ །"
