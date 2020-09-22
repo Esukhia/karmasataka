@@ -405,12 +405,12 @@ msgid ""
 "et il nettoya le couvercle, cacha ses mains. Il le vit et s’assit devant le "
 "Bienheureux pour écouter le Dharma."
 msgstr ""
-"Alors, le Bienheureux s'installa sur le siège dressé pour lui au milieu de "
-"la saṅgha des moines. Quand le Bouddha et la saṅgha des moines furent "
-"confortablement installés, le père de famille leur servit lui-même de "
-"nombreux mets condiments purs et nobles tant qu'ils en voulurent. Voyant que"
-" le repas du Bienheureux était terminé, que le bol à aumônes et son "
-"couvercle étaient nettoyés, il s'assit devant lui pour écouter le Dharma."
+"Ensuite, le Bienheureux s'installa sur le siège dressé pour lui au milieu de"
+" la saṅgha des moines. Quand tout le monde fut confortablement installé, le "
+"père de famille servit lui-même de nombreux mets et condiments purs et "
+"nobles tant qu'ils en voulurent. Voyant que le repas du Bienheureux était "
+"terminé, que le bol à aumônes et son couvercle étaient nettoyés, le père de "
+"famille s'assit devant lui pour écouter le Dharma."
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པའི་བསམ་པ་དང་བག་ལ་ཉལ་དང་ཁམས་དང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཁམས་དང་།>རང་བཞིན་ཐུགས་སུ་ཆུད་ནས་
 # དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ། དེ་ཐོས་ནས་
