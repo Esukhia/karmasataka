@@ -1,0 +1,938 @@
+# 
+# Translators:
+# Drupchen Dorje <drupchen@esukhia.org>, 2020
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Drupchen Dorje <drupchen@esukhia.org>, 2020\n"
+"Language-Team: French (France) (https://www.transifex.com/lotsawa-apprenticeship/teams/112155/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# [17b]ལས་བརྒྱ་ཐམ་པ<«གཡུང་»བ།>།
+msgctxt "line 1, 04.txt"
+msgid "Les cent karmas"
+msgstr "Les cent karmas"
+
+# བམ་པོ་གཉིས་པ།
+msgctxt "line 2, 04.txt"
+msgid "Deuxième feuillet"
+msgstr "Deuxième feuillet"
+
+# སྒུར་བུ་གཉིས་ཞེས་བྱ་བ་དེ་ལ། སྒུར་བུ་<«གཡུང་»སྐུ་བུ།
+# «ཅོ་»«ཞོལ་»སྒྱུར་པོ།>དང་པོ་ནི།
+msgctxt "line 3, 04.txt"
+msgid "La première des deux histoires du Bossu"
+msgstr "La première histoire du bossu"
+
+# གླེང་གཞི་<«གཡུང་»«པེ་»«ཁུ་»བཞི།>མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "line 4, 04.txt"
+msgid ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+msgstr ""
+"Voici une histoire que le Bienheureux conta lorsqu'il séjournait à Śrāvastī."
+
+# དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན་ཁྱིམ་བདག་ཕྱུག་ཅིང་<«གཡུང་»ཅིག>ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ་ཡོངས་སུ་འཛིན་པ་ཡངས་ཤིང་རྒྱ་ཆེ་བ།
+# རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་ལྡན་པ<«གཡུང་»«པེ་»–རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་ལྡན་པ།>།
+# རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་འགྲན་པ་ཞིག་གནས་པ་དེས་ཐབས་ཟླར་བབ་པ་ལས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ལ།>ཆུང་མ་བླངས་ནས།
+# དེ་དེ་དང་ལྷན་ཅིག་ཏུ་རྩེ་<«གཡུང་»«པེ་»+ཅིག>ཞིང་དགའ་ལ་དགའ་མགུར་[18a]སྤྱོད་པ་ལས་
+# ཕྱི་ཞིག་ན་དེའི་ཆུང་མ་ལ་བུ་ཆགས་ནས།
+msgctxt "line 5, 04.txt"
+msgid ""
+"À cette époque, dans la ville de Śrāvastī, un homme qui vivait dans "
+"l’opulence et possédait beaucoup de richesses, dont les possessions étaient "
+"étendues et vastes, qui possédait la richesse de Vaiśravaṇa, qui possédait "
+"des richesses rivalisant celles de Vaiśravaṇa se maria (lit. prit une femme)"
+" puisqu’il était arrivé à (lit. tomba à) l’âge de se marier (lit. de "
+"l’épouse). Avec elle, ils se divertirent, ils [apprirent] à s’aimer et "
+"laissèrent libre cours à leurs envies et de ce fait, plus tard, son épouse "
+"tomba enceinte et"
+msgstr ""
+"À cette époque, un homme vivait dans l'opulence et possédait de grandes "
+"richesses. D'innombrables biens lui appartenaient. Une armée de domestiques "
+"s'activaient dans ses larges propriétés. On eut dit qu'il possédait les "
+"richesses du dieu Vaiśravaṇa ou encore qu'il rivalisait de fortune avec lui."
+" Il épousa une jeune fille quand il fut en âge de se marier. Son épouse et "
+"lui apprirent à se connaître par les jeux de la séduction, ils commencèrent "
+"à s'aimer l'un l'autre et laissèrent libre cours à leurs désirs. Plus tard, "
+"elle tomba enceinte et"
+
+# དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་།
+# ཁྱེའུ་གཟུགས་བཟང་ཞིང་བལྟ་<«གཡུང་»«ལི་»«སྣར་»«ཅོ་»ལྟ།
+# «པེ་»ཞི་བལྟ།>ན་སྡུག་<«གཡུང་»«པེ་»+པ།>ལ་མཛེས་པ་ཞིག་བཙས་ཏེ།
+msgctxt "line 6, 04.txt"
+msgid ""
+"après que soient passés neuf ou dix mois, un fils au corps harmonieux (lit. "
+"noble), qui était beau et agréable au regard naquit, et"
+msgstr ""
+"environ neuf mois plus tard, elle donna le jour à un fils bien proportionné,"
+" dont la beauté réjouissait la vue."
+
+# དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས། རིགས་དང་འཐུན་པར་མིང་བཏགས་ཏེ།
+msgctxt "line 7, 04.txt"
+msgid ""
+"la fête de sa naissance fut faite [de manière] grandiose (lit. vastement) et"
+" on lui donna un nom en accord avec sa caste. Puis,"
+msgstr ""
+"Lors des célébrations de sa naissance, il reçut un nom en accord avec sa "
+"caste."
+
+# འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་<«གཡུང་»«པེ་»སྙིང་ཀུས།
+# «ལི་»«སྣར་»སྙིང་གུས། «ཅོ་»«ཞོལ་»སྙིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
+msgctxt "line 8, 04.txt"
+msgid ""
+"il se développa au fil du temps grâce à du lait, du yaourt, du beurre, du "
+"beurre purifié (lit. fondu) et du beurre sur-purifié (lit. l’essence du "
+"beurre). Ainsi,"
+msgstr ""
+"Le jeune enfant grandit grâce au lait, au yaourt, au beurre, au beurre "
+"clarifié et au beurre sur-clarifié dont il était nourri."
+
+# དེ་གང་གི་ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ་ཡི་གེ་དང་ཁོང་རྩིས་དང་ཤོད་དགོད་པ་དང་།
+# ལག་རྩིས་དང་དབྱུང་བ་དང་སྦ་བ་དང་དགྲམ་པ་དང་གོས་བརྟག་པ་དང་ནོར་བུ་བརྟག་པ་དང་རིན་པོ་ཆེ་བརྟག་<«ཁུ་»བཏག>པ་དང་སྤོས་བརྟག་པ་དང་སྨན་བརྟག་པ་དང་གླང་པོ་ཆེ་བརྟག་པ་དང་རྟ་བརྟག་པ་དང་གོ་མཚོན་བརྟག་པ་རྣམས་བསླབས་ཏེ།<«གཡུང་»+ད།
+# «ཅོ»+དེ།>
+# ཡི་གེ་མཁས་པ་དང་ཀློག་མཁས་པ་དང་མཛངས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འཛངས།>པ་དང་བྱ་བ་ལ་གསལ་བ་དང་ཡིད་གཞུངས་<«གཡུང་»«པེ་»བཞུངས།>པ་དང་བརྟག་པ་རྣམ་པ་བརྒྱད་ལ་བྱང་བར་གྱུར་ཏོ།
+# །
+msgctxt "line 9, 04.txt"
+msgid ""
+"Lorsqu’il eut grandi, il apprit à lire, à calculer mentalement, à diviser, à"
+" calculer sur les doigts, à extraire, à dissimuler, à étaler, à évaluer la "
+"qualité des vêtements, celle des gemmes, celle des substances précieuses, "
+"celle des parfums, celle des remèdes, celle des éléphants, celle des "
+"chevaux, celle des armures et celle des armes. Ainsi, il sut parfaitement "
+"écrire (lit. versé dans les lettres). Il sut parfaitement lire (lit. versé "
+"dans la lecture). Il devint ingénieux, habile de ses mains (lit. clair sur "
+"les choses à faire), vif d’esprit et rompu (lit. entraîné) aux huit "
+"évaluations."
+msgstr ""
+"Quand il fut en âge d'étudier, il apprit à lire, à calculer mentalement, à "
+"diviser, à calculer sur les doigts, à extraire, à dissimuler, à étaler, à "
+"évaluer la qualité des vêtements, à évaluer celle des gemmes, des substances"
+" précieuses, des parfums, des remèdes, des éléphants, des chevaux, des "
+"armures et des armes. Ainsi, il maîtrisa l'écriture et la lecture. Il devint"
+" ingénieux, habile de ses mains, vif d'esprit et rompu aux huit évaluations."
+
+# དེ་ནས་<«གཡུང་»«པེ་»དེས།>ཕྱི་ཞིག་ན་ཁྱེའུ་དེ་ནད་ཀྱིས་ཐེབས་ནས་
+# དེའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེའི།>རྒྱབ་རླུང་གིས་སྒུར་བུར་བྱས་སོ།
+# །
+msgctxt "line 10, 04.txt"
+msgid ""
+"Alors, après un certain temps, le garçon tomba malade et son dos devint "
+"bossu à cause de cette maladie (lit. elle) [qui déséquilibra son] énergie du"
+" vent."
+msgstr ""
+"Un jour, le jeune homme contracta une maladie qui déséquilibra son énergie "
+"du vent et courba sa colonne vertébrale."
+
+# དེ་ནས་དེ་མཐོང་མ་ཐག་ཏུ་ཕ་མ་གཉིས་ཤིན་ཏུ་སྡུག་བསྔལ་བར་གྱུར་ནས།
+# དེ་ལ་སྨན་པ་ཐམས་ཅད་དང་ཡོ་བྱད་ཐམས་ཅད་བསོགས་ཏེ་ རིམ་གྲོ་བྱས་ཀྱང་
+# སོས་པར་བྱེད་མ་<«ཞོལ་»མི།>ནུས་སོ། །
+msgctxt "line 11, 04.txt"
+msgid ""
+"Alors, ayant vu ceci, ses deux parents furent grandement attristés (lit. "
+"souffrants) et ils firent venir (lit. rassemblèrent) tous les médecins et se"
+" procurèrent tous les traitements (lit. objets) et bien qu’ils le soignent, "
+"ils ne purent pas le guérir."
+msgstr ""
+"La maladie de leur fils affligea les deux parents. Ils consultèrent tous les"
+" médecins et appliquèrent tous les traitements prescrits. Malgré tous ces "
+"soins, il restait désespérément bossu."
+
+# དེ་ནས་ཕྱི་ཞིག་ན་ཁྱིམ་བདག་དེའི་བློ་སྐྱེས་པ་
+# ཁྱེའུ་འདི་སྨན་པ་ཐམས་ཅད་ཀྱིས་གསོ་མ་ནུས་ཀྱིས<«ཞོལ་»ཀྱི།>།
+# ད་ནི་ཡོན་གནས་རྣམས་ལ་གསོལ་བ་བཏབ་ན།
+# དེ་དག་ནི་<«གཡུང་»«པེ་»གི།>རྫུ་འཕྲུལ་ཆེ་ཞིང་མཐུ་ཆེ་བ་ཡིན་པས།
+# དེ་དག་གིས་བདག་གི་བུའི་རྒྱབ་སྔ་མཁོ་བཞིན་དུ་རངས་པར་བྱེད་ནུས་ཀྱང་སྲིད་དོ་སྙམ་དུ་
+# བསམས་ནས།
+msgctxt "line 12, 04.txt"
+msgid ""
+"Alors, après un certain temps, ce père de famille pensa (lit. une pensée lui"
+" vint) : « Tous les médecins ne parviennent pas à soigner ce garçon, donc je"
+" vais demander (lit. prier) aux religieux (lit. ceux qui vivent d’offrandes)"
+" [de le soigner]. Ils possèdent de grands pouvoirs magiques et sont très "
+"puissants, donc il est possible qu’ils parviennent à rétablir le dos de mon "
+"fils à son état d’origine. » pensa-t-il. Puis,"
+msgstr ""
+"Plus tard, le père eut une idée : « Aucun médecin ne parvient à soigner mon "
+"fils. Ce sont les religieux que je dois consulter. Ils possèdent de grands "
+"pouvoirs magiques et sont très puissants. Espérons qu'ils parviennent à "
+"rétablir le dos de mon fils. »"
+
+# དེས་རྫོགས་བྱེད་ལ་སོགས་པ་སྟོན་པ་དྲུག་སྤྱན་དྲངས་ཏེ།
+# རང་གི་ལག་གིས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོས་ཚིམ་པར་བྱས་ནས།
+# རྐང་པ་ལ་ཕྱག་འཚལ་ཏེ་ སྨྲས་པ།
+# ཁྱེད་ནི་འདི་ལྟར་འདས་པ་དང་མ་འོངས་པ་དང་ད་ལྟར་བྱུང་བ་ཅི་ཡང་མི་མཁྱེན་པའམ།
+# མི་རྟོགས་པ་མི་མངའ་བ་ལགས་ན།
+# བདག་གི་བུ་འདི་རླུང་གིས་རྒྱབ་<«གཡུང་»«པེ་»བརྒྱབ།>སྒུར་པོར་བགྱིས་པ་དེ་སོས་པར་མཛད་དུ་གསོལ་ཞེས་
+# བྱས་སོ། ། དེ་དག་གིས་ཀྱང་དེ་ལ་སྔགས་དང་སྨན་མང་དུ་བྱས་ན།
+# འོན་ཀྱང་སོས་པར་བྱེད་མ་ནུས་སོ། །
+msgctxt "line 13, 04.txt"
+msgid ""
+"il invita les six maîtres, dont Pūraṇa Kāśyapa et il les satisfit de "
+"nombreux mets et condiments purs et nobles qu’il servit de ses propres mains"
+" et se prosterna à leurs pieds et dit : « Puisqu’il n’est rien du passé, du "
+"futur ni du présent que vous ne sachiez pas, que vous ne comprenez pas, "
+"veuillez guérir la bosse de mon fils qu’un [déséquilibre du] vent a créée. »"
+" dit-il. Ils utilisèrent (lit. firent) de nombreux mantras et remèdes, mais "
+"ne parvinrent pas à le soigner."
+msgstr ""
+"Il convia les six grands maîtres, dont Pūraṇa Kāśyapa faisait partie. Il "
+"leur servit de nombreux mets et condiments purs et nobles qu’il servit de "
+"ses propres mains. Alors, il se prosterna à leurs pieds et dit : « Puisqu’il"
+" n’est rien du passé, du futur ni du présent que vous ne sachiez pas, que "
+"vous ne compreniez pas, veuillez guérir la bosse de mon fils qu’un "
+"déséquilibre du vent a créée. » Ils récitèrent toutes les incantations, lui "
+"donnèrent tous les remèdes en leur connaissance, mais aucun ne parvint pas à"
+" le soigner."
+
+# དེ་ནས་ཁྱིམ་[18b]བདག་དེའི་མཛའ་བོ་བཤེས་པའི་གྲོགས་པོ་སངས་རྒྱས་པའི་དགེ་བསྙེན་<«གཡུང་»བརྙེན།>ཞིག་ཡོད་པ་དེས།
+# དེ་ལ་སྨྲས་པ་ གྲོགས་པོ་
+# སྐྱབས་མ་ཡིན་པ་འདི་དག་ལ་སྐྱབས་བཙལ་ཏེ་<«གཡུང་»«པེ་»བརྩལ་སྟེ།>ཅི་བྱ།
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་སྐྱབས་སུ་སོང་དང་
+# ཁྱོད་ཀྱི་ལེགས་པ་ཐམས་ཅད་མཛད་པར་འགྱུར་རོ། ། དེས་སྨྲས་པ་ དེ་ཅི་ཤེས་པ་ཞིག་
+# དགེ་བསྙེན་<«གཡུང་»བརྙེན།>གྱིས་སྨྲས་པ།
+# དེ་ནི་ཐམས་ཅད་མཁྱེན་པ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཡིན་ནོ། །
+# དེ་ནས་ཁྱིམ་བདག་དེས་ཐོས་མ་ཐག་ཏུ་དགའ་བ་སྐྱེས་སོ། །
+msgctxt "line 14, 04.txt"
+msgid ""
+"Un ami proche, un ami attentionné du père de famille était un upāsaka "
+"bouddhiste. Il lui dit : « Mon ami, à quoi bon (lit. que fais-tu en) "
+"chercher un refuge chez ceux qui n’en sont pas un ? Va chercher le refuge "
+"chez le Bienheureux Bouddha. Alors, il accomplira tout le bien que tu "
+"attends (lit. de toi). » Il répondit : « Que sait-il ? » l’upāsaka dit : « "
+"Il est celui qui connaît tout. Il connaît tout dans tous les détails (lit. "
+"aspects). » Alors, dès qu’il eut entendu ceci, le père de famille devint "
+"heureux."
+msgstr ""
+"Un jour, un upāsaka qui suivait le Bouddha, un ami attentionné du père de famille lui dit : « Mon ami, à quoi bon chercher un sauveur chez ceux qui sauvent personne ? Demande de l'aide au Bienheureux Bouddha. Lui répondra à toutes tes attentes. »\n"
+"« Que sait-il donc ? »\n"
+"« Il est celui qui connaît tout, répondit l’upāsaka. Il connaît dans tous les détails tout ce qui peut être connu. »\n"
+"Ces paroles réjouirent le père de famille."
+
+# དགའ་བ་སྐྱེས་ནས་ བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།
+# བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།
+# ཆོས་མཉན་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ། །
+msgctxt "line 15, 04.txt"
+msgid ""
+"Devenu heureux, il se dirigea et alla à l’endroit où se trouvait le "
+"Bienheureux et il se prosterna devant le Bienheureux en touchant ses pieds "
+"de sa tête et s’assit devant le Bienheureux pour écouter le Dharma."
+msgstr ""
+"Tout heureux, le père de famille alla trouver le Bienheureux. Il se "
+"prosterna devant lui en touchant ses pieds de sa tête et s'assit devant lui "
+"pour écouter le Dharma."
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དང་འཚམ་པའི་ཆོས་བསྟན་ནས་
+# ཅང་མི་གསུང་བར་<«གཡུང་»«པེ་»གསུངས་པར།>བཞུགས་སོ། །
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་<«ཁུ་»«ཞོལ་»ཀྱི།>གཏམ་གྱི་མཇུག་<«ལི་»«སྣར་»«ཅོ་»འཇུག>རྫོགས་ནས།
+# ཁྱིམ་བདག་དེ་སྟན་<«གཡུང་»ལྡན།>ལས་ལངས་ཏེ་
+# བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་<«གཡུང་»བཟར།>ནས།
+# བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཅོམ་ལྡན་འདས་
+# དགེ་སློང་གི་དགེ་འདུན་དང་ཐབས་ཅིག་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»གཅིག>ཏུ་སང་བདག་གི་ཁྱིམ་དུ་བཤོས་གསོལ་བར་ཅི་གནང་ཞེས་
+# གསོལ་ཏོ<«སྣར་»«ཞོལ་»–ཏོ།>།
+msgctxt "line 16, 04.txt"
+msgid ""
+"Alors, le Bienheureux lui prodigua un enseignement lui correspondant et "
+"resta sans rien dire. Alors, le discours du Bienheureux étant terminé, le "
+"père de famille se leva de son siège et il [replia] son châle sur une épaule"
+" et le laissa retomber [devant lui] et il dit ceci au Bienheureux : « "
+"Bienheureux, quelle [réponse] donneriez-vous [à l’offre] de prendre votre "
+"repas avec la saṅgha des moines dans ma maison demain ? » demanda-il."
+msgstr ""
+"Le Bienheureux lui donna un enseignement adapté et se tut. Alors, le père de"
+" famille se leva de son siège. S'inclinant, il laissa retomber d'une épaule "
+"le vêtement supérieur qu'il avait replié, et dit : « Bienheureux, "
+"accepteriez-vous de venir demain chez moi avec la saṅgha des moines pour "
+"prendre votre repas ? »"
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཁྱིམ་བདག་དེ་ལ་ཅང་མི་གསུང་བས་གནང་ངོ་<«གཡུང་»བོམ།
+# «པེ་»བའི།>། །
+# དེ་ནས་ཁྱིམ་བདག་དེས་བཅོམ་ལྡན་འདས་ཀྱིས་ཅང་མི་གསུང་བས་གནང་བར་རིག་ནས།
+# བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པ་<«གཡུང་»གསུང་བ།>ལ་མངོན་པར་བསྟོད་དེ།
+# རྗེས་སུ་ཡི་རང་ནས་ བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།
+# བཅོམ་ལྡན་འདས་ཀྱི་ཐད་ནས་སོང་ངོ་། །
+msgctxt "line 17, 04.txt"
+msgid ""
+"Ensuite, le Bienheureux accepta en ne disant rien au père de famille. Alors,"
+" le père de famille vit que le Bienheureux avait accepté en ne lui disant "
+"rien. Puis, il loua les propos du Bienheureux, s’en réjouit et il se "
+"prosterna devant le Bienheureux en touchant ses pieds de sa tête et il "
+"partit de devant le Bienheureux."
+msgstr ""
+"Le Bienheureux accéda à la requête par son silence. Le père de famille loua "
+"les propos du Bienheureux, se réjouit de ces paroles, se prosterna devant le"
+" Bienheureux en touchant ses pieds de sa tête et il prit congé."
+
+# དེ་ནས་དེས་དེ་ཉིད་ཀྱི་མཚན་མོ་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོ་སྦྱར་ནས་
+# ནང་པར་སྔར་ལངས་ཏེ་ གདན་བཤམས་ནས་ ཕྱག་ཆབ་ཀྱི་ཆུ་ར་བཀང་སྟེ།
+msgctxt "line 18, 04.txt"
+msgid ""
+"Alors, cette nuit-là, il prépara de nombreux mets et condiments purs et "
+"nobles et se leva tôt le lendemain et disposa les coussins et remplit le "
+"récipient d’eau pour les mains et"
+msgstr ""
+"Cette nuit-là, il prépara de nombreux mets et condiments purs et nobles. Le "
+"lendemain, il se leva tôt pour disposer les coussins de ses hôtes et remplir"
+" le récipient d’eau qu'ils utiliseraient pour se laver les mains."
+
+# བཅོམ་ལྡན་འདས་ལ་ཕྲིན་<«ཞོལ་»འཕྲིན།>གྱིས་གདུགས་ཚོད་བསྐུལ་བ། བཙུན་པ་
+# གདུགས་ཚོད་ལ་བབ་སྟེ་ བཤོས་གསོལ་ལགས་ན།
+# བཅོམ་ལྡན་འདས་ཀྱིས་ད་དེའི་དུས་ལ་བབ་པར་དགོངས་<«གཡུང་»དགོང་།>ཏེ་
+# གཤེགས་སུ་གསོལ་ཞེས་ བསྐུལ་ཏོ། །
+msgctxt "line 19, 04.txt"
+msgid ""
+"il envoya un messager convier (lit. inciter) le Bienheureux : « Vénérable, "
+"La mi-journée arrive, donc puisque c’est [l’heure] du repas, soyez informé, "
+"Bienheureux, que le moment de [vous installer] est arrivé et veuillez venir."
+" » incita-t-il."
+msgstr ""
+"Ensuite, il envoya un messager pour inviter le Bienheureux qui dit : « "
+"Vénérable, il est bientôt la mi-journée, l'heure du repas. Bienheureux, le "
+"moment est venu de venir chez nous. »"
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོ་ཤམ་ཐབས་དང་ཆོས་གོས་གསོལ་ཏེ། ལྷུང་བཟེད་བསྣམས་ནས།
+# དགེ་སློང་གི་ཚོགས་ཀྱིས་<«གཡུང་»«པེ་»ཀྱི།>ཞམ་རིང་བྱས་ཏེ།
+# དགེ་སློང་གི་དགེ་འདུན་གྱིས་མདུན་<«སྣར་»འདུན།>དུ་བདར་ནས།
+# ཁྱིམ་བདག་དེའི་བཀད་<«གཡུང་»ཀང་།>ས་ག་ལ་བ་<«གཡུང་»–བ།>དེར་གཤེགས་པ་དང་
+msgctxt "line 20, 04.txt"
+msgid ""
+"Alors, au petit matin, le Bienheureux revêtit le nivāsana et le cīvara et il"
+" prit son bol à aumône et avec un groupe de moines pour le servir, précédé "
+"de la saṅgha des moines, il alla à l’endroit de réception du père de famille"
+" et"
+msgstr ""
+"Le matin tôt, le Bienheureux revêtit l'habit monastique, puis le bol à "
+"aumône à la main, il partit avec un groupe de moines pour le servir et "
+"précédé de la saṅgha des moines. Quand il s'approchait de l'endroit où le "
+"père de famille l'attendait,"
+
+# ཁྱེའུ་དེས་ཐག་རིང་པོ་ཞིག་ནས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་སྐུ་སྐྱེས་བུ་ཆེན་པོའི་མཚན་སུམ་ཅུ་<«གཡུང་»«པེ་»བཅུ།>རྩ་གཉིས་ཀྱིས་<«ཞོལ་»–ཀྱིས།>ལེགས་པར་བརྒྱན་ཅིང་སྤ་<«གཡུང་»དཔའ།>བར་བྱས་པ།
+# མེ་ལུས་ཀྱི་དབྱིབས་<«གཡུང་»དབྱིངས།>སུ་འདུག་པ་ལྟ་བུ་
+# མེ་ལྕེ་མར་གྱིས་བཏབ་པ་ལྟ་བུ། མར་མེ་གསེར་གྱི་སྣོད་དུ་བཞག་པ་ལྟ་བུ་
+# མཆོད་སྡོང་རིན་པོ་ཆེ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཆེན་པོ།
+# «སྣར་»རིན་པོ་ཆེན་པོ>སྣ་ཚོགས་ཀྱིས་སྤྲས་པ་ལྟ་བུ།
+# བློ་གསལ་ཞིང་དྲི་མ་མེད་ལ་རྣམ་པར་དག་པ་དང་ལྡན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་མཐོང་ངོ་།
+# ། མཐོང་ནས་ཀྱང་<«གཡུང་»ནས་ཀྱའ།
+# «པེ་»ནས་ཀྱང་།>མཆོག་ཏུ་དགའ་བ་སྐྱེས་ཏེ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཆེན་པོ།>།
+msgctxt "line 21, 04.txt"
+msgid ""
+"le garçon vit le Bienheureux Bouddha au loin. À la perfection, il portait "
+"comme des ornements ou de manière cachée les trente-deux marques des grands "
+"êtres, il se tenait comme une masse de feu à forme humaine, comme une flamme"
+" que de l’huile attise, comme une flamme dans un lampe d’or remplie d’huile,"
+" comme un arbre à vénération paré de diverses pierres précieuses. [Il] vit "
+"le Bienheureux Bouddha dont l’esprit était clair, l’immaculé, qui est doté "
+"de la pureté entière. L’ayant vu, il ressentit une joie suprême. Ainsi,"
+msgstr ""
+"le garçon le vit au loin. Il vit le Bienheureux Bouddha qui portait avec "
+"grâce les trente-deux marques des grands êtres. Il les portait soit comme "
+"des ornements, soit de manière cachée. Il irradiait comme une masse de feu "
+"qui aurait pris une forme humaine, comme une flamme que de l'huile attise. "
+"Il ressemblait à un flambeau dans un braisier en or, à un arbre vénéré "
+"qu'embellit d'innombrables ornements précieux. Son esprit était clair, était"
+" immaculé et doté de la pureté absolue. Le garçon en ressentit une joie "
+"suprême."
+
+# དགེ་བའི་རྩ་བ་བསགས་པའི་རྒྱུ་ལས་བྱུང་བའི་སེམས་ཅན་གྱིས་དང་པོ་སངས་རྒྱས་མཐོང་བའི་ཉམས་བདེ་བ་ཅི་འདྲ་<«གཡུང་»འང་«པེ་»འོང་།>བ་དེ་ལྟ་བུ་ནི་ལོ་བཅུ་གཉིས་ཀྱི་བར་དུ་ཞི་གནས་ཀྱི་སེམས་ལ་གོམས་པར་བྱས་པ་ལ་ཡང་ཉམས་བདེ་བ་དེ་ལྟ་བུ་སྐྱེ་བར་མི་འགྱུར་རོ།
+# །
+msgctxt "line 22, 04.txt"
+msgid ""
+"du fait des causes que sont les mérites accumulés dans le passé, "
+"l’expérience de félicité d’un tel être qui aperçoit un bouddha pour la "
+"première fois ne peut être ressentie (lit. née) même par celui qui a "
+"familiarisé son esprit au calme mental pendant douze années."
+msgstr ""
+"La félicité que ressent une personne qui a accumulé les mérites et qui "
+"aperçoit un Bouddha pour la première fois dépasse celle qui résulte de douze"
+" ans d'entraînement au calme mental."
+
+# དེ་ལྟར་མཐོང་ནས་ཀྱང་ ཁྱེའུ་དེ་བཅོམ་ལྡན་འདས་ལ་ཤིན་ཏུ་དགའ་བ་སྐྱེས་ཏེ།
+# ཤིན་ཏུ་དགའ་བ་སྐྱེས་ནས།
+# དེ་གུས་པར་བསྒྲིམ་<«ཞོལ་»སྒྲིམ།>པའི་ཚུལ་གྱིས་ཁྲི་ལས་ལངས་སོ། །
+# དེ་ཁྲི་ལས་ལངས་པའི་མོད་ལ་རྒྱབ་སྒུར་བ་དེ་སྔ་མཁོ་<«གཡུང་»«པེ་»འཁོ།>བཞིན་དུ་རངས་པར་གྱུར་ཏོ།
+# ། དེ་ནས་དེ་ལྷག་པར་ཡང་བཅོམ་ལྡན་འདས་ལ་དགའ་བ་སྐྱེས་སོ། །
+msgctxt "line 23, 04.txt"
+msgid ""
+"L’ayant vu de cette manière, ce garçon ressentit une joie plus grande encore"
+" (lit. très) [en envisageant] le Bienheureux. Ayant ressenti une joie "
+"intense, il se leva de son siège pour montrer tout son respect. Aussitôt "
+"qu’il fut levé de son siège, son dos bossu reprit son état d’origine. "
+"Ensuite, il ressentit plus encore de joie [en envisageant] le Bienheureux."
+msgstr ""
+"Ayant ressenti une telle félicité, le garçon voulut exprimer son respect au "
+"Bienheureux et se leva de son siège. Aussitôt qu'il fut levé, sa bosse "
+"disparut et son dos retrouva son aspect normal. Ceci lui fit ressentir plus "
+"de joie encore à l'égard du Bienheureux."
+
+# དགའ་བ་སྐྱེས་<«སྣར་»སྐྱེས།>ནས་ བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།
+# བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།
+# བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མཆུས་<«སྣར་»མགོས། «ཞོལ་»མགོ་བོས།>གཏུགས་ནས་
+# འདི་སྐད་དུ། བཅོམ་ལྡན་འདས་ནི་བདག་ལ་དཀའ་བ་མཛད་པའོ། ། བདེ་བར་གཤེགས་པ་ནི།
+# བདག་ལ་དཀའ་བ་མཛད་པའོ་ཞེས་ གསོལ་ཏོ། །
+msgctxt "line 24, 04.txt"
+msgid ""
+"Ayant ressenti cette joie, il se dirigea et alla à l’endroit où se trouvait "
+"le Bienheureux et il se prosterna devant le Bienheureux en touchant ses "
+"pieds de sa tête et il toucha les pieds du Bienheureux de ses lèvres et dit "
+"ceci : « Le Bienheureux a enduré tant de difficultés pour moi. Le Sugata a "
+"enduré tant de difficultés pour moi. » dit-il."
+msgstr ""
+"Il s'approcha du Bienheureux, se prosterna devant lui en touchant ses pieds "
+"de sa tête, il baisa les pieds du Bienheureux et dit ceci : « Je suis "
+"immensément reconnaissant de tout ce que le Bienheureux a accompli pour moi,"
+" de tout ce que le Sugata a accompli pour moi. »"
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་གྱི་གུང་ལ་གདན་བཤམས་པ་ལ་བཞུགས་སོ། །
+# དེ་ནས་ཁྱིམ་བདག་དེས་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་རྣམས་བདེ་བར་བཞུགས་པར་རིག་ནས།
+# རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོས་ཚིམ་པར་བྱས་ཏེ་
+# ཅི་བཞེད་པ་བསྟབས་སོ། །
+# རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོ་རྣམ་གྲངས་དུ་མས་ཚིམ་པར་བྱས་ཏེ།
+# ཅི་བཞེད་པ་བསྟབས་ནས། བཅོམ་ལྡན་འདས་བཤོས་གསོལ་ལགས་ཏེ།
+# གསང་<«གཡུང་»སྦྱང་།>སྡེར་ནི་གྱུ་ ཕྱག་ནི་བཅབས་པར་རིག་ནས།
+# ཆོས་མཉན་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་འདུག་གོ། །
+msgctxt "line 25, 04.txt"
+msgid ""
+"Ensuite, le Bienheureux s’installa sur le siège qui lui avait été préparé à "
+"la tête (lit. le point culminant) de la saṅgha des moines. Alors, le père de"
+" famille vit que le Bouddha et les autres membres de la saṅgha des moines "
+"étaient confortablement assis et il les satisfit de nombreux mets et "
+"condiments purs et nobles qu’il servit de ses propres mains et leur offrit "
+"tout ce qu’ils voulurent. De nombreuses reprises, il les satisfit de "
+"nombreux mets et condiments purs et nobles qu’il servit de ses propres mains"
+" et leur offrit tout ce qu’ils voulurent. Le Bienheureux termina son repas "
+"et il nettoya le couvercle, cacha ses mains. Il le vit et s’assit devant le "
+"Bienheureux pour écouter le Dharma."
+msgstr ""
+"Alors, le Bienheureux s'installa sur le siège dressé pour lui au milieu de "
+"la saṅgha des moines. Quand le Bouddha et la saṅgha des moines furent "
+"confortablement installés, le père de famille leur servit lui-même de "
+"nombreux mets condiments purs et nobles tant qu'ils en voulurent. Voyant que"
+" le repas du Bienheureux était terminé, que le bol à aumônes et son "
+"couvercle étaient nettoyés, il s'assit devant lui pour écouter le Dharma."
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པའི་བསམ་པ་དང་བག་ལ་ཉལ་དང་ཁམས་དང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཁམས་དང་།>རང་བཞིན་ཐུགས་སུ་ཆུད་ནས་
+# དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ། དེ་ཐོས་ནས་
+# ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པ་དང་ཁྱེའུ་དེས་འཇིག་ཚོགས་ལ་ལྟ་བའི་རིའི་<«པེ་»དེའི།>རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་རྡོ་རྗེས་བཅོམ་ནས།
+# རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་<«ཅོ་»–སུམ།>དུ་བྱས་སོ། །
+msgctxt "line 26, 04.txt"
+msgid ""
+"Alors, le Bienheureux discerna les pensées, les tendances habituelles, le "
+"tempérament (lit. l’élément) et le caractère (lit. la nature) du père de "
+"famille et son entourage et il leur prodigua un enseignement leur (lit. à "
+"ceci) correspondant. Alors, l’ayant écouté, le père de famille, son "
+"entourage et ce garçon détruisirent les vingt cimes élevées des vues "
+"concernant l’amas périssable à l’aide du diamant de la sagesse et ils "
+"manifestèrent le résultat de l’entrée dans le courant."
+msgstr ""
+"Le Bienheureux discerna les pensées, les tendances habituelles, les "
+"tempéraments ainsi que les caractères du père de famille, de sa maisonnée et"
+" du garçon et leur donna un enseignement adapté. Comme le diamant pulvérise "
+"la roche, la sagesse qui s'éleva en eux pulvérisa les vingts croyances les "
+"plus fortes qui identifient le moi aux agrégats, cet amas de choses en "
+"continuelle destruction. Ainsi, ils manifestèrent le résultat de l'entrée "
+"dans le courant."
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དག་བདེན་པ་རྣམས་ལ་བཀོད་ནས།
+# ཆོས་ཀྱི་གཏམ་གྱིས་ཡང་དག་པར་བསྟན། ཡང་དག་པར་འཛིན་དུ་བཅུག །
+# ཡང་དག་པར་གཟེངས་<«གཡུང་»«པེ་»བཟེད། «ལི་»«སྣར་»«ཅོ་»གཟེང་།>བསྟོད།
+# ཡང་དག་<«གཡུང་»–དག>པར་དགའ་བར་མཛད་ནས། གདན་ལས་བཞེངས་ཏེ་ གཤེགས་སོ། །
+msgctxt "line 27, 04.txt"
+msgid ""
+"Ensuite, le Bienheureux les établit dans les vérités, il les instruisit "
+"parfaitement par un discours sur le Dharma, le leur fit assimiler en entier,"
+" les encouragea grandement, les réjouit entièrement. Puis, il se leva de son"
+" siège et s’en alla."
+msgstr ""
+"Les ayant établis dans la pratique des vérités, le Bienheureux leur donna un"
+" enseignement qui les instruisit, leur fit assimiler le Dharma, leur "
+"insuffla un grand courage et les réjouit grandement. Puis, il se leva de son"
+" siège et s'en alla."
+
+# དེ་ནས་ཕྱི་ཞིག་ན་ཁྱེའུ་དེའི་བློ་སྐྱེས་པ།
+# བཅོམ་ལྡན་འདས་ཀྱིས་བདག་གི་སྡུག་བསྔལ་དང་ཡིད་མི་བདེ་བ་རྣམ་པ་དུ་མ་<«གཡུང་»«པེ་»–མ།>ནི་བསལ<«གཡུང་»«པེ་»གསལ།>།
+# བདེ་བ་དང་ཡིད་བདེ་བ་<«གཡུང་»–བ།>རྣམ་པ་དུ་མ་ནི་བསྒྲུབས།
+# སྡིག་པ་མི་དགེ་བའི་ཆོས་རྣམ་པ་དུ་མ་ནི་བསལ<«གཡུང་»«པེ་»གསལ།>།
+# དགེ་བའི་ཆོས་རྣམ་པ་དུ་མ་ནི་བསྒྲུབས་ཀྱིས་<«ཞོལ་»ཀྱི།>
+# བདག་གིས་ཁྱིམ་ན་གནས་པ་བཏང་ལ་
+# བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དུ་འགྲོའོ་སྙམ་དུ་
+# བསམས་ཏེ་<«པེ་»བསམས་སྟ། «ཞོལ་»བསམ་སྟེ།>
+msgctxt "line 28, 04.txt"
+msgid ""
+"Puis, le garçon eut la pensée [suivante] : « Le Bienheureux a dissipé "
+"d’innombrables souffrances et inconforts [que] j’[avais]. Il a accompli "
+"d’innombrables bonheurs [physiques] et mentaux pour moi. Il a dissipé "
+"d’innombrables actions négatives et choses mauvaises. Il a accompli "
+"d’innombrables actions positives pour moi. C’est pourquoi je vais délaisser "
+"la vie de famille et j’aimerais vivre une vie chaste auprès du Bienheureux. "
+"» pensa-t-il. Puis,"
+msgstr ""
+"Par après, le garçon pensa : « Le Bienheureux a dissipé de nombreuses formes"
+" de souffrance et d'inconfort dont je souffrais. Il m'a procuré de "
+"nombreuses formes de bonheur et bien-être dont je jouis. Il m'a débarrassé "
+"de diverses actions négatives. Il m'a pourvu de diverses actions positives. "
+"Pour cette raison, je vais quitter la vie de famille et j'irai vivre une vie"
+" chaste auprès du Bienheureux. »"
+
+# ཕ་མ་ལ་གསོལ་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།
+# བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས།
+# བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«པེ་»དེར།
+# «ལི་»«སྣར་»«ཅོ་»བ་དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་
+# བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཙུན་པ་
+# བདག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་བ་དང་།
+# བསྙེན་<«གཡུང་»བརྙེན།>པར་རྫོགས་ཤིང་དགེ་སློང་གི་དངོས་པོ་ཐོབ་<«ཅོ་»འཐོབ།>ཏུ་རུང་ན་
+# བདག་ཀྱང་<«ལི་»གྱང་།>།
+# བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་[20a]ལོ། །
+# དེ་ནས་དེ་ལ་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་ཚུར་ཤོག ། ཚངས་པར་སྤྱོད་ཅིག་ཅེས་
+# བཀའ་སྩལ་ནས།
+msgctxt "line 29, 04.txt"
+msgid ""
+"il demanda [la permission] à ses parents et il se dirigea et alla à "
+"l’endroit où se trouvait le Bienheureux et il se prosterna devant le "
+"Bienheureux en touchant ses pieds de sa tête et il [replia] son châle sur "
+"une épaule et le laissa retomber [devant lui] et joignit les mains et "
+"s’inclina en direction du Bienheureux et il dit ceci au Bienheureux : « "
+"Vénérable, s’il est possible de s’extraire du monde selon le Vinaya, le "
+"Dharma si bien exprimé, et [s’il est possible] de parfaire l’approche [de la"
+" libération], d’obtenir la condition de moine pleinement ordonné, moi aussi,"
+" j’aimerais vivre une vie chaste (lit. suivre le brahmacarya) auprès du "
+"Bienheureux. » Puis, le Bienheureux, en lui disant « Moine, viens ici ! », "
+"Vis chastement. » dit-il. Puis,"
+msgstr ""
+"Avec la permission de ses parents, il rejoignit le Bienheureux, se prosterna devant lui en touchant ses pieds de sa tête. S'inclinant, il laissa retomber d'une épaule son vêtement supérieur qu'il avait replié et s'adressa au Bienheureux : « S'il est envisageable que je me retire du monde, que je prenne les vœux complets et que je devienne ainsi un moine selon le Dharma du Vinaya si bien enseigné, j'aimerais vivre une vie chaste auprès du Bienheureux. »\n"
+"« Moine, répondit le Bienheureux, viens ici. Vis chastement. »"
+
+# ཚིག་དེ་སྐད་ཅེས་བཀའ་སྩལ་པའི་མོད་ལ་སྐྲ་དང་ཁ་སྤུ་བྲེགས་ནས་
+# ཞག་བདུན་ལོན་པ་<«གཡུང་»«པེ་»–པ།>ཙམ་དུ་གྱུར།
+# སྤྱོད་ལམ་ནི་བསྙེན་པར་རྫོགས་ནས་ལོ་བརྒྱ་ལོན་པ་ལྟ་བུར་འདུག་པར་གྱུར།
+# ལག་ན་ནི་ལྷུང་བཟེད་དང་། ཆུ་སྣོད་ཐོགས་པར་གྱུར་ཏོ། །
+msgctxt "line 30, 04.txt"
+msgid ""
+"Au moment où il eut prononcé ces paroles, ses cheveux et sa barbe furent "
+"rasés, et devinrent [aussi longs que s’ils étaient coupés] depuis sept "
+"jours. Concernant sa conduite, il se tint comme s’il avait été moine depuis "
+"cent ans. il se trouva entrain de tenir un bol à aumône et un récipient à "
+"eau dans ses mains."
+msgstr ""
+"Au moment où il entendit ces paroles, ses cheveux et sa barbe furent coupés "
+"aussi court que s'ils étaient rasés depuis sept jours. Sa contenance devint "
+"celle d'une personne ayant observé les vœux pendant cent ans. Il se trouva "
+"pourvu du bol à aumône et du récipient à eau."
+
+# འདིར་སྨྲས་པ། དེ་བཞིན་གཤེགས་པས་ཚུར་ཞེས་<«ཅོ་»ཤོག> བཀའ་སྩལ་པས།
+# དེ་ནི་མགོ་བྲེགས་ ལུས་ལ་སྣམ་<«གཡུང་»«པེ་»བསྣམ།>སྦྱར་གྱོན། །
+# སངས་རྒྱས་ཀྱིས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀྱི།>ནི་དགོངས་པས་གོས་བགོས་ནས།
+# ། མོད་ལ་དབང་པོ་རབ་ཏུ་ཞི་བར་གནས། །
+msgctxt "line 31, 04.txt"
+msgid ""
+"On dira ici : Le Tathāgata, « [Viens] ici » est dit par lui. Grâce à quoi sa"
+" tête est rasée, il porte la saṃghāṭī. L’intention du Bouddha lui met "
+"l’habit et à ce moment, il maintient ses sens dans un apaisement total."
+msgstr ""
+"Le Tathāgata prononce « Viens ici. » Aussitôt,\n"
+"Sa tête est rasée, il porte les robes monastiques.\n"
+"L'intention du Bouddha le recouvre de l'habit,\n"
+"Dès lors, ses sens se maintiennent dans l'apaisement total."
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་ལུང་ཕོག་ནས་ དེས་ཀྱང་བརྩོན་པ་དང་།
+# བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
+# དགྲ་བཅོམ་པ་<«གཡུང་»ལ།>ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
+msgctxt "line 32, 04.txt"
+msgid ""
+"Puis, le Bienheureux lui accorda la transmission orale et de son côté, il "
+"s’efforça, s’appliqua et s’évertua à éliminer toutes les émotions "
+"perturbatrices et il manifesta l’état d’arhat (lit. l’arhat-même). Alors,"
+msgstr ""
+"Le Bienheureux lui accorda la transmission orale des pratiques monastiques. "
+"Il s'efforça, s’appliqua et s’évertua à éliminer toutes les émotions "
+"perturbatrices et il manifesta l’état d’arhat."
+
+# དེ་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ལ།
+# གསེར་དང་བོང་བར་མཉམ་པ<«གཡུང་»ང་།>།
+# ནམ་མཁའ་དང་ལག་མཐིལ་<«གཡུང་»ཐིལ།>དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ།
+# ཙན་དན་སྦངས་པ་ལྟ་བུར་བསིལ་བར་གྱུར་པ། རིག་པས་སྒོ་ངའི་སྦུབས་བཅོམ་པ།
+# རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་། སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ།
+# སྲིད་པའི་རྙེད་པ་དང་ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ་དང་<«གཡུང་»«ཞོལ་»–དང་།>
+# དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«པེ་»བརྗེད།>པ་དང་།
+# གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ། །
+msgctxt "line 33, 04.txt"
+msgid ""
+"il devint une arhat libre de l’attachement aux trois mondes. Ainsi, [un "
+"morceau] d’or et une motte de terre étaient identiques [à ses yeux] ; il "
+"possédait un esprit [pour lequel] l’espace et la paume de la main sont "
+"similaires ; il [possédait] la fraîcheur du [bois de] santal trempé ; sa "
+"sagesse avait brisé la coquille de l’œuf ; il avait obtenu la connaissance, "
+"les clairvoyances et les parfaites discriminations ; il avait tourné le dos "
+"aux biens du samsara, aux désirs et aux éloges ; il était désormais digne "
+"(lit. un objet de) des offrandes, de la vénération et de la révérence (lit. "
+"paroles respectueuses) d’Indra, d’Upendra et des autres dieux."
+msgstr ""
+"Il devint une arhat libre de l’attachement aux trois mondes. Désormais, un "
+"morceau d'or et une motte de terre étaient identiques. À ses yeux, les "
+"paumes de ses mains et l'espace étaient semblables. Il avait acquis la "
+"fraîcheur du bois de santal trempé. Sa sagesse avait détruit la coquille de "
+"l’ignorance. Il avait obtenu la connaissance, les clairvoyances et les "
+"discernements parfaits. Il avait tourné le dos aux perfections samsariques :"
+" les biens, les objets des désirs et les louanges. Il était désormais digne "
+"des offrandes, de la vénération et de la révérence d’Indra, d'Upendra et de "
+"tous les dieux."
+
+# དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་
+# དགེ་སློང་འདིས་ལས་ཅི་བགྱིས་ན།
+# ལས་<«གཡུང་»པེས།>དེའི་རྣམ་པར་སྨིན་པས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ལགས།
+# ལས་ཅི་བགྱིས་ན།
+# ལས་དེའི་རྣམ་པར་སྨིན་པས་རྒྱབ་སྒུར་<«གཡུང་»«པེ་»རྒུར།>བུར་གྱུར་ལ།
+# བཅོམ་ལྡན་འདས་ལ་བརྟེན་<«གཡུང་»«པེ་»རྟེན།>ཏེ།
+# སྔ་མཁོ་<«གཡུང་»ཁོ།>བཞིན་དུ་རངས་པར་གྱུར་ནས།
+# འདིས་<«གཡུང་»«པེ་»འདི།>བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ།
+# མི་<«གཡུང་»–མཉེས་པར་བགྱིས་ཏེ། མི།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»མཉེས་པར་བགྱིས་ཏེ། མ།>མཉེས་པར་མ་བགྱིས་ན<«ཁུ་»ལ།>།
+# བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་སྟེ།
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས།
+msgctxt "line 34, 04.txt"
+msgid ""
+"Puis les moines s’adressèrent au Bienheureux : « Vénérable, quelles actions "
+"ce moine a[-t-il] réalisées pour que le résultat de ces actions le fit "
+"naître dans une lignée familiale qui est riche, possède de grandes (lit. "
+"nombreuses) richesses et de nombreux (lit. grands) biens, [pour que] le "
+"résultat de ces actions fasse que son dos devienne bossu, [pour que] grâce "
+"au Bienheureux, il trouve la joie d’être comme avant, [pour] qu’il contente "
+"le Bienheureux et ne fasse rien qui le mécontente, puis [qu’]il se retire "
+"[du monde] selon l’enseignement du Bienheureux, puis [qu’]il élimine toutes "
+"les émotions perturbatrices et [qu’]il manifeste l’état d’arhat ? »"
+msgstr ""
+"« Vénérable, demandèrent les moines au Bienheureux, quelles actions ont valu"
+" à ce moine de naître dans une famille qui vit dans l’opulence, possède de "
+"grandes richesses et d’innombrables biens ? Quelles actions lui ont valu "
+"cette bosse au dos ? Quelles actions lui ont ensuite valu que le Bienheureux"
+" lui donne la joie d'être guéri ? Quelles actions lui ont valu de vous "
+"contenter, de ne rien faire qui vous mécontente, de se retirer du monde "
+"selon votre enseignement, d'éliminer toutes les émotions perturbatrices et "
+"de manifester l'état d'arhat ? »"
+
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ དགེ་སློང་འདིས་ལས་བྱས་ཤིང་བསགས་ཏེ།
+msgctxt "line 35, 04.txt"
+msgid ""
+"Le Bienheureux dit : « Moines, ce moine a lui-même réalisé et accumulé des "
+"actions dans le passé, et"
+msgstr ""
+"« Moines, répondit le Bienheureux, ce moine a effectivement réalisé et "
+"accumulé des actions dans le passé."
+
+# དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
+# བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ་སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ།
+# བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ།
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།
+msgctxt "line 36, 04.txt"
+msgid ""
+"moines, à un moment du passé qui s’est déroulé auparavant, pendant ce même "
+"éon fortuné, quand la durée de vie des personnes pouvaient [atteindre] "
+"vingt-mille ans, le complet et parfait bouddha, celui doté de la vision et "
+"des jambes, le sugata, le connaisseur du monde, l’insurpassable cocher des "
+"êtres à guider, l’enseignant des dieux et des hommes, le Bienheureux Bouddha"
+" Kāśyapa était apparu en ce monde et"
+msgstr ""
+"Moines, raconta le Bienheureux, dans un passé lointain de cet éon fortuné, "
+"quand les hommes vivaient vingt mille ans, le tathāgata, l'arhat, le complet"
+" et parfait bouddha, celui doté de la sagesse pour voir et de la "
+"concentration pour avancer, le Sugata, le connaisseur des êtres des trois "
+"mondes, l'insurpassable cocher pour les êtres à guider, l'enseignant des "
+"dieux et des hommes, le complet et parfait bouddha Kāśyapa était apparu en "
+"ce monde."
+
+# དེའི་ཚེ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱི་ན་ཁྱིམ་བདག་ཅིག་གནས་པ་དེས་ཐབས་ཟླར་བབ་པ་ལས་ཆུང་མ་བླངས་ནས།
+# དེ་དེ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་པ་ལས་
+# ཕྱི་ཞིག་ན་དེའི་ཆུང་མ་ལ་བུ་ཆགས་ནས།
+msgctxt "line 37, 04.txt"
+msgid ""
+"à cette époque, un père de famille vivait dans la ville de Vārāṇasī. Puis, "
+"arrivé à (lit. tombé) l’âge de se marier (lit. d’une épouse), il prit une "
+"épouse et Avec elle, ils se divertirent, ils [apprirent] à s’aimer et "
+"laissèrent libre cours à leurs envies et de ce fait, plus tard, son épouse "
+"tomba enceinte et"
+msgstr ""
+"à cette époque, un homme qui vivait dans la ville de Vārāṇasī épousa une "
+"jeune fille quand il fut en âge de se marier. Son épouse et lui apprirent à "
+"se connaître par les jeux de la séduction, ils commencèrent à s’aimer l’un "
+"l’autre et laissèrent libre cours à leurs désirs. Plus tard, elle tomba "
+"enceinte et"
+
+# དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་།
+# བུ་མཚེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཚེ།>མ་གཉིས་བྱུང་སྟེ།
+# དེ་གཉིས་ཀྱི་བཙས་སྟོན་རྒྱས་<«ཅོ་»–རྒྱས།>པར་བྱས་ནས།
+# རིགས་དང་འཐུན་པར་མིང་<«གཡུང་»«པེ་»མི།>བཏགས་ཏེ།
+# འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་<«གཡུང་»«པེ་»མར་གྱི་སྙིང་ཀུས།
+# «ལི་»གྱི་སྙིང་གུས། «ཅོ་»མར་གྱི་སྟིང་ཁུས། «སྣར་»མར་གྱི་སྙིང་གུས།
+# «ཞོལ་»མར་གྱི་སྙིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
+msgctxt "line 38, 04.txt"
+msgid ""
+"après que soient passés neuf ou dix mois, deux jumeaux naquirent (lit. "
+"apparurent) et ensuite, leur fête de naissance à tous les deux fut faite [de"
+" manière] grandiose (lit. vastement) et on leur donna des noms en accord "
+"avec leur caste. Puis, ils se développèrent au fil du temps grâce à du lait,"
+" du yaourt, du beurre, du beurre purifié (lit. fondu) et du beurre sur-"
+"purifié (lit. l’essence du beurre). Ainsi,"
+msgstr ""
+"Environ neuf mois plus tard, elle donna le jour à deux jumeaux. Lors des "
+"célébrations de leur naissance, ils reçurent des noms en accord avec leur "
+"caste. Ils grandirent grâce au lait, au yaourt, au beurre, au beurre "
+"clarifié et au beurre sur-clarifié dont ils étaient nourris."
+
+# གང་གི་ཚེ་དེ་གཉིས་ཆེར་སྐྱེས་པ་དེའི་ཚེ་དེ་གཉིས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་དད་པ་རྙེད་ནས།
+# དེ་གཉིས་ཀྱིས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱི།>ཕ་མ་ལ་གསོལ་ཏེ།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
+# བསྙེན་པར་རྫོགས་ཏེ་
+msgctxt "line 39, 04.txt"
+msgid ""
+"quand ils eurent tous les deux grandi, ils conçurent de la dévotion pour "
+"l’enseignement du complet et parfait bouddha Kāśyapa, et ils demandèrent [la"
+" permission] à leurs parents et se retirèrent du monde selon l’enseignement "
+"du complet et parfait Bouddha Kāśyapa et prirent l’ordination complète et"
+msgstr ""
+"Devenus de jeunes hommes, ils ressentirent de la dévotion pour "
+"l'enseignement du complet et parfait Bouddha Kāśyapa. Avec la permission de "
+"leurs parents, ils se retirèrent du monde selon l'enseignement de ce Bouddha"
+" et prirent l'ordination complète."
+
+# དེ་གཉིས་ལ་མཁན་པོས་སྨྲས་པ། བུ་གཉིས་
+# བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་འདི་ནི་འཁོར་ལོ་གཉིས་ཀྱིས་གཟུང་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»གཟུངས།
+# «ཞོལ་»གཟུང་བར།>བྱེད་དེ།
+# བསམ་གཏན་གྱི་འཁོར་ལོ་དང་ཁ་ཏོན་བྱེད་པའི་འཁོར་ལོ་འདི་གཉིས་ཡིན་ན།
+# ཁྱེད་གཉིས་ཀྱིས་གང་བྱ། དེ་གཉིས་ཀྱིས་སྨྲས་པ།
+# ཐོག་མར་རེ་ཞིག་ཁ་ཏོན་ལ་འབད་པར་བགྱིས་ལ་ སླད་ཀྱིས་བསམ་གཏན་བགྱིའོ། །
+# མཁན་པོས་སྨྲས་པ། ཁྱེད་གཉིས་ཇི་ལྟར་དགའ་བ་བཞིན་དུ་གྱིས་ཤིག་ཅེས་ བྱས་ནས།
+# དེས་རེ་<«གཡུང་»«པེ་»རེས།>ཞིག་ཁ་ཏོན་སློབ་ཏུ་བཅུག་<«གཡུང་»«པེ་»གཅུག>གོ། །
+msgctxt "line 40, 04.txt"
+msgid ""
+"le précepteur leur dit à tous les deux : « Mes deux enfants, l’enseignement "
+"du Bienheureux est détenu par les deux roues : la roue de la concentration "
+"et la roue de la récitation. Ceci étant, vous deux, qu’allez-vous faire ? » "
+"Ils répondirent tous les deux : « Au début, pendant un temps, nous nous "
+"efforceront aux récitations, puis nous pratiqueront la concentration après. "
+"» Le précepteur dit : « Faites comme il vous plaît à [tous] les deux. » dit-"
+"il. Puis, un temps, il leur fit apprendre les récitations."
+msgstr ""
+"Leur précepteur leur dit un jour : \"Mes deux enfants, deux roues permettent de détenir l’enseignement du Bienheureux : la roue de la concentration et la roue de la récitation. Laquelle voulez-vous pratiquer ?\"\n"
+"\"Pour commencer, lui répondirent-ils, nous nous pratiquerons les récitations. Puis, nous pratiqueront la concentration.\"\n"
+"\"Faites comme il vous plaît.\" dit-il, avant de leur enseigner les récitations."
+
+# དེ་གཉིས་ཀྱི་ནང་ན་གཅིག་ནི་རྒོད་བག་ཅན་ཞིག་གོ། །
+# གཅིག་ནི་བརྟན་པོ་<«གཡུང་»«པེ་»པོའོ།>ཞིག་སྟེ་
+msgctxt "line 41, 04.txt"
+msgid ""
+"Parmi les deux frères, l’un était de nature farouche. L’autre était une "
+"personne posée et"
+msgstr "Des deux frères, l'un était un peu brute, l'autre était posé."
+
+# དེ་ནི་གང་གི་ཚེ་ཁ་ཏོན་བྱས་ཟིན་ནས་ ཉལ་བར་བྱེད་དེ།
+# དེའི་ཚེ་རྒོད་བག་ཅན་ཅིག་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>[21a]ཤོས་ཀྱིས་དེ་ཉལ་བའི་སྟེང་དུ་ཡང་དང་ཡང་ལྗིད་ཀྱིས་འབེབས་པར་བྱེད་<«སྣར་»«ཞོལ་»འབེབས་པར་བྱས།
+# «ཁུ་»འབེབ་བར་བྱེད།>ནས། དེས་དེ་ལ་ བཙུན་པ་
+# བདག་ལ་ཡང་དང་ཡང་དུ་གནོད་པ་མ་བྱེད་ཅིག་ཅེས་ བྱས་ཀྱང་
+# དེས་དེའི་ངག་མ་མཉན་<«གཡུང་»ངག་ལ་མཉན། «པེ་»དག་ལ་མ་ཉན། «ཞོལ་»ངག་མ་ཉན།>ཏོ། །
+# དེ་ནས་དེ་ཁྲོས་ནས་
+# དེ་ཉིད་སྣད་པར་བྱ་བའི་<«གཡུང་»«པེ་»བྱས་པའི།>ཕྱིར་དྲུང་དུ་སོ་ཕག་ཅིག་བསྒྲེངས་ཏེ་<«གཡུང་»«པེ་»སྟེ།>བཞག་གོ།
+# ། དགེ་སློང་དེ་ཡང་དེ་ལ་གཙེ་བའི་ཕྱིར་ཡང་འོངས་ཏེ<«གཡུང་»འོངས་སྟ།
+# «ཞོལ་»ཡོངས་ཏེ།>། དེའི་སྟེང་དུ་ལྗིད་ཀྱིས་ཕབ་ནས་
+# དེའི་རྒྱབ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–རྒྱབ།>སོ་ཕག་དེའི་སྟེང་དུ་ཕབ་སྟེ།
+# རྐེད་པ་ཆག་<«ཁུ་»ཆགས།>ནས་
+# དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེ།>གཞི་དེ་ལས་སྡུག་བསྔལ་ཆེན་པོ་སྐྱེས་སོ།
+# །
+msgctxt "line 42, 04.txt"
+msgid ""
+"lui, un jour, après avoir fait les récitations, il s’allongeait et à ce "
+"moment, l’autre qui était farouche se jetait sans cesse pesamment sur celui "
+"qui était allongé. Alors, il [dit] à l’autre : « Vénérable, ne me fais pas "
+"mal sans cesser. » dit-il, mais malgré ça, il n’écoutait pas ses propos. "
+"Ensuite, il se mit en colère et pour lui faire mal, il dressa une brique sur"
+" son lit. Ce moine vint à nouveau pour le narguer et il se jeta pesamment "
+"sur lui et son dos s’abattit sur cette brique et il se brisa le dos et à "
+"cause de ça (lit. cette base) il ressentit (lit. fit naître) une grande "
+"douleur."
+msgstr ""
+"Lorsque ce dernier finissait ses récitations, il s'allongeait sur son lit. Le frère brute se laissait tomber de tout son poids sur lui de manière répétée.\n"
+"\"Vénérable, disait-il, arrêtez de me faire mal.\" mais son frère ne l'écoutait pas. En colère devant le refus de son frère, il dressa une brique sur son lit. L'autre vint à nouveau le narguer, il se jeta de tout son poids sur la brique, qui lui brisa le dos et le fit souffrir atrocement."
+
+# དེ་ནས་ནུ་བོ་དེས་ཀྱང་དེའི་ལུས་ཀྱི་སྡུག་བསྔལ་མཐོང་ནས།
+# དེ་ཡང་སེམས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱིས།>སྡུག་བསྔལ་ཆེན་པོ་སྐྱེས་ཏེ།
+# བདག་གིས་མི་དགོས་པ་འདི་ལྟ་བུ་བྱས་པ་ཉེས་<«ཞོལ་»ཉིས།>སོ་སྙམ་དུ་
+# འགྱོད་པ་སྐྱེས་ནས། དེས་སྨན་པ་དང་ཡོ་བྱད་རྣམས་སྦྱར་ཏེ་<«གཡུང་»སྟེ།>
+# ཕུ་བོའི་ནད་གཡོག་བྱས་ནས་ དེས་རིང་པོ་མ་ཐོགས་པར་དེའི་རྒྱབ་སོས་པར་བྱས་སོ། །
+msgctxt "line 43, 04.txt"
+msgid ""
+"Ensuite, le jeune frère vit lui aussi la souffrance de son corps et il "
+"ressentit (lit. fit naître) aussi une forte douleur mentale et « J’ai mal "
+"agi en faisant quelque chose d’inutile comme ça. » pensa-t-il et il regretta"
+" et il fit venir (lit. rassembla) un médecin et apporta le nécessaire (lit. "
+"objets) et il soigna (lit. fit le serviteur du malade) et en peu de temps "
+"(lit. sans que ça dure longtemps), son dos fut guéri."
+msgstr ""
+"Voir son frère souffrir autant lui était insupportable. \"Quelle bêtise ai-"
+"je fait !\" se lamentait-il, regrettant son acte. Il alla chercher un "
+"médecin et le traitement nécessaire. Il soigna son frère qui guérit en peut "
+"de temps."
+
+# དེ་གང་གི་ཚེ་སོས་པར་གྱུར་པ་དེའི་ཚེ་དེ་ཤས་ཆེར་<«གཡུང་»«པེ་»ཆེ།>སྐྱོ་བ་སྐྱེས་ཏེ།
+# ལུས་རུལ་བ་སྙིང་པོ་མེད་པ་འདི་ཅི་དགོས་སྙམ་ནས།
+# དེས་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། ། ནུ་བོ་དེས་ཀྱང་དེས་བྱ་བ་བྱས་པར་རྟོགས་ནས།
+# དེ་དེ་ལ་ཤིན་ཏུ་དགའ་བ་སྐྱེས་སོ། ། དགའ་བ་<«གཡུང་»ག «པེ་»བ།>སྐྱེས་ནས་
+# དེ་ལ་བཀུར་སྟི་དང་ལྡན་པས་གཡོག་བྱས་སོ། །
+# དེ་བཞིན་དུ་<«གཡུང་»ཐུ།>སངས་རྒྱས་དང་ཆོས་དང་དགེ་འདུན་ལ་ཡང་བཀུར་སྟི་བྱས་ནས།
+# ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དེ།
+msgctxt "line 44, 04.txt"
+msgid ""
+"Alors, quand il fut guéri, il ressentit (lit. fit naître) un désenchantement"
+" intense et « Pourquoi ai-je besoin de ce corps pourri qui n’a pas d’essence"
+" ? » pensa-t-il et de son côté, il s’efforça, s’appliqua et s’évertua à "
+"éliminer toutes les émotions perturbatrices et il manifesta l’état d’arhat "
+"(lit. l’arhat-même). Son frère comprit qu’il avait fait ce qu’il y avait à "
+"faire et il ressentit une grande joie pour lui. Ayant ressenti de la joie, "
+"il fit son serviteur avec respect. Il offrit aussi ses services au Bouddha, "
+"au Dharma et à la Saṅgha et vécut chastement toute sa vie, puis"
+msgstr ""
+"Ce qu'il avait subi lui fit ressentir un désenchantement intense : \"À quoi "
+"me sert cette pourriture de corps qui ne contient rien d'utile ?\" se "
+"disait-il. Fort de cette conviction, il s’efforça, s’appliqua et s’évertua à"
+" éliminer toutes les émotions perturbatrices et manifesta l’état d’arhat. "
+"Son frère fut très heureux de voir compris qu'il avait accompli tout ce qui "
+"devait l'être et le servit avec un grand respect. Il offrit aussi ses "
+"services au Bouddha, au Dharma et à la Saṅgha et vécut chastement toute sa "
+"vie."
+
+# འཆི་ཀར་<«ཅོ་»«ཞོལ་»གར།>སྨོན་ལམ་བཏབ་པ།
+# བདག་གིས་འདི་ལྟར་སངས་རྒྱས་དང་ཆོས་དང་དགེ་འདུན་ལ་བཀུར་སྟི་བྱས་ནས།
+# ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ཀྱང་། ཡོན་ཏན་གྱི་ཚོགས་ཅི་ཡང་མ་ཐོབ་ཀྱིས་
+msgctxt "line 45, 04.txt"
+msgid ""
+"il fit ce souhait au moment de mourir : « J’ai ainsi servi le Bouddha, le "
+"Dharma et la Saṅgha et j’ai vécu chastement toute ma vie (lit. une vie), et "
+"je n’ai obtenu aucune de l’ensemble des qualités."
+msgstr ""
+"Au moment de mourir, il formula le souhait suivant : \"Bien que j'ai servi "
+"le Bouddha, le Dharma et la Saṅgha et que j’ai vécu chastement toute ma vie,"
+" je n’ai obtenu aucune qualité."
+
+# ད་<«གཡུང་»«པེ་»–ད། «ཅོ་»ཀྱིས་དེ། «ཞོལ་»ཀྱི་ད།>དགེ་བའི་རྩ་བ་འདིས་ན།
+# བདག་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་<«གཡུང་»རང་།>དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་གྱུར་ཅིག
+# །
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག
+# ། མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག ། དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །
+# བདག་གིས་སེམས་ཅན་དག་པ་འདི་ལྟ་བུ་ལ་གནོད་པ་བྱས་པའི་ལས་དེའི་སྐལ་བ་ཅན་དུ་བདག་མ་གྱུར་ཅིག
+# །
+# ཇི་<«ཞོལ་»ཅི།>སྟེ་བདག་ལ་ལས་དེའི་འབྲས་བུ་རྣམ་པར་སྨིན་པར་འགྱུར་<«ཞོལ་»གྱུར།>ན་ཡང་བདག་གི་ལུས་དང་སེམས་ཀྱི་གནོད་པ་དེ་བཅོམ་ལྡན་འདས་ཀྱིས་བསལ་<«གཡུང་»«པེ་»ཀྱི་སེལ།
+# «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»ཀྱིས་སེལ།>བར་གྱུར་ཅིག་ཅེས་ བྱས་སོ། །
+msgctxt "line 46, 04.txt"
+msgid ""
+"Maintenant, grâce à ces racines vertueuses, puissé-je toujours naître dans "
+"une lignée familiale qui est riche, possède de grandes (lit. nombreuses) "
+"richesses et de nombreux (lit. grands) biens. Puissé-je contenter par mes "
+"actes le Bienheureux Bouddha que [deviendra] le jeune brahmane Uttara "
+"[d’après] la prophétie du complet et parfait bouddha Kāśyapa. Puissé-je ne "
+"rien faire qui le mécontente. Ayant renoncé au monde d’après son (lit. à "
+"lui-même) enseignement et ayant éliminé toutes les émotions perturbatrices, "
+"puissé-je manifester l’état d’arhat (lit. l’arhat-même). Puissé-je de pas "
+"devoir subir [le résultat] d’avoir fait souffrir (lit. fait mal à) un être "
+"comme lui. Si jamais le résultat de cette action mûrit sur moi, puisse le "
+"Bienheureux dissiper le mal de mon corps et de mon esprit. » dit-il."
+msgstr ""
+"Grâce à ces racines vertueuses, puissé-je toujours naître dans une famille "
+"qui vit dans l’opulence, possède de grandes richesses et d’innombrables "
+"biens. Puissé-je contenter par mes actes le Bienheureux Bouddha que "
+"deviendra le jeune brahmane Uttara, en accord avec la prophétie du complet "
+"et parfait bouddha Kāśyapa. Puissé-je ne rien faire qui le mécontente. "
+"Puissé-je me retirer du monde d’après son enseignement, éliminer toutes les "
+"émotions perturbatrices et manifester l’état d’arhat. Puissé-je ne pas "
+"devoir subir le résultat d'avoir fait souffrir un être comme mon frère. Si "
+"cette action venait à mûrir, puisse le Bienheureux dissiper les souffrances "
+"de mon corps et de mon esprit.\""
+
+# དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས་
+# དེའི་ཚེ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་གསུང་རབ་ལ་རབ་ཏུ་བྱུང་བར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་དགེ་སློང་འདི་ཉིད་ཡིན་ཏེ།
+# དེ་ཁྲོས་ནས་
+# ཕུ་བོའི་རྐེད་པ་བཅག་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་རྐེད་པ་ཆག་པར་གྱུར་ཏོ།
+# །
+msgctxt "line 47, 04.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, celui qui s’était retiré du "
+"monde selon l’enseignement du complet et parfait Bouddha Kāśyapa est ce "
+"moine lui-même et s’étant mise en colère, le résultat de l’action d’avoir "
+"brisé le dos à son frère aîné lui fit avoir le dos brisé à chacune de ses "
+"naissances."
+msgstr ""
+"Voyez-vous, moines, celui qui s'était retiré du monde selon l'enseignement "
+"du complet et parfait Bouddha Kāśyapa est ce moine lui-même. S'être mis en "
+"colère et avoir ainsi brisé le dos de son frère lui valut d'avoir à son tour"
+" le dos brisé à chacune de ses naissances."
+
+# དེས་དེར་སྨོན་ལམ་བཏབ་སྟེ།
+# ཇི་<«ཞོལ་»ཅི།>སྟེ་བདག་ལ་ལས་དེའི་<«པེ་»དེ།>འབྲས་<«གཡུང་»འབྲུས།>བུ་རྣམ་<«གཡུང་»རྣམས།>པར་སྨིན་<«གཡུང་»སྨིམ།>པར་གྱུར་ན་ཡང་<«གཡུང་»+ད།>བདག་གི་ལུས་དང་སེམས་ཀྱི་གནོད་པ་དེ་བཅོམ་ལྡན་འདས་ཀྱིས་བསལ་བར་གྱུར་ཅིག་ཅེས་
+# བྱས་པ་དེས་ན་ད་ལྟར་ངས་འདི་གནོད་པ་གཉི་ག་<«གཡུང་»«པེ་»གཉིས་ལས་ག
+# «སྣར་»«ཞོལ་»གཉིས་ཀ>ལས་ཡོངས་སུ་བསྐྱབས་སོ། །
+msgctxt "line 48, 04.txt"
+msgid ""
+"Le vœu qu’il fit (« Si jamais le résultat de cette action mûrit sur moi, "
+"puisse le Bienheureux dissiper le mal de mon corps et de mon esprit. ») "
+"puisqu’il a fait [ce vœu], maintenant, je l’ai entièrement soulagé (lit. "
+"refugié) de ses deux maux."
+msgstr ""
+"Puisqu'il a formulé le souhait que le Bienheureux dissipe les souffrances de"
+" son corps et de son esprit si cette action venait à mûrir, je l'ai "
+"entièrement soulagé."
+
+# དེས་དེར་སྨོན་ལམ་བཏབ་སྟེ།
+# བདག་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་གྱུར་ཅིག
+# །
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་<«གཡུང་»«པེ་»–བྱེད་པར།>གྱུར་ཅིག
+# ། མི་མཉེས་པར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག །
+# དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་<«གཡུང་»«པེ་»–དུ།>བྱེད་པར་གྱུར་ཅིག་ཅེས་
+# བྱས་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི།
+# འདི་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ཏེ།
+msgctxt "line 49, 04.txt"
+msgid ""
+"Le vœu qu’il fit (« Puissé-je toujours naître dans une lignée familiale qui "
+"est riche, possède de grandes (lit. nombreuses) richesses et de nombreux "
+"(lit. grands) biens. Puissé-je contenter par mes actes le Bienheureux "
+"Bouddha que [deviendra] le jeune brahmane Uttara [d’après] la prophétie du "
+"complet et parfait bouddha Kāśyapa. Puissé-je ne rien faire qui le "
+"mécontente. Ayant renoncé au monde d’après son (lit. à lui-même) "
+"enseignement et ayant éliminé toutes les émotions perturbatrices, puissé-je "
+"manifester l’état d’arhat (lit. l’arhat-même). » le résultat de l’action "
+"d’avoir fait [ces souhaits] le fit naître dans une lignée familiale qui est "
+"riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. "
+"grands) biens à chacune de ses naissances (lit. partout où il naissait, à "
+"chacun de ces endroits). Ainsi,"
+msgstr ""
+"Le souhait qu'il formula de toujours naître dans une famille qui vit dans "
+"l’opulence, possède de grandes richesses et d’innombrables biens, celui de "
+"contenter par ses actes le Bienheureux Bouddha que deviendrait le jeune "
+"brahmane Uttara, en accord avec la prophétie du complet et parfait bouddha "
+"Kāśyapa, celui de le contenter pas ses actes, de ne rien faire qui le "
+"mécontente, de se retirer du monde d'après son enseignement, d'éliminer "
+"toutes les émotions perturbatrices et de manifester l'état d'arhat lui "
+"valurent de toujours naître dans une famille qui vit dans l'opulence, "
+"possède de grandes richesses et d'innombrables biens."
+
+# དགེ་སློང་དག་
+# ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་པར་གྱུར་ནས།
+# འདིས་ང་མཉེས་པར་བྱས་ཏེ། མི་མཉེས་པར་མ་བྱས་ལ།
+# ང་ཉིད་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ།། །།
+msgctxt "line 50, 04.txt"
+msgid ""
+"moines, je suis devenu en tout point (lit. très) l’égal du complet et "
+"parfait Bouddha Kāśyapa, j’ai obtenu une force égale [à la sienne], des "
+"moyens [habiles] égaux [aux siens] et des actes égaux [aux siens], il m’a "
+"contenté et n’a rien fait qui me mécontente, puis il s’est retiré du monde "
+"selon mon (lit. à moi-même) enseignement et il a éliminé toutes les émotions"
+" perturbatrices et il a manifesté l’état d’arhat. »"
+msgstr ""
+"Moines, je suis devenu en tout point l'égal du complet et parfait Bouddha "
+"Kāśyapa. J'ai obtenu une force égale à la sienne, des moyens habiles et des "
+"actes égaux aux siens. Il m'a contenté et n'a rien fait qui me mécontente. "
+"Il s'est retiré du monde selon mon enseignement. Il a éliminé toutes les "
+"émotions perturbatrices et il a manifesté l'état d'arhat. »"
