@@ -221,9 +221,8 @@ msgid ""
 "Bienheureux et il se prosterna devant le Bienheureux en touchant ses pieds "
 "de sa tête et s’assit devant le Bienheureux pour écouter le Dharma."
 msgstr ""
-"Tout heureux, le père de famille alla trouver le Bienheureux. Il se "
-"prosterna devant lui en touchant ses pieds de sa tête et s'assit devant lui "
-"pour écouter le Dharma."
+"Tout heureux, il alla trouver le Bienheureux. Il se prosterna devant lui en "
+"touchant ses pieds de sa tête et s'assit devant lui pour écouter le Dharma."
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དང་འཚམ་པའི་ཆོས་བསྟན་ནས་
 # ཅང་མི་གསུང་བར་<«གཡུང་»«པེ་»གསུངས་པར།>བཞུགས་སོ། །
