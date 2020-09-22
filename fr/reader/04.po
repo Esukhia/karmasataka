@@ -768,10 +768,10 @@ msgid ""
 "objets) et il soigna (lit. fit le serviteur du malade) et en peu de temps "
 "(lit. sans que ça dure longtemps), son dos fut guéri."
 msgstr ""
-"Voir son frère souffrir autant lui était insupportable. \"Quelle bêtise ai-"
-"je fait !\" se lamentait-il, regrettant son acte. Il alla chercher un "
-"médecin et le traitement nécessaire. Il soigna son frère qui guérit en peut "
-"de temps."
+"Voir son frère souffrir autant était insupportable au frère de caractère "
+"posé. \"Quelle bêtise ai-je fait !\" se lamentait-il, regrettant son acte. "
+"Il alla chercher un médecin et le traitement nécessaire, puis soigna son "
+"frère qui guérit en peut de temps."
 
 # དེ་གང་གི་ཚེ་སོས་པར་གྱུར་པ་དེའི་ཚེ་དེ་ཤས་ཆེར་<«གཡུང་»«པེ་»ཆེ།>སྐྱོ་བ་སྐྱེས་ཏེ།
 # ལུས་རུལ་བ་སྙིང་པོ་མེད་པ་འདི་ཅི་དགོས་སྙམ་ནས།
