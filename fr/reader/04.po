@@ -516,9 +516,9 @@ msgid ""
 "eau dans ses mains."
 msgstr ""
 "Au moment où il entendit ces paroles, ses cheveux et sa barbe furent coupés "
-"aussi court que s'ils étaient rasés depuis sept jours. Sa contenance devint "
+"aussi court que s'il s'était rasé sept jours avant. Sa contenance devint "
 "celle d'une personne ayant observé les vœux pendant cent ans. Il se trouva "
-"pourvu du bol à aumône et du récipient à eau."
+"pourvu d'un bol à aumône et d'un récipient à eau."
 
 # འདིར་སྨྲས་པ། དེ་བཞིན་གཤེགས་པས་ཚུར་ཞེས་<«ཅོ་»ཤོག> བཀའ་སྩལ་པས།
 # དེ་ནི་མགོ་བྲེགས་ ལུས་ལ་སྣམ་<«གཡུང་»«པེ་»བསྣམ།>སྦྱར་གྱོན། །
