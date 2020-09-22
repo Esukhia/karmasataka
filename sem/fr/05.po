@@ -302,7 +302,7 @@ msgstr "dit : «"
 msgctxt "ad9ae9394b394b6ba9d0dee515326c1e"
 msgid "བདག་ ལ་ རྫུ་འཕྲུལ་ གྱི་ ལམ་ གྱི་ མན་ངག་ སྟོན་ ཅིག་ དང་"
 msgstr ""
-"veuillez m'enseigner les instructions de la voie des pouvoirs surnaturels. "
+"Veuillez m'enseigner les instructions de la voie des pouvoirs surnaturels. "
 "Alors,"
 
 msgctxt "f0e566dc6fa34f83a8338d0bc36c862a"
