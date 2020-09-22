@@ -470,7 +470,7 @@ msgstr ""
 
 msgctxt "c061f40c8d134ca981272ecbbfcb939f"
 msgid "ཐབས་ འདི␣ས་ ན་ ཁྱོད་ ཀྱི་ ལུས་ ཟོན་ ཡང་བ␣ར་ གྱུར་ ལ །"
-msgstr "Par ce moyen, votre corps deviendra plus léger par précaution et"
+msgstr "Par ce moyen, votre corps deviendra plus léger par précaution :"
 
 msgctxt "9eaa5c17c2ed45e0b12b5909e833bd10"
 msgid "ཕྱིས་ རྫུ་འཕྲུལ་ ཡང་ དཀའ་བ་ མེད་ དོ ། །"
