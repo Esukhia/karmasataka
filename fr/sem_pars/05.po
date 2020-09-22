@@ -43,7 +43,8 @@ msgstr ""
 # བདག་གིས་ཀྱང་རྫུ་འཕྲུལ་ཞིག་ཐོབ་ན་ནི་བདག་ཀྱང་ཤར་གྱི་ལུས་འཕགས་ཀྱི་གླིང་དུ་ཡང་སོང་།
 # བྱང་གི་སྒྲ་མི་སྙན་དང་ནུབ་ཀྱི་བན་<«པེ་»«ཅོ་»«ཞོལ་»བ།>ལང་སྤྱོད་དང་སུམ་ཅུ་<«གཡུང་»«ལི་»«པེ་»བཅུ།>རྩ་གསུམ་པའི་ལྷ་<«གཡུང་»«པེ་»ལྷའི།>ཡུལ་དང་།
 # གཞན་ཡང་ལྗོངས་འབྱོར་པ་དང་རྒྱས་པ་དང་བདེ་བ་དང་ལོ་ལེགས་པ་དང་སྐྱེ་བོ་དང་མི་མང་པོས་གང་བའི་ལྗོངས་དེ་དང་དེ་དག་ཏུ་སོང་ལ།
-# ཁ་ཟས་གཙང་མ་བཟང་པོ་མང་པོ་བླངས་ཏེ་ བཟའ་བ་ཞིག་ན།
+# ཁ་ཟས་གཙང་མ་བཟང་པོ་མང་པོ་བླངས་ཏེ་ བཟའ་བ་ཞིག་ན། མ་ལ་
+# བདག་གིས་ཀྱང་རྫུ་འཕྲུལ་བསྐྱེད་པར་བྱའོ་སྙམ་མོ། །
 msgctxt "line 5, 05.txt"
 msgid ""
 "si j’obtenais moi aussi ces pouvoirs surnaturels, j’irais aussi à Videha, le"
@@ -52,11 +53,11 @@ msgid ""
 "aussi dans les contrées riches, prospères et heureuses, où les moissons sont"
 " bonnes, et où vivent de grandes populations d’animaux et d’humains et j’y "
 "prendrais aussi de nombreux aliments purs et nobles et je les mangerais. "
-"Donc,"
+"Donc, décidément, moi aussi, je développerai les pouvoirs surnaturels. » "
+"pensa-t-elle."
 msgstr ""
 
-# མ་ལ་ བདག་གིས་ཀྱང་རྫུ་འཕྲུལ་བསྐྱེད་པར་བྱའོ་སྙམ་མོ། ། དེས་ཡང་བསམས་པ།
-# བདག་ལ་རྫུ་འཕྲུལ་གྱི་མན་ངག་སྟོན་ནུས་པ་སུ་ཞིག་ཡོད།
+# དེས་ཡང་བསམས་པ། བདག་ལ་རྫུ་འཕྲུལ་གྱི་མན་ངག་སྟོན་ནུས་པ་སུ་ཞིག་ཡོད།
 # གལ་ཏེ་བདག་དགེ་སློང་མ་རྣམས་ཀྱི་ཐད་དུ་སོང་ན་ནི།
 # འདི་ན་དགེ་སློང་མ་རྣམས་ཕྲག་དོག་ཅན་ཡིན་པས་བདག་ལ་རྫུ་འཕྲུལ་གྱི་ལམ་སྟོན་ཏོ། །
 # དགེ་སློང་རྣམས་ཀྱང་སྙན་སླེབས་<«པེ་»སློབས། «ཞོལ་»སླེབ།>པར་དཀའ་<«ཁུ་»དགའ།>སྟེ།
@@ -64,8 +65,7 @@ msgstr ""
 # རྫུ་འཕྲུལ་གྱི་ལམ་གྱི་<«གཡུང་»«པེ་»གྱིས།>མན་ངག་སྟོན་པ་ལྟ་ཅི་སྨོས་ཀྱིས<«ཞོལ་»ཀྱི།>།
 msgctxt "line 6, 05.txt"
 msgid ""
-"décidément, moi aussi, je développerai les pouvoirs surnaturels. » pensa-t-"
-"elle. Elle pensa aussi : « Qui se trouve-t-il qui puisse m’enseigner les "
+"Elle pensa aussi : « Qui se trouve-t-il qui puisse m’enseigner les "
 "instructions des pouvoirs surnaturels ? Si je me rends auprès de ces nonnes,"
 " étant donné qu’ici les nonnes sont jalouses, elles ne m’enseigneront pas la"
 " voie des pouvoirs surnaturels. il est difficile de se faire entendre des "
