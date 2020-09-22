@@ -472,8 +472,8 @@ msgstr ""
 " de souffrance et d'inconfort dont je souffrais. Il m'a procuré de "
 "nombreuses formes de bonheur et bien-être dont je jouis. Il m'a débarrassé "
 "de diverses actions négatives. Il m'a pourvu de diverses actions positives. "
-"Pour cette raison, je vais quitter la vie de famille et j'irai vivre une vie"
-" chaste auprès du Bienheureux. »"
+"Pour cette raison, je quitterai la vie de famille et j'irai vivre une vie "
+"chaste auprès du Bienheureux. »"
 
 # ཕ་མ་ལ་གསོལ་ནས། བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།
 # བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ། བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས།
