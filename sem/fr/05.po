@@ -144,7 +144,7 @@ msgctxt "766271c5499446018e53bacdedc75f56"
 msgid "རྫུ་འཕྲུལ་ གྱི་ ལམ་ གྱི་ མན་ངག་ སྟོན་པ་ ལྟ་ཅི་ སྨོས་ ཀྱིས །"
 msgstr ""
 "il va sans dire [qu'il sera impossible] qu'ils m'enseignent les instructions"
-" de la voie vers les pouvoirs surnaturels."
+" de la voie des pouvoirs surnaturels."
 
 msgctxt "d2fad34290564d56a2fde20a5fe87da9"
 msgid "མ་ལ་"
