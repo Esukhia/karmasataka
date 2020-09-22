@@ -125,7 +125,7 @@ msgid ""
 "མ་ རྣམས་ ཕྲག་དོག་ ཅན་ ཡིན་པ␣ས་ བདག་ ལ་ རྫུ་འཕྲུལ་ གྱི་ ལམ་ སྟོན་ ཏོ ། །"
 msgstr ""
 "Si je me rends auprès de ces nonnes, étant donné qu'ici les nonnes sont "
-"jalouses, elles ne m'enseigneront pas la voie vers les pouvoirs surnaturels."
+"jalouses, elles ne m'enseigneront pas la voie des pouvoirs surnaturels."
 
 # དགེ་སློང་རྣམས་ཀྱང་སྙན་སླེབས་<«པེ་»སློབས། «ཞོལ་»སླེབ།>པར་དཀའ་<«ཁུ་»དགའ།>སྟེ།
 msgctxt "ee653c1982b14aee91d3291b8ad1d7a2"
