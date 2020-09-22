@@ -530,11 +530,11 @@ msgstr "Alors, à cette époque, les moines l'entendirent et"
 # བཅོམ་ལྡན་འདས་ལ་གསོལ་ཏེ་<«ཅོ་»+ཏེ།>
 msgctxt "91bf8f62f464424ea3640e38ee914333"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ གསོལ་ ཏེ་"
-msgstr "demandèrent au Bienheureux"
+msgstr "demandèrent au Bienheureux et"
 
 msgctxt "dc71312dc0dd4d829deb13560b9271d7"
 msgid "འདི་སྐད་ ཅེས་ སྨྲ␣ས་ སོ ། །"
-msgstr "en disant ceci : «"
+msgstr "dirent ceci : «"
 
 msgctxt "651f14619fb24655b7ab6486c4d9390f"
 msgid "བཙུན་པ་"
