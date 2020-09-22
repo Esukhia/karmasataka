@@ -265,7 +265,7 @@ msgstr "Ou tu la donneras contre des services ou des richesses.\""
 # བྱ་བ་ཁྱོད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཁྱེད།>ཀྱིས་མ་ཐོས་སམ།
 msgctxt "9724bd9a1a574319bd8e95a6fc72bc86"
 msgid "བྱ་བ་ ཁྱོད་ ཀྱིས་ མ་ ཐོས་ སམ །"
-msgstr "n'as-tu pas entendu ceci ? »"
+msgstr "n'as-tu pas entendu ceci ?"
 
 msgctxt "8b4f8e5475a74b79ae45e8dd05328402"
 msgid "དེ་ལྟ་ མོད་ ཀྱི་"
