@@ -817,7 +817,7 @@ msgstr "Les charpentiers dirent : «"
 # ཁོ་བོ་<«ཅོ་»+ཅ།>ཅག་གི་<«ཞོལ་»གིས།>ཤེས་པ་ནི་དེ་ཁོ་ནར་ཟད་དེ<«ཅོ་»དོ།>།
 msgctxt "57b532b7c59c40349592d86ed8ef4051"
 msgid "ཁོ་བོ་ ཅག་ གི་ ཤེས་པ་ ནི་ དེ་ ཁོ་ན␣ར་ ཟད་ དེ །"
-msgstr "Nos connaissances se limitent à ça. Alors,"
+msgstr "Voilà la limite de nos connaissances. Alors,"
 
 # དེ་ཕན་ཅད་<«སྣར་»«ཞོལ་»ཆད།>ཇི་ལྟར་བྱ་བ་ནི་ཁྱོད་ཉིད་ཤེས་སུ་ཟད་དོ། །
 msgctxt "aedd4e7e24e54958938b72f464e9749c"
