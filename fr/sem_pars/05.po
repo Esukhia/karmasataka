@@ -254,7 +254,7 @@ msgstr ""
 # ཇི་<«ཞོལ་»ཅི།>སྟེ་སྲོང་མི་ནུས་སྙམ་ བསམས་ནས།
 msgctxt "line 15, 05.txt"
 msgid ""
-"Moines, Dans une époque maintenant révolue, dans la ville de Vārāṇasī, le "
+"Moines, dans une époque maintenant révolue, dans la ville de Vārāṇasī, le "
 "roi Brahmadatta régnait et dans le palais de ce roi, une nouvelle demeure "
 "était construite. Là, de nombreux charpentiers travaillaient et ils "
 "traçaient des lignes sur les troncs qui étaient tordus et ils les "
