@@ -14,7 +14,7 @@ msgstr ""
 
 msgctxt "780c8a56542a428caf96cedeccc4b758"
 msgid "སྒུར་ བུ་ གཅིག་ ནི །"
-msgstr "L'histoire de l'autre bossu"
+msgstr "L'histoire de l'autre bossue"
 
 # གླེང་གཞི་<«གཡུང་»«པེ་»བཞི།>མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
 msgctxt "5c7cb8557d634711b966d4fcb06e91c3"
