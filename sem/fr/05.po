@@ -767,7 +767,7 @@ msgstr "Sœur aînée,"
 # བདག་ཅག་གིས་ནི་སྡོང་པོ་ཡོན་པོ་རྣམས་ཐིག་གིས་<«གཡུང་»གི།>བཏབ་ནས་
 msgctxt "b4f650db95f04892899c4f106309f6e6"
 msgid "བདག་ཅག་ གིས་ ནི་ སྡོང་པོ་ ཡོན་པོ་ རྣམས་ ཐིག་ གིས་ བཏབ་ ནས་"
-msgstr "Nous traçons des lignes sur les troncs tordus et"
+msgstr "nous traçons des lignes sur les troncs tordus et"
 
 # སྟ་རེས་བཞོགས་<«གཡུང་»ལྟ་རེས་བཞོགས། «ཞོལ་»སྟ་རེས་གཞོགས།>ཏེ་
 msgctxt "c6d77559b14d448bb4ec77c6d9f055e5"
