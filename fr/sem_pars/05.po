@@ -7,7 +7,7 @@ msgstr ""
 
 # སྒུར་བུ་གཅིག་ནི།
 msgctxt "line 1, 05.txt"
-msgid "L’histoire de l’autre bossu"
+msgid "L’histoire de l’autre bossue"
 msgstr ""
 
 # གླེང་གཞི་<«གཡུང་»«པེ་»བཞི།>མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
@@ -203,9 +203,9 @@ msgstr ""
 msgctxt "line 12, 05.txt"
 msgid ""
 "Alors, en entendant ceci, Sthūlanandā donna naissance à une émotion (lit. ce"
-" qui enserre entièrement) de colère intense. Alors, elle les réduit au "
-"silence (lit. défit en débat), eux qui étaient venus au vihāra et elle "
-"révéla leur imposture avec des propos humiliants et les expulsa du vihāra. "
+" qui enserre entièrement) de colère intense. Alors, elle leur fit avouer la "
+"tromperie (lit. les défit en débat), eux qui étaient venus au vihāra et elle"
+" révéla leur imposture avec des propos humiliants et les expulsa du vihāra. "
 "elle raconta son aventure (lit. ce sens) à la majorité des personnes et fit "
 "connaître leurs agissements (lit. fit de la bouche) et les insulta et les "
 "couvrit de honte."
