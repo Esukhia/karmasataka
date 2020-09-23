@@ -307,7 +307,7 @@ msgstr ""
 # དེ་ཕན་ཅད་<«སྣར་»«ཞོལ་»ཆད།>ཇི་ལྟར་བྱ་བ་ནི་ཁྱོད་ཉིད་ཤེས་སུ་ཟད་དོ། །
 msgctxt "line 17, 05.txt"
 msgid ""
-"Ils dirent : « Sœur aînée, Nous traçons des lignes sur les troncs tordus et "
+"Ils dirent : « Sœur aînée, nous traçons des lignes sur les troncs tordus et "
 "nous les taillons à la hache et nous les redressons. Donc, si vous êtes "
 "capables de supporter un tel traitement (lit. un tel mal), nous tracerons "
 "des lignes sur votre dos et nous le taillerons à la hache et nous le "
