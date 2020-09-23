@@ -599,7 +599,7 @@ msgid ""
 "སྔོན་བྱུང་བ་ འདས་པ␣འི་ དུས་ ན །  གྲོང་ཁྱེར་ བཱ་རཱ་ཎ་སཱི་ ན་ རྒྱལ་པོ་ "
 "ཚངས་པ␣ས་ བྱིན་ རྒྱལ་པོ་ བྱེད་ དེ །"
 msgstr ""
-"Dans une époque maintenant révolue, dans la ville de Vārāṇasī, le roi "
+"dans une époque maintenant révolue, dans la ville de Vārāṇasī, le roi "
 "Brahmadatta régnait et"
 
 # རྒྱལ་པོ་དེའི་ཕོ་བྲང་ན་ཁང་བཟངས་<«ཞོལ་»བཟང་།>ཞིག་གསར་དུ་བྱེད་པ་
