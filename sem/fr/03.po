@@ -1097,7 +1097,7 @@ msgstr "l'honorable Aniruddha mena le garçon au monastère et"
 
 msgctxt "85b45497238e43a6bb01f81b36207130"
 msgid "རབ་ཏུ་ ཕྱུང་ སྟེ །"
-msgstr "il [lui fit] renoncer au monde et"
+msgstr "il [lui fit] se retirer du monde et"
 
 msgctxt "5dd267d45f8c4279bd2113f4bb4cd145"
 msgid "བསྙེན་པ␣ར་ རྫོགས་པ␣ར་ བྱས་ ནས་"
