@@ -1518,8 +1518,8 @@ msgid ""
 "སྐྱེ་དགུ␣འི་ བདག་མོ་ ཆེན་ མོ་ གཽ་ ཏ་ མཱིས་ ཀྱང་ ཁྱིམ་བདག་ ཆེ་གེ་མོ་ ཞིག་ གི་"
 " བུ་ རབ་ཏུ་ བྱུང་ ནས །"
 msgstr ""
-"Mahā­prajāpatī Gautamī, elle aussi, « L'enfant du père de famille untel a "
-"renoncé au monde, et"
+"Mahā­prajāpatī Gautamī, elle aussi, « L'enfant du père de famille untel "
+"s'est retiré du monde, et"
 
 # དེ་ཡོངས་<«གཡུང་»སོངས།>སུ་མྱ་ངན་ལས་<«ལི་»«སྣར་»«ཞོལ»–ལས།>[15b]འདས་ཏེ།
 msgctxt "bc30613ea7764ab8b1b7cf7300d32d71"
