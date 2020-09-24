@@ -2189,8 +2189,8 @@ msgctxt "ae9d323e64ff41648c504750639ab6c0"
 msgid ""
 "ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ གསུང་རབ་ ལ་ རབ་ཏུ་ བྱུང་ ནས །"
 msgstr ""
-"renonça au monde selon l'enseignement du complet et parfait Bouddha Kāśyapa "
-"et"
+"se retira du monde selon l'enseignement du complet et parfait Bouddha "
+"Kāśyapa et"
 
 # བརྩོན་པ་དང་བསྒྲུབ་པ་<«གཡུང་»བསྒྱུ་མ།
 # «ཞོལ་»སྒྲུབ་པ།>དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
