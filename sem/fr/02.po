@@ -2131,7 +2131,7 @@ msgstr "Puissé-je ne rien faire qui le mécontente."
 
 msgctxt "0563352aeb2b449d82e7ff9081f11480"
 msgid "དེ་ ཁོ་ན␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས །"
-msgstr "Ayant renoncé au monde d'après son (lit. à lui-même) enseignement et"
+msgstr "S'étant retiré du monde d'après son (lit. à lui-même) enseignement et"
 
 # ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་<«ལི་»«ཅོ་»སྤོངས།>ཏེ།
 msgctxt "5c32772ac596429ab88a1381c2bece4b"
