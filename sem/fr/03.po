@@ -2086,7 +2086,7 @@ msgstr "n'a rien fait qui me mécontente, puis"
 # ང་<«པེ་»དེ།>ཉིད་ཀྱི་བསྟན་<«གཡུང་»སྟན།>པ་ལ་རབ་ཏུ་བྱུང་ནས།
 msgctxt "2389288880584b11a6cbb67ecaaad5f2"
 msgid "ང་ཉིད་ ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས །"
-msgstr "il a renoncé au monde selon mon (lit. à moi-même) enseignement et"
+msgstr "il s'est retiré du monde selon mon (lit. à moi-même) enseignement et"
 
 msgctxt "eec6ecb9a791492abc351904f5e19593"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
