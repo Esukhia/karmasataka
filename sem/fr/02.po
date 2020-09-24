@@ -1495,7 +1495,8 @@ msgstr "[qu'il] ne fasse rien qui le mécontente, puis"
 # བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
 msgctxt "547d9ec9adde4acf9901c39e12db5fbe"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས །"
-msgstr "[qu']il renonce [au monde] selon l'enseignement du Bienheureux, puis"
+msgstr ""
+"[qu']il se retire [du monde] selon l'enseignement du Bienheureux, puis"
 
 msgctxt "304c97a79b4042048a26afa33ccb20b4"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ །"
