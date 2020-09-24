@@ -1651,7 +1651,7 @@ msgstr "se retira du monde."
 
 msgctxt "5deb3da9c6e2442aab02e3e32d60230d"
 msgid "རབ་ཏུ་ བྱུང་ ནས་"
-msgstr "Après avoir renoncé au monde,"
+msgstr "Après s'être retiré du monde,"
 
 msgctxt "91d1f0873d47467691e3f32b0dd900d1"
 msgid "སྡེ་སྣོད་ གསུམ་ བསླབས་ ཏེ །"
