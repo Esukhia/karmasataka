@@ -1647,7 +1647,7 @@ msgstr "il demanda [la permission] à ses parents et "
 
 msgctxt "da207b39e55d40a49eb8c025dc1bd7fa"
 msgid "རབ་ཏུ་ བྱུང་ ངོ་ ། །"
-msgstr "renonça au monde."
+msgstr "se retira du monde."
 
 msgctxt "5deb3da9c6e2442aab02e3e32d60230d"
 msgid "རབ་ཏུ་ བྱུང་ ནས་"
