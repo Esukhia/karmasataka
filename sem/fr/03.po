@@ -1573,7 +1573,7 @@ msgid ""
 "ཆེ་གེ་མོ་ ཞིག་ གི་ བུ་ རབ་ཏུ་ བྱུང་ ནས །"
 msgstr ""
 "l'upāsikā Vaiśākhā et l'upāsikā Sujātā aussi, « le fils du père de famille "
-"\"untel\" a renoncé au monde et"
+"\"untel\" s'est retiré du monde et"
 
 msgctxt "0ab281f6f7844cdda030b188d3ba21b6"
 msgid "དེ་ ཡོངས་སུ་ མྱ་ངན་ ལ␣ས་ འདས་ ཏེ །"
