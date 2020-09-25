@@ -770,7 +770,8 @@ msgstr ""
 msgctxt "0ce329aed7ed47ef98d8853d5d0e315d"
 msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ནས །"
 msgstr ""
-"il [replia] son châle sur une épaule et le laissa retomber [devant lui] et"
+"il [replia] son vêtement supérieur sur une épaule et le laissa retomber "
+"[devant lui] et"
 
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«པེ་»དེར།
 # «ལི་»«སྣར་»«ཅོ་»བ་དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ་
