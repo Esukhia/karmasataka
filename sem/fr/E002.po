@@ -93,7 +93,7 @@ msgstr "Vénérable,"
 # «སྣར་»ལྟབ་ཏུ།>བགྱིས་ཏེ་
 msgctxt "bd14f76fa8ee4341b85a8de58a7d012f"
 msgid "དེ་བཞིན་ གཤེགས་པ␣འི་ བླ་གོས་ བཞི་ བལྟབ་ ཏུ་ བགྱིས་ ཏེ་"
-msgstr "J'ai plié en quatre le châle du Tathāgata,"
+msgstr "J'ai plié en quatre le vêtement supérieur du Tathāgata,"
 
 msgctxt "24c2bf653437451982af165dd824bc41"
 msgid "བཏིང་ ལགས་ ན །"
