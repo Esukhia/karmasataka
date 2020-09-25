@@ -75,7 +75,7 @@ msgstr "il suivit les instructions que le Bienheureux lui avait données,"
 # བླ་གོས་བཞི་བལྟབ་<«གཡུང་»«པེ་»«སྣར་»ལྟབ།>ཏུ་བྱས་ཏེ<«ལི་»«ཅོ་»ཏོ།>།
 msgctxt "c336c482f1e14529983de12d2dd124f4"
 msgid "བླ་གོས་ བཞི་ བལྟབ་ ཏུ་ བྱས་ ཏེ །"
-msgstr "il plia le châle en quatre,"
+msgstr "il plia le vêtement supérieur en quatre,"
 
 msgctxt "bb589c1d90e64091a0a099bac2df3a31"
 msgid "བཏིང་ ནས་"
