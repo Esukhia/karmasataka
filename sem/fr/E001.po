@@ -463,7 +463,7 @@ msgstr "Puis, le Bienheureux, en leur disant « Moines, venez ici ! »,"
 
 msgctxt "96ac50820d0a41d29098293b835c5b2f"
 msgid "བྱ་བ␣འི་ ཚིག་ གིས་ རབ་ཏུ་ ཕྱུང་ སྟེ་"
-msgstr "en fit des renonçants et"
+msgstr "leur fit se retirer du monde et"
 
 # བསྙེན་<«གཡུང་»«པེ་»སྙེན།>པར་རྫོགས་པར་མཛད་ནས།
 msgctxt "f6e4fc70e7474f77b41e0cbf4fd55b7e"

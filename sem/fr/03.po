@@ -1097,7 +1097,7 @@ msgstr "l'honorable Aniruddha mena le garçon au monastère et"
 
 msgctxt "85b45497238e43a6bb01f81b36207130"
 msgid "རབ་ཏུ་ ཕྱུང་ སྟེ །"
-msgstr "il [lui fit] renoncer au monde et"
+msgstr "il [lui fit] se retirer du monde et"
 
 msgctxt "5dd267d45f8c4279bd2113f4bb4cd145"
 msgid "བསྙེན་པ␣ར་ རྫོགས་པ␣ར་ བྱས་ ནས་"
@@ -1518,8 +1518,8 @@ msgid ""
 "སྐྱེ་དགུ␣འི་ བདག་མོ་ ཆེན་ མོ་ གཽ་ ཏ་ མཱིས་ ཀྱང་ ཁྱིམ་བདག་ ཆེ་གེ་མོ་ ཞིག་ གི་"
 " བུ་ རབ་ཏུ་ བྱུང་ ནས །"
 msgstr ""
-"Mahā­prajāpatī Gautamī, elle aussi, « L'enfant du père de famille untel a "
-"renoncé au monde, et"
+"Mahā­prajāpatī Gautamī, elle aussi, « L'enfant du père de famille untel "
+"s'est retiré du monde, et"
 
 # དེ་ཡོངས་<«གཡུང་»སོངས།>སུ་མྱ་ངན་ལས་<«ལི་»«སྣར་»«ཞོལ»–ལས།>[15b]འདས་ཏེ།
 msgctxt "bc30613ea7764ab8b1b7cf7300d32d71"
@@ -1573,7 +1573,7 @@ msgid ""
 "ཆེ་གེ་མོ་ ཞིག་ གི་ བུ་ རབ་ཏུ་ བྱུང་ ནས །"
 msgstr ""
 "l'upāsikā Vaiśākhā et l'upāsikā Sujātā aussi, « le fils du père de famille "
-"\"untel\" a renoncé au monde et"
+"\"untel\" s'est retiré du monde et"
 
 msgctxt "0ab281f6f7844cdda030b188d3ba21b6"
 msgid "དེ་ ཡོངས་སུ་ མྱ་ངན་ ལ␣ས་ འདས་ ཏེ །"
@@ -1961,7 +1961,7 @@ msgstr "Puissé-je ne rien faire qui le mécontente."
 
 msgctxt "13375bf5fda2447e936ea4cf2e25b4de"
 msgid "དེ་ ཁོ་ན␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
-msgstr "Ayant renoncé au monde d'après son (lit. à lui-même) enseignement et"
+msgstr "S'étant retiré du monde d'après son (lit. à lui-même) enseignement et"
 
 msgctxt "cc77833752c24d0ea331715473b3ee2d"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ །"
@@ -2086,7 +2086,7 @@ msgstr "n'a rien fait qui me mécontente, puis"
 # ང་<«པེ་»དེ།>ཉིད་ཀྱི་བསྟན་<«གཡུང་»སྟན།>པ་ལ་རབ་ཏུ་བྱུང་ནས།
 msgctxt "2389288880584b11a6cbb67ecaaad5f2"
 msgid "ང་ཉིད་ ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས །"
-msgstr "il a renoncé au monde selon mon (lit. à moi-même) enseignement et"
+msgstr "il s'est retiré du monde selon mon (lit. à moi-même) enseignement et"
 
 msgctxt "eec6ecb9a791492abc351904f5e19593"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
@@ -2189,8 +2189,8 @@ msgctxt "ae9d323e64ff41648c504750639ab6c0"
 msgid ""
 "ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ གསུང་རབ་ ལ་ རབ་ཏུ་ བྱུང་ ནས །"
 msgstr ""
-"renonça au monde selon l'enseignement du complet et parfait Bouddha Kāśyapa "
-"et"
+"se retira du monde selon l'enseignement du complet et parfait Bouddha "
+"Kāśyapa et"
 
 # བརྩོན་པ་དང་བསྒྲུབ་པ་<«གཡུང་»བསྒྱུ་མ།
 # «ཞོལ་»སྒྲུབ་པ།>དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
@@ -2368,7 +2368,7 @@ msgstr "n'a rien fait qui me mécontente, puis"
 
 msgctxt "45be958fb3af4e8f8158e55d82535989"
 msgid "ང་ཉིད་ ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས །"
-msgstr "il a renoncé au monde selon mon (lit. à moi-même) enseignement et"
+msgstr "il s'est retiré du monde selon mon (lit. à moi-même) enseignement et"
 
 # ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ<«གཡུང་»«པེ་»སྟེ།>།
 msgctxt "5cc373773f4f4959b113ba709ce58a9f"
