@@ -1108,7 +1108,8 @@ msgstr "L'ayant vu, il se leva d'un coup,"
 # བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»བཟར།>ཏེ།
 msgctxt "68cac84ae1ca4a398fc1b0c3ee4d3952"
 msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ཏེ །"
-msgstr "il [replia] son châle et le laissa retomber sur une épaule,"
+msgstr ""
+"il [replia] son vêtement supérieur et le laissa retomber sur une épaule,"
 
 msgctxt "4f82dfd0e061411593a1a6cd6906b8fa"
 msgid ""
