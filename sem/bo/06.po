@@ -974,8 +974,12 @@ msgctxt "edbcc820d3d348cb9eea6936f76bee76"
 msgid "ངོ་ ཤེས་ ཏེ་"
 msgstr ""
 
+msgctxt "2522f981824949afaa0633fc17180618"
+msgid "ལྷ་"
+msgstr ""
+
 msgctxt "889ba88d787e46d39348ef131bcc55a8"
-msgid "ལྷ་ ཁྱོད་ ག་ལ␣ས་ གཤེགས་ ཏེ་"
+msgid "ཁྱོད་ ག་ལ␣ས་ གཤེགས་ ཏེ་"
 msgstr ""
 
 msgctxt "c02211a9e6bd41fd80c57a53ad66f414"
