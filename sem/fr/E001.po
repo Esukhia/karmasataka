@@ -253,7 +253,8 @@ msgstr "pensa-t-il. Puis,"
 
 msgctxt "d75229567df4429e90af11e86527018e"
 msgid "སྔ་དྲོ་ ཤམ་ཐབས་ དང་ ཆོས་གོས་ གསོལ་ ཏེ །"
-msgstr "au petit matin, il revêtit son châle et sa robe monastique,"
+msgstr ""
+"au petit matin, il revêtit son vêtement supérieur et sa robe monastique,"
 
 msgctxt "1ca1b394c4a142c592393dadc4cae8fd"
 msgid "ལྷུང་བཟེད་ བསྣམས་ ནས །"
