@@ -46,7 +46,7 @@ msgstr "Ānanda,"
 
 msgctxt "d1fee92e31f54af1a004cb28f3c8ede1"
 msgid "དེ་བཞིན་ གཤེགས་པ␣འི་ བླ་གོས་ བཞི་ :␣བལྟབ་ ཏུ་ བགྱིས་ ཏེ་"
-msgstr "Plie le châle du Tathāgata en quatre et"
+msgstr "Plie le vêtement supérieur du Tathāgata en quatre et"
 
 # ཐིང་<«གཡུང་»«པེ་»«སྣར་»ལྟབ་ཏུ་གྱིས་ཏེ་ཐིང་།«ཅོ་»བལྟབ་ཏུ་བགྱིས་ཏེ་ཐིངས།
 # «ཞོལ་»བལྟབ་ཏུ་བགྱིས་ཏེ་ཐེངས།>ཤིག་དང་།
