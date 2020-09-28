@@ -108,7 +108,9 @@ msgstr ""
 
 msgctxt "d5eb8d77f47f47a59533936cab323f67"
 msgid "སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ ལ་ ཡང་ ཟ་བ␣ར་ བྱེད་ དོ ། །"
-msgstr "la majorité des passants (lit. personnes) le nourrissaient aussi."
+msgstr ""
+"de nombreux (lit. une diversité de) passants (lit. personnes) le "
+"nourrissaient aussi."
 
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་<«གཡུང»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པའི།>ལམ་སྟོན་པ།
 msgctxt "41b807580fa745a9990f6b250a70cadc"
