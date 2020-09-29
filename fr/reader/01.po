@@ -541,9 +541,9 @@ msgid ""
 msgstr ""
 "Régulièrement, il conviait l'honorable Śāriputra pour le déjeuner. À ces "
 "occasions, ils donnaient tous deux leurs restes à la petite chienne, qui "
-"s'asseyait avec le père de famille devant l'honorable moine et qui écoutait "
+"s'asseyait avec le père de famille devant l'honorable moine et écoutait "
 "aussi le Dharma. « Toutes ces merveilles que j’ai comprises, je les dois à "
-"ma chienne », pensa-t-il. Et il prit soin d'elle avec une grande affection."
+"ma chienne », pensa-t-il. Il prit soin d'elle avec une grande affection."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་<«གཡུང་»«པེ་»ནས།>ཁྱི་མོ་དེ་ནད་ཀྱིས་ཐེབས་ནས།
 # ཤཱ་རིའི་བུས་དེ་ལ་སྨྲས་པ<«གཡུང་»མ།>། བུ་ འདི་ལྟར་
