@@ -598,7 +598,7 @@ msgid ""
 "famille déposa le cadavre de la chienne à un endroit où personne ne le "
 "verrait."
 msgstr ""
-"Peu après son départ, la chienne mourut, le cœur empli de joie à la pensée de l'honorable moine. Passée au-delà de cette vie, elle reprit naissance dans cette même maison, dans le sein de l’épouse principale du père de famille. L'honorable Śāriputra, qui était revenu dans cette demeure après la mort de la chienne, fut informé du triste événement.\n"
+"Peu après son départ, la chienne mourut le cœur empli de joie à la pensée de l'honorable moine. Passée au-delà de cette vie, elle reprit naissance dans cette même maison, dans le sein de l’épouse principale du père de famille. L'honorable Śāriputra fut informé du triste événement quand il revint.\n"
 "« Posez son cadavre dans un endroit isolé. Ses ossements lui seront utiles dans le futur », conseilla-t-il.\n"
 "« Il sera fait comme le Vénérable Śāriputra le demande », répondit le père de famille avant d'aller à un endroit connu de lui seul pour y cacher la dépouille."
 
