@@ -407,9 +407,9 @@ msgid ""
 "pensa-t-il."
 msgstr ""
 "Le père de famille qui la regardait, pensa : « Quel hommage cette chienne "
-"lui rend-elle ! Et elle est un être échoué dans une condition aussi "
-"mauvaise… Ce moine est un grand être sans l'ombre d'un doute. C’est décidé. "
-"Je vais l’inviter à déjeuner. »"
+"lui rend-elle ! Et elle est un être échoué dans une si mauvaise condition… "
+"Ce moine est un grand être sans l'ombre d'un doute. C’est décidé. Je vais "
+"l’inviter à déjeuner. »"
 
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་རྐང་པ་ལ་ཕྱག་འཚལ་<«སྣར་»«ཞོལ་»བཙལ།
