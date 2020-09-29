@@ -1,32 +1,29 @@
 from docx import Document  # package name: python-docx
 from docx.enum.style import WD_STYLE_TYPE
 from docx.shared import RGBColor
-from docx.shared import Pt
-from docx.shared import Length, Cm
-from docx.enum.text import WD_PARAGRAPH_ALIGNMENT
+from docx.shared import Pt, Cm
+from docx.enum.text import WD_LINE_SPACING
 import re
-from horology import timed
 
 
-#@timed(unit="min")
-def create_docx(chunks, path):
+def create_total_docx(chunks, path):
     # CONFIG
     indentation = 0.5
     tibetan_style = {
         'font': 'Jomolhari',
-        'size': 8
+        'size': 11
     }
     pedurma_style = {
         'color': (112, 128, 144),
         'font': 'Jomolhari',
-        'size': 5
+        'size': 8
     }
     semantic_style = {
         'font': 'Free Mono',
-        'size': 8
+        'size': 10
     }
     communicative_style = {
-        'font': 'Liberation Serif',
+        'font': 'Gentium',
         'size': 12
     }
 
@@ -35,23 +32,20 @@ def create_docx(chunks, path):
 
     # TIBETAN
     bo_style = styles.add_style('Tibetan', WD_STYLE_TYPE.CHARACTER)
-    # bo_style.base_style = styles['Normal']
     bo_font = bo_style.font
     bo_font.name = tibetan_style['font']
     bo_font.size = Pt(tibetan_style['size'])
     # PEYDURMA NOTES
     note_style = styles.add_style('Peydurma Notes', WD_STYLE_TYPE.CHARACTER)
-    # note_style.base_style = styles['Normal']
     note_font = note_style.font
     note_font.name = pedurma_style['font']
-    note_font.size = Pt(pedurma_style['size'])
-    # note_font.subscript = True
+    # note_font.size = Pt(pedurma_style['size'])
+    note_font.subscript = True
     c = pedurma_style['color']
     note_font.color.rgb = RGBColor(c[0], c[1], c[2])
 
     # COMMUNICATIVE VERSION
     com_style = styles.add_style('Communicative', WD_STYLE_TYPE.CHARACTER)
-    # com_style.base_style = styles['Normal']
     com_font = com_style.font
     com_font.name = communicative_style['font']
     com_font.size = Pt(communicative_style['size'])
@@ -63,18 +57,41 @@ def create_docx(chunks, path):
     sem_font.name = semantic_style['font']
     sem_font.size = Pt(semantic_style['size'])
 
+    # COMMUNICATIVE PARAGRAPH
+    com_par_style = styles.add_style('Com. paragraph', WD_STYLE_TYPE.PARAGRAPH)
+    com_par_style.paragraph_format.space_before = Cm(0)
+    com_par_style.paragraph_format.space_after = Cm(0)
+
+    # OTHER PARAGRAPH
+    other_par_style = styles.add_style('Other paragraph', WD_STYLE_TYPE.PARAGRAPH)
+    other_par_style.paragraph_format.space_before = Cm(0)
+    other_par_style.paragraph_format.space_after = Cm(1)
+    other_par_style.paragraph_format.left_indent = Cm(indentation)
+    other_par_style.paragraph_format.line_spacing = WD_LINE_SPACING.SINGLE
+
     for chunk in chunks:
         com, others = chunk
-        p = document.add_paragraph()
+
         #########################
         # Communicative
-        # p = document.add_paragraph()
-        # par_format = p.paragraph_format
-        # par_format.space_before = Pt(0)
-        run = p.add_run(com)
-        run.style = 'Communicative'
-        run.add_break()
+        com_p = document.add_paragraph()
+        com_p.style = 'Com. paragraph'
+
+        com = re.split('(/.+?/)', com)
+        for c in com:
+            com_run = com_p.add_run('')
+            com_run.style = 'Communicative'
+
+            if c.startswith('/'):
+                com_run.text = c[1:-1]
+                com_run.italic = True
+            else:
+                com_run.text = c
+
         # ************************
+
+        p = document.add_paragraph()
+        p.style = 'Other paragraph'
 
         for pair in others:
             bo, sem = pair
@@ -91,10 +108,8 @@ def create_docx(chunks, path):
             run.style = 'Semantic'
             run.add_break()
 
-        # par_format = p.paragraph_format
-        # par_format.left_indent = Cm(indentation)
-        # par_format.space_after = Pt(0)
-        #
-
+        # removing trailing newline
+        p.runs[-1].text = p.runs[-1].text.rstrip('\n')
+        # print('ok')
     out_path = path.parent / (path.stem + '.docx')
     document.save(str(out_path))

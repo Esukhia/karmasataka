@@ -1,7 +1,7 @@
 from pathlib import Path
 import re
 import polib
-from to_docx import create_docx
+from to_docx import create_total_docx
 
 
 class Po:
@@ -59,7 +59,7 @@ class Po:
         total.write_text(all)
 
         total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
-        create_docx(data, total_docx)
+        create_total_docx(data, total_docx)
 
     @staticmethod
     def _format_fr(text):
