@@ -1,6 +1,7 @@
 from pathlib import Path
 import re
 import polib
+from to_docx import create_docx
 
 
 class Po:
@@ -31,7 +32,7 @@ class Po:
             pairs = '\n'.join(['\n'.join(['\t' + a, '\t' + b]) for a, b in pairs])
             all_formatted += com + '\n' + pairs + '\n\n'
 
-        return '\n'.join(['\n'.join(e) for e in entries]), '\n\n'.join([e[0] for e in entries]), all_formatted
+        return '\n'.join(['\n'.join(e) for e in entries]), '\n\n'.join([e[0] for e in entries]), all_formatted, all
 
     def parse_txt_dump(self, dump):
         parsed = []
@@ -46,7 +47,7 @@ class Po:
         return parsed
 
     def write_txt(self):
-        orig_trans, trans, all = self.format_entries()
+        orig_trans, trans, all, data = self.format_entries()
 
         bitext = self.infile.parent / (self.infile.stem + '.txt')
         bitext.write_text(orig_trans)
@@ -56,6 +57,9 @@ class Po:
 
         total = self.infile.parent / (self.infile.stem + '_total.txt')
         total.write_text(all)
+
+        total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
+        create_docx(data, total_docx)
 
     @staticmethod
     def _format_fr(text):

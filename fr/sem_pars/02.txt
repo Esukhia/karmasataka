@@ -38,7 +38,7 @@ Alors, le garçon apprit à manger au chiot.
 	དེ་ནས་ཁྱེའུ་དེས་ཁྱི་གུ་དེ་ཟ་བ་བསླབས་སོ། །
 Ensuite, lorsque le chiot eut grandi (lit. développé [jusqu’à devenir] grand), il allait sur la grande route et 
 	དེ་ནས་གང་གི་ཚེ་ཁྱི་གུ་དེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ། ལམ་པོ་ཆེར་སོང་ནས་
-la majorité des passants (lit. personnes) le nourrissaient aussi.
+d’innombrables (lit. une diversité de) passants (lit. personnes) le nourrissaient aussi.
 	སྐྱེ་བོ་ཕལ་པོ་ཆེ་ལ་ཡང་ཟ་བར་བྱེད་དོ། །
 
 
@@ -628,7 +628,7 @@ qu’il contente le Bienheureux et
 	འདིས་བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ།
 [qu’il] ne fasse rien qui le mécontente, puis
 	མི་མཉེས་པར་མ་བགྱིས་ལ།
-[qu’]il renonce [au monde] selon l’enseignement du Bienheureux, puis
+[qu’]il se retire [du monde] selon l’enseignement du Bienheureux, puis
 	བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
 [qu’]il élimine toutes les émotions perturbatrices et
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
@@ -684,11 +684,11 @@ quand il eut grandi, il conçut de la dévotion pour l’enseignement du complet
 	དེ་གང་གི་ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ། དེས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་<«གཡུང་»སྟན།>པ་ལ་དད་པ་རྙེད་ནས།
 il demanda [la permission] à ses parents et 
 	ཕ་མ་ལ་གསོལ་ཏེ་
-renonça au monde.
+se retira du monde.
 	རབ་ཏུ་བྱུང་ངོ་། །
 
 
-Après avoir renoncé au monde,
+Après s’être retiré du monde,
 	རབ་ཏུ་བྱུང་ནས་
 il étudia les trois corbeilles et
 	སྡེ་སྣོད་གསུམ་བསླབས་ཏེ།
@@ -828,7 +828,7 @@ Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le jeu
 	ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །
 Puissé-je ne rien faire qui le mécontente.
 	མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག །
-Ayant renoncé au monde d’après son (lit. à lui-même) enseignement et
+S’étant retiré du monde d’après son (lit. à lui-même) enseignement et
 	དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
 après avoir éliminé toutes les émotions perturbatrices,
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
@@ -878,7 +878,7 @@ Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le jeu
 	ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་[11b]བྲམ་ཟེའི་ཁྱེའུ་<«གཡུང་»ཁྱོའུ།>བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །
 Puissé-je ne rien faire qui le mécontente.
 	མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག །<«ཅོ་»+མི་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག>
-Ayant renoncé au monde d’après son (lit. à lui-même) enseignement et
+S’étant retiré du monde d’après son (lit. à lui-même) enseignement et
 	དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
 après avoir éliminé toutes les émotions perturbatrices,
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་<«ལི་»«ཅོ་»སྤོངས།>ཏེ།
@@ -896,7 +896,7 @@ il m’a contenté et
 	འདིས་ང་མཉེས་པར་བྱས་ཏེ།
 n’a rien fait qui me mécontente, puis
 	མི་མཉེས་པར་མ་བྱས་ལ།
-il a renoncé au monde selon mon (lit. à moi-même) enseignement et
+il s’est retiré du monde selon mon (lit. à moi-même) enseignement et
 	ང་<«པེ་»དེ།>ཉིད་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
 il a éliminé toutes les émotions perturbatrices et
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
