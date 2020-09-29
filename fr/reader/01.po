@@ -322,10 +322,10 @@ msgid ""
 "en retard. Pour leurs enfants qu’ils doivent dompter, les bouddhas ne "
 "prennent [jamais] de retard."
 msgstr ""
-"Dans l'océan, où vivent les makaras, \n"
-"Les marées régulières tardent parfois.\n"
-"Pour leurs enfants à discipliner, \n"
-"Jamais ne tardent les éveillés."
+"/Dans l'océan, où vivent les makaras,/\n"
+"/Les marées régulières tardent parfois./\n"
+"/Pour leurs enfants à discipliner,/\n"
+"/Jamais ne tardent les éveillés./"
 
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཇི་ལྟར་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
 # ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་པ་དེ་བཞིན་དུ།
