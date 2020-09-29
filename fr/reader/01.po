@@ -363,7 +363,7 @@ msgid ""
 "le matin, il revêtit le nivāsana et le cīvara, puis il prit son bol à aumône"
 " et partit à Śrāvastī pour [y recevoir] l’aumône."
 msgstr ""
-"Le matin tôt, il revêtit les habits monastiques, puis le bol à aumône à la "
+"Le matin tôt, il revêtit les habits monastiques, puis, le bol à aumône à la "
 "main, il partit à Śrāvastī quêter des offrandes."
 
 # དེ་མཐར་གྱིས་བསོད་སྙོམས་རྒྱུ་བ་ལས་ ཁྱིམ་བདག་དེའི་ཁྱིམ་ག་ལ་བ་དེར་སོང་བ་དང་།
