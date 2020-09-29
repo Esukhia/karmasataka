@@ -34,13 +34,13 @@ Le jeune enfant grandit grâce au lait, au yaourt, au beurre, au beurre clarifi�
 	ཁྱེའུ་ལ་བྱིན་ནོ། །
 	le donna au garçon.
 
-Quand il arriva à l’âge adulte, le chien allait sur la grande route et obtenait à manger de la plupart des passants.
+Quand il arriva à l’âge adulte, le chien allait sur la grande route et obtenait à manger d’un grand nombre de passants.
 	དེ་ནས་ཁྱེའུ་དེས་ཁྱི་གུ་དེ་ཟ་བ་བསླབས་སོ། །
 	Alors, le garçon apprit à manger au chiot.
 	དེ་ནས་གང་གི་ཚེ་ཁྱི་གུ་དེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ། ལམ་པོ་ཆེར་སོང་ནས་
 	Ensuite, lorsque le chiot eut grandi (lit. développé [jusqu’à devenir] grand), il allait sur la grande route et 
 	སྐྱེ་བོ་ཕལ་པོ་ཆེ་ལ་ཡང་ཟ་བར་བྱེད་དོ། །
-	la majorité des passants (lit. personnes) le nourrissaient aussi.
+	d’innombrables (lit. une diversité de) passants (lit. personnes) le nourrissaient aussi.
 
 Les bienheureux bouddhas montrent l’unique voie à parcourir. Ils maîtrisent les deux domaines de la connaissance et la sagesse. Ils appliquent souverainement les trois attentions rapprochées qui sont leur apanage. Les quatre intrépidités les rendent inébranlables. Ils sont entièrement affranchis des cinq naissances. Ils connaissent parfaitement les six facultés sensorielles. Ils vivent les sept branches de l’éveil. Ils fixent leur esprit sur les huit libérations parfaites. Ils s’absorbent dans les neuf absorptions successives et possèdent la puissance des dix forces. Eux qui poussent le rugissement éclatant et parfait du lion, ils tournent naturellement leurs yeux d’éveillés vers le monde pendant les six périodes de la journée — les trois du jour et les trois de la nuit.
 	སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་<«གཡུང»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པའི།>ལམ་སྟོན་པ།
@@ -643,7 +643,7 @@ Quelque temps plus tard, des moines lui demandèrent : « Petits-Yeux, pourquo
 	མི་མཉེས་པར་མ་བགྱིས་ལ།
 	[qu’il] ne fasse rien qui le mécontente, puis
 	བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
-	[qu’]il renonce [au monde] selon l’enseignement du Bienheureux, puis
+	[qu’]il se retire [du monde] selon l’enseignement du Bienheureux, puis
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
 	[qu’]il élimine toutes les émotions perturbatrices et
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས།
@@ -702,11 +702,11 @@ Environ neuf mois plus tard, elle donna le jour à un fils bien proportionné, d
 	ཕ་མ་ལ་གསོལ་ཏེ་
 	il demanda [la permission] à ses parents et 
 	རབ་ཏུ་བྱུང་ངོ་། །
-	renonça au monde.
+	se retira du monde.
 
 Moine, il étudia le Tripiṭaka et devint un enseignant doté des connaissances et de l’éloquence qui libère autrui. Des habits, de la nourriture, des couvertures, des coussins, des médicaments et des fournitures médicales lui étaient offerts. “Voilà qui est bien, pensa-t-il. Je peux désormais aider ceux qui vivent une vie chaste avec tout ce que je reçois comme dons et comme marques de respect.” Ainsi, il servit les deux saṅghas conformément au Dharma.
 	རབ་ཏུ་བྱུང་ནས་
-	Après avoir renoncé au monde,
+	Après s’être retiré du monde,
 	སྡེ་སྣོད་གསུམ་བསླབས་ཏེ།
 	il étudia les trois corbeilles et
 	དེ་རིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»རིགས།>པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བ། གོས་དང་ཟས་དང་མལ་ཆ་དང་སྟན་<«གཡུང་»«པེ་»བསྟན།>དང་ནད་གསོས་དང་སྨན་ཟོང་རྣམས་རྙེད་པར་གྱུར་ནས།
@@ -849,7 +849,7 @@ Au moment de mourir, il formula le souhait suivant : “Quelle merveille ! Je
 	མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག །
 	Puissé-je ne rien faire qui le mécontente.
 	དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
-	Ayant renoncé au monde d’après son (lit. à lui-même) enseignement et
+	S’étant retiré du monde d’après son (lit. à lui-même) enseignement et
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
 	après avoir éliminé toutes les émotions perturbatrices,
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །
@@ -899,7 +899,7 @@ Le souhait qu’il formula au moment de mourir, de toujours naître dans une fam
 	མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག །<«ཅོ་»+མི་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག>
 	Puissé-je ne rien faire qui le mécontente.
 	དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
-	Ayant renoncé au monde d’après son (lit. à lui-même) enseignement et
+	S’étant retiré du monde d’après son (lit. à lui-même) enseignement et
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་<«ལི་»«ཅོ་»སྤོངས།>ཏེ།
 	après avoir éliminé toutes les émotions perturbatrices,
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་
@@ -917,7 +917,7 @@ Moines, je suis devenu en tout point l’égal du complet et parfait Bouddha Kā
 	མི་མཉེས་པར་མ་བྱས་ལ།
 	n’a rien fait qui me mécontente, puis
 	ང་<«པེ་»དེ།>ཉིད་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
-	il a renoncé au monde selon mon (lit. à moi-même) enseignement et
+	il s’est retiré du monde selon mon (lit. à moi-même) enseignement et
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
 	il a éliminé toutes les émotions perturbatrices et
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ།། །།
