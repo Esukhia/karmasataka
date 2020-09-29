@@ -1,6 +1,7 @@
 from pathlib import Path
 import re
 import polib
+from text_formatting import format_fr
 
 
 class Po:
@@ -39,43 +40,9 @@ class Po:
                 source.append(s)
                 comment.append(c)
             source = ' '.join(source)
-            source = self._format_fr(source)
+            source = format_fr(source)
             comment = ' '.join(comment)
             self._create_entry(msgid=source, msgctxt=f'line {num + 1}, {origin}', tcomment=comment)
-
-    @staticmethod
-    def _format_fr(text):
-        # see http://unicode.org/udhr/n/notes_fra.html
-        text = re.sub(r'([ \f\v\u202f\u00a0])+', r'\1', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+,', r',', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+\.', r'.', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?;', '\u202f;', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?!', '\u202f!', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?\?', '\u202f?', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?:', '\u00a0:', text)
-        text = re.sub(r'\n-[ \f\v\u202f\u00a0]+', '\n—\u0020', text)
-        text = re.sub(r'«[ \f\v\u202f\u00a0]+?', '«\u00a0', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?»', '\u00a0»', text)
-        text = re.sub(r'\([ \f\v\u202f\u00a0]+', r'(', text)
-        text = re.sub(r'\[[ \f\v\u202f\u00a0]+', r']', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+\)', r')', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+]', r']', text)
-        # additions
-        text = text.replace('...', '…')
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]+(.+?)[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]',
-            r' – \1 – ', text)
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]+',
-            r' – ', text)
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+"(.+?)"([ \f\v\u202f\u00a0]?)',
-            r' “\1”\2', text)
-        text = re.sub(
-            r"[ \f\v\u202f\u00a0]+'(.+?)'([ \f\v\u202f\u00a0]?)",
-            r' ‘\1’\2', text)
-        text = text.replace("'", '’')
-        return text
 
     def txt_to_po(self, filename):
         lines = filename.read_text(encoding='utf-8')

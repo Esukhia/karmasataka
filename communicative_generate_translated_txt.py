@@ -1,7 +1,9 @@
 from pathlib import Path
 import re
 import polib
-from to_docx import create_total_docx
+from antx import transfer
+from to_docx import create_total_docx, create_trans_docx
+from text_formatting import format_fr
 
 
 class Po:
@@ -32,7 +34,10 @@ class Po:
             pairs = '\n'.join(['\n'.join(['\t' + a, '\t' + b]) for a, b in pairs])
             all_formatted += com + '\n' + pairs + '\n\n'
 
-        return '\n'.join(['\n'.join(e) for e in entries]), '\n\n'.join([e[0] for e in entries]), all_formatted, all
+        return '\n'.join(['\n'.join(e) for e in entries]), \
+               '\n\n'.join([e[0] for e in entries]), \
+               all_formatted, \
+               all
 
     def parse_txt_dump(self, dump):
         parsed = []
@@ -52,8 +57,12 @@ class Po:
         bitext = self.infile.parent / (self.infile.stem + '.txt')
         bitext.write_text(orig_trans)
 
-        translation = self.infile.parent / (self.infile.stem + '_translation.txt')
-        translation.write_text(trans)
+        trans_txt = self.infile.parent / (self.infile.stem + '_translation.txt')
+        trans = self._update_translation_pars(trans, trans_txt)
+        trans_txt.write_text(trans)
+
+        trans_docx = self.infile.parent / (self.infile.stem + '_translation.docx')
+        create_trans_docx(trans, trans_docx)
 
         total = self.infile.parent / (self.infile.stem + '_total.txt')
         total.write_text(all)
@@ -61,44 +70,29 @@ class Po:
         total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
         create_total_docx(data, total_docx)
 
+    def _update_translation_pars(self, orig_trans, existing):
+        if not existing.is_file():
+            return orig_trans
+        else:
+            # update file retaining the paragraph delimitations
+            old_trans = existing.read_text(encoding='utf-8')
+            if old_trans.replace('\n\n', '') != orig_trans.replace('\n\n', ''):
+                updated = self._update_pars(old_trans, orig_trans.replace('\n\n', ''))
+                return updated
+            else:
+                return orig_trans
+
     @staticmethod
-    def _format_fr(text):
-        # see http://unicode.org/udhr/n/notes_fra.html
-        text = re.sub(r'([ \f\v\u202f\u00a0])+', r'\1', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+,', r',', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+\.', r'.', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?;', '\u202f;', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?!', '\u202f!', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?\?', '\u202f?', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?:', '\u00a0:', text)
-        text = re.sub(r'\n-[ \f\v\u202f\u00a0]+', '\n—\u0020', text)
-        text = re.sub(r'«[ \f\v\u202f\u00a0]+?', '«\u00a0', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?»', '\u00a0»', text)
-        text = re.sub(r'\([ \f\v\u202f\u00a0]+', r'(', text)
-        text = re.sub(r'\[[ \f\v\u202f\u00a0]+', r']', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+\)', r')', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+]', r']', text)
-        # additions
-        text = text.replace('...', '…')
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]+(.+?)[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]',
-            r' – \1 – ', text)
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]+',
-            r' – ', text)
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+"(.+?)"([ \f\v\u202f\u00a0]?)',
-            r' “\1”\2', text)
-        text = re.sub(
-            r"[ \f\v\u202f\u00a0]+'(.+?)'([ \f\v\u202f\u00a0]?)",
-            r' ‘\1’\2', text)
-        text = text.replace("'", '’')
-        return text
+    def _update_pars(source, target):
+        pattern = [["pars", "(\n\n)"]]
+        updated = transfer(source, pattern, target, "txt")
+        updated = re.sub(r'([.?!…»]+)([^ \f\v\u202f\u00a0\n”’])', r'\1 \2', updated)  # reinserting spaces where needed
+        return updated
 
     def _format_fields(self):
         for entry in self.file:
-            entry.msgid = self._format_fr(entry.msgid)
-            entry.msgstr = self._format_fr(entry.msgstr)
+            entry.msgid = format_fr(entry.msgid)
+            entry.msgstr = format_fr(entry.msgstr)
 
 
 if __name__ == '__main__':

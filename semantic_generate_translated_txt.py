@@ -1,7 +1,7 @@
 from pathlib import Path
 import polib
-import re
 from antx import transfer
+from text_formatting import format_fr
 
 
 class Po:
@@ -49,43 +49,9 @@ class Po:
         updated = updated.replace('\n\n\n\n', '\n\n\n')  # hack for a strange behaviour
         return updated
 
-    @staticmethod
-    def _format_fr(text):
-        # see http://unicode.org/udhr/n/notes_fra.html
-        text = re.sub(r'([ \f\v\u202f\u00a0])+', r'\1', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+,', r',', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+\.', r'.', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?;', '\u202f;', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?!', '\u202f!', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?\?', '\u202f?', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?:', '\u00a0:', text)
-        text = re.sub(r'\n-[ \f\v\u202f\u00a0]+', '\n—\u0020', text)
-        text = re.sub(r'«[ \f\v\u202f\u00a0]+?', '«\u00a0', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+?»', '\u00a0»', text)
-        text = re.sub(r'\([ \f\v\u202f\u00a0]+', r'(', text)
-        text = re.sub(r'\[[ \f\v\u202f\u00a0]+', r']', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+\)', r')', text)
-        text = re.sub(r'[ \f\v\u202f\u00a0]+]', r']', text)
-        # additions
-        text = text.replace('...', '…')
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]+(.+?)[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]',
-            r' – \1 – ', text)
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]+',
-            r' – ', text)
-        text = re.sub(
-            r'[ \f\v\u202f\u00a0]+"(.+?)"([ \f\v\u202f\u00a0]?)',
-            r' “\1”\2', text)
-        text = re.sub(
-            r"[ \f\v\u202f\u00a0]+'(.+?)'([ \f\v\u202f\u00a0]?)",
-            r' ‘\1’\2', text)
-        text = text.replace("'", '’')
-        return text
-
     def _format_fields(self):
         for entry in self.file:
-            entry.msgstr = self._format_fr(entry.msgstr)
+            entry.msgstr = format_fr(entry.msgstr)
 
 
 if __name__ == '__main__':
