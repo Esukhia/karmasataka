@@ -439,10 +439,8 @@ msgid ""
 ": « Vénérable Śāriputra, Veuillez vous asseoir sur le siège disposé [pour "
 "vous]. » Alors, l’honorable Śāriputra s’assit sur le siège disposé pour lui."
 msgstr ""
-"L'honorable acquiesça par son silence. Voyant sa demande acceptée, le père "
-"de famille disposa un siège à l’intention de son hôte. « Vénérable "
-"Śāriputra, veuillez prendre place sur ces coussins. » L'honorable moine s’y "
-"assit."
+"L'honorable acquiesça par son silence. Voyant sa demande acceptée, le père de famille disposa un siège à l’intention de son hôte.\n"
+"« Vénérable Śāriputra, veuillez prendre place sur ces coussins. » L'honorable moine s’y assit."
 
 # དེ་ནས་ཁྱིམ་བདག་<«གཡུང་»བདུག>དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་བདེ་བར་འདུག་པར་རིག་ནས།
 # རང་གི་ལག་ནས་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོས་ཚིམ་པར་བྱས་ཏེ།
