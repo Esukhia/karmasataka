@@ -49,10 +49,10 @@ msgid ""
 "entièrement complet). Écoutez !"
 msgstr ""
 "Hommage à l'Omniscient !\n"
-"l'Insurpassable dans ce monde présenta la réalité par des explications multiples et variées\n"
-"Dans l'unique intention d'aider les êtres perdus et tourmentés dans les ténèbres des vues erronées.\n"
-"le Sugata énonça et ils écoutèrent ces paroles à la mélodie sublime et au sens certain.\n"
-"Je vous en restituerai la totalité dans ce recueil des « Cent Karmas ». Écoutez bien !"
+"/l'Insurpassable dans ce monde présenta la réalité par des explications multiples et variées/\n"
+"/Dans l'unique intention d'aider les êtres perdus et tourmentés dans les ténèbres des vues erronées./\n"
+"/Le Sugata énonça et ils écoutèrent ces paroles à la mélodie sublime et au sens certain./\n"
+"/Je vous en restituerai la totalité dans ce recueil des « Cent Karmas ». Écoutez bien !/"
 
 # སྤྱི་སྡོམ་ནི། ཁྱི་མོ་དང་ནི་ཤིང་རྟ་དང་།
 # །ཀ་ཙང་<«གཡུང་»«པེ་»ཅང་།>ཀ་ལ་བྱམས་མི་སྡུག །
