@@ -968,10 +968,10 @@ msgid ""
 " et [dit :] « Le moine dont les yeux sont comme ça, il va m’entendre (lit. "
 "regardez [ce que je vais lui faire]) » dit-il."
 msgstr ""
-"Ce dernier demanda : \"De qui est-ce le tour de servir la boisson du soir "
-"?\" Les moines répondirent : \"C’est le tour du moine 'untel'.\" Il se mit "
-"en colère et plissa les yeux en criant : \"Hé ! Toi qui a les yeux comme ça,"
-" tu auras affaire à moi !\""
+"Quand il demanda de qui était-ce le tour de la servir, on lui répondit que "
+"c'était le tour de ce moine-là. Il se mit aussitôt en colère et plissa les "
+"yeux en criant : \"Hé ! Toi qui a les yeux comme ça, tu auras affaire à moi "
+"!\""
 
 # དེ་སྐད་སྨྲས་ནས། དགྲ་བཅོམ་པ་དེ་ག་ལ་བ་དེར་དོང་སྟེ་ཕྱིན་ནས་ སྨྲས་པ། བཙུན་པ་
 # བདག་ནི་ཁྱེད་ཀྱི་ཕྱིར་སྦྱིན་བདག་དང་སྦྱིན་པ་པོ་རྣམས་དགའ་བར་བྱས་ནས།
