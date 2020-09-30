@@ -253,9 +253,9 @@ msgid ""
 "saisit) l’honorable Śāriputra. Il déchira aussi les habits monastiques de ce"
 " [dernier]."
 msgstr ""
-"Demandant l'aumône de porte en porte, il arriva devant la demeure du père de"
-" famille. Le chien l'aperçut, courut avec rage vers lui et le mordit. Il "
-"déchira aussi ses habits monastiques."
+"Demandant l'aumône de porte en porte, l'honorable moine arriva devant la "
+"demeure du père de famille. Le chien l'aperçut, courut avec rage vers lui et"
+" le mordit. Il déchira aussi ses habits monastiques."
 
 # ཁྱིམ་བདག་དེས་ཀྱང་མཐོང་ནས་ བཀག་སྟེ། དེའི་རྨ་དེ་ཡང་བཀྲུས་<«གཡུང་»བསྒྲུས།>ནས།
 # རས་ཀྱིས་དཀྲིས་ཏེ་ རྐང་པ་ལ་ཕྱག་འཚལ་ནས་ སྨྲས་པ། བཙུན་པ་ཤཱ་རིའི་བུ་
