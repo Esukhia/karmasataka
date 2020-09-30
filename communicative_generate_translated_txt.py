@@ -77,16 +77,21 @@ class Po:
             # update file retaining the paragraph delimitations
             old_trans = existing.read_text(encoding='utf-8')
             if old_trans.replace('\n\n', '') != orig_trans.replace('\n\n', ''):
-                updated = self._update_pars(old_trans, orig_trans.replace('\n\n', ''))
+                updated = self._update_pars(old_trans, orig_trans)
                 return updated
             else:
                 return orig_trans
 
     @staticmethod
     def _update_pars(source, target):
+        target = target.replace('\n\n', ' ')
         pattern = [["pars", "(\n\n)"]]
         updated = transfer(source, pattern, target, "txt")
-        updated = re.sub(r'([.?!…»]+)([^ \f\v\u202f\u00a0\n”’])', r'\1 \2', updated)  # reinserting spaces where needed
+        updated = re.sub(r'([!?”:;…,.»"]+?)([^ \f\v\u202f\u00a0\n!?”:;…,.»"])', r'\1 \2', updated)  # reinserting spaces where needed
+        updated = updated.replace('\n\n/  ', '/\n\n')
+        updated = updated.replace('\n ', '\n')
+        updated = updated.replace(' \n', '\n')
+
         return updated
 
     def _format_fields(self):
@@ -98,5 +103,8 @@ class Po:
 if __name__ == '__main__':
     folder = 'fr/reader'
     for file in Path(folder).glob('*.po'):
+        if file.stem != '01':
+            continue
+        print(file.name)
         po = Po(file)
         po.write_txt()
