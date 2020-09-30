@@ -990,9 +990,9 @@ msgid ""
 msgstr ""
 "Il alla droit chez cet arhat et lui dit : \"Vénérable, pour vous, je rends "
 "heureux les bienfaiteurs et les donateurs . Je vous procure tout le "
-"nécessaire à la vie quotidienne. Et vous, vous profitez de ce que je vous "
-"offre avec dévouement et vous passez votre temps à dormir comme un chien "
-"terré dans sa niche ?\""
+"nécessaire à la vie quotidienne. Et vous ? Vous profitez de ce que je vous "
+"offre avec dévouement pour passer votre temps à dormir comme un chien terré "
+"dans sa niche ?\""
 
 # དེ་ནས་དགྲ་བཅོམ་པ་དེས་བསམས་པ།
 # ཉོན་མོངས་པ་འདི་ནི་དམས་<«གཡུང་»«པེ་»སྨྲས།>ཤིང་ཉམས་པར་གྱུར་ཏེ།
