@@ -1113,8 +1113,8 @@ msgid ""
 msgstr ""
 "Imiter les yeux de l'arhat sous l'emprise de la colère, les plisser en "
 "disant : \"Hé ! Toi qui as les yeux comme ceci, tu auras affaire à moi !\" "
-"lui valut d'avoir les deux yeux plissés quand bien même il était né parmi "
-"les hommes."
+"lui valut d'avoir les deux yeux plissés, même s'il bénéficie aujourd'hui "
+"d'une naissance parmi les hommes."
 
 # དེས་དེར་སྨོན་ལམ་བཏབ་སྟེ། ཀྱེ་མ་
 # དགེ་བའི་རྩ་བ་འདིས་ན་<«གཡུང་»«པེ་»ནི།>བདག་ཅི་ནས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་ཤོག་ཤིག
