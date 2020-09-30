@@ -405,7 +405,7 @@ msgid ""
 " [de la maison], le chien l’accompagnait un peu et tournait trois fois "
 "[autour de lui] et rentrait [dans sa maison]."
 msgstr ""
-"Après l'enseignement, il le raccompagnait même sur une partie du trajet, "
+"Après l'enseignement, il le raccompagnait même sur une partie du trajet et "
 "tournait trois fois autour de lui avant de rentrer."
 
 # དེ་ནས་ཕྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། ཡང་ཁྱིམ་དེར་ཟན་ཟོས་ཏེ་
