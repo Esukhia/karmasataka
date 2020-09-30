@@ -509,9 +509,9 @@ msgid ""
 msgstr ""
 "Environ neuf mois plus tard, l'épouse du père de famille donna le jour à un "
 "fils bien proportionné, dont la beauté réjouissait la vue, mais qui avait de"
-" petits yeux. Lors des célébrations de sa naissance, il reçut le nom de "
-"Petits-Yeux parce que ses yeux étaient petits, en accord avec les usages de "
-"sa caste."
+" petits yeux. Lors des célébrations de sa naissance, il reçut le nom de « "
+"Petits-Yeux » parce que ses yeux étaient petits, en accord avec les usages "
+"de sa caste."
 
 # དེ་ནས་ཁྱེའུ་མིག་ཆུང་འོ་མ་དང་།
 # ཞོ་དང་མར་དང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–མར་དང་།
