@@ -604,9 +604,9 @@ msgid ""
 " du monde et lui donna l’ordination complète et lui [accorda] la "
 "transmission orale."
 msgstr ""
-"Il suivit l'honorable Aniruddha, qui le mena au monastère, l'incita à se "
-"retirer du monde, lui donna l'ordination complète et lui accorda la "
-"transmission orale des pratiques monastiques."
+"Il suivit l'honorable Aniruddha, qui le mena au monastère, lui permit de se "
+"retirer du monde en tant que novice, lui donna l'ordination complète et lui "
+"accorda la transmission orale des pratiques monastiques."
 
 # དེ་ནས་དེ་སྲོད་དང་ཐོ་རངས་མི་ཉལ་བར་བརྩོན་པ་ལྷུར་བྱེད་པ་ལ་གནས་ཀྱང་
 # ཁྱད་པར་ཅུང་ཟད་ཀྱང་མ་ཐོབ་ནས།
