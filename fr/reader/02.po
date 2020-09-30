@@ -570,12 +570,11 @@ msgid ""
 " maison de ce père de famille et arrivé, il s’assit sur le siège disposé "
 "[pour lui]."
 msgstr ""
-"L'honorable Śāriputra sut que le moment était venu d’inciter du monde "
-"Petits-Yeux à se retirer du monde. Le matin tôt, il revêtit les habits "
-"monastiques, puis le bol à aumône à la main, il partit à Śrāvastī quêter des"
-" offrandes. Demandant l’aumône de porte en porte, il se dirigea vers la "
-"demeure du père de famille, où il s'assit sur le siège qui lui était "
-"préparé."
+"L'honorable Śāriputra sut que le moment était venu d’inciter Petits-Yeux à "
+"se retirer du monde. Le matin tôt, il revêtit les habits monastiques, puis "
+"le bol à aumône à la main, il partit à Śrāvastī quêter des offrandes. "
+"Demandant l’aumône de porte en porte, il se dirigea vers la demeure de ce "
+"père de famille, où il s'assit sur le siège qui lui était préparé."
 
 # འདུག་ནས་ཀྱང་ ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་ལ་སྨྲས་པ། ཁྱིམ་བདག་
 # ཁྱེའུ་འདི་ནི་མ་བཙས་པའི་སྔ་རོལ་ནས་ཁྱོད་ཀྱིས་བདག་གི་གཡོག་ཏུ་བྱིན་ཏེ།
