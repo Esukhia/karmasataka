@@ -809,8 +809,8 @@ msgstr ""
 "Quelles actions a-t-il réalisées pour vous contenter, Bienheureux, et ne "
 "rien faire qui vous mécontente? Quelles actions lui ont valu de se retirer "
 "du monde selon votre enseignement, d'éliminer toutes les émotions "
-"perturbatrices et de manifester l’état d’arhat? Quelles actions lui ont valu"
-" de si petits yeux ? »"
+"perturbatrices et de manifester l’état d’arhat ? Quelles actions lui ont "
+"valu de si petits yeux ? »"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་
 # མིག་ཆུང་འདི་ཉིད་ཀྱིས་སྔོན་ལས་བྱས་ཤིང་བསགས་<«ཁུ་»གསགས།>ཏེ། དགེ་སློང་དག་
