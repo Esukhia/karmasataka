@@ -949,10 +949,11 @@ msgid ""
 "Ensuite, il y eu besoin de la boisson du soir pour les bienfaiteurs du moine"
 " qui servait [la saṅgha] et"
 msgstr ""
-"Quelque temps plus tard, ce fut le tour d'un moine qui était arhat de servir"
-" la boisson du soir. Fourbu de l'avoir servie à tous les moines, il retourna"
-" à sa hutte et s'assit les jambes croisées. Il fallut servir les "
-"bienfaiteurs du moine qui servait la saṅgha."
+"Quelque temps plus tard, ce fut le tour d'un moine qui était un arhat de "
+"servir la boisson du soir. Fourbu de l'avoir servie à tous la communauté, il"
+" retourna à sa hutte et s'assit les jambes croisées. Un peu plus tard, le "
+"moine qui servait la saṅgha voulut servir de cette boisson à ses "
+"bienfaiteurs."
 
 # དེས་དགེ་སློང་གཞན་དག་ལ་སྨྲས་པ།
 # དེང་གུང་སྐྱེམས་ཀྱི་ཞལ་<«གཡུང་»ལྟ།>ཏ་བྱེད་པའི་རེས་སུ་<«གཡུང་»«པེ་»–སུ།>ལ་བབ།
