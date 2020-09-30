@@ -1176,8 +1176,8 @@ msgid ""
 "au regard naquit, et"
 msgstr ""
 "À cette époque, un père de famille vivait dans la ville de Vārāṇasī. Un "
-"jour, son épouse tomba enceinte. Environ neuf mois plus tard, elle donna le "
-"jour à un fils bien proportionné, dont la beauté réjouissait la vue."
+"jour, son épouse tomba enceinte. Environ neuf mois plus tard, elle donna "
+"naissance à un fils bien proportionné, dont la beauté réjouissait la vue."
 
 # གང་གི་ཚེ་དེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ།
 # དེས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་དད་པ་རྙེད་ནས་
