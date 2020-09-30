@@ -733,8 +733,9 @@ msgid ""
 " orale."
 msgstr ""
 "L'honorable Śāriputra présenta ses aspirations à ses parents, puis la remit "
-"à Mahā­prajāpatī qui lui permit de se retirer du monde, lui accorda les vœux"
-" complets et la transmission orale des pratiques monastiques."
+"à Mahā­prajāpatī qui lui permit de se retirer du monde en tant que novice, "
+"lui accorda les vœux complets et la transmission orale des pratiques "
+"monastiques."
 
 # དེས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
 # དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
