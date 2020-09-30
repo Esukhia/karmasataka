@@ -285,7 +285,8 @@ msgid ""
 "Śāriputra, Veuillez vous asseoir sur le siège disposé [pour vous]. » Alors, "
 "l’honorable Śāriputra s’assit sur le siège disposé pour lui."
 msgstr ""
-"Le père de famille disposa un siège et invita son hôte à y prendre place."
+"Alors, le père de famille disposa un siège et invita l'honorable à y prendre"
+" place."
 
 # དེ་ནས་ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་བདེ་བར་འདུག་པར་རིག་ནས།
 # རང་གི་ལག་ནས་བཟའ་བ་<«གཡུང་»–བ།>དང་བཅའ་བ་གཙང་<«གཡུང་»ཙང་།>མ་བཟང་པོ་མང་པོས་ཚིམ་པར་བྱས་ཏེ།
