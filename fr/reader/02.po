@@ -1096,8 +1096,8 @@ msgstr ""
 "Voyez-vous, moines, à cette époque, celui qui servait la saṅgha est le "
 "novice Petits-Yeux. Il devint cinq cent vies de suite un chien du fait des "
 "paroles blessantes qu'il proféra contre cet arhat. Si le moine Śāriputra ne "
-"s'était pas occupé de lui, il serait encore rené parmi les chiens cinq cent "
-"vies d’affilée."
+"s'était pas occupé de lui, il serait encore devenu un chien cinq cent vies "
+"d’affilée."
 
 # ཁྲོས་ནས་ དེས་དགྲ་བཅོམ་པ་དེ་ཉིད་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>མིག་ལྟར་བཅོས་ཏེ།
 # མིག་བཙུམས་ནས་ མིག་འདི་འདྲ་བ་དེ་ཡིན་པ་ལྟ་ཞེས་
