@@ -612,7 +612,7 @@ msgid ""
 "l’honorable Śāriputra mena le garçon au monastère et il lui fit se retirer "
 "du monde et lui [accorda] la transmission orale."
 msgstr ""
-"Il suivit l'honorable Śāriputra, qui le mena au monastère, l'incita à se "
+"Il suivit l'honorable Śāriputra, qui le mena au monastère, lui permit de se "
 "retirer du monde en tant que novice et lui accorda la transmission orale des"
 " pratiques monastiques."
 
