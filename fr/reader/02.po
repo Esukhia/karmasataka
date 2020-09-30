@@ -44,10 +44,10 @@ msgstr ""
 "richesses. D'innombrables biens lui appartenaient. Une armée de domestiques "
 "s'activaient dans ses larges propriétés. On eut dit qu'il possédait les "
 "richesses du dieu Vaiśravaṇa ou encore qu'il rivalisait de fortune avec lui."
-" Il épousa une jeune fille quand il fut en âge de se marier. Son épouse et "
-"lui apprirent à se connaître par les jeux de la séduction, ils commencèrent "
-"à s'aimer l'un l'autre et laissèrent libre cours à leurs désirs. Plus tard, "
-"elle tomba enceinte et"
+" Il épousa une jeune femme quand il fut en âge de se marier. Son épouse et "
+"lui apprirent à se connaître par les jeux de la séduction. Ils commencèrent "
+"à s'aimer et laissèrent libre cours à leurs désirs. Plus tard, elle tomba "
+"enceinte et"
 
 # དེ་ཟླ་བ་དགུའམ། བཅུ་ལོན་པ་དང་ ཁྱེའུ་གཟུགས་བཟང་ཞིང་།
 # བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་ནས།
