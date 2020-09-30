@@ -358,8 +358,8 @@ msgid ""
 " dois aussi aider d’autres pères de famille, donc laisse-moi partir (lit. "
 "lâche-moi). » dit-il. Puis, il se leva de son siège et s’en alla."
 msgstr ""
-"« Vénérable Śāriputra, dit le père de famille, tant que je serai en vie, veuillez accepter de ma part les vêtements, la nourriture, les couvertures, les sièges, les médicaments et les fournitures médicales. »\n"
-"« Laisse-moi partir. Je dois aussi aider d'autres pères de famille. » dit l'honorable Śāriputra, qui se leva de son siège et s'en alla."
+"« Vénérable Śāriputra, dit le père de famille, tant que je serai en vie, veuillez accepter de ma part les vêtements, la nourriture, les couvertures, les sièges, les médicaments et les fournitures médicales dont vous aurez besoin. »\n"
+"« Laisse-moi partir. Je dois aussi aider d'autres pères de famille. » répondit l'honorable Śāriputra, qui se leva de son siège et s'en alla."
 
 # དེར་གང་གི་ཚེ་ཁྱིམ་བདག་དེས་བདེན་པ་རྣམས་མཐོང་ནས་
 # སྐྱབས་སུ་འགྲོ་བ་དང་བསླབ་པའི་གཞི་རྣམས་བླངས་པ་དེའི་ཚེ་དེས་སྦྱིན་པ་དག་<«ལི་»«པེ་»«སྣར་»«ཞོལ་»བདག>སྦྱིན་པ་དང་བསོད་ནམས་དག་བྱ་བར་བརྩམས་སོ།
