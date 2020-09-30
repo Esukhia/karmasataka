@@ -96,8 +96,8 @@ msgid ""
 "route et d’innombrables (lit. une diversité de) passants (lit. personnes) le"
 " nourrissaient aussi."
 msgstr ""
-"Le garçon aida le chiot à apprendre à manger. Quand il devint grand, le "
-"chien allait sur la grande route et obtenait à manger d'un grand nombre de "
+"Le garçon aida le chiot à apprendre à manger. Quand il eu grandi, le chien "
+"allait sur la grande route et obtenait à manger d'un grand nombre de "
 "passants."
 
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་<«གཡུང»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པའི།>ལམ་སྟོན་པ།
