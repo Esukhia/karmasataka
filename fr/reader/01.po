@@ -127,8 +127,7 @@ msgstr ""
 "et possédait de grandes richesses. D'innombrables biens lui appartenaient. "
 "Une armée de domestiques s'activaient dans ses larges propriétés. On eut dit"
 " qu'il possédait les richesses du dieu Vaiśravaṇa ou encore qu'il rivalisait"
-" de fortune avec lui. La compagnie des non-bouddhistes plaisait à ce père de"
-" famille."
+" de fortune avec lui. La compagnie des non-bouddhistes lui était agréable."
 
 # དེ་ནས་དེས་ཐབས་ཟླར་བབ་པ་ལས་ཆུང་<«ལི་»«པེ་»+ཆུང་།>མ་བླངས་ནས།
 # དེ་དེ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་དོ། །
