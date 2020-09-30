@@ -904,8 +904,8 @@ msgid ""
 msgstr ""
 "environ neuf mois plus tard, elle donna le jour à un fils bien proportionné,"
 " dont la beauté réjouissait la vue. Devenu un jeune homme, il ressentit de "
-"la dévotion pour l’enseignement du complet et parfait bouddha Kāśyapa, et il"
-" demanda la permission à ses parents de se retirer du monde."
+"la dévotion pour l’enseignement du complet et parfait bouddha Kāśyapa. Il se"
+" retira du monde avec la permission à ses parents."
 
 # རབ་ཏུ་བྱུང་ནས་ སྡེ་སྣོད་གསུམ་བསླབས་ཏེ།
 # དེ་རིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»རིགས།>པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བ།
