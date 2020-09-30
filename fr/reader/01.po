@@ -324,7 +324,7 @@ msgstr ""
 "/Dans l'océan, où vivent les makaras,/\n"
 "/Les marées régulières tardent parfois./\n"
 "/Pour leurs enfants à discipliner,/\n"
-"/Jamais ne tardent les éveillés./"
+"/Jamais ne tardent les éveillés./ "
 
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཇི་ལྟར་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
 # ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་པ་དེ་བཞིན་དུ།
