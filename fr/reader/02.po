@@ -84,8 +84,7 @@ msgstr ""
 "Le jeune enfant grandit grâce au lait, au yaourt, au beurre, au beurre "
 "clarifié et au beurre sur-clarifié dont il était nourri. Il s'épanouit aussi"
 " rapidement qu'un lotus dans un lac. Quand il sut marcher, son père rentra à"
-" la maison avec une petite chienne qu'il lui donna comme compagnon de jeu. "
-"Le garçon montra au chiot comment faire pour manger."
+" la maison avec une petite chienne qu'il lui donna comme compagnon de jeu."
 
 # དེ་ནས་ཁྱེའུ་དེས་ཁྱི་གུ་དེ་ཟ་བ་བསླབས་སོ། །
 # དེ་ནས་གང་གི་ཚེ་ཁྱི་གུ་དེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ། ལམ་པོ་ཆེར་སོང་ནས་
