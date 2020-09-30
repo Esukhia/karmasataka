@@ -488,9 +488,9 @@ msgid ""
 " promesses. » dit-il. Puis, l’honorable Śāriputra s’en alla."
 msgstr ""
 "« Être sublime, pour quelle raison venez-vous seul, sans compagnon ni serviteur ? demanda le père de famille. Ne se trouve-t-il personne pour vous servir ? »\n"
-"« En dehors des personnes que seuls vous et les vôtres pourriez mettre à mon service, où pourrais-je trouver quelqu'un pour me servir ? » répondit l'honorable moine.\n"
-"« Vénérable Śāriputra, mon épouse attend un enfant. Si un garçon venait à naître, je vous l'offrirai comme serviteur, être sublime. »\n"
-"« Les vertueux tiennent leurs promesses. » remarqua l'honorable Śāriputra, avant de s'en aller."
+"« En dehors des personnes que seuls vous et les vôtres pourriez mettre à mon service, où pourrais-je trouver quelqu'un qui me servirait ? » répondit l'honorable moine.\n"
+"« Vénérable Śāriputra, mon épouse attend un enfant. S'il s'avérait être un garçon, je vous l'offrirai comme serviteur, être sublime. »\n"
+"« Les vertueux tiennent leurs promesses. » remarqua l'honorable Śāriputra avant de s'en aller."
 
 # ཁྱིམ་བདག་དེའི་ཆུང་མ་ཡང་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་། ཁྱེའུ་གཟུགས་བཟང་ཞིང་།
 # བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་མོད་ཀྱི་
