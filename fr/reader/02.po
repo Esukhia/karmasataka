@@ -1074,8 +1074,8 @@ msgstr ""
 " brahmane Uttara, en accord avec la prophétie du complet et parfait bouddha "
 "Kāśyapa. Puissé-je ne rien faire qui le mécontente. Puissé-je me retirer du "
 "monde d'après son enseignement, éliminer toutes les émotions perturbatrices "
-"et manifester l'état d'arhat. Puissé-je ne pas devoir subir les résultats "
-"d'avoir dit ces paroles blessantes à ce moine qui vivait une vie chaste.\""
+"et manifester l'état d'arhat. Puissé-je ne pas devoir subir les conséquences"
+" d'avoir dit ces paroles blessantes à ce moine qui vivait une vie chaste.\""
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
 # དེའི་ཚེ་དེའི་དུས་ན་ཞལ་ཏ་བྱེད་པར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི།
