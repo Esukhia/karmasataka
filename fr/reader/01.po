@@ -674,8 +674,8 @@ msgid ""
 "l’honorable Śāriputra pour écouter le Dharma."
 msgstr ""
 "« Le sublime Śāriputra a grandement œuvré pour moi, pensa-t-elle. Grâce à "
-"lui, je suis maintenant débarrassée des renaissances animales. » Puis, toute"
-" heureuse, elle prit place devant l'honorable moine pour écouter le Dharma."
+"lui, je suis maintenant débarrassée des naissances animales. » Puis, toute "
+"heureuse, elle prit place devant l'honorable moine pour écouter le Dharma."
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་དེའི་བསམ་པ་དང་བག་ལ་ཉལ་དང་།
 # ཁམས་དང་རང་བཞིན་རྟོགས་ནས་ དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ། དེ་ཐོས་ནས་
