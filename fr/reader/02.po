@@ -831,12 +831,11 @@ msgid ""
 msgstr ""
 "« Moines, répondit le Bienheureux, Petits-Yeux a effectivement réalisé et "
 "accumulé des actions dans le passé. Sachez, moines, que toute action "
-"réalisée et accumulée ne mûrit pas en dehors de soi sur l’élément de la "
-"terre. Elle ne mûrit pas non plus sur l’élément de l’eau, ni sur l’élément "
-"du feu, ni sur l’élément du vent. Ainsi, les actions vertueuses et non-"
-"vertueuses qui sont réalisées et accumulées mûrissent uniquement sur les "
-"agrégats, les dimensions et les sources des sens que chaque être utilise "
-"pour appréhender son environnement."
+"réalisée et accumulée ne mûrit pas en dehors de soi sur l’élément Terre. "
+"Elle ne mûrit pas non plus sur l’élément Eau, ni sur l’élément Feu, ni sur "
+"l’élément Vent. Ainsi, les actions vertueuses et non-vertueuses qui sont "
+"réalisées et accumulées mûrissent uniquement sur ce qui constitue l'individu"
+" : ses agrégats, ses dimensions et ses sources des sens."
 
 # ལུས་ཅན་དག་གི་ལས་<«པེ་»ལམ།>རྣམས་ནི། །བསྐལ་པ་བརྒྱར་ཡང་ཆུད་མི་ཟ། །
 # ཚོགས་ཤིང་དུས་ལ་བབ་པ་ན། ། འབྲས་བུ་ཉིད་དུ་སྨིན་པར་འགྱུར། །
