@@ -499,9 +499,9 @@ msgid ""
 "l’encouragea grandement, le réjouit entièrement. Puis, il se leva de son "
 "siège et s’en alla."
 msgstr ""
-"Ensuite, l'honorable Śāriputra donna un enseignement qui instruisit le père "
-"de famille, lui fit assimiler le Dharma, lui insuffla un grand courage et le"
-" réjouit grandement. Puis, il se leva de son siège et s'en alla."
+"Ensuite, l'honorable Śāriputra donna un enseignement pour instruire le père "
+"de famille, lui faire assimiler le Dharma, lui insuffler un grand courage et"
+" le combler de joie. Puis, il se leva de son siège et s'en alla."
 
 # ཁྱིམ་བདག་དེ་ཡང་བདེན་པ་མཐོང་བར་གྱུར་ནས། སྦྱིན་པ་དག་སྦྱིན་ཞིང་
 # བསོད་ནམས་དག་<«གཡུང་»–དག>བྱེད་དོ། །
