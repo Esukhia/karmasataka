@@ -876,13 +876,8 @@ msgid ""
 "l’insurpassable cocher des êtres à guider, l’enseignant des dieux et des "
 "hommes, le Bienheureux Bouddha Kāśyapa était apparu en ce monde et"
 msgstr ""
-"« Moines, raconta le Bienheureux, dans un passé lointain de cet éon fortuné,"
-" quand les hommes vivaient vingt mille ans, le tathāgata, l'arhat, le "
-"complet et parfait bouddha, celui doté de la sagesse pour voir et de la "
-"concentration pour avancer, le Sugata, le connaisseur des êtres des trois "
-"mondes, l'insurpassable cocher pour les êtres à guider, l'enseignant des "
-"dieux et des hommes, le complet et parfait bouddha Kāśyapa était apparu en "
-"ce monde."
+"\n"
+"« Moines, raconta le Bienheureux, dans un passé lointain de cet éon fortuné, quand les hommes vivaient vingt mille ans, le tathāgata, l'arhat, le complet et parfait bouddha, celui doté de la sagesse pour voir et de la concentration pour avancer, le Sugata, le connaisseur des êtres des trois mondes, l'insurpassable cocher pour les êtres à guider, l'enseignant des dieux et des hommes, le complet et parfait bouddha Kāśyapa était apparu en ce monde."
 
 # དེའི་ཚེ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་<«སྣར་»བ་ར་ཎཱ་སི། «ཞོལ་»ཝཱ་ར་ཎཱ་སི།
 # པོད་འདིའི་ནང་དུ་བཱ་རཱ་ཎ་སཱི་ཞེས་པ་རྣམས་༼སྣར་༽ལ་བ་ར་ཎཱ་སི་དང་༼ཞོལ་༽ལ་ཝཱ་ར་ཎཱ་སི།༼གཡུང་༽༼ལི་༽༼པེ་༽༼ཅོ་༽ལ་སྐབས་འགར་པཱ་རཱ་ཎ་སཱི་དང་བཱ་རཱ་ན་སི་སོགས་འཁོད་ཀྱང་གཤམ་དུ་བསྡུར་མཆན་དུ་བཀོད་མེད།>སཱི་ན་ཁྱིམ་བདག་ཅིག་གནས་པ་ལས་
