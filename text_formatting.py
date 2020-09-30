@@ -2,8 +2,6 @@ import re
 
 
 def format_fr(text):
-    if text.endswith('\n'):
-        print('ok')
     # see http://unicode.org/udhr/n/notes_fra.html
     text = re.sub(r'([ \f\v\u202f\u00a0])+', r'\1', text)
     text = re.sub(r'[ \f\v\u202f\u00a0]+,', r',', text)
@@ -20,6 +18,7 @@ def format_fr(text):
     text = re.sub(r'[ \f\v\u202f\u00a0]+\)', r')', text)
     text = re.sub(r'[ \f\v\u202f\u00a0]+]', r']', text)
     # additions
+    text = re.sub(r'([^ \f\v\u202f\u00a0])\?', r'\1 ?', text)
     text = text.replace('...', '…')
     text = re.sub(
         r'[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]+(.+?)[ \f\v\u202f\u00a0]+-[ \f\v\u202f\u00a0]',

@@ -88,7 +88,7 @@ class Po:
         pattern = [["pars", "(\n\n)"]]
         updated = transfer(source, pattern, target, "txt")
         updated = re.sub(r'([!?”:;…,.»"]+?)([^ \f\v\u202f\u00a0\n!?”:;…,.»"])', r'\1 \2', updated)  # reinserting spaces where needed
-        updated = updated.replace('\n\n/  ', '/\n\n')
+        updated = re.sub(r'\n\n/ +', '/\n\n', updated)
         updated = updated.replace('\n ', '\n')
         updated = updated.replace(' \n', '\n')
 
@@ -103,7 +103,7 @@ class Po:
 if __name__ == '__main__':
     folder = 'fr/reader'
     for file in Path(folder).glob('*.po'):
-        if file.stem != '01':
+        if file.stem != '02':
             continue
         print(file.name)
         po = Po(file)
