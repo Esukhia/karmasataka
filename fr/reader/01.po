@@ -879,9 +879,9 @@ msgstr ""
 "« Moines, raconta le Bienheureux, dans un passé lointain de cet éon fortuné,"
 " quand les hommes vivaient vingt mille ans, le Tathāgata, l'Arhat, le "
 "complet et parfait Bouddha, celui doté de la sagesse pour voir et de la "
-"concentration pour avancer, le Sugata, le connaisseur des êtres des trois "
-"mondes, l'insurpassable cocher pour les êtres à guider, l'enseignant des "
-"dieux et des hommes, le complet et parfait bouddha Kāśyapa était apparu en "
+"concentration pour avancer, le Sugata, le Connaisseur des êtres des trois "
+"mondes, l'insurpassable Cocher pour les êtres à guider, l'Enseignant des "
+"dieux et des hommes, le complet et parfait Bouddha Kāśyapa était apparu en "
 "ce monde."
 
 # དེའི་ཚེ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་<«སྣར་»བ་ར་ཎཱ་སི། «ཞོལ་»ཝཱ་ར་ཎཱ་སི།
