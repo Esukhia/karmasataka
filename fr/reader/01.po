@@ -847,7 +847,7 @@ msgstr ""
 " pour vous contenter, Bienheureux, et ne rien faire qui vous mécontente ? "
 "Quelles actions lui ont valu de se retirer du monde selon votre "
 "enseignement, d'éliminer toutes les émotions perturbatrices et de manifester"
-" l’état d’arhat ? »"
+" l’état d’arhat ? »\n"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ འདས་པའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་ལ་
 # ད་ལྟར་<«གཡུང་»«པེ་»ལྟ།>བྱུང་བའི་ལས་ཀྱི་ཤས་ཀྱང་ཡོད་དོ། ། བཙུན་པ་
