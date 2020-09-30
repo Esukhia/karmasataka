@@ -733,7 +733,7 @@ msgstr ""
 "« Il m'a complètement libéré de ces conditions contraires, pensa-t-il. Il "
 "m'a établi dans l'apaisement qui est l'accomplissement et la félicité "
 "absolument inébranlables. Combien je suis redevable à Précepteur ! Le servir"
-" est la seule manière de repayer sa bonté, se dit-il. Si je prends les vœux "
+" est la seule manière de repayer sa bonté. Or, si je prends les vœux "
 "complets, viendra le jour où il ne sera plus acceptable que je le serve. Ma "
 "décision est prise : je resterai novice tant que je serai en vie. »\n"
 
