@@ -78,8 +78,8 @@ msgstr ""
 " à Godānīya, le continent de l’Ouest, dans le monde des Trente-Troix Dieux, "
 "et aussi dans les contrées riches, prospères et heureuses, où les moissons "
 "sont bonnes, et où vivent de grandes populations et de nombreux troupeaux. "
-"J’y recevrais des aliments purs et nobles en quantité et je les mangerais. "
-"Il faut que j'obtienne ces pouvoirs surnaturels. »"
+"Je pourrais alors manger les aliments purs et nobles que je recevrais en "
+"quantité. Il faut que j'obtienne ces pouvoirs surnaturels. »"
 
 # དེས་ཡང་བསམས་པ། བདག་ལ་རྫུ་འཕྲུལ་གྱི་མན་ངག་སྟོན་ནུས་པ་སུ་ཞིག་ཡོད།
 # གལ་ཏེ་བདག་དགེ་སློང་མ་རྣམས་ཀྱི་ཐད་དུ་སོང་ན་ནི།
