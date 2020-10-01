@@ -1101,11 +1101,10 @@ msgstr ""
 "le souhait qu'il formula à l'article de la mort de toujours naître dans une "
 "famille qui vit dans l’opulence, possède de grandes richesses et "
 "d’innombrables biens lui valurent de toujours être bien proportionné, de "
-"réjouir la vue par sa beauté et de toujours naître dans une famille qui vit "
-"dans l'opulence, possède de grandes richesses et d'innombrables biens. Il "
-"formula aussi le souhait de contenter un enseignant comme ce bouddha, de ne "
-"rien faire qui le mécontente et d'obtenir des qualités semblables aux "
-"siennes."
+"réjouir la vue par sa beauté et de toujours naître dans une famille aussi "
+"fortunée. Il formula aussi le souhait de contenter un enseignant comme ce "
+"bouddha, de ne rien faire qui le mécontente et d'obtenir des qualités "
+"semblables aux siennes."
 
 # དགེ་སློང་དག་
 # ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འཁོར་བ་འཇིག་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་པར་གྱུར་ནས།
