@@ -158,7 +158,7 @@ msgstr ""
 "quand elle est fertile et quand terminent ses menstruations. Elle sait quand"
 " elle est enceinte. Elle sait de qui elle attend un enfant. Elle sait que "
 "c’est un garçon ou une fille parce qu'un garçon se blottit du côté droit de "
-"son ventre et fille du côté gauche."
+"son ventre et une fille du côté gauche."
 
 # དེ་ནས་གང་གི་ཚེ་དེ་ལ་བུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–བུ།>ཆགས་པར་གྱུར་པ་དེའི་ཚེ་དེ་དགའ་ཆེས་ནས་
 # ཁྱིམ་ཐབ་<«ཞོལ་»ཐབས།>ལ་སྦྲན་པ། ཇོ་བོ་ བདག་ལ་སྲས་ཆགས་ཏེ།
