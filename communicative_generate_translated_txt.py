@@ -4,6 +4,7 @@ import polib
 from antx import transfer
 from to_docx import create_total_docx, create_trans_docx
 from text_formatting import format_fr
+import subprocess
 
 
 class Po:
@@ -70,6 +71,11 @@ class Po:
         total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
         create_total_docx(data, total_docx)
 
+        # Generate all PDFs
+        print('Generating PDFs...')
+        abs_path = (Path().cwd() / 'fr' / 'reader').absolute()
+        subprocess.check_call(['doc2pdf', str(abs_path)], stdout=subprocess.DEVNULL)
+
     def _update_translation_pars(self, orig_trans, existing):
         if not existing.is_file():
             return orig_trans
@@ -104,8 +110,8 @@ class Po:
 if __name__ == '__main__':
     folder = 'fr/reader'
     for file in Path(folder).glob('*.po'):
-        if file.stem != '04':
-            continue
+        # if file.stem != '04':
+        #     continue
         print(file.name)
         po = Po(file)
         po.write_txt()
