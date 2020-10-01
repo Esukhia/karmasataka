@@ -749,9 +749,9 @@ msgstr ""
 "toujours courtes. « J'étais un être ordinaire, pensa-t-il. C'est pourquoi "
 "j'ai subi ces souffrances. Maintenant, j'ai accompli tout ce qui devait "
 "l'être. Rien ne m'oblige plus à souffrir. Ma décision est prise : je vais "
-"entrer dans la sphère de l'apaisement. » Il passa entièrement au-delà de la "
-"souffrance, dans la sphère de l'au-delà de la souffrance débarrassée des "
-"restes corporels."
+"entrer dans la sphère de l'apaisement. » Puis il passa entièrement au-delà "
+"de la souffrance, dans la sphère de l'au-delà de la souffrance débarrassée "
+"des restes corporels."
 
 # དེ་ཡོངས་སུ་མྱ་ངན་ལས་འདས་ནས།
 # ཕ་མ་གཉིས་ཀྱིས་དེ་ཁྱོགས་<«གཡུང་»འཕྱོགས།>རས་སྔོན་པོ་དང་།
