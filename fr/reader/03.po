@@ -635,8 +635,13 @@ msgid ""
 "soignerons (lit. ferons les serviteurs des malades) là-bas (lit. là-bas "
 "même) » pensèrent-ils. Puis,"
 msgstr ""
-"Par la suite, bien qu'il persévérât dans ses efforts, bien qu'il ne dormît ni au crépuscule ni à l'aube, aucun changement ne s'opérera en lui.\n"
-"Un jour, ses parents apprirent qu'il était malade. Ils se rendirent sans tarder au monastère avec un médecin et tout le nécessaire pour le soigner. Malgré les soins, le moine ne guérissait toujours pas. Les parents virent qu'en restant là, toutes les tâches ménagères de leur maison restaient en suspens. Ils décidèrent de soigner leur fils chez eux."
+"Par la suite, bien qu'il persévérât dans ses efforts, bien qu'il ne dormît "
+"ni au crépuscule ni à l'aube, aucun changement ne s'opérera en lui. Un jour,"
+" ses parents apprirent qu'il était malade. Ils se rendirent sans tarder au "
+"monastère avec un médecin et tout le nécessaire pour le soigner. Malgré les "
+"soins, le moine ne guérissait toujours pas. Les parents virent qu'en restant"
+" là, toutes les tâches ménagères de leur maison restaient en suspens. Ils "
+"décidèrent de soigner leur fils chez eux."
 
 # ཚེ་དང་ལྡན་པ་མ་འགགས་པའི་རྐང་པ་ལ་ཕྱག་འཚལ་ཏེ་ སྨྲས་པ། འཕགས་པ་
 # མཁྱེན་པར་མཛད་དུ་གསོལ།
