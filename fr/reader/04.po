@@ -276,7 +276,7 @@ msgid ""
 msgstr ""
 "Cette nuit-là, il prépara de nombreux mets et condiments purs et nobles. Le "
 "lendemain, il se leva tôt pour disposer les coussins de ses hôtes et remplir"
-" le récipient d’eau qu'ils utiliseraient pour se laver les mains."
+" le récipient d’eau pour se laver les mains."
 
 # བཅོམ་ལྡན་འདས་ལ་ཕྲིན་<«ཞོལ་»འཕྲིན།>གྱིས་གདུགས་ཚོད་བསྐུལ་བ། བཙུན་པ་
 # གདུགས་ཚོད་ལ་བབ་སྟེ་ བཤོས་གསོལ་ལགས་ན།
