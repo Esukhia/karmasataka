@@ -79,11 +79,10 @@ msgid ""
 " de tort à personne. Plus tard, elle se déplaça loin (lit. elle allait et "
 "elle allait) [pour] chercher à manger quand"
 msgstr ""
-"Moines, raconta le Bienheureux, dans un passé lointain, une loutre vivait "
-"dans un terrier aux abords d'un village de montagne. Sa compassion était "
-"grande, elle était de nature aimante et était bienveillante envers les "
-"êtres. Pour ne causer de tort à aucun être, elle se nourrissait "
-"exclusivement de racines et de fruits."
+"Moines, dans un passé lointain, une loutre vivait dans un terrier aux abords"
+" d'un village de montagne. Sa compassion était grande, elle était de nature "
+"aimante et était bienveillante envers les êtres. Pour ne causer de tort à "
+"aucun être, elle se nourrissait exclusivement de racines et de fruits."
 
 # རྔོན་པ་ཞིག་གིས་མཐོང་ནས་ དེ་དེས་གསོན་པོར་བཟུང་སྟེ།
 # :པགས་པ་བཤུས་<«གཡུང་»«ལི་»«པེ་»ལྤགས་པ་བཤུས། «ཅོ་»པགས་པར་ཤུས།>ནས་
