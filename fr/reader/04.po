@@ -531,10 +531,10 @@ msgid ""
 " tête est rasée, il porte la saṃghāṭī. L’intention du Bouddha lui met "
 "l’habit et à ce moment, il maintient ses sens dans un apaisement total."
 msgstr ""
-"Le Tathāgata prononce « Viens ici. » Aussitôt,\n"
-"Sa tête est rasée, il porte les robes monastiques.\n"
-"L'intention du Bouddha le recouvre de l'habit,\n"
-"Dès lors, ses sens se maintiennent dans l'apaisement total."
+"/Le Tathāgata prononce « Viens ici. » Aussitôt,/\n"
+"/Sa tête est rasée, il porte les robes monastiques./\n"
+"/L'intention du Bouddha le recouvre de l'habit,/\n"
+"/Dès lors, ses sens se maintiennent dans l'apaisement total./"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་ལུང་ཕོག་ནས་ དེས་ཀྱང་བརྩོན་པ་དང་།
 # བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
