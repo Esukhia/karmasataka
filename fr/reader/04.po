@@ -347,9 +347,9 @@ msgid ""
 "première fois ne peut être ressentie (lit. née) même par celui qui a "
 "familiarisé son esprit au calme mental pendant douze années."
 msgstr ""
-"La félicité que ressent une personne qui a accumulé les mérites et qui "
+"/La félicité que ressent une personne qui a accumulé les mérites et qui "
 "aperçoit un Bouddha pour la première fois dépasse celle qui résulte de douze"
-" ans d'entraînement au calme mental."
+" ans d'entraînement au calme mental./"
 
 # དེ་ལྟར་མཐོང་ནས་ཀྱང་ ཁྱེའུ་དེ་བཅོམ་ལྡན་འདས་ལ་ཤིན་ཏུ་དགའ་བ་སྐྱེས་ཏེ།
 # ཤིན་ཏུ་དགའ་བ་སྐྱེས་ནས།
