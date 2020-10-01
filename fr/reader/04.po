@@ -263,9 +263,10 @@ msgid ""
 "prosterna devant le Bienheureux en touchant ses pieds de sa tête et il "
 "partit de devant le Bienheureux."
 msgstr ""
-"Le Bienheureux accéda à la requête par son silence. Le père de famille loua "
-"les propos du Bienheureux, se réjouit de ces paroles et se prosterna devant "
-"le Bienheureux en touchant ses pieds de sa tête avant de prendre congé."
+"Le Bienheureux accepta par son silence. Alors, le père de famille loua les "
+"propos du Bienheureux, se réjouit de ce qu'il avait entendu et prit congé "
+"après s'être prosterné devant le Bienheureux en touchant ses pieds avec son "
+"front."
 
 # དེ་ནས་དེས་དེ་ཉིད་ཀྱི་མཚན་མོ་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོ་སྦྱར་ནས་
 # ནང་པར་སྔར་ལངས་ཏེ་ གདན་བཤམས་ནས་ ཕྱག་ཆབ་ཀྱི་ཆུ་ར་བཀང་སྟེ།
