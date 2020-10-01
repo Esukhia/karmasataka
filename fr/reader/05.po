@@ -202,7 +202,7 @@ msgstr ""
 "Ils lui dirent :\n"
 "« Sœur aînée, au début, faites attention à rendre votre corps plus léger. Après, par l'habitude que vous aurez acquise, obtenir les pouvoirs surnaturels vous sera aisé. »\n"
 "« Comment dois-je rendre mon corps plus léger ? » demanda-t-elle.\n"
-"« D'une part, réduisez votre nourriture le temps qu'il faut. D'autre part, le premier jour, entraînez-vous à sauter de la hauteur d'un siège sur lequel vous aurez grimpé. Puis, le jour suivant, sautez depuis deux sièges empilés. Du troisième au septième jour, ajoutez un siège et continuez de vous entraîner. Après, grimpez sur un toit et sautez de cette hauteur. Alors, votre corps sera familiarisé à cet exercice et il sera devenu léger. À ce moment, vous accéderez facilement aux pouvoirs surnaturels du fait de votre entraînement. »"
+"« D'une part, réduisez votre nourriture le temps qu'il faut. D'autre part, le premier jour, entraînez-vous à sauter de la hauteur d'un siège sur lequel vous aurez grimpé. Puis, le jour suivant, sautez du haut de deux sièges empilés. Du troisième au septième jour, ajoutez un siège et continuez de vous entraîner. Après, grimpez sur un toit et sautez de cette hauteur. Alors, votre corps sera familiarisé à cet exercice et il sera devenu léger. À ce moment, vous accéderez facilement aux pouvoirs surnaturels du fait de votre entraînement. »"
 
 # དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་ཚོན་མོ་དགའ་མོས།
 # ཇི་ལྟར་དེ་དག་གིས་མན་ངག་བསྟན་པ་དེ་<«གཡུང་»«པེ་»+དག་གིས།>བཞིན་དུ་བྱས་ནས་
@@ -221,11 +221,8 @@ msgid ""
 "suis uniquement comme ça), je n’ai pas [obtenu les pouvoirs], donc "
 "maintenant, comment [dois-]je faire ? » dit-elle."
 msgstr ""
-"Sthūlanandā appliqua les instructions exactement comme elles les avaient "
-"entendues. Le septième jour, elle se brisa le dos en tombant du haut des "
-"sept sièges. « Êtres sublimes, dit-elle alors au Groupe des Six, regardez ce"
-" qu'il m'arrive. Je n'ai toujours pas de pouvoirs surnaturels. Maintenant, "
-"que dois-je faire ? »"
+"Sthūlanandā appliqua les instructions exactement comme elles les avaient reçues. Le septième jour, elle se brisa le dos en tombant du haut des sept sièges.\n"
+"« Êtres sublimes, dit-elle alors au Groupe des Six, regardez ce qu'il m'arrive. Je n'ai toujours pas de pouvoirs surnaturels. Maintenant, que dois-je faire ? »"
 
 # དྲུག་སྡེ་རྣམས་ཀྱིས་དེ་ལ་སྨྲས་པ།
 # བདག་ཅག་གིས་ཅི་ཤེས་པའི་མན་ངག་ནི་ཁྱོད་ལ་<«ཅོ་»+བ།>བསྟན་ཟིན་ཏེ།
@@ -241,10 +238,8 @@ msgid ""
 "devez faire (lit. comment vous ferez), c’est à vous de voir (lit. vous le "
 "savez vous-même). »"
 msgstr ""
-"« Tout ce que nous savons, répondirent-ils, nous vous l'avons expliqué : la "
-"manière de rendre votre corps plus léger par précaution, puis l'accès "
-"facilité aux pouvoirs surnaturels. À partir de là, ce que vous faites ne "
-"nous regarde plus. »"
+"\n"
+"« Tout ce que nous savons, répondirent-ils, nous vous l'avons expliqué : la manière de rendre votre corps plus léger par précaution, puis l'accès facilité aux pouvoirs surnaturels. À partir de là, ce que vous faites ne nous regarde plus. »"
 
 # དེ་ནས་དེ་<«གཡུང་»«པེ་»ད།>ཐོས་མ་ཐག་ཏུ་ཚོན་མོ་དགའ་མོ་ཁྲོ་བའི་<«སྣར་»མོ་ཁྲོ་བས།
 # «ཞོལ་»བོ་ཁྲོ་བས།>ཀུན་ནས་དཀྲིས་པ་ཆེན་པོ་སྐྱེས་ནས།
