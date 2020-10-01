@@ -33,6 +33,13 @@ def format_fr(text):
     text = re.sub(
         r'(\n?)"(.+?)"([ \f\v\u202f\u00a0]?)',
         r'\1“\2”\3', text)
+    # other corner cases
+    text = re.sub(
+        r'[ \f\v\u202f\u00a0]+"(.+?)',
+        r' “\1', text)
+    text = re.sub(
+        r'(.+?)"([ \f\v\u202f\u00a0]?)',
+        r'\1”\2', text)
     text = re.sub(
         r"[ \f\v\u202f\u00a0\n]+'(.+?)'([ \f\v\u202f\u00a0])",
         r' ‘\1’\2', text)

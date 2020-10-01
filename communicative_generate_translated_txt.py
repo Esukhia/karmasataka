@@ -1,5 +1,7 @@
 from pathlib import Path
 import re
+import sys
+import shutil
 import polib
 from antx import transfer
 from to_docx import create_total_docx, create_trans_docx
@@ -71,11 +73,6 @@ class Po:
         total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
         create_total_docx(data, total_docx)
 
-        # Generate all PDFs
-        print('Generating PDFs...')
-        abs_path = (Path().cwd() / 'fr' / 'reader').absolute()
-        subprocess.check_call(['doc2pdf', str(abs_path)], stdout=subprocess.DEVNULL)
-
     def _update_translation_pars(self, orig_trans, existing):
         if not existing.is_file():
             return orig_trans
@@ -107,11 +104,26 @@ class Po:
             entry.msgstr = format_fr(entry.msgstr)
 
 
+LOEXE = shutil.which('libreoffice')
+
+
+def gen_pdf(file):
+    print('Generating PDF...')
+    docxs = list(file.absolute().parent.glob(f'{file.stem}*.docx'))
+    for doc in docxs:
+        pdf = doc.parent / (doc.stem + '.pdf')
+        if pdf.is_file():
+            pdf.unlink()
+        subprocess.check_call([LOEXE, '--convert-to', 'pdf', '--outdir', str(doc.parent), str(doc)], stdout=subprocess.DEVNULL)
+
+
 if __name__ == '__main__':
     folder = 'fr/reader'
-    for file in Path(folder).glob('*.po'):
-        # if file.stem != '04':
-        #     continue
+    idx = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+    files = sorted(list(Path(folder).glob('*.po')))
+    to_loop = files[idx - 1:idx] if idx > 0 else files
+    for file in to_loop:
         print(file.name)
         po = Po(file)
         po.write_txt()
+        gen_pdf(file)
