@@ -758,8 +758,8 @@ msgstr ""
 " frère profitait de ces moments pour se laisser tomber de tout son poids sur"
 " lui. \"Vénérable, disait-il, arrêtez de me faire mal !\" mais son frère ne "
 "l'écoutait jamais. Un jour, excédé et en colère, il dressa une brique là où "
-"il s'allongeait. Son frère vint le narguer. Il se jeta de tout son poids sur"
-" la brique, qui lui brisa le dos et le fit souffrir atrocement."
+"il s'allongeait. Son frère vint le narguer et se jeta de tout son poids sur "
+"la brique, qui lui brisa le dos et le fit souffrir atrocement."
 
 # དེ་ནས་ནུ་བོ་དེས་ཀྱང་དེའི་ལུས་ཀྱི་སྡུག་བསྔལ་མཐོང་ནས།
 # དེ་ཡང་སེམས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱིས།>སྡུག་བསྔལ་ཆེན་པོ་སྐྱེས་ཏེ།
