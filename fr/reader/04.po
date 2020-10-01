@@ -754,8 +754,12 @@ msgid ""
 "cause de ça (lit. cette base) il ressentit (lit. fit naître) une grande "
 "douleur."
 msgstr ""
-"Lorsque ce dernier finissait ses récitations, il s'allongeait sur son lit. Le frère brute se laissait tomber de tout son poids sur lui de manière répétée.\n"
-"\"Vénérable, disait-il, arrêtez de me faire mal.\" mais son frère ne l'écoutait pas. En colère devant le refus de son frère, il dressa une brique sur son lit. L'autre vint à nouveau le narguer, il se jeta de tout son poids sur la brique, qui lui brisa le dos et le fit souffrir atrocement."
+"Ce dernier s'allongeait sur son lit après avoir terminé ses récitations. Son"
+" frère profitait de ces moments pour se laisser tomber de tout son poids sur"
+" lui. \"Vénérable, disait-il, arrêtez de me faire mal.\" mais son frère ne "
+"l'écoutait jamais. Un jour, excédé et en colère, il dressa une brique là où "
+"il s'allongeait. Son frère vint le narguer. Il se jeta de tout son poids sur"
+" la brique, qui lui brisa le dos et le fit souffrir atrocement."
 
 # དེ་ནས་ནུ་བོ་དེས་ཀྱང་དེའི་ལུས་ཀྱི་སྡུག་བསྔལ་མཐོང་ནས།
 # དེ་ཡང་སེམས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱིས།>སྡུག་བསྔལ་ཆེན་པོ་སྐྱེས་ཏེ།
