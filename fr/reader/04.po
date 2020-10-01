@@ -618,8 +618,8 @@ msgid ""
 "Le Bienheureux dit : « Moines, ce moine a lui-même réalisé et accumulé des "
 "actions dans le passé, et"
 msgstr ""
-"« Moines, répondit le Bienheureux, ce moine a effectivement réalisé et "
-"accumulé des actions dans le passé."
+"\n"
+"« Moines, répondit le Bienheureux, ce moine a effectivement réalisé et accumulé des actions dans le passé."
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
 # བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན།
