@@ -382,10 +382,10 @@ msgid ""
 "ceci : « Le Bienheureux a enduré tant de difficultés pour moi. Le Sugata a "
 "enduré tant de difficultés pour moi. » dit-il."
 msgstr ""
-"Il s'approcha, se prosterna devant lui en touchant ses pieds de sa tête, "
-"baisa les pieds du Bienheureux et dit : « Je suis immensément reconnaissant "
-"de tout ce que le Bienheureux a accompli pour moi, de tout ce que le Sugata "
-"a accompli pour moi. »"
+"Il s'approcha, se prosterna en lui touchant les pieds de sa tête, baisa les "
+"pieds du Bienheureux et dit : « Je suis immensément reconnaissant de tout ce"
+" que le Bienheureux a accompli pour moi, de tout ce que le Sugata a accompli"
+" pour moi. »"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་དགེ་སློང་གི་དགེ་འདུན་གྱི་གུང་ལ་གདན་བཤམས་པ་ལ་བཞུགས་སོ། །
 # དེ་ནས་ཁྱིམ་བདག་དེས་སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་རྣམས་བདེ་བར་བཞུགས་པར་རིག་ནས།
