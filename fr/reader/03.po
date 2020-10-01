@@ -949,10 +949,10 @@ msgid ""
 "cent kalpas. lorsque [les causes et les conditions] sont rassemblées et que "
 "le moment est venu, elles mûrissent dans leur propre résultat."
 msgstr ""
-"Les actions de ceux qui sont dotés d'un corps\n"
-"Ne s'altèrent pas, même cent éons après.\n"
-"Le moment venu, les conditions réunies,\n"
-"Ces actions mûrissent et leur fruit apparaît."
+"/Les actions de ceux qui sont dotés d'un corps/\n"
+"/Ne s'altèrent pas, même cent éons après./\n"
+"/Le moment venu, les conditions réunies,/\n"
+"/Ces actions mûrissent et leur fruit apparaît./"
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ།
 # སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་བཞི་ཁྲི་ཐུབ་པ་ན། རྒྱལ་པོའི་ཕོ་བྲང་བདེ་ལྡན་ན།
