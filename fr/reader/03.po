@@ -519,8 +519,8 @@ msgstr ""
 "giron, deux l'allaitaient, deux faisaient sa toilette et deux jouaient avec "
 "lui. Protégé par une plume de paon de la main de Nārāyaṇa et par un cordon "
 "de protection, il grandit grâce au lait, au yaourt, au beurre, au beurre "
-"clarifié et au beurre sur-clarifié dont il était nourri. Ainsi, il "
-"s’épanouit aussi rapidement qu’un lotus dans un lac."
+"clarifié et au beurre sur-clarifié dont il était nourri. Il s’épanouit aussi"
+" rapidement qu’un lotus dans un lac."
 
 # དེ་གང་གི་ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ།
 # ཡི་གེ་དང་ཁོང་རྩིས་དང་ཤོད་དགོད་པ་དང་ལག་རྩིས་དང་དབྱུང་བ་དང་སྦ་བ་དང་དགྲམ་པ་དང་གོས་བརྟག་པ་དང་ནོར་བུ་བརྟག་<«གཡུང་»«པེ་»རྟག
