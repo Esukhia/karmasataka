@@ -459,7 +459,7 @@ msgid ""
 msgstr ""
 "Un jour, pour décider les futurs parents, l'honorable Aniruddha se rendit chez eux seul, sans compagnon ni serviteur.\n"
 "« Être sublime, pour quelle raison venez-vous seul, sans compagnon ni serviteur ? demanda le père de famille. Ne se trouve-t-il personne pour vous servir ? »\n"
-"« En dehors des personnes que seuls vous et les vôtres pourriez mettre à mon service, où pourrais-je trouver quelqu'un pour me servir ? » répondit l'honorable moine.\n"
+"« En dehors des personnes que seuls vous et les vôtres pourriez mettre à mon service, où pourrais-je trouver quelqu'un qui me servirait ? » répondit l'honorable moine.\n"
 "« Vénérable Aniruddha, mon épouse attend un enfant. Si un garçon venait à naître, je vous l'offrirai comme serviteur, être sublime. »\n"
 "« Les vertueux tiennent leurs promesses. » remarqua l'honorable Aniruddha, avant de s'en aller."
 
