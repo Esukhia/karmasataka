@@ -2,6 +2,8 @@ import re
 
 
 def format_fr(text):
+    if "J'ai maintenant accompli" in text:
+        print('ok')
     # see http://unicode.org/udhr/n/notes_fra.html
     text = re.sub(r'([ \f\v\u202f\u00a0])+', r'\1', text)
     text = re.sub(r'[ \f\v\u202f\u00a0]+,', r',', text)
@@ -31,15 +33,15 @@ def format_fr(text):
         r' “\1”\2', text)
     # added to cover corner case
     text = re.sub(
-        r'\n"(.+?)"([ \f\v\u202f\u00a0]?)',
-        r'\n“\1”\2', text)
+        r'(\n?)"(.+?)"([ \f\v\u202f\u00a0]?)',
+        r'\1“\2”\3', text)
     text = re.sub(
-        r"[ \f\v\u202f\u00a0\n]+'(.+?)'([ \f\v\u202f\u00a0]?)",
+        r"[ \f\v\u202f\u00a0\n]+'(.+?)'([ \f\v\u202f\u00a0])",
         r' ‘\1’\2', text)
     # added to cover corner case
     text = re.sub(
-        r"\n'(.+?)'([ \f\v\u202f\u00a0]?)",
-        r'\n‘\1’\2', text)
+        r"(\n?)'(.+?)'([ \f\v\u202f\u00a0])",
+        r'\1‘\2’\3', text)
     text = text.replace("'", '’')
     text = re.sub(
         r'([,».’”"\'])[ \f\v\u202f\u00a0]+\n',
