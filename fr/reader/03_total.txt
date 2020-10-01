@@ -192,7 +192,7 @@ Les bienheureux bouddhas montrent l’unique voie à parcourir. Ils maîtrisent 
 	སུ་ནི་<«གཡུང་»«པེ་»–ནི།>རྒུད་
 	« Qui décline ?
 	སུ་ནི་དར་
-	Qui prospère (lit. s’étendre)?
+	Qui prospère (lit. s’étendre) ?
 	སུ་ནི་ཕོངས་ཤིང་འདུག་
 	Qui est dans la misère ?
 	སུ་ནི་ཉམ་ང་བར་གྱུར་
@@ -679,7 +679,8 @@ Les disciples laïcs se prosternèrent tous aux pieds du Bienheureux et le père
 	གཙུག་ལག་ཁང་དུ་གཤེགས་སོ། །
 	alla au vihāra.
 
-De retour, les moines demandèrent au Bienheureux : « Quelles actions ont valu à Pūraṇa de naître dans une famille qui vit dans l’opulence, possède de grandes richesses et d’innombrables biens ? Quelles actions lui ont valu de toujours tomber malade ? »
+De retour, les moines demandèrent au Bienheureux :
+« Quelles actions ont valu à Pūraṇa de naître dans une famille qui vit dans l’opulence, possède de grandes richesses et d’innombrables biens ? Quelles actions lui ont valu de toujours tomber malade ? »
 	དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ།
 	Puis les moines s’adressèrent au Bienheureux : «
 	དགེ་སློང་རྫོགས་བྱེད་ཀྱིས་ལས་ཅི་བགྱིས་ན།
@@ -716,7 +717,7 @@ De retour, les moines demandèrent au Bienheureux : « Quelles actions ont val
 	འབྲས་བུ་ཉིད་དུ་སྨིན་པར་འགྱུར<«གཡུང་»«པེ་»+རོ།>། །
 	elles mûrissent dans leur propre résultat.
 
-Moines, raconta le Bienheureux, dans un passé lointain de cet éon fortuné, quand les hommes vivaient quarante mille ans, le brahmane Agnidatta, ministre du roi Sukha qui exerçait dans le palais royal Śobhāvatī, eut deux fils. L’un fit la rencontre d’un vieux, d’un malade et d’un mort. Il décida de s’établir dans la forêt. Là, il se remémora les trente-sept éléments qui dirigent vers l’éveil et obtint l’insurpassable éveil, complet et parfait. Il tourna à trois reprises la roue du Dharma en ses douze aspects et fit le bien des êtres. Il devint ainsi le complet et parfait Bouddha Krakucchanda.
+Moines, raconta le Bienheureux, dans un passé lointain de cet éon fortuné, quand les hommes vivaient quarante mille ans, le brahmane Agnidatta, ministre du roi Sukha qui exerçait dans le palais royal Śobhāvatī, eut deux fils. L’un fit la rencontre d’un vieux, d’un malade et d’un mort. Il décida de s’établir dans la forêt. Là, il se remémora les trente-sept éléments qui dirigent vers l’éveil et obtint l’éveil insurpassable, complet et parfait. Il tourna à trois reprises la roue du Dharma en ses douze aspects et fit le bien des êtres. Il devint ainsi le complet et parfait Bouddha Krakucchanda.
 	དགེ་སློང་དག་
 	Moines,
 	སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ། སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་བཞི་ཁྲི་ཐུབ་པ་ན། རྒྱལ་པོའི་ཕོ་བྲང་བདེ་ལྡན་ན། རྒྱལ་པོ་བདེ་བའི་མདུན་ན་འདོན་པ། བྲམ་ཟེ་མེས་བྱིན་ལ་བུ་གཉིས་ཡོད་པ་ལས་

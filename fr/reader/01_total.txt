@@ -140,7 +140,7 @@ Les bienheureux bouddhas montrent l’unique voie à parcourir. Ils maîtrisent 
 	སུ་ནི་རྒུད་
 	« Qui décline ?
 	སུ་ནི་དར་
-	Qui prospère (lit. s’étendre)?
+	Qui prospère (lit. s’étendre) ?
 	སུ་ནི་ཕོངས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»འཕོངས།>ཤིང་འདུག །
 	Qui est dans la misère ?
 	སུ་ནི་ཉམ་<«ཁུ་»ཉམས།>ང་བར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འགྱུར།>
@@ -497,7 +497,7 @@ Il discerna ses pensées, ses tendances habituelles, son tempérament et son car
 	རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ཏེ།
 	elle manifesta le résultat de l’entrée dans le courant, puis
 
-La jeune femme se releva après avoir vu les vérités. En s’inclinant, elle laissa retomber d’une épaule son vêtement supérieur qu’elle avait replié, puis elle joignit les mains. « Vénérable Śāriputra, si toute femme peut se retirer du monde, prendre les vœux complets et ainsi devenir nonne selon le Dharma du Vinaya si bien enseigné, j’aimerais moi aussi vivre une vie chaste auprès du Bienheureux. »
+La jeune femme se releva après avoir vu les vérités. En s’inclinant, elle laissa retomber d’une épaule son vêtement supérieur qu’elle avait replié, puis elle joignit les mains. « Vénérable Śāriputra, s’il est envisageable que je me retire du monde, que je prenne les vœux complets et que je devienne ainsi nonne selon le Dharma du Vinaya si bien enseigné, j’aimerais vivre une vie chaste auprès du Bienheureux. »
 	དེས་བདེན་པ་<«ཅོ་»+མ།>མཐོང་ནས་
 	elle vit les vérités, et
 	སྟན་ལས་ལངས་ཏེ་
@@ -511,7 +511,7 @@ La jeune femme se releva après avoir vu les vérités. En s’inclinant, elle l
 	བཙུན་པ་ཤཱ་རིའི་བུ་
 	Vénérable Śāriputra,
 	བདག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་བ་དང་བསྙེན་པར་རྫོགས་ཤིང་དགེ་སློང་མའི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན་
-	s’il est possible de se retirer du monde selon le Dharma du Vinaya si bien enseigné, et [s’il est possible] de parfaire l’approche [de la libération], d’obtenir la condition de nonne pleinement ordonnée,
+	s’il m’est possible de m’extraire du monde selon le Dharma du Vinaya si bien enseigné, et [s’il m’est possible] de parfaire l’approche [de la libération], d’obtenir la condition de nonne pleinement ordonnée,
 	བདག་ཀྱང་། བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །
 	moi aussi, j’aimerais vivre une vie chaste (lit. suivre le brahmacarya) auprès du Bienheureux. »
 
