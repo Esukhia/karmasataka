@@ -260,8 +260,8 @@ msgstr ""
 "Cette réponse l'enserra toute entière dans une colère intense. Elle les "
 "força à avouer la tromperie. Elle les humilia en public, eux qui étaient de "
 "passage dans la nonnerie, jusqu'à ce qu'ils perdirent toute envie de "
-"recommencer et s'enfuirent au loin. Elle s'assura que tout le monde soit au "
-"courant de sa mésaventure, que leurs agissements soient connus. Elle les "
+"recommencer et s'enfuirent au loin. Elle s'assura que tout le monde fût au "
+"courant de sa mésaventure, que leurs agissements fussent connus. Elle les "
 "insulta et les couvrit de honte."
 
 # དེ་ནས་སྐབས་དེ་དགེ་སློང་དག་གིས་ཐོས་ནས་ བཅོམ་ལྡན་འདས་ལ་གསོལ་ཏེ་<«ཅོ་»+ཏེ།>
