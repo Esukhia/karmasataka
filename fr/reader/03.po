@@ -1269,8 +1269,8 @@ msgid ""
 "endroits). Ainsi,"
 msgstr ""
 "Voyez-vous, moines, à cette époque, ce moine était Pūraṇa lui-même. Les "
-"offrandes de circonstances qu'il fit à cet arhat et les souhaits qu'il "
-"formula lui valurent de toujours naître dans une famille qui vit dans "
+"souhaits qu'il formula après avoir fait les offrandes de circonstances à cet"
+" arhat lui valurent de toujours naître dans une famille qui vit dans "
 "l’opulence, possède de grandes richesses et d’innombrables biens."
 
 # དགེ་སློང་དག་
