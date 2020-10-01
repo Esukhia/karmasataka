@@ -364,7 +364,7 @@ msgid ""
 msgstr ""
 "Ayant ressenti une telle félicité, le garçon voulut exprimer son respect au "
 "Bienheureux et se leva de son siège. Aussitôt qu'il fut levé, sa bosse "
-"disparut et son dos retrouva son aspect normal. Ceci lui fit ressentir plus "
+"disparut et son dos retrouva son aspect normal. Ceci lui fit éprouver plus "
 "de joie encore à l'égard du Bienheureux."
 
 # དགའ་བ་སྐྱེས་<«སྣར་»སྐྱེས།>ནས་ བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།
