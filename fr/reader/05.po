@@ -221,7 +221,7 @@ msgid ""
 "suis uniquement comme ça), je n’ai pas [obtenu les pouvoirs], donc "
 "maintenant, comment [dois-]je faire ? » dit-elle."
 msgstr ""
-"Sthūlanandā appliqua les instructions exactement comme elles les avaient reçues. Le septième jour, elle se brisa le dos en tombant du haut des sept sièges.\n"
+"Sthūlanandā appliqua les instructions exactement comme elles les avaient reçues. Le septième jour, elle se cassa la hanche en tombant du haut des sept sièges.\n"
 "« Êtres sublimes, dit-elle alors au Groupe des Six, regardez ce qu'il m'arrive. Je n'ai toujours pas de pouvoirs surnaturels. Maintenant, que dois-je faire ? »"
 
 # དྲུག་སྡེ་རྣམས་ཀྱིས་དེ་ལ་སྨྲས་པ།
