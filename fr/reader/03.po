@@ -210,11 +210,11 @@ msgstr ""
 "depuis si longtemps ! Qu'il soit digne de moi ! Qu'il ne soit pas indigne de"
 " moi ! Puisse-t-il me succéder ! Puisse-t-il pourvoir à mes besoins en "
 "retour du soin dont je vais l'entourer ! Puisse-t-il se servir des biens que"
-" je lui laisserai ! Puisse ma lignée familiale se maintenir longtemps ! "
-"Lorsque nous décéderons, puisse-t-il faire l'aumône et accumuler des mérites"
-" en notre nom, quelle qu'en soit la quantité ! Puisse-t-il ensuite dédier "
-"les mérites pour qu'elles nous parviennent à tous les deux, où que nous "
-"soyons partis et renés ! »"
+" je lui laisserai ! Puisse ma lignée familiale perdurer longtemps ! Lorsque "
+"nous décéderons, puisse-t-il faire l'aumône et accumuler des mérites en "
+"notre nom, quelle qu'en soit la quantité ! Puisse-t-il ensuite dédier les "
+"mérites pour qu'elles nous parviennent à tous les deux, où que nous soyons "
+"partis et renés ! »"
 
 # དེས་བུ་ཆགས་པར་རིག་ནས་
 # བུའི་རིམ་གྲོ་བྱ་བའི་ཕྱིར་ཁང་བཟངས་ཀྱི་<«ཞོལ་»བཟང་གི།>སྟེང་དུ་ཉམ་རངས་སུ་བཞག་སྟེ།
