@@ -909,10 +909,8 @@ msgid ""
 "familiale qui est riche, possède de grandes (lit. nombreuses) richesses et "
 "de nombreux (lit. grands) biens, et avoir beaucoup de maladies ? »"
 msgstr ""
-"De retour, les moines demandèrent au Bienheureux : « Quelles actions ont "
-"valu à Pūraṇa de naître dans une famille qui vit dans l'opulence, possède de"
-" grandes richesses et d'innombrables biens ? Quelles actions lui ont valu de"
-" toujours tomber malade ? »"
+"De retour, les moines demandèrent au Bienheureux :\n"
+"« Quelles actions ont valu à Pūraṇa de naître dans une famille qui vit dans l'opulence, possède de grandes richesses et d'innombrables biens ? Quelles actions lui ont valu de toujours tomber malade ? »"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་
 # རྫོགས་བྱེད་འདི་ཉིད་ཀྱིས་སྔོན་ལས་བྱས་ཤིང་བསགས་ཏེ<«གཡུང་»བསག་སྟེ།>།
