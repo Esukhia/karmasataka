@@ -881,8 +881,8 @@ msgstr ""
 "complet et parfait Buddha, celui doté de la sagesse pour voir et de la "
 "concentration pour avancer, le Sugata, le Connaisseur des êtres des trois "
 "mondes, l'insurpassable Cocher pour les êtres à guider, l'Enseignant des "
-"dieux et des hommes, le complet et parfait Bouddha Kāśyapa était apparu en "
-"ce monde."
+"dieux et des hommes, le complet et parfait Buddha Kāśyapa était apparu en ce"
+" monde."
 
 # དེའི་ཚེ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་<«སྣར་»བ་ར་ཎཱ་སི། «ཞོལ་»ཝཱ་ར་ཎཱ་སི།
 # པོད་འདིའི་ནང་དུ་བཱ་རཱ་ཎ་སཱི་ཞེས་པ་རྣམས་༼སྣར་༽ལ་བ་ར་ཎཱ་སི་དང་༼ཞོལ་༽ལ་ཝཱ་ར་ཎཱ་སི།༼གཡུང་༽༼ལི་༽༼པེ་༽༼ཅོ་༽ལ་སྐབས་འགར་པཱ་རཱ་ཎ་སཱི་དང་བཱ་རཱ་ན་སི་སོགས་འཁོད་ཀྱང་གཤམ་དུ་བསྡུར་མཆན་དུ་བཀོད་མེད།>སཱི་ན་ཁྱིམ་བདག་ཅིག་གནས་པ་ལས་
