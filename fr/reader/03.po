@@ -675,7 +675,7 @@ msgid ""
 msgstr ""
 "Ils se prosternèrent aux pieds de l'honorable Aniruddha.\n"
 "« Être sublime, lui dirent-ils, veuillez considérer notre situation. Toutes les tâches ménagères de notre foyer nous attendent alors que nous sommes ici. Nous voulons prendre notre enfant chez nous pour l'y soigner. Veuillez nous accorder votre permission. » L'honorable Aniruddha sut que leur fils manifesterait l'état d'arhat dans leur maison. Il sut aussi que ses deux parents et leur maisonnée verraient les vérités grâce à lui.\n"
-"« Faites comme il vous plaira. » répondit-il. De retour chez lui, le père de famille appliqua entièrement le traitement du médecin."
+"« Faites comme il vous plaira. » répondit-il. De retour chez lui, le père de famille appliqua à la lettre le traitement du médecin."
 
 # དགེ་སློང་དེས་ཀྱང་ཁྱིམ་དེ་ཉིད་ན་འདུག་བཞིན་དུ་ནད་ཀྱིས་སྐྱོ་བར་གྱུར་ནས།
 # བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
