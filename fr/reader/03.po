@@ -820,7 +820,7 @@ msgstr ""
 "famille s'était retiré du monde, qu'il était entièrement passé au-delà de la"
 " souffrance et que le Bienheureux avait l'intention de lui faire les "
 "offrandes de circonstance. Elle regarda à son tour les vies précédentes du "
-"moine, puis elle se dirigea vers la maison de ce père de famille avec un "
+"moine, puis se dirigea vers la maison de ce père de famille avec un "
 "entourage de cinq cent personnes."
 
 # ཁྱིམ་བདག་མགོན་མེད་ཟས་སྦྱིན་དང་བཙུན་མོའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»མོ།>འཁོར་གྱི་བླ་དྲང་སྲོང་སྦྱིན་དང་<«གཡུང་»དག>གནའ་མིས་ཀྱང་ཐོས་སོ།
