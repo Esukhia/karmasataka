@@ -255,7 +255,7 @@ msgstr ""
 "ni salés, ni sucrés, ni piquants, ni astringents. On la para de colliers "
 "courts et longs, et comme une jeune déesse qui évolue dans un jardin "
 "merveilleux, on la porta d'un lit à un autre, d'un siège à un autre, lui "
-"évitant ainsi de toucher le sol. De plus, on la préserva de tout bruit "
+"évitant ainsi de toucher le sol. On la préserva aussi de tout bruit "
 "désagréable."
 
 # སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་ལམ་སྟོན་པ།
