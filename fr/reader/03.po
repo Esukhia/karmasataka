@@ -935,7 +935,7 @@ msgstr ""
 "« Moines, répondit le Bienheureux, Pūraṇa a réalisé et accumulé des actions "
 "dans le passé. Moines, les actions réalisées et accumulées ne mûrissent pas "
 "à l’extérieur de soi sur l’élément Terre. Elles ne mûrissent pas non plus "
-"sur l’élément Eau ni sur l’élément Feu ni sur l’élément Vent. Ainsi, les "
+"sur l’élément Eau, ni sur l’élément Feu, ni sur l’élément Vent. Ainsi, les "
 "actions vertueuses et non-vertueuses mûrissent uniquement sur ce qui "
 "constitue l'individu : ses agrégats, ses dimensions et ses sources des sens."
 
