@@ -289,7 +289,7 @@ msgid ""
 "Bienheureux, que le moment de [vous installer] est arrivé et veuillez venir."
 " » incita-t-il."
 msgstr ""
-"Ensuite, il envoya un messager pour inviter le Bienheureux, qui dit : « "
+"Ensuite, le messager qu'il envoya pour inviter le Bienheureux lui dit : « "
 "Vénérable, il est bientôt la mi-journée, l'heure du repas. Bienheureux, le "
 "moment est venu de venir chez nous. »"
 
