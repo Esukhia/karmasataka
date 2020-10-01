@@ -902,7 +902,7 @@ msgstr ""
 "À cette époque, une belle fille bien proportionnée, jolie à ravir, naquit "
 "dans le foyer d’un homme qui vivait à Vārāṇasī. Devenue une jeune femme, "
 "elle ressentit de la dévotion pour l'enseignement du complet et parfait "
-"Buddha Kāśyapa. Avec la permission de ses parents, elle se retira du monde."
+"Bouddha Kāśyapa. Avec la permission de ses parents, elle se retira du monde."
 
 # རབ་ཏུ་བྱུང་ནས་ སྡེ་སྣོད་<«གཡུང་»«པེ་»+ག་དང་།>གསུམ་བསླབས་ཏེ།
 # དེ་རིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»རིགས།>པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བ<«གཡུང་»«པེ་»སྨྲས་པ།>།
