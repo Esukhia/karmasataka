@@ -185,7 +185,7 @@ msgstr ""
 "quel être dont les racines vertueuses sont parvenues à maturité pourrais-je "
 "les pousser à émerger grâce à l'épée de la sagesse ? Pour quel être "
 "fructifierais-je le cycle des existences qui est orné de la présence d'un "
-"bouddha ? » Ainsi se pose sur le monde leur regard de sagesse."
+"buddha ? » Ainsi se pose sur le monde leur regard de sagesse."
 
 # རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས།
 # །དུས་རླབས་<«གཡུང་»«པེ་»བརླབས།>ཡོལ་བར་འགྱུར་ཡང་སྲིད། །
