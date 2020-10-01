@@ -726,7 +726,8 @@ msgid ""
 "Parmi les deux frères, l’un était de nature farouche. L’autre était une "
 "personne posée et"
 msgstr ""
-"Des deux frères, l'un était un peu brute tandis que l'autre était posé."
+"Des deux frères, l'un était un peu brute tandis que l'autre avait un "
+"caractère posé."
 
 # དེ་ནི་གང་གི་ཚེ་ཁ་ཏོན་བྱས་ཟིན་ནས་ ཉལ་བར་བྱེད་དེ།
 # དེའི་ཚེ་རྒོད་བག་ཅན་ཅིག་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>[21a]ཤོས་ཀྱིས་དེ་ཉལ་བའི་སྟེང་དུ་ཡང་དང་ཡང་ལྗིད་ཀྱིས་འབེབས་པར་བྱེད་<«སྣར་»«ཞོལ་»འབེབས་པར་བྱས།
