@@ -792,12 +792,12 @@ msgid ""
 "des moines, s’en alla à l’endroit où se trouvait la maison de ce père de "
 "famille."
 msgstr ""
-"L'honorable moine observa la situation et vit que c'était dû à un vœu que "
-"leur fils avait lui-même formulé. Il présenta ensuite les faits au "
-"Bienheureux qui dit : « Moines, revêtez votre habit monastique. Nous partons"
-" faire les offrandes de circonstance à ce moine. » Précédé de la saṅgha des "
-"moines et suivi d'un groupe de moines pour le servir, le Bienheureux se "
-"dirigea vers la demeure de ce père de famille."
+"L'honorable moine observa la situation et vit qu'elle était due à un vœu "
+"formulé par leur propre fils et présenta les faits au Bienheureux qui dit : "
+"« Moines, revêtez votre habit monastique. Nous partons faire les offrandes "
+"de circonstance à ce moine. » Puis, précédé de la saṅgha des moines et suivi"
+" d'un groupe de moines pour le servir, le Bienheureux se dirigea vers la "
+"demeure de ce père de famille."
 
 # སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་གཽ་ཏ་མཱིས་<«གཡུང་»«པེ་»གོའུ་ཏ་མས།
 # «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»གོ་ཏ་མིས།>ཀྱང་ཁྱིམ་བདག་ཆེ་གེ་མོ་ཞིག་གི་བུ་རབ་ཏུ་བྱུང་ནས།
