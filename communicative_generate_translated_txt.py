@@ -104,8 +104,8 @@ class Po:
 if __name__ == '__main__':
     folder = 'fr/reader'
     for file in Path(folder).glob('*.po'):
-        # if file.stem != '03':
-        #     continue
+        if file.stem != '04':
+            continue
         print(file.name)
         po = Po(file)
         po.write_txt()
