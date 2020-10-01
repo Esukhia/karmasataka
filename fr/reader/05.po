@@ -98,12 +98,11 @@ msgid ""
 "dire [qu’il sera impossible] qu’ils m’enseignent les instructions de la voie"
 " des pouvoirs surnaturels."
 msgstr ""
-"« Qui pourrait m'expliquer le moyen d'obtenir ces pouvoirs surnaturels ? se "
-"demanda-t-elle. Les nonnes, puisqu'elles sont toutes jalouses, elles ne "
-"l'expliqueront pas. Les moines, il est difficile de les aborder. Je ne "
-"réussis même pas à entamer une conversation avec ceux qui sont dans la "
-"nonnerie. Jamais ils ne m'expliqueront les étapes pour acquérir ces "
-"pouvoirs."
+"« Qui pourrait m'expliquer le moyen de les obtenir ? se demanda-t-elle. Les "
+"nonnes, puisqu'elles sont toutes jalouses, ne diront rien. Les moines, il "
+"est difficile de les aborder. Je ne réussis même pas à entamer une "
+"conversation avec ceux qui sont dans notre nonnerie. Jamais ils ne "
+"m'expliqueront les étapes pour acquérir ces pouvoirs."
 
 # མ་ལ་ བདག་དྲུག་སྡེ་རྣམས་ཀྱི་ཐད་དུ་སོང་ན་ནི།
 # དེ་དག་བདག་གི་གཉེན་<«གཡུང་»–«པེ་»མཉེན།>ཡིན་པས།
