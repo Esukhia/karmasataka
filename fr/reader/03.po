@@ -85,8 +85,8 @@ msgid ""
 "[personne] ait mille enfants."
 msgstr ""
 "Bien qu'il soit communément accepté que les prières font naître des enfants,"
-" il n'en est rien. Si tel était le cas, chaque foyer devrait voir naître "
-"mille enfants, comme c'est le cas des monarques universels."
+" il n'en est rien. Si tel était le cas, chaque foyer devrait avoir mille "
+"enfants, comme c'est le cas des monarques universels."
 
 # ཡེ་ནི་གནས་གསུམ་ཚོགས་པ་ལས་ བུ་དང་བུ་མོ་སྐྱེ་བར་འགྱུར་ཏེ། གསུམ་གང་ཞེ་ན།
 # ཕ་མ་གཉིས་འདོད་ཆགས་ལངས་ཏེ་ཕྲད་པ་དང་ མ་དུས་ལ་བབ་ཅིང་ཟླ་མཚན་དང་ལྡན་པ་དང་
