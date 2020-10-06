@@ -2,4 +2,3 @@ docx
 polib
 antx
 botok
-loutils
