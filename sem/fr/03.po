@@ -1809,7 +1809,7 @@ msgid ""
 "བདེ་བ␣འི་ མདུན་ན་འདོན་པ །  བྲམ་ཟེ་ མེ␣ས་ བྱིན་ ལ་ བུ་ གཉིས་ ཡོད་པ་ ལ␣ས་"
 msgstr ""
 "à un moment du passé qui s'est déroulé auparavant, pendant ce même éon "
-"fortuné, quand la durée de vie des personnes pouvaient [atteindre] quarante "
+"fortuné, quand la durée de vie des personnes pouvait [atteindre] quarante "
 "mille ans, dans le palais royal Śobhāvatī, le ministre du roi Sukha, le "
 "brahmane Agnidatta avait deux fils et parmi [eux],"
 
