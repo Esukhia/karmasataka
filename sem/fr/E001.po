@@ -415,7 +415,7 @@ msgstr "ils manifestèrent le résultat de l'entrée dans le courant, puis"
 
 msgctxt "2de4c12fee02483fa1b7d11bfd3dea81"
 msgid "དེ་དག་ གིས་ བདེན་པ་ མཐོང་ ནས་"
-msgstr "après avoir vu la vérité"
+msgstr "après avoir vu les vérités"
 
 # བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་<«ལི་»«སྣར་»བཟར༑>ཏེ།
 msgctxt "91c48438820e43ceb689306c975751f8"
