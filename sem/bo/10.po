@@ -175,8 +175,12 @@ msgctxt "fae5d3d378c04327adefec8e1fb6b16b"
 msgid "མ་ཆགས་པ␣ར་ ཡང་ ཤེས་པ་ དང་ །"
 msgstr ""
 
+msgctxt "7fd2368ed92a40bf871c3db6115b3a8f"
+msgid "དུས་ ཀྱང་ ཤེས་ ལ་"
+msgstr ""
+
 msgctxt "f59cb8ebda3049d29f01311b1fb77470"
-msgid "དུས་ ཀྱང་ ཤེས་ ལ་ ཟླ་མཚན་ ཡང་ ཤེས་པ་ དང་ །"
+msgid "ཟླ་མཚན་ ཡང་ ཤེས་པ་ དང་ །"
 msgstr ""
 
 # བུ་<«གཡུང་»+ནད།>ཆགས་པ་ཤེས་པ་དང་
