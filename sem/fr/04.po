@@ -1483,7 +1483,7 @@ msgstr ""
 
 msgctxt "9f2a3955c7dc49a0aac53d397cd86113"
 msgid "དེ␣ས་ དེ␣ར་ སྨོན་ལམ་ བཏབ་ སྟེ །"
-msgstr "Le vœu qu'il fit (« "
+msgstr "Le souhait qu'il formula (« "
 
 msgctxt "21c0eedde83a41408375d222469d8b01"
 msgid ""
