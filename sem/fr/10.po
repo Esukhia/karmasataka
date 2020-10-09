@@ -1054,7 +1054,7 @@ msgstr "il manifesta l'état d'arhat (lit. l'arhat-même). Alors,"
 
 msgctxt "1a3647f40c7245188192a279bc8ea810"
 msgid "དེ་ དགྲ་བཅོམ་པ་ ཁམས་ གསུམ་པ␣འི་ འདོད་ཆགས་ དང་ བྲལ་བ␣ར་ གྱུར་ ནས །"
-msgstr "il devint une arhat libre de l'attachement aux trois mondes. Ainsi,"
+msgstr "il devint un arhat libre de l'attachement aux trois mondes. Ainsi,"
 
 msgctxt "001bd11e423e494284f16fdcd826986a"
 msgid "གསེར་ དང་ བོང་བ␣ར་ མཉམ་པ །"
