@@ -421,7 +421,8 @@ msgstr "après avoir vu les vérités"
 msgctxt "91c48438820e43ceb689306c975751f8"
 msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ཏེ །"
 msgstr ""
-"il [replia] son vêtement supérieur et le laissa retomber sur une épaule,"
+"ils [replièrent] leur vêtement supérieur sur une épaule et le laissèrent "
+"retomber [devant eux] et"
 
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«པེ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ།
 msgctxt "3ef86a9804ff43e2809a3ee1ac546bf8"
