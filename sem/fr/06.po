@@ -1999,7 +1999,7 @@ msgstr "pensa-t-il. Puis,"
 # ཕ་མ་ལ་<«གཡུང་»–ལ།>གསོལ་ཏེ་
 msgctxt "8b0d4ce88f3c4dcba9aad828880c0ab6"
 msgid "ཕ་མ་ ལ་ གསོལ་ ཏེ་"
-msgstr "il demanda [la permission] à son père et"
+msgstr "il demanda [la permission] à ses parents et"
 
 # ནགས་འདབ་ཏུ་<«ཞོལ་»འདབས་སུ།>གནས་བཅས་སོ། །
 msgctxt "7fd6ac59a8f04d37a0da452811621237"

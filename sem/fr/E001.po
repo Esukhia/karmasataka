@@ -421,7 +421,8 @@ msgstr "après avoir vu les vérités"
 msgctxt "91c48438820e43ceb689306c975751f8"
 msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ཏེ །"
 msgstr ""
-"il [replia] son vêtement supérieur et le laissa retomber sur une épaule,"
+"ils [replièrent] leur vêtement supérieur sur une épaule et le laissèrent "
+"retomber [devant eux] et"
 
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«པེ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་དེ།
 msgctxt "3ef86a9804ff43e2809a3ee1ac546bf8"
@@ -430,7 +431,7 @@ msgstr "joignirent les mains et s'inclinèrent en direction du Bienheureux et"
 
 msgctxt "81c082203834445da1e98735c22a183f"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ ། །"
-msgstr "il dit au Bienheureux : «"
+msgstr "ils dirent ceci au Bienheureux : «"
 
 # བཙུན་པ་<«གཡུང་»པོ།>
 msgctxt "12f9def6e08f44c5aa1afe5f31b56ce4"
@@ -444,9 +445,9 @@ msgid ""
 "བདག་ཅག་ ལེགས་པ␣ར་ གསུངས་པ␣འི་ ཆོས་ འདུལ་བ་ ལ་ རབ་ཏུ་ འབྱུང་བ་ དང་ །  "
 "བསྙེན་པ␣ར་ རྫོགས་ ཤིང་ དགེ་སློང་ གི་ དངོས་པོ་ འཐོབ་ ཏུ་ རུང་ ན །"
 msgstr ""
-"s'il m'est possible de m'extraire du monde selon le Vinaya, le Dharma si "
-"bien exprimé, et [s'il m'est possible] de parfaire l'approche [de la "
-"libération], d'obtenir la condition de moine pleinement ordonné,"
+"s'il nous est possible de nous extraire du monde selon le Vinaya, le Dharma "
+"si bien enseigné, et [s'il nous est possible] de parfaire l'approche [de la "
+"libération], d'obtenir la condition de moines pleinement ordonnés,"
 
 # བདག་ཅག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་<«ལི་»«ཅོ་»པ།>སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ།
 # །
@@ -483,8 +484,8 @@ msgid ""
 "དེ་དག་ གིས་ ཀྱང་ བརྩོན་པ་ དང་ །  བསྒྲུབ་པ་ དང་ འབད་པ␣ས་ ཉོན་མོངས་པ་ ཐམས་ཅད་ "
 "སྤངས་ ནས །"
 msgstr ""
-"de leur côté, ils éliminèrent toutes les émotions perturbatrices par leur "
-"efforts, leur pratique et leur persévérance et"
+"de leur côté, ils s'efforcèrent, s'appliquèrent et s'évertuèrent à éliminer "
+"toutes les émotions perturbatrices et"
 
 # དགྲ་<«གཡུང་»བགྲ།>བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
 msgctxt "6bb9a73fc205495aa3bce692da257bd7"

@@ -479,7 +479,7 @@ msgstr "ils [possédaient] la fraîcheur du [bois de] santal trempé ;"
 # རིག་པས་སྒོ་ངའི་སྦུབས་<«གཡུང་»སྦུགས། «ལི་»«ཅོ་»སྦུབ།>བཅོམ་པ།
 msgctxt "59c5c793e05a42bc84b6c45f5bb7c844"
 msgid "རིག་པ␣ས་ སྒོ་ང␣འི་ སྦུབས་ བཅོམ་པ །"
-msgstr "leur sagesse avait brisé la coque ;"
+msgstr "leur sagesse avait brisé la coquille de l'œuf ;"
 
 # རིག་པ་དང་<«ལི་»«ཅོ་»-དང༌།>མངོན་པར་ཤེས་པ་དང་། སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ།
 msgctxt "fbba1ac44b3844d58194bf34eb87b4e1"
