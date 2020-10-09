@@ -484,8 +484,8 @@ msgid ""
 "དེ་དག་ གིས་ ཀྱང་ བརྩོན་པ་ དང་ །  བསྒྲུབ་པ་ དང་ འབད་པ␣ས་ ཉོན་མོངས་པ་ ཐམས་ཅད་ "
 "སྤངས་ ནས །"
 msgstr ""
-"de leur côté, ils éliminèrent toutes les émotions perturbatrices par leur "
-"efforts, leur pratique et leur persévérance et"
+"de leur côté, ils s'efforcèrent, s'appliquèrent et s'évertuèrent à éliminer "
+"toutes les émotions perturbatrices et"
 
 # དགྲ་<«གཡུང་»བགྲ།>བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
 msgctxt "6bb9a73fc205495aa3bce692da257bd7"
