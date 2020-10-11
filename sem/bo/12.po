@@ -1504,8 +1504,12 @@ msgctxt "b5e0d804dc3f4b00bf26313d2a64904a"
 msgid "དེ་ གཉིས་ ཀྱིས་ དེ་ ལ་ དྲིས་པ །"
 msgstr ""
 
+msgctxt "6398a37434e24720921395d20b7bad35"
+msgid "བུ་"
+msgstr ""
+
 msgctxt "a73d8e6538b54824958c9520d3518f59"
-msgid "བུ་ ཁྱོད་ ཀྱིས་ སྨོན་ལམ་ ཅི་ཞིག་ བཏབ་"
+msgid "ཁྱོད་ ཀྱིས་ སྨོན་ལམ་ ཅི་ཞིག་ བཏབ་"
 msgstr ""
 
 msgctxt "42e6c963a6424fae825a6d8d46ef48ea"
