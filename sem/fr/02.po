@@ -1992,7 +1992,7 @@ msgid ""
 "བྱེད་པ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
 "Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le "
-"jeune brahmane Uttara [d'après] la prophétie du complet et parfait bouddha "
+"jeune brahmane Uttara [d'après] la prophétie du complet et parfait Bouddha "
 "Kāśyapa."
 
 msgctxt "b6de9ee3c2164a28a602e972104d3a29"
