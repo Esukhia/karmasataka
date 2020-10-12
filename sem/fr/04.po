@@ -1105,7 +1105,7 @@ msgid ""
 "རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ དད་པ་ རྙེད་ ནས །"
 msgstr ""
 "quand ils eurent tous les deux grandi, ils conçurent de la dévotion pour "
-"l'enseignement du complet et parfait bouddha Kāśyapa, et"
+"l'enseignement du complet et parfait Bouddha Kāśyapa, et"
 
 # དེ་གཉིས་ཀྱིས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱི།>ཕ་མ་ལ་གསོལ་ཏེ།
 msgctxt "8b5d99f541da4260aed5f1da0c28141e"
@@ -1389,7 +1389,7 @@ msgid ""
 "བྱེད་པ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
 "Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le "
-"jeune brahmane Uttara [d'après] la prophétie du complet et parfait bouddha "
+"jeune brahmane Uttara [d'après] la prophétie du complet et parfait Bouddha "
 "Kāśyapa."
 
 msgctxt "21b83a874af04b5892b31613ec3cdcef"
@@ -1502,7 +1502,7 @@ msgid ""
 "བྱེད་པ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
 "Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le "
-"jeune brahmane Uttara [d'après] la prophétie du complet et parfait bouddha "
+"jeune brahmane Uttara [d'après] la prophétie du complet et parfait Bouddha "
 "Kāśyapa."
 
 # མི་མཉེས་པར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག །

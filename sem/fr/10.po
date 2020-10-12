@@ -1466,7 +1466,7 @@ msgid ""
 "དེ␣ས་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ དད་པ་ རྙེད་ "
 "ནས །"
 msgstr ""
-"il conçut de la dévotion pour l'enseignement du complet et parfait bouddha "
+"il conçut de la dévotion pour l'enseignement du complet et parfait Bouddha "
 "Kāśyapa, et"
 
 # དེས་ཕ་མ་ལ་གསོལ་ཏེ<«གཡུང་»ཏོ།>།
@@ -1628,7 +1628,7 @@ msgid ""
 "བྱེད་པ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
 "Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le "
-"jeune brahmane Uttara [d'après] la prophétie du complet et parfait bouddha "
+"jeune brahmane Uttara [d'après] la prophétie du complet et parfait Bouddha "
 "Kāśyapa."
 
 msgctxt "b8f4f24f0e284803933df05718d44996"
