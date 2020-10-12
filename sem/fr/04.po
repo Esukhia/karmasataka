@@ -1105,7 +1105,7 @@ msgid ""
 "རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ དད་པ་ རྙེད་ ནས །"
 msgstr ""
 "quand ils eurent tous les deux grandi, ils conçurent de la dévotion pour "
-"l'enseignement du complet et parfait bouddha Kāśyapa, et"
+"l'enseignement du complet et parfait Bouddha Kāśyapa, et"
 
 # དེ་གཉིས་ཀྱིས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱི།>ཕ་མ་ལ་གསོལ་ཏེ།
 msgctxt "8b5d99f541da4260aed5f1da0c28141e"
