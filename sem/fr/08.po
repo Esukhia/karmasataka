@@ -1144,7 +1144,7 @@ msgid ""
 msgstr ""
 "Puissions-nous tous les deux contenter par mes actes le Bienheureux Bouddha "
 "que [deviendra] le jeune brahmane Uttara [d'après] la prophétie du complet "
-"et parfait bouddha Kāśyapa."
+"et parfait Bouddha Kāśyapa."
 
 msgctxt "4dcd16a3291f4518a9662df7cd1cb6ea"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
