@@ -1005,7 +1005,7 @@ msgid ""
 "སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ དད་པ་ རྙེད་ ནས་"
 msgstr ""
 "quand elle devint grande, elle conçut de la dévotion pour l'enseignement du "
-"complet et parfait bouddha Kāśyapa, et"
+"complet et parfait Bouddha Kāśyapa, et"
 
 msgctxt "7b07c431130a4b9ea5a7c4de598c8f5a"
 msgid "དེ␣ས་ ཕ་མ་ ལ་ གསོལ་ ཏེ །"
