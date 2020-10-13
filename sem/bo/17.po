@@ -413,8 +413,12 @@ msgctxt "666bb96d0ae14cee9e8f6a0366cd4090"
 msgid "ཉི་མ་ ཤར་བ␣ས་ ཇི་ལྟར་ བགྱིས་པ་ བཞིན ། །"
 msgstr ""
 
+msgctxt "f294b2fab9574e868bddfab2a56dc11e"
+msgid "ཡང་ ཚིགས་ སུ་ བཅད་ དེ་"
+msgstr ""
+
 msgctxt "2e0be4eb14b14ec8b1df4258c7512963"
-msgid "ཡང་ ཚིགས་ སུ་ བཅད་ དེ་ གསོལ་པ །"
+msgid "གསོལ་པ །"
 msgstr ""
 
 # རྒོད་དང་བྲལ་ཞིང་རྒྱགས་དང་མི་དགྱེས་སྤངས་པ་ཡི། །
