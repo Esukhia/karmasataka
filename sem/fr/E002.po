@@ -220,7 +220,7 @@ msgid ""
 "བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ །  བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ "
 "ཀྱི་ གཏམ་ གྱིས་ ཤིག་པ␣ར་ བསྐུལ་བ␣ས་ ན་"
 msgstr ""
-"Le Bienheureux a exorté l'honorable Ananda à enseigner les [éléments] qui "
+"Le Bienheureux a exorté l'honorable Ānanda à enseigner les [éléments] qui "
 "rapprochent de l'éveil. Donc,"
 
 # ད་<«པེ་»དེ།>ནི་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་:སྦྲང་བུའི་<«ལི་»-སྦྲང་བུའི།
