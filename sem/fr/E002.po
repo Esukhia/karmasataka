@@ -367,7 +367,7 @@ msgstr "il se maintint dans une attention manifeste. Puis"
 # བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་:ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ<«ལི་»«ཅོ་»-ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ།>།
 msgctxt "d60ebaf3a6914888b10d49f438ef3153"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ བཀའ་ སྩལ་པ །"
-msgstr "le Bienheureux demanda à l'honorable Ananda : «"
+msgstr "le Bienheureux demanda à l'honorable Ānanda : «"
 
 msgctxt "69ea958134f54998871fd19c682143cc"
 msgid "ཀུན་དགའ་བོ་"
