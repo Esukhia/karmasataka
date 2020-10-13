@@ -622,7 +622,7 @@ msgid ""
 "ཞི་བ␣ར་ བྱ་བ␣འི་ ཕྱིར །  དེ་ལྟ་ བུ་ དང་ འཐུན་པ␣འི་ ཆོས་ བསྟན་ ཏེ །"
 msgstr ""
 "Alors, à l'endroit où se faisaient les offrandes rituelles, afin de pacifier"
-" les querelles de ces brahmanes, le sage leur prodigua des enseignements "
+" les querelles de ces brahmanes, le ṛṣi leur prodigua des enseignements "
 "correspondant [à cette intention] et"
 
 # དེས་ན་<«གཡུང་»«པེ་»«ཁུ་»ཏེ། དེ་ནས། «ལི་»«ཅོ་»ཏོ།
