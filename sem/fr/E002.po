@@ -339,7 +339,7 @@ msgid ""
 "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ␣འི་ གཏམ་ གྱི་ མཇུག་ "
 "རྫོགས་པ␣ར་ ཐུགས་ སུ་ ཆུད་ ནས་"
 msgstr ""
-"Ensuite, le Bienheureux comprit que le discours de l'honorable Ananda était "
+"Ensuite, le Bienheureux comprit que le discours de l'honorable Ānanda était "
 "terminé,"
 
 # བཞུགས་<«ལི་»«ཅོ་»«ཁུ་»བཞེངས།>ཏེ།
