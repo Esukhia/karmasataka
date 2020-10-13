@@ -5,8 +5,12 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "78395c45d32541c0963ddc39387a8420"
+msgid "ལ␣ས་ བརྒྱ་ ཐམ་པ །"
+msgstr ""
+
 msgctxt "a53eaf77a9dc4e2b8a8ae2af5adaabb2"
-msgid "ལ␣ས་ བརྒྱ་ ཐམ་པ །  བམ་པོ་ ལྔ་པ །"
+msgid "བམ་པོ་ ལྔ་པ །"
 msgstr ""
 
 # སྡོམ་ནི། ཤིང་རྟ་བཞི་དང་སྒམ་<«གཡུང་»«པེ་»སྐམ།>པོ་དང་། །
@@ -146,9 +150,13 @@ msgctxt "cf83274cb08a443b9ee47431b67b9b16"
 msgid "ཀྱེ་"
 msgstr ""
 
-# ཅི་<«གཡུང་»ཆི། «ཁུ་»རྩི།>བདག་ཅག་འདི་ནས་ཤི་འཕོས་སམ་
+# ཅི་<«གཡུང་»ཆི། «ཁུ་»རྩི།>
+msgctxt "2c39d116dfae486fa49a68dad72d719e"
+msgid "ཅི་"
+msgstr ""
+
 msgctxt "22c2352d4acb46c98205c1ebf9062b85"
-msgid "ཅི་ བདག་ཅག་ འདི་ ནས་ ཤི་འཕོས་ སམ་"
+msgid "བདག་ཅག་ འདི་ ནས་ ཤི་འཕོས་ སམ་"
 msgstr ""
 
 msgctxt "4ac5f2c291e345b1ba45df3a377d80c6"
@@ -428,8 +436,12 @@ msgctxt "16b59acbc02b4034abb0578b0e5f15d1"
 msgid "ཉི་མ་ ཤར་བ␣ས་ ཇི་ལྟར་ བགྱིས་པ་ བཞིན ། །"
 msgstr ""
 
+msgctxt "e16a44d052c94f8ea122af70b2fb6573"
+msgid "ཡང་ ཚིགས་ སུ་ བཅད་ དེ་"
+msgstr ""
+
 msgctxt "91ff98b69c1b42f99870fb52bd36aff5"
-msgid "ཡང་ ཚིགས་ སུ་ བཅད་ དེ་ གསོལ་པ ། །"
+msgid "གསོལ་པ ། །"
 msgstr ""
 
 # རྒོད་དང་བྲལ་ཞིང་རྒྱགས་དང་མི་དགྱེས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»གིས་པད་མའི།
