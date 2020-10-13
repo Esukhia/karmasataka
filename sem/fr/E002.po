@@ -231,7 +231,7 @@ msgid ""
 "ད་ནི་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ སྦྲང་བུ␣འི་ སྦྲང་རྩི་ བཙིར་བ་ བཞིན་ དུ་ "
 "ཆོས་ སྙན་ ནོ་ ཅོག་ སྟོན་པ␣ར་ འགྱུར་ སྙམ་ སྟེ །"
 msgstr ""
-"maintenant, l'honorable Ananda nous enseignera tout le Dharma qu'il a "
+"maintenant, l'honorable Ānanda nous enseignera tout le Dharma qu'il a "
 "entendu comme le miel [s'écoule] lors du pressage. »"
 
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་<«ལི་»ཏེ།>
