@@ -1564,7 +1564,7 @@ msgid ""
 "ཁྱིམ་བདག་ མགོན་མེད་ ཟས་ སྦྱིན་ དང་ བཙུན་མོ␣འི་ འཁོར་ གྱི་ བླ་ དྲང་སྲོང་ "
 "སྦྱིན་ དང་ གནའ་མི␣ས་ ཀྱང་ ཐོས་ སོ ། །"
 msgstr ""
-"Le père de famille Anāthapiṇḍada et les sages Datta et Purāṇa, les gurus de "
+"Le père de famille Anāthapiṇḍada et les ṛṣis Datta et Purāṇa, les gurus de "
 "l'entourage de la reine l'entendirent aussi."
 
 msgctxt "2b9ff60828b44ef2946433310e7eac8b"
