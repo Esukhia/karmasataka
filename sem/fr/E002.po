@@ -311,7 +311,7 @@ msgctxt "f5c5fac9e01b4ecd939de0f0e45a6a5c"
 msgid ""
 "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ འདི་དག་ ཉིད་ ལ␣ས་ བརྩམས་ "
 "ནས་"
-msgstr "à partir de ces facteurs de l'éveil, l'honorable Ananda"
+msgstr "à partir de ces facteurs de l'éveil, l'honorable Ānanda"
 
 # དགེ་སློང་རྣམས་ལ་<«གཡུང་»ལས།>དེ་ལྟ་བུ་དང་འཐུན་<«གཡུང་»«པེ་»«ཞོལ་»མཐུན།>པའི་ཆོས་བསྟན་ཏེ།
 msgctxt "ca3d66ee7a4f4454a498fe361eacde6b"
