@@ -529,7 +529,7 @@ msgstr "\" Si tu possèdes les facteurs de l'éveil, Moine, expose-les \""
 # གནས་བརྟན་<«གཡུང་»རྟན།>ཀུན་དགའ་མཁས་ཤིང་གྲགས<«ཁུ་»འགུགས།>། །
 msgctxt "a5c54e7c5d1343049a95c8f2122aedd0"
 msgid "གནས་བརྟན་ ཀུན་དགའ་ མཁས་ ཤིང་ གྲགས ། །"
-msgstr "Ananda l'Ancien, érudit et renommé,"
+msgstr "Ānanda l'Ancien, érudit et renommé,"
 
 # :བྱང་བར་<«པེ་»ཁྱད་པར།>གྱུར་པས་ལེགས་ཞེས་གསོལ། །
 msgctxt "b0665894b0434fc1aff25f4801e8a6a3"
