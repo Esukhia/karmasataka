@@ -315,7 +315,7 @@ msgstr "si le Bienheureux a l'intention de révéler des actions passées,"
 
 msgctxt "4826b0e17ff74e80bbe432577e0574a9"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ སྣམ་ལོགས་ སུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
-msgstr "ils disparaissent par l'avant du Bienheureux."
+msgstr "ils disparaissent par l'arrière du Bienheureux."
 
 msgctxt "dc9d659eda7f41c3b8c5eb9ef16a108b"
 msgid "མ་འོངས་པ␣འི་ ལ␣ས་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
@@ -323,7 +323,7 @@ msgstr "S'il a l'intention de révéler des actions futures,"
 
 msgctxt "468321ca469a4219abff422a362e268e"
 msgid "མདུན་ལོགས་ སུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
-msgstr "ils disparaissent par l'arrière."
+msgstr "ils disparaissent par l'avant."
 
 # སེམས་ཅན་དམྱལ་བར་སྐྱེ་བར་<«གཡུང་»བར། «ཞོལ་»བ་སྐྱེ་བར།>ལུང་སྟོན་པར་བཞེད་ན་ནི་
 msgctxt "03c311f8f7e34fac8e6a6f2ac1e082de"
