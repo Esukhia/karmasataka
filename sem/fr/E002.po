@@ -725,7 +725,7 @@ msgid ""
 "ལེགས་པ␣ར་ སྨྲས་པ␣འི་ དོན་ གྱི་ སླད་ དུ །  བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་"
 " ཀུན་དགའ་བོ་ ལ་ བསྐུལ་བ་ མཛད་ ནས །"
 msgstr ""
-"le Bienheureux a exhorté l'honorable Ananda pour [écouter] cet exposé "
+"le Bienheureux a exhorté l'honorable Ānanda pour [écouter] cet exposé "
 "excellent."
 
 # བཀུར་སྟི་<«སྣར་»བསྟི།>དང་ལྡན་པས་གསན་ཀྱང་གསན།
