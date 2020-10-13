@@ -359,7 +359,7 @@ msgstr "S'il a l'intention de révéler des actions futures,"
 
 msgctxt "baa9253ede42434283cf63169bb6f919"
 msgid "མདུན་ལོགས་ སུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
-msgstr "ils disparaissent par l'arrière."
+msgstr "ils disparaissent par l'avant."
 
 # སེམས་ཅན་དམྱལ་བར་སྐྱེ་བར་ལུང་སྟོན་པར་བཞེད་ན་<«གཡུང་»–ན།>ནི་
 msgctxt "cefca6580ed24acf864f4bfffe50b495"
