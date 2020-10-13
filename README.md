@@ -13,3 +13,4 @@ excludes:
 
 TODO: 
  - implement paragraph transfer on the translation file of the reader version.
+ - implement `oe` to `œ`
