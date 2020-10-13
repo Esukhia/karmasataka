@@ -611,8 +611,8 @@ msgid ""
 "དེ␣འི་ ཚེ་ དཀའ་ཐུབ་ ཀྱི་ གནས་ ཤིག་ ན །  དྲང་སྲོང་ འཁོར་ ལྔ་ བརྒྱ་ ཡོད་པ་ "
 "ཞིག་ གནས་ སོ ། །"
 msgstr ""
-"à cette époque, dans un lieu [dédié] aux austérités, vivait un sage "
-"possédant un entourage de cinq cent [personnes]."
+"à cette époque, dans un lieu [dédié] aux austérités, vivait un ṛṣi possédant"
+" un entourage de cinq cent [personnes]."
 
 # དེ་ནས་མཆོད་སྦྱིན་བྱེད་པ་<«གཡུང་»པར།>དེར་དྲང་སྲོང་དེས་བྲམ་ཟེ་དེ་དག་འཐབ་པ་ཞི་བར་བྱ་བའི་ཕྱིར།
 # དེ་ལྟ་བུ་དང་འཐུན་པའི་ཆོས་བསྟན་:ཏེ།
