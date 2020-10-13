@@ -1,0 +1,696 @@
+# 
+# Translators:
+# Drupchen Dorje <drupchen@esukhia.org>, 2020
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Drupchen Dorje <drupchen@esukhia.org>, 2020\n"
+"Language-Team: French (France) (https://www.transifex.com/lotsawa-apprenticeship/teams/112155/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "78395c45d32541c0963ddc39387a8420"
+msgid "ལ␣ས་ བརྒྱ་ ཐམ་པ །"
+msgstr "Les cent karmas"
+
+msgctxt "a53eaf77a9dc4e2b8a8ae2af5adaabb2"
+msgid "བམ་པོ་ ལྔ་པ །"
+msgstr "Cinquième feuillet"
+
+# སྡོམ་ནི། ཤིང་རྟ་བཞི་དང་སྒམ་<«གཡུང་»«པེ་»སྐམ།>པོ་དང་། །
+# ས་འཚོ་སྐྲ་ལྡན་པད་མའི་<«ལི་»«ཅོ་»པའི།>མདོག །
+# ཤན་<«གཡུང་»ཤེན།>པ་གསེར་མདོག་བ་[52b]ལང་རྫི། །
+# མཛའ་སྡེ་འཇིགས་མེད་དབྱིག་མཚོ་དང་། ། དབྱིག་དགའ་དང་ནི་དོམ་གཉིས་དང་། །
+# སྒུར་ཆུང་དང་ནི་ཐ་མ་སྲིན། །
+msgctxt "a463de3a4ebe442dbbdfadbc568bd882"
+msgid ""
+"སྡོམ་ ནི །  ཤིང་རྟ་ བཞི་ དང་ སྒམ་པོ་ དང་ ། །  ས་འཚོ་ སྐྲ་ ལྡན་ པད་མ␣འི་ མདོག"
+"  །  ཤན་པ་ གསེར་མདོག་ བ་ལང་ རྫི ། །  མཛའ་ སྡེ་ འཇིགས་མེད་ དབྱིག་ མཚོ་ དང་ ། "
+"།  དབྱིག་ དགའ་ དང་ ནི་ དོམ་ གཉིས་ དང་ ། །  སྒུར་ ཆུང་ དང་ ནི་ ཐ་མ་ སྲིན ། །"
+msgstr ""
+"Le résumé (lit. la somme) : les quatre chariots, « Insondable », « Gopā », «"
+" Keśinī », « Couleur-de-Lotus », le boucher, « Doré », les vachers, le "
+"groupe d'amis, « Abhaya », « Lac-de-Joyaux », « Aimé-de-Richesse », les deux"
+" ours, le petit bossu et pour finir : la bête."
+
+msgctxt "bdec32a5d1514f88898369f12658e58c"
+msgid "ཤིང་རྟ་ བཞི་ ཞེས་ བྱ་བ་ ལ ། །"
+msgstr "Parmi les histoires des quatre chariots :"
+
+msgctxt "83601d6f9a0f4b9291ee1f9b9c9a4999"
+msgid "ཤིང་རྟ་ དང་པོ་ ནི །"
+msgstr "Le premier chariot"
+
+# གླེང་གཞི་མཉན་<«གཡུང་»བཞི་གཉན། «པེ་»གཞི་གཉན།>དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "360fc200438c45d88f39f8c712cfc9c0"
+msgid "གླེང་ གཞི་ མཉན་ དུ་ཡོད་པ་ ན་ བཞུགས་ ཏེ །"
+msgstr ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+
+# དེའི་ཚེ་བྲམ་ཟེ་ཞིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཞིག>མཆོད་སྦྱིན་བྱེད་པར་འདོད་དེ་
+msgctxt "1d1f4169335c42b88eae36aff5634a19"
+msgid "དེ␣འི་ ཚེ་ བྲམ་ཟེ་ ཞིག་ མཆོད་སྦྱིན་ བྱེད་པ␣ར་ འདོད་ དེ་"
+msgstr ""
+"À cette époque, un brahmane eut envie de faire une offrande rituelle. Alors,"
+
+msgctxt "c2b142ed97824b8a94dcad5722ed836d"
+msgid "ཤིང་རྟ་ ལ་ ཞོན་ ནས་"
+msgstr "il monta sur un chariot et"
+
+msgctxt "e6c9c20374994d29b2eba870ba41f68a"
+msgid "མཉན་ དུ་ཡོད་པ␣ར་ སོང་ ངོ་ ། །"
+msgstr "partit à Śrāvastī."
+
+msgctxt "b038e3e8dbfb4fff981b862d7c2a0e4f"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱང་ སྔ་དྲོ་ ཤམ་ཐབས་ དང་ ཆོས་གོས་ གསོལ་ ཏེ །"
+msgstr ""
+"De son côté, au petit matin, le Bienheureux revêtit le nivāsana et le cīvara"
+" et"
+
+msgctxt "51f40b35cea04bebb7aca1294ad8d454"
+msgid "ལྷུང་བཟེད་ བསྣམས་ ནས་"
+msgstr "il prit son bol à aumône et"
+
+msgctxt "4222a7b1566f49ec80cf630272e709a1"
+msgid "མཉན་ དུ་ཡོད་པ␣ར་ བསོད་སྙོམས་ ལ་ གཤེགས་པ་ དང་ །"
+msgstr "partit à Śrāvastī pour [y recevoir] l'aumône. Ainsi,"
+
+msgctxt "df050223103c426b934a9404e57f2a9e"
+msgid "དེ་ དགའ་བ་ སྐྱེས་ ནས་"
+msgstr "il ressentit de la joie et"
+
+# བཅོམ་ལྡན་འདས་ལ་བསྐོར་<«གཡུང་»«པེ་»སྐོར།>བ་བྱས་ཏེ་
+msgctxt "0bd8540fb0ba41b7a0f7fcafa7e79b16"
+msgid "བཅོམ་ལྡན་འདས་ ལ་ བསྐོར་བ་ བྱས་ ཏེ་"
+msgstr "tourna autour du Bienheureux et"
+
+msgctxt "67ee72432a394b2190e6102ff55a298c"
+msgid "སོང་ ངོ་ ། །"
+msgstr "s'en alla."
+
+msgctxt "5cf4f282204a4177bb794e5a370c1149"
+msgid "དེ␣འི་ སྐབས་ སུ་ བཅོམ་ལྡན་འདས་ ཀྱིས་ འཛུམ་པ་ མཛད་ དེ །"
+msgstr "À ce moment, le Bienheureux sourit et"
+
+msgctxt "357d49d872e84bcaa17b643d24ae16c6"
+msgid ""
+"འདི་ ནི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ རྣམས་ གང་ གི་ ཚེ་ འཛུམ་པ་ མཛད་པ␣འི་ "
+"ཆོས་ཉིད་ དེ །"
+msgstr ""
+"ceci, quand les Bienheureux Bouddhas sourient, [c'est] la nature [des "
+"sourires] que"
+
+msgctxt "5950c40c2cf242a4bcfb750ad06cf6fc"
+msgid ""
+"དེ␣འི་ ཚེ་ ཞལ་ ནས་ འོད་ཟེར་ སྔོན་པོ་ དང་ །  སེར་པོ་ དང་ །  དམར་པོ་ དང་ །  "
+"དཀར་པོ་ རྣམས་ བྱུང་ ནས་"
+msgstr ""
+"à ces moments, des rayons de lumière bleus, jaunes, rouges et blancs sont "
+"émis de sa bouche et"
+
+msgctxt "50092a4c19054672aa08a7e78f0b9f2d"
+msgid "ཁ་ཅིག་ ནི་ འོག་ ཏུ་ འགྲོ␣འོ ། །"
+msgstr "certains vont vers le bas."
+
+msgctxt "e0d6f94691a64e5eaebc0f6de1c930a1"
+msgid "ཁ་ཅིག་ ནི་ སྟེང་ དུ་ འགྲོ␣འོ ། །"
+msgstr "Certains vont vers le haut."
+
+# འོག་ཏུ་འགྲོ་བ་གང་ཡིན་པ་དེ་དག་ནི་སེམས་ཅན་དམྱལ་བ་ཡང་སོས་དང་། ཐིག་ནག་དང་།
+# བསྡུས་འཇོམས་དང་། ངུ་འབོད་དང་། ངུ་འབོད་ཆེན་པོ་དང་། ཚ་བ་དང་། རབ་ཏུ་ཚ་བ་དང་།
+# མནར་མེད་པ་དང་། ཆུ་བུར་ཅན་དང་། ཆུ་བུར་རྡོལ་དང་།
+# སོ་ཐམས་ཐམས་པ་<«གཡུང་»«པེ་»–པ།>དང་། ཀྱི་ཧུད་ཟེར་བ་དང་། ཨ་ཆུ་ཟེར་བ་དང་།
+# ཨུད་པལ་ལྟར་གས་པ་དང་། པད་མ་ལྟར་གས་པ་དང་། པད་མ་ལྟར་གས་པ་ཆེན་པོར་སོང་ནས།
+msgctxt "3a577686211c4791aefc0bc196c50639"
+msgid ""
+"འོག་ ཏུ་ འགྲོ་བ་ གང་ཡིན་པ་ དེ་དག་ ནི་ སེམས་ཅན་ དམྱལ་བ་ ཡང་སོས་ དང་ །  "
+"ཐིག་ནག་ དང་ །  བསྡུས་འཇོམས་ དང་ །  ངུ་འབོད་ དང་ །  ངུ་འབོད་ ཆེན་པོ་ དང་ །  "
+"ཚ་བ་ དང་ །  རབ་ཏུ་ ཚ་བ་ དང་ །  མནར་མེད་པ་ དང་ །  ཆུ་བུར་ ཅན་ དང་ །  ཆུ་བུར་ "
+"རྡོལ་ དང་ །  སོ་ ཐམས་ ཐམས་པ་ དང་ །  ཀྱི་ཧུད་ ཟེར་བ་ དང་ །  ཨ་ཆུ་ ཟེར་བ་ དང་ "
+"།  ཨུད་ པལ་ ལྟར་ གས་པ་ དང་ །  པད་མ་ ལྟར་ གས་པ་ དང་ །  པད་མ་ ལྟར་ གས་པ་ "
+"ཆེན་པོ␣ར་ སོང་ ནས །"
+msgstr ""
+"Ceux qui vont vers le bas vont chez les êtres infernaux de Résurrections, "
+"Lignes-Noires, Réunion-et-Écrasement, Pleurs-et-Hurlements, Grands-Pleurs-"
+"et-Hurlements, Brûlant, Extrêmement-Brûlant, Tourments-Insurpassables, "
+"Couvert-de-Cloques, Cloques-Éclatées, Dents-qui-Claquent, Lamentations, "
+"Quel-Froid, Fendu-comme-un-Lotus-Bleu, Fendu-comme-un-Lotus, Fendu-comme-un-"
+"Grand-Lotus et"
+
+# ཚ་བའི་སེམས་ཅན་དམྱལ་བ་གང་ཡིན་པ་དེ་དག་ཏུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཏུ།>ནི་བསིལ་བར་གྱུར་ཏེ་
+msgctxt "036e84486089450086a12f93b6978358"
+msgid "ཚ་བ␣འི་ སེམས་ཅན་ དམྱལ་བ་ གང་ཡིན་པ་ དེ་དག་ ཏུ་ ནི་ བསིལ་བ␣ར་ གྱུར་ ཏེ་"
+msgstr "ils rafraîchissent les êtres des enfers chauds et"
+
+msgctxt "0b6aae4d7520479a9cb570c4fc3a7d2f"
+msgid "འབབ་བོ ། །"
+msgstr "ils les touchent (lit. tombent)."
+
+# གྲང་བའི་སེམས་ཅན་དམྱལ་བ་གང་<«གཡུང་»–གང་།>ཡིན་པ་དེ་དག་ཏུ་ནི་དྲོ་བར་གྱུར་ཏེ་
+msgctxt "4f4697d36eeb420fa27554877b29c6fa"
+msgid "གྲང་བ␣འི་ སེམས་ཅན་ དམྱལ་བ་ གང་ཡིན་པ་ དེ་དག་ ཏུ་ ནི་ དྲོ་བ␣ར་ གྱུར་ ཏེ་"
+msgstr "Ils réchauffent les être des enfers froids et"
+
+msgctxt "e3b473bdaaf64ab5856dd7f2eef33c6a"
+msgid "འབབ་བོ ། །"
+msgstr "ils les touchent (lit. tombent)."
+
+# དེས་ན་སེམས་ཅན་དེ་དག་གི་གནོད་པའི་ཁྱད་པར་རྣམས་རྩེ་ཞིལ་བར་གྱུར་ཏོ<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»འགྱུར་རོ།
+# «པེ་»གྱུར་རོ།>། །
+msgctxt "34a1cf5a54b54f58850cba661af642b2"
+msgid ""
+"དེས་ན་ སེམས་ཅན་ དེ་དག་ གི་ གནོད་པ␣འི་ ཁྱད་པར་ རྣམས་ རྩེ་ ཞིལ་ བར་ གྱུར་ ཏོ །"
+" །"
+msgstr "Ensuite, les souffrances particulières de ces êtres sont amenuisées."
+
+msgctxt "80c61358a0f14a3dbfbb9a25c226e6c0"
+msgid "དེ་ནས་ དེ་དག་ འདི་ སྙམ་ དུ་ སེམས་ ཏེ །"
+msgstr "Ensuite, ils pensent ceci : «"
+
+msgctxt "cf83274cb08a443b9ee47431b67b9b16"
+msgid "ཀྱེ་"
+msgstr "Hé !"
+
+# ཅི་<«གཡུང་»ཆི། «ཁུ་»རྩི།>
+msgctxt "2c39d116dfae486fa49a68dad72d719e"
+msgid "ཅི་"
+msgstr "Qu'[en est-il] ?"
+
+msgctxt "22c2352d4acb46c98205c1ebf9062b85"
+msgid "བདག་ཅག་ འདི་ ནས་ ཤི་འཕོས་ སམ་"
+msgstr "Sommes-nous morts et partis de cet endroit ?"
+
+msgctxt "4ac5f2c291e345b1ba45df3a377d80c6"
+msgid "འོན་ཏེ་ གཞན་ དུ་ སྐྱེས་ སམ་ སྙམ་ མོ ། །"
+msgstr "Ou bien sommes-nous nés ailleurs ? »"
+
+# དེ་ནས་དེ་དག་དད་པ་བསྐྱེད་<«གཡུང་»སྐྱེད།>པའི་ཕྱིར་བཅོམ་ལྡན་འདས་སྤྲུལ་པ་འགྱེད་<«ཅོ་»འབྱེད།>པར་མཛད་དེ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»དོ།>།
+msgctxt "f83ec0db320e46e98eeba35ac87ebcdd"
+msgid ""
+"དེ་ནས་ དེ་དག་ དད་པ་ བསྐྱེད་པ␣འི་ ཕྱིར་ བཅོམ་ལྡན་འདས་ སྤྲུལ་པ་ འགྱེད་པ␣ར་ "
+"མཛད་ དེ །"
+msgstr ""
+"Ensuite, pour développer leur dévotion, le Bienheureux émet une émanation et"
+
+msgctxt "87e533df7d6940049113e5b9cee63cbe"
+msgid "དེ་དག་ གིས་ སྤྲུལ་པ་ མཐོང་ ནས་"
+msgstr "ils voient cette émanation et"
+
+msgctxt "a31388a0db2242caa2b1ffc35c74b093"
+msgid "འདི་ སྙམ་ དུ་ སེམས་ ཏེ །"
+msgstr "ils pensent ceci : «"
+
+msgctxt "a540233a99064758a83bcef9a7088736"
+msgid "ཀྱེ་"
+msgstr "Hé !"
+
+msgctxt "6231611ec332456f93e301dea61b01bd"
+msgid "བདག་ཅག་ ནི་ འདི་ ནས་ ཀྱང་ ཤི་འཕོས་ པར་མ་ གྱུར་ ལ་"
+msgstr "Nous ne sommes pas morts ni partis de cet endroit. De plus,"
+
+msgctxt "d56e3953a0b24e0da97fb656b0476f92"
+msgid "གཞན་ དུ་ ཡང་ མ་ སྐྱེས་ མོད་ ཀྱི་"
+msgstr "nous ne sommes pas nés ailleurs, mais"
+
+# འོན་ཀྱང་སྔོན་མ་བྱུང་<«གཡུང་»མར་འབྱུང་།
+# «པེ་»མ་འབྱུང་།>བའི་སེམས་ཅན་སྣང་བ་འདིའི་མཐུས་བདག་ཅག་གི་གནོད་པའི་ཁྱད་པར་རྣམས་རྩེ་ཞིལ་བར་གྱུར་ཏོ་སྙམ་མོ།
+# །
+msgctxt "01b18a2822c8420f92baefd9e152b682"
+msgid ""
+"འོན་ཀྱང་ སྔོན་མ་ བྱུང་བ␣འི་ སེམས་ཅན་ སྣང་བ་ འདི␣འི་ མཐུ␣ས་ བདག་ཅག་ གི་ "
+"གནོད་པ␣འི་ ཁྱད་པར་ རྣམས་ རྩེ་ ཞིལ་ བར་ གྱུར་ ཏོ་ སྙམ་ མོ ། །"
+msgstr ""
+"pourtant, cet être que nous voyons et qui n'était pas apparu avant, c'est "
+"grâce à lui que les particularités de nos maux sont amenuisées. »"
+
+msgctxt "d38c5357b0d24b348c30b8b35b29439f"
+msgid "དེ་ནས་ དེ་དག་ སྤྲུལ་པ་ ལ་ སེམས་ མངོན་པར་ དགའ་བ␣ར་ གྱུར་ ནས་"
+msgstr "Ensuite, ils sont emplis d'une joie entière pour cette émanation et"
+
+# སེམས་ཅན་དམྱལ་བ་མྱོང་བར་འགྱུར་བའི་ལས་དེ་ཟད་དེ<«གཡུང་»«པེ་»དོ།>།
+msgctxt "05fefa144ca94229af194ce470eeeb9d"
+msgid "སེམས་ཅན་ དམྱལ་བ་ མྱོང་བ␣ར་ འགྱུར་བ␣འི་ ལ␣ས་ དེ་ ཟད་ དེ །"
+msgstr ""
+"ils épuisent les actions qui leur font faire l'expérience des êtres des "
+"enfers et"
+
+# ལྷ་དང་མི་རྣམས་ཀྱི་ནང་དུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དུ།>གང་དུ་བདེན་པ་རྣམས་ཀྱི་སྣོད་དུ་རུང་བར་འགྱུར་བ་དེར་<«གཡུང་»«པེ་»འགྱུར་བ་དང་།
+# «ལི་»གྱུར་པ་དེར།>ཉིང་མཚམས་འཛིན་པར་འགྱུར་རོ། །
+msgctxt "ee8ad24fca0a4ee3ad3211be44558d2a"
+msgid ""
+"ལྷ་ དང་ མི་ རྣམས་ ཀྱི་ ནང་ དུ་ གང་ དུ་ བདེན་པ་ རྣམས་ ཀྱི་ སྣོད་ དུ་ རུང་བ␣ར་"
+" འགྱུར་བ་ དེ␣ར་ ཉིང་མཚམས་ འཛིན་པ␣ར་ འགྱུར་ རོ ། །"
+msgstr ""
+"ils reprennent naissance chez les dieux et les hommes où ils pourront "
+"appréhender (lit. seront des réceptacles pour) les vérités."
+
+# སྟེང་དུ་འགྲོ་བ་གང་ཡིན་པ་དེ་དག་ནི་རྒྱལ་ཆེན་བཞིའི་རིས་རྣམས་དང་།
+# སུམ་ཅུ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»བཅུ།>རྩ་གསུམ་པ་རྣམས་དང་། འཐབ་བྲལ་བ་རྣམས་དང་།
+# དགའ་ལྡན་པ་རྣམས་དང་། འཕྲུལ་དགའ་རྣམས་དང་། གཞན་འཕྲུལ་དབང་བྱེད་རྣམས་དང་།
+# ཚངས་རིས་རྣམས་དང་།
+# ཚངས་པའི་<«གཡུང་»«པེ་»པ།>མདུན་ན་འདོན་པ་རྣམས་དང་<«གཡུང་»–དང་།>།
+# ཚངས་པ་ཆེན་པོ་རྣམས་དང་། འོད་ཆུང་རྣམས་དང་། ཚད་མེད་འོད་རྣམས་དང་།
+# འོད་གསལ་རྣམས་དང་། དགེ་ཆུང་རྣམས་དང་། ཚད་མེད་དགེ་རྣམས་དང་། དགེ་རྒྱས་རྣམས་དང་།
+# སྤྲིན་མེད་རྣམས་དང་། བསོད་ནམས་སྐྱེས་རྣམས་དང་། འབྲས་བུ་ཆེ་<«ཅོ་»+བ།>རྣམས་དང་།
+# མི་ཆེ་བ་རྣམས་དང་། མི་གདུང་བ་རྣམས་དང་།
+# གྱ་ནོམ་སྣང་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–བ།>རྣམས་དང་།
+# ཤིན་ཏུ་མཐོང་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–བ།>རྣམས་དང་།
+# འོག་མིན་གྱི་ལྷ་རྣམས་ཀྱི་བར་དུ་སོང་ནས་
+msgctxt "f9c0502a8ad84d528fa0e87a1901fb92"
+msgid ""
+"སྟེང་ དུ་ འགྲོ་བ་ གང་ཡིན་པ་ དེ་དག་ ནི་ རྒྱལ་ཆེན་ བཞི␣འི་ རིས་ རྣམས་ དང་ །  "
+"སུམ་ཅུ་རྩ་གསུམ་པ་ རྣམས་ དང་ །  འཐབ་བྲལ་བ་ རྣམས་ དང་ །  དགའ་ལྡན་པ་ རྣམས་ དང་ "
+"།  འཕྲུལ་དགའ་ རྣམས་ དང་ །  གཞན་འཕྲུལ་ དབང་ བྱེད་ རྣམས་ དང་ །  ཚངས་རིས་ རྣམས་"
+" དང་ །  ཚངས་པ␣འི་ མདུན་ན་འདོན་པ་ རྣམས་ དང་ །  ཚངས་པ་ ཆེན་པོ་ རྣམས་ དང་ །  "
+"འོད་ཆུང་ རྣམས་ དང་ །  ཚད་ མེད་ འོད་ རྣམས་ དང་ །  འོད་གསལ་ རྣམས་ དང་ །  "
+"དགེ་ཆུང་ རྣམས་ དང་ །  ཚད་ མེད་ དགེ་ རྣམས་ དང་ །  དགེ་རྒྱས་ རྣམས་ དང་ །  "
+"སྤྲིན་ མེད་ རྣམས་ དང་ །  བསོད་ནམས་ སྐྱེས་ རྣམས་ དང་ །  འབྲས་བུ་ ཆེ་ རྣམས་ "
+"དང་ །  མི་ཆེ་བ་ རྣམས་ དང་ །  མི་གདུང་བ་ རྣམས་ དང་ །  གྱ་ནོམ་ སྣང་བ་ རྣམས་ "
+"དང་ །  ཤིན་ཏུ་ མཐོང་བ་ རྣམས་ དང་ །  འོག་མིན་ གྱི་ ལྷ་ རྣམས་ ཀྱི་ བར་ དུ་ "
+"སོང་ ནས་"
+msgstr ""
+"Ceux qui vont vers le haut vont chez les dieux des Quatre Grands Rois, ceux "
+"du monde des Trente-Trois, ceux de Sans-Affrontement, ceux de Tuṣita, ceux "
+"de Délices-des-Productions, ceux de Appropriation-des-Productions-d'Autrui, "
+"ceux du monde de Brahmā, ceux des Prêtres-de-Brahmā, ceux de Grand-Brahmā, "
+"ceux de Lueur, ceux de Lumière-Infinie, ceux de Lumière-Claire, ceux de "
+"Petite-Vertu, ceux de Lumière-Infinie, ceux de Vertu-Étendue, ceux de Sans-"
+"Nuages, ceux de Naissance-des-Vertus, ceux de Grands-Fruits, ceux de Sans-"
+"Grandeur, ceux de Sans-Affliction, ceux de Vision-Excellente, ceux de "
+"Vision-Inouïe, et jusqu'à chez ceux de Culminant et"
+
+# མི་རྟག་པ་དང་། སྡུག་བསྔལ་བ་དང་། སྟོང་པ་དང་། བདག་མེད་པའི་སྒྲ་སྒྲོགས་སོ།
+# <«ཞོལ་»སྒྲོག་གོ།>།
+msgctxt "56c6794bdf7e47caa2020eee573c30ff"
+msgid ""
+"མི་རྟག་པ་ དང་ །  སྡུག་བསྔལ་བ་ དང་ །  སྟོང་པ་ དང་ །  བདག་མེད་པ␣འི་ སྒྲ་ "
+"སྒྲོགས་ སོ ། །"
+msgstr ""
+"font résonner les sons de l'impermanence, de la douleur, de l'absence "
+"d'existence et de l'absence de moi."
+
+# ཚིགས་སུ་བཅད་པ་གཉིས་ཀྱང་རྗོད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཁུ་»བརྗོད།>པར་བྱེད་དེ།
+msgctxt "4dbfc47330124bccacd6691d1c472650"
+msgid "ཚིགས་ སུ་ བཅད་པ་ གཉིས་ ཀྱང་ རྗོད་པ␣ར་ བྱེད་ དེ །"
+msgstr "Deux versets sont aussi proclamés :"
+
+msgctxt "a547d0836de04d16ab0aa77a3662143c"
+msgid "ངེས་པར་ འབྱུང་བ་ བརྩམ་པ␣ར་ གྱིས ། །"
+msgstr "Faites les efforts pour vous retirer du monde."
+
+# སངས་རྒྱས་བསྟན་ལ་སྦྱོར་<«གཡུང་»«པེ་»སྦྱར།>བར་གྱིས། །
+msgctxt "d32aa18426d54ad68fdd13514ad5ed86"
+msgid "སངས་རྒྱས་ བསྟན་ ལ་ སྦྱོར་བ␣ར་ གྱིས ། །"
+msgstr "Appliquez l'enseignement du Bouddha."
+
+msgctxt "854fdd8e06424f56b8aa7d8196f4fff5"
+msgid ""
+"འདམ་བུ␣འི་ ཁྱིམ་ ལ་ གླང་ཆེན་ བཞིན ། །  འཆི་བདག་ སྡེ་ ནི་ གཞོམ་པ␣ར་ གྱིས ། །"
+msgstr ""
+"Comme un éléphant dans une maison en argile, détruisez les armées (lit. "
+"groupes) du seigneur de la mort."
+
+msgctxt "024dc069e9d14c209cf913f7e673be85"
+msgid ""
+"གང་ཞིག་ ཆོས་ འདུལ་ འདི་ཉིད་ ལ ། །  བག་ ཡོད་ སྤྱོད་པ␣ར་ བྱེད་པ་ ནི ། །  "
+"སྐྱེ་བ␣འི་ འཁོར་བ་ རབ་ སྤངས་ ནས ། །"
+msgstr ""
+"Celui qui pratique (lit. se conduit) avec soin ce Dharma du Vinaya, "
+"abandonnera la roue des naissances et"
+
+msgctxt "6095574f239e430cb523dd55c8575a75"
+msgid "སྡུག་བསྔལ་ ཟད་པར་ བྱེད་པ␣ར་ འགྱུར་ ཞེས་"
+msgstr "épuisera les souffrances."
+
+# རྗོད་<«གཡུང་»«པེ་»«སྣར་»«ཁུ་»བརྗོད།>པར་བྱེད་དོ། །
+msgctxt "65d39f6e38e7498bb2bb52ef251c529b"
+msgid "རྗོད་པ␣ར་ བྱེད་ དོ ། །"
+msgstr "fut-il proclamé."
+
+msgctxt "72ae848f7a1048c9a2f739934cc0a7dd"
+msgid ""
+"དེ་ནས་ འོད་ཟེར་ དེ་དག་ གིས་ སྟོང་གསུམ་ གྱི་ སྟོང་ ཆེན་པོ␣འི་ འཇིག་རྟེན་ གྱི་"
+" ཁམས་ བསྐོར་ ནས །"
+msgstr ""
+"Donc, ces rayons de lumière font le tour du trichiliocosme (lit. le monde de"
+" l'étendue du grand millier des trois mille) et"
+
+# བཅོམ་ལྡན་འདས་ཀྱི་ཕྱི་བཞིན་འབྲང་<«གཡུང་»འབྲངས།>སྟེ།
+msgctxt "e2df9c6545ef46de8a09d129f912dfa6"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ ཕྱི་བཞིན་ འབྲང་ སྟེ །"
+msgstr "ils reviennent vers (lit. suivent) le Bienheureux et"
+
+# གལ་ཏེ་བཅོམ་ལྡན་འདས་ཀྱིས་འདས་པའི་<«གཡུང་»+དུ།
+# «པེ་»+དུས།>ལས་ལུང་སྟོན་<«གཡུང་»«པེ་»སྔོན།>པར་བཞེད་ན་ནི་
+msgctxt "ecf4e68836054080a67889ad44d908bd"
+msgid "གལ་ཏེ་ བཅོམ་ལྡན་འདས་ ཀྱིས་ འདས་པ␣འི་ ལ␣ས་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "si le Bienheureux a l'intention de révéler des actions passées,"
+
+msgctxt "aef81a8eef504dc7aa9d5dc472af09bc"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ སྣམ་ལོགས་ སུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent par l'avant du Bienheureux."
+
+msgctxt "1f021e37d25e4d6d9c161d36f6e35a9e"
+msgid "མ་འོངས་པ␣འི་ ལ␣ས་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler des actions futures,"
+
+msgctxt "baa9253ede42434283cf63169bb6f919"
+msgid "མདུན་ལོགས་ སུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent par l'arrière."
+
+# སེམས་ཅན་དམྱལ་བར་སྐྱེ་བར་ལུང་སྟོན་པར་བཞེད་ན་<«གཡུང་»–ན།>ནི་
+msgctxt "cefca6580ed24acf864f4bfffe50b495"
+msgid "སེམས་ཅན་ དམྱལ་བ␣ར་ སྐྱེ་བ␣ར་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler une naissance dans les enfers,"
+
+msgctxt "d2306ff0714d437aa6ff36775b8165a8"
+msgid "ཞབས་ ཀྱི་ མཐིལ་ དུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans les plantes des pieds."
+
+msgctxt "8e335056c75e4e8094d3da016f7a3de0"
+msgid "དུད་འགྲོ␣ར་ སྐྱེ་བ␣ར་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler une naissance chez les animaux,"
+
+msgctxt "62d87f4a82a34d34a4337e0a15088f1c"
+msgid "ཞབས་ ཀྱི་ རྟིང་པ␣ར་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans les talons."
+
+msgctxt "6641b5f8036e4f75a85ae3ec0b4fcd83"
+msgid "ཡི་དགས་ སུ་ སྐྱེ་བ␣ར་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler une naissance chez les esprits affamés,"
+
+# ཞབས་ཀྱི་མཐེ་<«གཡུང་»ཐེ།>བོར་མི་སྣང་བར་འགྱུར་རོ། །
+msgctxt "392efd572fcf4b7cac84f58468e89a68"
+msgid "ཞབས་ ཀྱི་ མཐེ་བོ␣ར་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans le gros orteil."
+
+msgctxt "4aa23b66de8d4451904ea932cdaeb089"
+msgid "མི␣ར་ སྐྱེ་བ␣ར་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler une naissance chez les humains,"
+
+msgctxt "f33752026ff24867ae0601e1963c3882"
+msgid "པུས་མོ་ གཉིས་ སུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans les deux genoux."
+
+msgctxt "0874ab849eeb4cd3a9c5426fc7fbc4a0"
+msgid ""
+"སྟོབས་ ཀྱི་ འཁོར་ལོ␣ས་ སྒྱུར་བ␣འི་ རྒྱལ་པོ␣ར་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr ""
+"S'il a l'intention de révéler une naissance comme monarque universel établi "
+"par la force,"
+
+# ཕྱག་གཡོན་པའི་མཐིལ་དུ་མི་སྣང་བར་<«ལི་»–བར།>འགྱུར་རོ། །
+msgctxt "c09d9d29102a4345b1d785bdd97ace92"
+msgid "ཕྱག་ གཡོན་པ␣འི་ མཐིལ་ དུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans la paume de la main gauche."
+
+msgctxt "16a0f8afad164031885859e7a756e6ff"
+msgid "འཁོར་ལོ␣ས་ སྒྱུར་བ␣འི་ རྒྱལ་པོ␣ར་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler une naissance comme monarque universel,"
+
+msgctxt "117e7f4f3dff4b609452486318c23771"
+msgid "ཕྱག་ གཡས་པ␣འི་ མཐིལ་ དུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans la paume de la main droite."
+
+msgctxt "5ffa3c0b43a4412e8915377df9d2368c"
+msgid "ལྷ␣ར་ སྐྱེ་བ␣ར་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler une naissance chez les dieux,"
+
+msgctxt "0df3436c2ebe49f3974aeed431587d7c"
+msgid "ལྟེ་བ␣ར་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans le nombril."
+
+msgctxt "acb2d337c4884a13bdfa3d3e6eddabe0"
+msgid "ཉན་ཐོས་ ཀྱི་ བྱང་ཆུབ་ ཏུ་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler un éveil des auditeurs,"
+
+msgctxt "bc4d70c1384644229b98ba9ea1f28fdd"
+msgid "ཞལ་ དུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans la bouche."
+
+msgctxt "97a93e8895e0443aac3bcc0f20a7ac3f"
+msgid "རང་ སངས་རྒྱས་ ཀྱི་ བྱང་ཆུབ་ ཏུ་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler un éveil des bouddhas solitaires,"
+
+# སྨིན་མཚམས་ཀྱི་མཛོད་སྤུར་<«གཡུང་»བུར།>མི་སྣང་བར་འགྱུར་རོ། །
+msgctxt "a18659f2db784bc49532be78a02ed6de"
+msgid "སྨིན་མཚམས་ ཀྱི་ མཛོད་སྤུ␣ར་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans le poil [lové] entre les sourcils."
+
+# བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཏུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»སངས་རྒྱས་སུ།>ལུང་སྟོན་པར་བཞེད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»མཛད།>ན་ནི་
+msgctxt "2276febb825b43b3979c6ec26fd07aab"
+msgid ""
+"བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཏུ་ ལུང་སྟོན་པ␣ར་ བཞེད་ ན་ ནི་"
+msgstr "S'il a l'intention de révéler un éveil complet et parfait,"
+
+msgctxt "a75e61a124554353bb5c3f1fc31c6a9d"
+msgid "དབུ␣འི་ གཙུག་ཏོར་ དུ་ མི་སྣང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "ils disparaissent dans l'uṣṇīṣa."
+
+# དེ་ནས་འོད་ཟེར་དེ་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་<«གཡུང་»བཀོར་བ།
+# «ཅོ་»བསྐོར་བར།>བྱས་ཏེ།
+msgctxt "60a0d4c76a2b4a9b99bcc9adbab58cc6"
+msgid ""
+"དེ་ནས་ འོད་ཟེར་ དེ་དག་ གིས་ བཅོམ་ལྡན་འདས་ ལ་ ལན་ གསུམ་ བསྐོར་བ་ བྱས་ ཏེ །"
+msgstr ""
+"Donc, ces rayons de lumière tournèrent trois fois autour du Bienheureux et"
+
+msgctxt "150f59a62f5c4138a668a1e90d024a2e"
+msgid ""
+"བཅོམ་ལྡན་འདས་ ཀྱི་ སྨིན་མཚམས་ ཀྱི་ མཛོད་སྤུ␣ར་ མི་སྣང་བ␣ར་ གྱུར་ ཏོ ། །"
+msgstr "ils disparurent dans le poil [lové] entre ses sourcils."
+
+msgctxt "dc06b55604214f46b2f9b2be24e892fe"
+msgid "དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ ཐལ་མོ་ སྦྱར་ ཏེ །"
+msgstr "Ensuite, l'honorable Ananda joignit les mains et"
+
+msgctxt "645c36676d2e4c10a8d34976c29203cc"
+msgid "བཅོམ་ལྡན་འདས་ ལ་ ཞུས་པ །"
+msgstr "demanda au Bienheureux : «"
+
+msgctxt "2a4bad7a5f574282a3fba25a37b0657b"
+msgid ""
+"ཚོན་ སྣ་ སྟོང་ གིས་ སྤེལ་བ་ སྣ་ཚོགས་ ཅན ། །  མང་པོ་ ཞལ་ གྱི་ སྒོ་ ནས་ "
+"བྱུང་བ␣ར་ གྱུར ། །"
+msgstr "De nombreux et divers [rayons] formés de mille couleurs différentes."
+
+# དེ་ཡིས་ཕྱོགས་རྣམས་ཀུན་དུ་སྣང་བར་བགྱིས།<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བ།> །
+msgctxt "747b9e8ab69b449b936e30738c26cd81"
+msgid "དེ་ ཡིས་ ཕྱོགས་ རྣམས་ ཀུན་ དུ་ སྣང་བ␣ར་ བགྱིས ། །"
+msgstr "Ils illuminent partout dans toutes les directions,"
+
+# ཉི་མ་ཤར་བས་<«གཡུང་»«པེ་»དགྱིས།>ཇི་ལྟར་བགྱིས་པ་བཞིན། །
+msgctxt "16b59acbc02b4034abb0578b0e5f15d1"
+msgid "ཉི་མ་ ཤར་བ␣ས་ ཇི་ལྟར་ བགྱིས་པ་ བཞིན ། །"
+msgstr "comme le fait le soleil qui brille. »"
+
+msgctxt "e16a44d052c94f8ea122af70b2fb6573"
+msgid "ཡང་ ཚིགས་ སུ་ བཅད་ དེ་"
+msgstr "Puis, en vers,"
+
+msgctxt "91ff98b69c1b42f99870fb52bd36aff5"
+msgid "གསོལ་པ ། །"
+msgstr "il demanda : «"
+
+# རྒོད་དང་བྲལ་ཞིང་རྒྱགས་དང་མི་དགྱེས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»གིས་པད་མའི།
+# «སྣར་»གིས་པདྨའི། «ཞོལ་»གིས་དམ་པའི།>སྤངས་པ་ཡི། །
+# སངས་རྒྱས་འགྲོ་བ་དག་གི་དམ་པའི་<«གཡུང་»–ནི།>རྒྱུར་གྱུར་པ། །
+# རྒྱལ་བ་དགྲ་ཐུབ་རྣམས་ནི་རྒྱུ་རྐྱེན་མ་མཆིས་པར། །
+# པད་མའི་རྩ་དང་དུང་མདོག་ལྟ་བུའི་འཛུམ་མི་སྟོན། །
+msgctxt "f988632fb2f5491f90f54be6e5ceb045"
+msgid ""
+"རྒོད་ དང་ བྲལ་ ཞིང་ རྒྱགས་ དང་ མི་ དགྱེས་ སྤངས་པ་ ཡི ། །  སངས་རྒྱས་ འགྲོ་བ་ "
+"དག་ གི་ དམ་པ␣འི་ རྒྱུ␣ར་ གྱུར་པ ། །  རྒྱལ་བ་ དགྲ་ ཐུབ་ རྣམས་ ནི་ རྒྱུ་རྐྱེན་"
+" མ་ མཆིས་པ␣ར ། །  པད་མ␣འི་ རྩ་ དང་ དུང་ མདོག་ ལྟ་བུ␣འི་ འཛུམ་ མི་ སྟོན ། །"
+msgstr ""
+"Exempts de bestialité (lit. état sauvage), débarrassés de l'arrogance et du "
+"mécontentement, les bouddhas qui sont la source de ce qui est noble pour les"
+" êtres, les vainqueurs, eux qui vainquent les ennemis, ne montrent pas sans "
+"cause ni condition leur sourire blanc comme la racine de lotus et la couleur"
+" de la conque."
+
+msgctxt "b2024f3e0d634ec59a2a74bad031e049"
+msgid "བརྟན་པོ་ ཉིད་ ཀྱི་ བློ་ ཡིས་ དུས་བབ་ མཁྱེན་ ལགས་ ན ། །"
+msgstr ""
+"[Votre] esprit qui est la stabilité elle-même sait que le moment est venu. "
+"Donc,"
+
+# དགེ་སྦྱོང་རྒྱལ་དབང་ཉན་པ་སོམ་ཉི་འཚལ་བ་རྣམས། །
+# ཐུབ་པ་ཁྱུ་མཆོག་གི་ནི་<«གཡུང་»«པེ་»བསྟན།
+# «ཅོ་»བརྟེན།>གསུང་མཆོག་བརྟན་<«གཡུང་»«པེ་»ཙོམ།>པ་དང་། །
+# བཟང་པོ་དག་གིས་ཐེ་ཚོམ་<«གཡུང་»–རྫོགས།>སྐྱེས་པ་བསལ་བར་གསོལ། །
+msgctxt "ce142fcf572a40fa95f7c5ce77ca49ac"
+msgid ""
+"དགེ་སྦྱོང་ རྒྱལ་དབང་ ཉན་པ་ སོམ་ཉི་ འཚལ་བ་ རྣམས ། །  ཐུབ་པ་ ཁྱུ་མཆོག་ གི་ ནི་"
+" གསུང་མཆོག་ བརྟན་པ་ དང་ ། །  བཟང་པོ་ དག་ གིས་ ཐེ་ཚོམ་ སྐྱེས་པ་ བསལ་བ␣ར་ གསོལ"
+" ། །"
+msgstr ""
+"Veuillez disperser les questionnements des pratiquants (lit. śramaṇa) pris "
+"par (lit. qui ont) les doutes qui [vous] écoutent, Souverain des Vainqueurs,"
+" par vos paroles suprêmes qui sont stables et bienfaisantes (lit. nobles)."
+
+# རྒྱ་མཚོ་དང་ནི་རི་རྒྱལ་ལྟ་བུར་བརྟན་པ་ཡི། ། མགོན་པོ་རྫོགས་<«གཡུང་»གྱིན་འདའ།
+# «ཅོ་»ཀྱི་ནར། «ཞོལ་»གྱི་ནར།>སངས་རྒྱས་རྣམས་གྱི་ན་ད་<«གཡུང་»«པེ་»ཆེ།
+# «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»ཆེར>འཛུམ་མི་སྟོན། །
+msgctxt "65b4f0162f974cf1808d1b19fea35a9c"
+msgid ""
+"རྒྱ་མཚོ་ དང་ ནི་ རི་རྒྱལ་ ལྟ་བུ␣ར་ བརྟན་པ་ ཡི ། །  མགོན་པོ་ རྫོགས་ སངས་རྒྱས་"
+" རྣམས་ གྱི་ ད་ འཛུམ་ མི་ སྟོན ། །"
+msgstr ""
+"Les parfaits Bouddhas, les protecteurs qui sont aussi stables que l'océan et"
+" la reine des montagnes, ne montrent pas leur sourire sans raison."
+
+# གང་གི་དོན་དུ་དཔའ་བོ་འཛུམ་པ་སྟོན་མཛད་པ། །
+# དེ་ནི་ཁྱོད་ལ་སྐྱེ་བོ་ཕལ་ཆེན་<«པེ་»སྡིངས།>ཉན་པར་འཚལ། །
+msgctxt "21266dea629b4897b9fca9667b2a4a7b"
+msgid ""
+"གང་ གི་ དོན་ དུ་ དཔའ་བོ་ འཛུམ་པ་ སྟོན་ མཛད་པ ། །  དེ་ ནི་ ཁྱོད་ ལ་ སྐྱེ་བོ་ "
+"ཕལ་ཆེན་ ཉན་པ␣ར་ འཚལ ། །"
+msgstr ""
+"La raison pour laquelle [vous], Héros, avez montré votre sourire, ceci, la "
+"multitude de personnes aimerait l'entendre de vous."
+
+# འབྲུག་སྒྲ་ལྟ་བུའི་གསུང་ལྡན་པ། ། ཁྱུ་མཆོག་ལྟ་བུའི་ལྟ་སྟངས་<«གཡུང་»+གཤེགས།>ཅན།
+# ། མི་མཆོག་མཆོད་པ་བགྱིད་པ་ཡི། ། འབྲས་བུ་[54a]ཅིར་འགྱུར་ལུང་བསྟན་གསོལ། །
+msgctxt "53a0b88346ad4255afbfe26d3a65d0d8"
+msgid ""
+"འབྲུག་སྒྲ་ ལྟ་བུ␣འི་ གསུང་ ལྡན་པ ། །  ཁྱུ་མཆོག་ ལྟ་བུ␣འི་ ལྟ་སྟངས་ ཅན ། །  "
+"མི་མཆོག་ མཆོད་པ་ བགྱིད་པ་ ཡི ། །  འབྲས་བུ་ ཅིར་ འགྱུར་ ལུང་བསྟན་ གསོལ ། །"
+msgstr ""
+"[Vous] qui possédez un verbe semblable au [tonitruant] cri (lit. son) du "
+"dragon, qui avez un regard semblable à une vache, veuillez révéler comment "
+"se montre (lit. devient) le résultat de faire des offrandes au suprême des "
+"humains."
+
+msgctxt "fc6bb9b00b674e568781cc043637286c"
+msgid "བཙུན་པ་"
+msgstr "Vénérable,"
+
+# དེ་བཞིན་གཤེགས་<«ཅོ་»–མ།>པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ནི་རྒྱུ་མ་མཆིས་རྐྱེན་མ་<«ལི་»དགའོ།>མཆིས་པར་འཛུམ་པ་སྟོན་པར་མི་མཛད་ན།
+msgctxt "3b3626a0f6424b4981d332cd8698bb06"
+msgid ""
+"དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ རྣམས་ ནི་ "
+"རྒྱུ་མ་ མཆིས་ རྐྱེན་ མ་ མཆིས་པ␣ར་ འཛུམ་པ་ སྟོན་པ␣ར་ མི་ མཛད་ ན །"
+msgstr ""
+"Les Tathāgatas, les Arhats, les complets et parfaits Bouddhas ne montrent "
+"pas leur sourire sans cause et sans condition. De ce fait,"
+
+msgctxt "80e47c695f154d5f9e3326e6abc0b0a9"
+msgid "འཛུམ་པ་ མཛད་པ␣འི་ རྒྱུ་ གང་ ལགས་"
+msgstr "quelle est la cause de votre sourire ?"
+
+msgctxt "23e37a05c09c476ebfb627287a95dbde"
+msgid "རྐྱེན་ གང་ ལགས །"
+msgstr "Quelle en sont ses conditions ? »"
+
+msgctxt "3a4281bc722f43ccb24a2734b834418c"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
+msgstr "Le Bienheureux dit : «"
+
+# ཀུན་དགའ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ནི།>བོ་
+msgctxt "f9c7bd8965044c5398d20898bf96d272"
+msgid "ཀུན་དགའ་བོ་"
+msgstr "Ānanda,"
+
+# དེ་ནི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ནི།>དེ་བཞིན་ནོ། །
+msgctxt "f3d79830929c4f7d8b4a130f17ca568c"
+msgid "དེ་ ནི་ དེ་བཞིན་ ནོ ། །"
+msgstr "C'est comme ceci."
+
+# དེ་ནི་<«གཡུང་»བར་མམ།>དེ་བཞིན་ཏེ།
+msgctxt "4b41d9b768fb4dc0af57429739fa326a"
+msgid "དེ་ ནི་ དེ་བཞིན་ ཏེ །"
+msgstr "C'est comme ceci. De plus,"
+
+msgctxt "0fcc6a05a7fe44ea9237e8c0c338b8fc"
+msgid "ཀུན་དགའ་བོ་"
+msgstr "Ānanda,"
+
+msgctxt "eb5aa823e4b84c37810121576e62e4db"
+msgid ""
+"དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ རྣམས་ ནི་ "
+"རྒྱུ་ དང་ རྐྱེན་ མེད་པ␣ར་ འཛུམ་པ་ མི་ མཛད་ དོ ། །"
+msgstr ""
+"Les Tathāgatas, les Arhats, les complets et parfaits Bouddhas ne montrent "
+"pas leur sourire sans cause et sans condition."
+
+msgctxt "2d2e507b95fb4724bb72e708489ce4b9"
+msgid "ཀུན་དགའ་བོ་"
+msgstr "Ānanda,"
+
+# ཁྱོད་ཀྱིས་བྲམ་ཟེ་གང་གིས་དེ་བཞིན་གཤེགས་པ་ལ་བསྐོར་བ་བྱས་ཏེ་སོང་བ་མཐོང་ངམ<17,#>།
+msgctxt "5d209d7e5917430888f37d0bac4ab404"
+msgid ""
+"ཁྱོད་ ཀྱིས་ བྲམ་ཟེ་ གང་ གིས་ དེ་བཞིན་ གཤེགས་པ་ ལ་ བསྐོར་བ་ བྱས་ ཏེ་ སོང་བ་ "
+"མཐོང་ ངམ །"
+msgstr "as-tu vu ce brahmane tourner autour du Tathāgata et partir ? »"
+
+msgctxt "5bf6ab9833184e7c9ad0d9068ad81a48"
+msgid "བཙུན་པ་"
+msgstr "« Vénérable,"
+
+msgctxt "9f7e0561ee1d476180d62edb26449573"
+msgid "མཐོང་ ལགས་སོ ། །"
+msgstr "je l'ai vu. »"
+
+msgctxt "15c68a2221794f3880c431bbc5a1b377"
+msgid "ཀུན་དགའ་བོ་"
+msgstr "« Ānanda,"
+
+msgctxt "cab237ad52f149ebbf5d3eaa1cf40e39"
+msgid ""
+"བྲམ་ཟེ་ འདི་ ནི་ དགེ་བ␣འི་ རྩ་བ་ འདི␣ས་ བསྐལ་པ་ བཅུ་གསུམ་ གྱི་ བར་ དུ་ "
+"ལོག་པ␣ར་ ལྟུང་བ␣ར་ མི་ འགྱུར་ ཏེ །"
+msgstr ""
+"ce brahmane, grâce à cette racine vertueuse, ne tombera pas dans les "
+"conditions contraires pendant treize éons et"
+
+# བསྐལ་པ་བཅུ་གསུམ་གྱི་བར་དུ་ལྷ་རྣམས་དང་།
+# མི་རྣམས་ཀྱི་ནང་དུ་ཉིང་མཚམས་སྦྱར་<«གཡུང་»«པེ་»ཚངས་སྦྱར། «ལི་»འཚམས་སྦྱར།
+# «སྣར་»མཚམས་སྦྱོར།>ཞིང་།
+msgctxt "abacd85a04ff4bb48a6f4cc957886006"
+msgid ""
+"བསྐལ་པ་ བཅུ་གསུམ་ གྱི་ བར་ དུ་ ལྷ་ རྣམས་ དང་ །  མི་ རྣམས་ ཀྱི་ ནང་ དུ་ "
+"ཉིང་མཚམས་ སྦྱར་ ཞིང་ །"
+msgstr "pendant treize éons, il naîtra parmi les dieux et les hommes et"
+
+msgctxt "de8f0f02a97e4ee59d215458cafd6e77"
+msgid "འཁོར་བ␣ར་ གྱུར་ ནས་"
+msgstr "il tournera [dans ces naissances], puis"
+
+msgctxt "be7e2d6ae9444879a3c2e59f47bad3c4"
+msgid "སྲིད་པ་ ཐ་མ་ དང་ གནས་ ཐ་མ་ ལ་ མི␣ར་ སྐྱེ་བ་ ཐོབ་ སྟེ་"
+msgstr ""
+"il obtiendra une naissance humaine lors de sa dernière existence et dans le "
+"dernier endroit [qu'il connaîtra] et"
+
+# རབ་ཏུ་འབྱུང་བར་འགྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»གྱུར།>ལ།
+msgctxt "9caca9605d2f4feab56b6e49ab79cdd2"
+msgid "རབ་ཏུ་ འབྱུང་བ␣ར་ འགྱུར་ ལ །"
+msgstr "il se retirera du monde et"
+
+# དེས་སློབ་དཔོན་མེད་པ་དང་མན་ངག་མེད་པར་བྱང་ཆུབ་ཀྱི་ཕྱོགས་དང་འཐུན་པའི་ཆོས་སུམ་ཅུ་<«གཡུང་»«པེ་»«ལི་»བཅུ།>རྩ་བདུན་མངོན་དུ་བྱས་ནས་
+msgctxt "5e2d7ddf2a254b1a8435365985f4510b"
+msgid ""
+"དེ␣ས་ སློབ་དཔོན་ མེད་པ་ དང་ མན་ངག་ མེད་པ␣ར་ བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ དང་ "
+"འཐུན་པ␣འི་ ཆོས་ སུམ་ཅུ་རྩ་བདུན་ མངོན་དུ་ བྱས་ ནས་"
+msgstr ""
+"sans instructeur et sans instructions, il intégrera les trente-sept éléments"
+" qui correspondent à la direction de l'éveil et"
+
+msgctxt "402903ae0ca24325b217a9db35b7de32"
+msgid "རང་ སངས་རྒྱས་ ཀྱི་ བྱང་ཆུབ་ མངོན་སུམ་ དུ་ བྱེད་པ␣ར་ འགྱུར་ ཏེ །"
+msgstr "il manifestera l'état de l'éveil des bouddhas solitaires et"
+
+# རང་སངས་རྒྱས་སྐོར་<«ཞོལ་»བསྐོར།>བྱེད་ཅེས་བྱ་བར་འགྱུར་རོ། །
+msgctxt "1ed10fa6491541a9a0d3f43fbac414d8"
+msgid "རང་ སངས་རྒྱས་ སྐོར་ བྱེད་ ཅེས་བྱ་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "il deviendra le bouddha solitaire Qui-Circumambule."
+
+# དེའི་སྦྱིན་པར་བྱ་བའི་ཆོས་<«གཡུང་»«པེ་»+དེ།>ནི་དེ་ཡིན་ནོ།། །།
+msgctxt "3fc55f3765f84a4683ba8056f9a91878"
+msgid "དེ␣འི་ སྦྱིན་པ␣ར་ བྱ་བ␣འི་ ཆོས་ ནི་ དེ་ ཡིན་ ནོ །། །།"
+msgstr "Ceci est ce qu'il a obtenu de la générosité."
