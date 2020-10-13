@@ -121,8 +121,12 @@ msgctxt "bfb67c8c5fa34a5d991bf8d8c5fc2056"
 msgid "ཀྱེ་"
 msgstr ""
 
+msgctxt "ca1a123e022045538a4748a9354fecf4"
+msgid "ཅི་"
+msgstr ""
+
 msgctxt "e329714d46174829afec4e058bc28239"
-msgid "ཅི་ བདག་ཅག་ འདི་ ནས་ ཤི་འཕོས་ སམ་"
+msgid "བདག་ཅག་ འདི་ ནས་ ཤི་འཕོས་ སམ་"
 msgstr ""
 
 msgctxt "1568aff1da9545398f8aef3a282e9dc0"
@@ -148,8 +152,12 @@ msgctxt "a3dbbb8ca44147418430562dbed2a427"
 msgid "ཀྱེ་མ་"
 msgstr ""
 
+msgctxt "7a1da618bc724a6383516a19c5dd6405"
+msgid "ཅི་"
+msgstr ""
+
 msgctxt "c01fab1878524de4b99e589846934450"
-msgid "ཅི་ བདག་ཅག་ ནི་ འདི་ ནས་ ཀྱང་ ཤི་འཕོས་ པར་མ་ གྱུར་ ལ་"
+msgid "བདག་ཅག་ ནི་ འདི་ ནས་ ཀྱང་ ཤི་འཕོས་ པར་མ་ གྱུར་ ལ་"
 msgstr ""
 
 # གཞན་དུ་ཡང་<«གཡུང་»«པེ་»–ཡང་།>མ་སྐྱེས་མོད་ཀྱི<«གཡུང་»«པེ་»ཀྱིས།>།
