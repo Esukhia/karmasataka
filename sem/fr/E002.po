@@ -254,7 +254,7 @@ msgstr "et s'installèrent."
 # དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་<«ལི་»+འ།>དགའ་བོས་དགེ་སློང་རྣམས་ལ་སྨྲས་པ།
 msgctxt "63c1b5d2013b4bb9873c2c75a36a6254"
 msgid "དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ དགེ་སློང་ རྣམས་ ལ་ སྨྲས་པ །"
-msgstr "Alors l'honorable Ananda dit aux moines : «"
+msgstr "Alors l'honorable Ānanda dit aux moines : «"
 
 # ཚེ་དང་ལྡན་པ་དག་<«ལི་»«ཅོ་»-དག>
 msgctxt "45878a85618848bdb7559de4210ffdc7"
