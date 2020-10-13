@@ -587,7 +587,7 @@ msgstr "Ānanda,"
 
 msgctxt "2c80277ed7864b0690567a952f017fa0"
 msgid "ཁྱོད་ ཀྱིས་ བྲམ་ཟེ་ གང་ གིས་ དེ་བཞིན་ གཤེགས་པ་ ལ་ དགའ་བ་ སྐྱེས་ ནས་"
-msgstr "as-tu vu le brahmane qui fut empli de joie envers le tathāgata et"
+msgstr "as-tu vu le brahmane qui fut empli de joie envers le Tathāgata et"
 
 msgctxt "45adb4a49f7248419ec7426b5a221120"
 msgid "བལྟས་པ་ མཐོང་ ངམ་"
