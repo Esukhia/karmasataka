@@ -2069,7 +2069,7 @@ msgid ""
 "མཐོང་ ངོ་ ། །"
 msgstr ""
 "le roi vit que ces innombrables (lit. cette diversité de) personnes allaient"
-" vers le jardin du prêtre-conseiller."
+" vers le parc d'agrément du prêtre-conseiller."
 
 msgctxt "f2c36888275a40278b5a8beab06729d9"
 msgid "མཐོང་ ནས་ ཀྱང་"
