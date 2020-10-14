@@ -214,8 +214,8 @@ msgid ""
 "ལྷ་ དང་ མི་ རྣམས་ ཀྱི་ ནང་ དུ་ གང་ དུ་ བདེན་པ་ རྣམས་ ཀྱི་ སྣོད་ དུ་ རུང་བ␣ར་"
 " འགྱུར་བ་ དེ␣ར་ ཉིང་མཚམས་ འཛིན་པ␣ར་ འགྱུར་ རོ ། །"
 msgstr ""
-"ils reprennent naissance chez les dieux et les hommes où ils pourront "
-"appréhender (lit. seront des réceptacles pour) les vérités."
+"ils passent la lisière [de leur prochaine vie] chez les dieux et les hommes "
+"où ils pourront appréhender (lit. seront des réceptacles pour) les vérités."
 
 # སྟེང་དུ་འགྲོ་བ་གང་ཡིན་པ་དེ་དག་ནི་རྒྱལ་ཆེན་བཞིའི་རིས་རྣམས་དང་།
 # སུམ་ཅུ་<«གཡུང་»«ལི་»«པེ་»བཅུ།>རྩ་གསུམ་པ་རྣམས་དང་། འཐབ་བྲལ་རྣམས་དང་།
@@ -618,7 +618,9 @@ msgctxt "2d87889e350546c8a7f5717218b2cc49"
 msgid ""
 "བསྐལ་པ་ བཅུ་གསུམ་ གྱི་ བར་ དུ་ ལྷ་ རྣམས་ དང་ མི་ རྣམས་ ཀྱི་ ནང་ དུ་ "
 "ཉིང་མཚམས་ སྦྱར་ ཞིང་ །"
-msgstr "pendant treize éons, il naîtra parmi les dieux et les hommes et"
+msgstr ""
+"pendant treize éons, il passera la lisière [de sa prochaine vie] parmi les "
+"dieux et les hommes et"
 
 msgctxt "c4aaad89e29441e296eaf372bc9d69ef"
 msgid "འཁོར་བ␣ར་ གྱུར་ ནས་"
