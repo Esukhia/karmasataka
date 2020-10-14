@@ -5,9 +5,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# ལས་བརྒྱ་ཐམ་<«གཡུང་»ཐམས།>པ་བམ་པོ་དྲུག་པ།
+# ལས་བརྒྱ་ཐམ་<«གཡུང་»ཐམས།>པ་
+msgctxt "a8cb50b652b74751821cf6a8dec338dd"
+msgid "ལ␣ས་ བརྒྱ་ ཐམ་པ་"
+msgstr ""
+
 msgctxt "e43098ba32084cde8063a10c8b3e263a"
-msgid "ལ␣ས་ བརྒྱ་ ཐམ་པ་ བམ་པོ་ དྲུག་པ །"
+msgid "བམ་པོ་ དྲུག་པ །"
 msgstr ""
 
 msgctxt "972a914978244e71b159c1ce8b4f7a7e"
