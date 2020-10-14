@@ -442,7 +442,7 @@ msgstr "ils disparurent dans le poil [lové] entre ses sourcils."
 
 msgctxt "f7218f63797b45b99143b7afbd7c9c9f"
 msgid "དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ ཐལ་མོ་ སྦྱར་ ཏེ་"
-msgstr "Ensuite, l'honorable Ananda joignit les mains et"
+msgstr "Ensuite, l'honorable Ānanda joignit les mains et"
 
 msgctxt "10b2cdacc1bb4140878c9d1cdc1eb51e"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ ཞུས་པ །"

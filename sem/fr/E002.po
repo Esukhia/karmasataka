@@ -220,7 +220,7 @@ msgid ""
 "བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ །  བྱང་ཆུབ་ ཀྱི་ ཕྱོགས་ "
 "ཀྱི་ གཏམ་ གྱིས་ ཤིག་པ␣ར་ བསྐུལ་བ␣ས་ ན་"
 msgstr ""
-"Le Bienheureux a exorté l'honorable Ananda à enseigner les [éléments] qui "
+"Le Bienheureux a exorté l'honorable Ānanda à enseigner les [éléments] qui "
 "rapprochent de l'éveil. Donc,"
 
 # ད་<«པེ་»དེ།>ནི་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་:སྦྲང་བུའི་<«ལི་»-སྦྲང་བུའི།
@@ -231,7 +231,7 @@ msgid ""
 "ད་ནི་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ སྦྲང་བུ␣འི་ སྦྲང་རྩི་ བཙིར་བ་ བཞིན་ དུ་ "
 "ཆོས་ སྙན་ ནོ་ ཅོག་ སྟོན་པ␣ར་ འགྱུར་ སྙམ་ སྟེ །"
 msgstr ""
-"maintenant, l'honorable Ananda nous enseignera tout le Dharma qu'il a "
+"maintenant, l'honorable Ānanda nous enseignera tout le Dharma qu'il a "
 "entendu comme le miel [s'écoule] lors du pressage. »"
 
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་སྟེ་<«ལི་»ཏེ།>
@@ -254,7 +254,7 @@ msgstr "et s'installèrent."
 # དེ་ནས་ཚེ་དང་ལྡན་པ་ཀུན་<«ལི་»+འ།>དགའ་བོས་དགེ་སློང་རྣམས་ལ་སྨྲས་པ།
 msgctxt "63c1b5d2013b4bb9873c2c75a36a6254"
 msgid "དེ་ནས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ དགེ་སློང་ རྣམས་ ལ་ སྨྲས་པ །"
-msgstr "Alors l'honorable Ananda dit aux moines : «"
+msgstr "Alors l'honorable Ānanda dit aux moines : «"
 
 # ཚེ་དང་ལྡན་པ་དག་<«ལི་»«ཅོ་»-དག>
 msgctxt "45878a85618848bdb7559de4210ffdc7"
@@ -311,7 +311,7 @@ msgctxt "f5c5fac9e01b4ecd939de0f0e45a6a5c"
 msgid ""
 "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ འདི་དག་ ཉིད་ ལ␣ས་ བརྩམས་ "
 "ནས་"
-msgstr "à partir de ces facteurs de l'éveil, l'honorable Ananda"
+msgstr "à partir de ces facteurs de l'éveil, l'honorable Ānanda"
 
 # དགེ་སློང་རྣམས་ལ་<«གཡུང་»ལས།>དེ་ལྟ་བུ་དང་འཐུན་<«གཡུང་»«པེ་»«ཞོལ་»མཐུན།>པའི་ཆོས་བསྟན་ཏེ།
 msgctxt "ca3d66ee7a4f4454a498fe361eacde6b"
@@ -339,7 +339,7 @@ msgid ""
 "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ␣འི་ གཏམ་ གྱི་ མཇུག་ "
 "རྫོགས་པ␣ར་ ཐུགས་ སུ་ ཆུད་ ནས་"
 msgstr ""
-"Ensuite, le Bienheureux comprit que le discours de l'honorable Ananda était "
+"Ensuite, le Bienheureux comprit que le discours de l'honorable Ānanda était "
 "terminé,"
 
 # བཞུགས་<«ལི་»«ཅོ་»«ཁུ་»བཞེངས།>ཏེ།
@@ -367,7 +367,7 @@ msgstr "il se maintint dans une attention manifeste. Puis"
 # བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་:ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ<«ལི་»«ཅོ་»-ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ།>།
 msgctxt "d60ebaf3a6914888b10d49f438ef3153"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ བཀའ་ སྩལ་པ །"
-msgstr "le Bienheureux demanda à l'honorable Ananda : «"
+msgstr "le Bienheureux demanda à l'honorable Ānanda : «"
 
 msgctxt "69ea958134f54998871fd19c682143cc"
 msgid "ཀུན་དགའ་བོ་"
@@ -529,7 +529,7 @@ msgstr "\" Si tu possèdes les facteurs de l'éveil, Moine, expose-les \""
 # གནས་བརྟན་<«གཡུང་»རྟན།>ཀུན་དགའ་མཁས་ཤིང་གྲགས<«ཁུ་»འགུགས།>། །
 msgctxt "a5c54e7c5d1343049a95c8f2122aedd0"
 msgid "གནས་བརྟན་ ཀུན་དགའ་ མཁས་ ཤིང་ གྲགས ། །"
-msgstr "Ananda l'Ancien, érudit et renommé,"
+msgstr "Ānanda l'Ancien, érudit et renommé,"
 
 # :བྱང་བར་<«པེ་»ཁྱད་པར།>གྱུར་པས་ལེགས་ཞེས་གསོལ། །
 msgctxt "b0665894b0434fc1aff25f4801e8a6a3"
@@ -725,7 +725,7 @@ msgid ""
 "ལེགས་པ␣ར་ སྨྲས་པ␣འི་ དོན་ གྱི་ སླད་ དུ །  བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་"
 " ཀུན་དགའ་བོ་ ལ་ བསྐུལ་བ་ མཛད་ ནས །"
 msgstr ""
-"le Bienheureux a exhorté l'honorable Ananda pour [écouter] cet exposé "
+"le Bienheureux a exhorté l'honorable Ānanda pour [écouter] cet exposé "
 "excellent."
 
 # བཀུར་སྟི་<«སྣར་»བསྟི།>དང་ལྡན་པས་གསན་ཀྱང་གསན།
