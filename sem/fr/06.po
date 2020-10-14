@@ -308,7 +308,7 @@ msgstr ""
 
 msgctxt "4c6bbd0a11ea4c86b1105375063b5301"
 msgid "བཀོད་ དོ ། །"
-msgstr "[ainsi furent-ils] établis."
+msgstr "les y établit."
 
 msgctxt "d462f7474e87404ab7c813ddb26cd1d8"
 msgid "དེ་དག་ གིས་ བདེན་པ་ མཐོང་ ནས་"
