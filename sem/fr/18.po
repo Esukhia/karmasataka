@@ -1,0 +1,2061 @@
+# 
+# Translators:
+# Drupchen Dorje <drupchen@esukhia.org>, 2020
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Drupchen Dorje <drupchen@esukhia.org>, 2020\n"
+"Language-Team: French (France) (https://www.transifex.com/lotsawa-apprenticeship/teams/112155/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "8a73224b5a8b44b5b52a6801ca219798"
+msgid "སྒམ་པོ་ ཞེས་ བྱ་བ་ ནི །"
+msgstr "Celui nommé Insondable"
+
+# གླེང་གཞི་<«གཡུང་»བཞི།>མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "3c243cfa91464ac59c4079fc0df61894"
+msgid "གླེང་ གཞི་ མཉན་ དུ་ཡོད་པ་ ན་ བཞུགས་ ཏེ །"
+msgstr ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+
+# དེའི་ཚེ་སེམས་ཅན་ཞིག་<«སྣར་»–ཞིག>སེམས་ཅན་དམྱལ་བར་སྐྱེས་ཏེ་
+msgctxt "6e0a59c06cb443f38bdabf5ede6cd8f9"
+msgid "དེ␣འི་ ཚེ་ སེམས་ཅན་ ཞིག་ སེམས་ཅན་ དམྱལ་བ␣ར་ སྐྱེས་ ཏེ་"
+msgstr "À cette époque, un être était né [comme] être des enfers et"
+
+msgctxt "02762f89cdd1402e902c8b45f2d2663d"
+msgid "ལུས་ ཆེ་ ཞིང་"
+msgstr "son corps était grand,"
+
+msgctxt "62aac19f49154953a346c1a094ce5264"
+msgid "དམུས་ལོང་ དུ་ འདུག་ ལ་"
+msgstr "il était né aveugle et"
+
+msgctxt "ce5863ad0b8e45e9aa40672373f40aaa"
+msgid "དེ␣འི་ ལུས་ རིལ་ གྱིས་ རྨ␣ས་ ཞུ་ལུབ་ ཏུ་ ཡོག་ སྟེ །"
+msgstr ""
+"la surface (lit. la rondeur) de son corps était entièrement (lit. sans "
+"espace) recouverte de plaies et"
+
+msgctxt "0ad40d02481e48fea51c51321a889dc1"
+msgid ""
+"དེ␣འི་ སྤྱི་བོ་ མན་ཆད་ རྐང་མཐིལ་ ཡན་ཆད་ སྲིན་ ཞུགས་པ␣ས་ དེ་ ནད་མ་ བཟོད་ ནས་"
+msgstr ""
+"du haut de sa tête vers le bas et de la plante de ses pieds vers le haut, "
+"des parasites le rongeaient (lit. s'engageaient) et il ne supportait pas "
+"cette douleur et"
+
+msgctxt "bc224eb29d814ef9aabad7caa23a5b9e"
+msgid "ཕན་ཚུན་ རྒྱུག་པ␣ར་ བྱེད་ ལ །"
+msgstr "il courrait ici et là et"
+
+msgctxt "6e94ef90e11443dba0a7e3a1df028692"
+msgid "དེ་ གལ་ཏེ་ ཐང་ལ་ འགྲོ་ ན་ ནི །"
+msgstr "s'il allait sur une plaine,"
+
+msgctxt "1031b8ec6a5a4933bedc1b0ec42c576b"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ སེང་གེ་ དང་ །  སྟག་ དང་ །  གཟིག་ དང་ །  དྲེད་ ལ་སོགས་པ་ "
+"ལྕགས་ ཀྱི་ མཆེ་བ་ ཅན་ དག་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr ""
+"y surgissaient des lions, des léopards, des ours [tous] avec des crocs en "
+"métal et"
+
+# དེ་དག་གིས་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་<«གཡུང་»–བཅད་ཅིང་།>
+msgctxt "c1108f309dae40dc9654d6bf12b35e70"
+msgid "དེ་དག་ གིས་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpaient sans cesse sa chair et"
+
+msgctxt "aa96912ea716461fb1e6dc778396c653"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangeaient."
+
+msgctxt "8be822743f8f4f3ea7b45d96ae52bced"
+msgid "དེ་སྟེ་ ཆུ་ ལ་ འབོག་ ན་ ནི་"
+msgstr "Lui, s'il s'enfonçait dans l'eau,"
+
+# དེ་ལ་དེ་ཉིད་ནས་ཆུ་སྲིན་མ་ཀ་ར་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་<«གཡུང་»–དག>འབྱུང་བར་འགྱུར་ཏེ།
+msgctxt "7b4d372be3eb4215848709deb1a95072"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ཆུ་ སྲིན་ མ་ ཀ་ར་ ལྕགས་ ཀྱི་ མཆེ་བ་ ཅན་ དག་ འབྱུང་བ␣ར་ "
+"འགྱུར་ ཏེ །"
+msgstr "y surgissaient des monstres makarah aux crocs en métal et"
+
+# དེ་དག་གིས་ཀྱང་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་<«གཡུང་»–བཅད་ཅིང་།>
+msgctxt "a1a379e015c1454d9d33593f7ec0ed53"
+msgid "དེ་དག་ གིས་ ཀྱང་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpaient sans cesse sa chair et"
+
+msgctxt "074d5d1b67214122a1b1b0608759bf31"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangeaient."
+
+# དེ་སྟེ་<«གཡུང་»«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–སྟེ།>སྟེང་གི་ནམ་མཁའ་ལ་འགྲོ་ན་ནི་
+msgctxt "97ded85a2ea04850a774fd3a7305fd16"
+msgid "དེ་སྟེ་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ འགྲོ་ ན་ ནི་"
+msgstr "Lui, s'il allait dans l'espace,"
+
+msgctxt "994cbddbf3b04e71aaec8c52c2aef30e"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས །  བྱ་རོག་ དང་ བྱ་རྒོད་ དང་ ཆུན་ལག་ ལྕགས་ ཀྱི་ མཆུ་ཅན་ དག་"
+" འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr ""
+"y surgissaient des corbeaux, des vautours et des oiseaux tsasha tous avec "
+"des becs en métal et"
+
+msgctxt "1b94a8692224477d9799c41e0a1529e7"
+msgid "དེ་དག་ གིས་ ཀྱང་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpaient sans cesse sa chair et"
+
+msgctxt "e1faa3a66b8f45a4ac8ef11b00fc34ec"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangeaient."
+
+# དེ་སྟེ་ནགས་སྟུག་<«གཡུང་»ནག་སྡུག «པེ་»ནགས་སྡུགཔོ>པོའི་ནང་དུ་[60a]འགྲོ་ན་ནི་
+msgctxt "9744afbc257b492aab19aeb86967926c"
+msgid "དེ་སྟེ་ ནགས་ སྟུག་པོ␣འི་ ནང་ དུ་ འགྲོ་ ན་ ནི་"
+msgstr "Lui, s'il allait dans la forêt dense,"
+
+# དེ་ལ་དེ་ཉིད་ནས་ཤིང་ཤལ་མ་ལིའི་<«གཡུང་»«པེ་»རིའི།>ཚལ་འབྱུང་བར་འགྱུར་ཏེ།
+msgctxt "2360b8cbe2b54dd29790ddb057590fc3"
+msgid "དེ་ ལ་ དེ་ཉིད་ ནས་ ཤིང་ ཤལ་མ་ལི␣འི་ ཚལ་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr "y surgissait une forêt d'arbres śālmali et"
+
+# དེ་ལ་དེར་རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་། རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་།
+# མདུང་ཁ་ལེབ་རྣམས་རླུང་གིས་སྤགས་<«གཡུང་»བླགས།>ཏེ་
+msgctxt "3c0d9b6bbe1f4d67a3fc5e56ec8fe91d"
+msgid ""
+"དེ་ ལ་ དེ␣ར་ རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  རྡོ་རྗེ་ "
+"རྩེ་གཅིག་པ་ དང་ །  མདུང་ ཁ་ལེབ་ རྣམས་ རླུང་ གིས་ སྤགས་ ཏེ་"
+msgstr ""
+"le vent projetait des épées, des javelots, des lances, des vajras à une "
+"pointe et des lances à pointe plate et"
+
+msgctxt "cbe1b3e09c544949b4145e51900323bf"
+msgid "དེ␣འི་ སྟེང་ དུ་ འབབ་བོ ། །"
+msgstr "ils tombaient sur lui."
+
+msgctxt "4b154f77770d48c59aa62fe849e023ba"
+msgid ""
+"དེ་སྟེ་ རྩིག་པ␣འི་ གསེབ་ བམ་ རི␣འི་ སུལ་ལམ་ བྱ་སྐྱིབས་ དག་ ཏུ་ འགྲོ་བ␣ར་ "
+"འདོད་ ན་ ཡང་"
+msgstr ""
+"Lui, s'il avait envie d'aller dans les enceintes ou dans les villages de "
+"montagne ou dans des abris sous roche,"
+
+msgctxt "1fab428e44d1422f88374d2a71b73dcc"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ ལ␣ས་ ལ␣ས་ སྐྱེས་པ␣འི་ མི་ དག་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr "y surgissaient des hommes créés par ses actions et"
+
+# རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་།
+# རྡོ་རྗེ་རྩེ་གཅིག་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཞོལ་»–པ།>དང་།
+# མདུང་ཁ་ལེབ་རྣམས་ཐོགས་ནས་
+msgctxt "bdc7066a5e504356bb18f49c50f209ea"
+msgid ""
+"རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ "
+"།  མདུང་ ཁ་ལེབ་ རྣམས་ ཐོགས་ ནས་"
+msgstr ""
+"ils portaient des épées, des javelots, des lances, des vajras à une pointe "
+"et des lances à pointe plate et"
+
+msgctxt "984843d17c0a402884ced6b843ad6f40"
+msgid "དེ␣འི་ ལུས་ ལ་ འདེབས་ ཏེ །"
+msgstr "ils frappaient son corps et"
+
+# དེ་དག་གིས་དེའི་ལུས་ཐམས་ཅད་བཅད་<«སྣར་»ཅི་བཅད།
+# «ཞོལ་»གཅོད།>ཅིང་གཏུབ་པར་བྱེད་དེ།
+msgctxt "2a294f19602a4eea96931d7c4ef1e6e4"
+msgid "དེ་དག་ གིས་ དེ␣འི་ ལུས་ ཐམས་ཅད་ བཅད་ ཅིང་ གཏུབ་པ␣ར་ བྱེད་ དེ །"
+msgstr "ils tranchaient son corps et le découpaient et"
+
+# རྒྱུ་དེས་ན་དེས་སྡུག་བསྔལ་དྲག་པ་དང་མི་བཟད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཟད།>པ་དང་ཚ་བ་དང་ཡིད་དུ་མི་འོང་བའི་ཚོར་<«གཡུང་»+ད།
+# «པེ»+དེ།>བ་མྱོང་སྟེ།
+msgctxt "980254a9341942d6afd1753d7ace23ec"
+msgid ""
+"རྒྱུ་ དེས་ན་ དེ␣ས་ སྡུག་བསྔལ་ དྲག་པ་ དང་ མི་བཟད་པ་ དང་ ཚ་བ་ དང་ ཡིད་ དུ་ མི་"
+" འོང་བ␣འི་ ཚོར་བ་ མྱོང་ སྟེ །"
+msgstr ""
+"à cause de ça (lit. dû à cette cause), il subissait des souffrances "
+"intenses, insoutenables, des douleurs et des sensations indésirables et"
+
+msgctxt "b20a7041bd2c4073857a7694d545556d"
+msgid "ཉམ་ཐག་པ␣འི་ སྐད་ འབྱིན་ ཅིང་"
+msgstr "il laissait s'échapper des cris de désespoir et"
+
+msgctxt "f7dce8574c2b4ceda1bbac1dd36adc76"
+msgid "ངུའོ ། །"
+msgstr "il pleurait."
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པའི།>ལམ་སྟོན་པ།
+msgctxt "86d9b65587944163a2fc3dfe302a3623"
+msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ བགྲོད་པ་ གཅིག་པུ␣འི་ ལམ་ སྟོན་པ །"
+msgstr "Les Bienheureux Bouddhas montrent l'unique voie à parcourir ;"
+
+msgctxt "791bc4e3337c4834ae33d17f2a809312"
+msgid "རྣམ་པ་ གཉིས་ ཀྱི་ ཤེས་བྱ་ དང་ ཡེ་ཤེས་ ལ་ མངའ་ བརྙེས་པ །"
+msgstr ""
+"ils possèdent (lit. obtenu la possession de) les deux aspects de la "
+"connaissance et la sagesse ;"
+
+# མ་འདྲེས་པའི་དྲན་པ་ཉེ་བར་གཞག་<«སྣར་»«ཞོལ་»བཞག>པ་གསུམ་ལ་མཁས་པ།
+msgctxt "97839502cb7b41e88db17a7f9084588c"
+msgid "མ་ འདྲེས་པ␣འི་ དྲན་པ་ ཉེ་བར་ གཞག་པ་ གསུམ་ ལ་ མཁས་པ །"
+msgstr ""
+"ils excellent dans les trois attentions rapprochées qui leur sont propres ;"
+
+msgctxt "7a781a260b974258830043074766b3a6"
+msgid "མི་ འཇིགས་པ་ བཞི␣ས་ མི་ འཇིགས་པ །"
+msgstr "ils sont intrépides grâce aux quatre intrépidités ;"
+
+msgctxt "6f725ca89fe640e992763dd8de295bad"
+msgid "འགྲོ་བ་ ལྔ␣ར་ འགྲོ་བ་ ལ␣ས་ རྣམ་པ␣ར་ གྲོལ་བ །"
+msgstr "ils sont entièrement libérés d'aller vers les cinq renaissances ;"
+
+msgctxt "2e9377e2d0174d7cb2aa2b12990528e6"
+msgid "སྐྱེ་མཆེད་ དྲུག་ ལ་ མཁས་པ །"
+msgstr "ils sont versés dans les six sources des sens ;"
+
+# བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་ལ་སྤྱོད་ཡུལ་བ<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>།
+msgctxt "60e2e4886c0e4f2b820f612c1b596d49"
+msgid "བྱང་ཆུབ་ ཀྱི་ ཡན་ལག་ བདུན་ ལ་ སྤྱོད་ཡུལ་བ །"
+msgstr "ils vivent les sept branches de l'Éveil ;"
+
+# རྣམ་པར་ཐར་<«ལི་»«ཅོ་»མཐར།>པ་བརྒྱད་ལ་བསམ་གཏན་པ།
+msgctxt "e2bbdfe2b0164a7dad6f85d72053d580"
+msgid "རྣམ་པ␣ར་ ཐར་པ་ བརྒྱད་ ལ་ བསམ་གཏན་པ །"
+msgstr "ils contemplent les huit libérations complètes ;"
+
+msgctxt "211f8c163896406c9f1fa93be27b6e5e"
+msgid "མཐར་གྱིས་ གནས་པ␣འི་ སྙོམས་པར་ འཇུག་པ་ དགུ་ ལ་ སྙོམས་པར་ འཇུག་པ །"
+msgstr "ils s'engagent dans les neuf absorptions méditatives successives ;"
+
+# སྟོབས་བཅུའི་<«གཡུང་»«པེ་»ཅུའི།>སྟོབས་དང་ལྡན་པ།
+msgctxt "d9803b9921a649e8a2f003959fc65968"
+msgid "སྟོབས་ བཅུ␣འི་ སྟོབས་ དང་ ལྡན་པ །"
+msgstr "ils possèdent la puissance des dix forces ;"
+
+# ཡང་དག་པའི་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་<«ཞོལ་»སྒྲོག>པ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
+# ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ།
+msgctxt "bf3e038681d64398b6c1448548bc0c44"
+msgid ""
+"ཡང་དག་པ␣འི་ སེང་གེ␣འི་ སྒྲ་ ཆེན་པོ་ སྒྲོགས་པ་ རྣམས་ ནི་ ཆོས་ཉིད་ ཀྱིས་ ཉིན་ "
+"དུས་གསུམ་ མཚན་ དུས་གསུམ་ སྟེ །  ཉིན་མཚན་ དུས་ དྲུག་ ཏུ་ སངས་རྒྱས་ ཀྱི་ སྤྱན་"
+" གྱིས་ འཇིག་རྟེན་ ལ་ གཟིགས་ ཏེ །"
+msgstr ""
+"Eux qui font résonner le grand rugissement parfait du lion, ils contemplent "
+"spontanément le monde avec les yeux de bouddhas pendant les six périodes de "
+"la journée, trois fois le jour et trois fois la nuit."
+
+msgctxt "921197b4862c44288e4c84786ec39ebd"
+msgid "སུ་ ནི་ རྒུད །"
+msgstr "« Qui s'affaiblit ?"
+
+msgctxt "f40f3b4dfc3c4a378105749530b20b99"
+msgid "སུ་ ནི་ དར །"
+msgstr "Qui s'épanouit ?"
+
+msgctxt "3d0fecc0c5c14507b601597d25ca1e3a"
+msgid "སུ་ ནི་ ཕོངས་ ཤིང་ འདུག  །"
+msgstr "Qui est dans la misère ?"
+
+msgctxt "2f8004877a45432eb15e909d0476d301"
+msgid "སུ་ ནི་ ཉམ་ང་ བར་ གྱུར །"
+msgstr "Qui est dans le malheur ?"
+
+msgctxt "8081ebb00b1e4be5ae9b7c6a97ca7ff9"
+msgid "སུ་ ནི་ གནོད་པ་ དང་ ལྡན །"
+msgstr "Qui est dans la souffrance ?"
+
+msgctxt "302d70735a6f45f5aa02c24f44ac98b6"
+msgid "སུ་ ནི་ ཕོངས་པ་ དང་ ཉམ་ང་བ་ དང་ གནོད་པ་ དང་ ལྡན་"
+msgstr ""
+"Qui est dans le malheur, vit dans la peur et est accablé (lit. avoir) de "
+"souffrances (lit. de maux) ?"
+
+msgctxt "2c50c9024ce743c29180834be8b7d898"
+msgid "སུ་ ནི་ ངན་སོང་ དུ་ གཞོལ་"
+msgstr "Qui chute dans les mondes inférieurs ?"
+
+msgctxt "cba22746d65343cb8e9b5f38e0356d04"
+msgid "སུ་ ནི་ ངན་སོང་ དུ་ འབབ་"
+msgstr "Qui tombe dans les mondes inférieurs ?"
+
+msgctxt "9f7d369e30df4744a4d4b471100f1423"
+msgid "སུ་ ནི་ ངན་སོང་ དུ་ བབ་"
+msgstr "Qui tombera dans les mondes inférieurs ?"
+
+# སུ་ནི་ངས་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–ངས།>ངན་སོང་ནས་ཕྱུང་སྟེ་
+msgctxt "934227711b534326a435b99dec668a78"
+msgid "སུ་ ནི་ ངས་ ངན་སོང་ ནས་ ཕྱུང་ སྟེ་"
+msgstr "Qui vais-je extirper des royaumes inférieurs et"
+
+msgctxt "15b1cdc627e049daa7c2e52433d1d68b"
+msgid "མཐོ་རིས་ དང་ ཐར་པ་ དང་ འབྲས་བུ་ ལ་ གཞག་པ␣ར་ བྱ །"
+msgstr ""
+"les établir dans les royaumes supérieurs, la libération ou le résultat ?"
+
+msgctxt "43b96eb2e0d04844ac8d0220bbf5bdeb"
+msgid "སུ་ ནི་ ཉེས་པ␣ར་ སྤྱོད་པ␣འི་ འདམ་ དུ་ བྱིང་བ་ ལ␣ས་"
+msgstr "Quel être (lit. qui) enlisé dans le marais des mauvaises conduites"
+
+msgctxt "a0c15bef5cf94d9f8287026b92094932"
+msgid "ལག་ནས་ དྲང་བ␣ར་ བྱ །"
+msgstr "vais-je tirer par la main ?"
+
+msgctxt "5e4381aed5994d5c9abc2088704248df"
+msgid "སུ་ ནི་ འཕགས་པ␣འི་ ནོར་ བདུན་ མེད་པ་ ལ␣ས་"
+msgstr "Quel être (lit. qui) dépourvu des sept richesses des êtres sublimes"
+
+# འཕགས་པའི་<«གཡུང་»+པ།>ནོར་བདུན་གྱི་དབང་ཕྱུག་ལ་དབང་བྱེད་དུ་གཞུག་པར་<«གཡུང་»པ།>[60b]བྱ།
+msgctxt "7f62ff47ccad425c8774f5135a294fed"
+msgid "འཕགས་པ␣འི་ ནོར་ བདུན་ གྱི་ དབང་ཕྱུག་ ལ་ དབང་ བྱེད་ དུ་ གཞུག་པ␣ར་ བྱ །"
+msgstr ""
+"vais-je pousser à s'approprier le pouvoir des seigneurs des sept joyaux des "
+"[êtres] nobles ?"
+
+msgctxt "47f872d0a9d543d991e79a8d44a2f133"
+msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ མ་ བསྐྱེད་པ་ ལ␣ས་"
+msgstr "Qui, n'ayant pas développé les racines vertueuses,"
+
+msgctxt "a25f3b847b7e4a77893059ea61e62141"
+msgid "བསྐྱེད་པ␣ར་ བྱ །"
+msgstr "inciterais-je à [les] développer ?"
+
+msgctxt "e9a425584a9d48db83e3dbfc82ff5f5d"
+msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ བསྐྱེད་ ཟིན་པ་ ལ␣ས་"
+msgstr "Qui, ayant déjà développé les racines vertueuses,"
+
+msgctxt "d36ff7a088bf47c3853f20ad9e1bedc0"
+msgid "ཡོངས་སུ་ སྨིན་པ␣ར་ བྱ །"
+msgstr "inciterais-je à [les] faire mûrir ?"
+
+msgctxt "f9819adeb3d14c9a85effc3e00d0ed46"
+msgid "སུ་ ནི་ དགེ་བ␣འི་ རྩ་བ་ རྣམས་ ཡོངས་སུ་ སྨིན་ ཟིན་པ་ ལ␣ས་"
+msgstr "Qui, ayant déjà fait mûrir entièrement les racines vertueuses,"
+
+# ཡེ་ཤེས་ཀྱི་མཚོན་གྱིས་བརྟོལ་<«གཡུང་»«པེ་»རྟོལ། «ཁུ་»བརྡོལ།>བར་བྱ།
+msgctxt "2987b73ba4ab435b8656f44ad3064569"
+msgid "ཡེ་ཤེས་ ཀྱི་ མཚོན་ གྱིས་ བརྟོལ་བ␣ར་ བྱ །"
+msgstr ""
+"inciterais-je à [les] faire jaillir à l'aide de l'arme de la sagesse ?"
+
+# སུ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལ།>ནི་སངས་རྒྱས་བྱུང་བས་བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་སྙམ་དུ་
+msgctxt "990615dfed0f4546af8bedb0bf3a1ab4"
+msgid ""
+"སུ་ ལ་ ནི་ སངས་རྒྱས་ བྱུང་བ␣ས་ བརྒྱན་པ␣འི་ འཇིག་རྟེན་ འབྲས་བུ་ དང་ བཅས་པ␣ར་ "
+"བྱ་ སྙམ་ དུ་"
+msgstr ""
+"Pour quel être (lit. qui) fructifierais-je ce monde qui est orné puisqu'un "
+"bouddha y est apparu ? »"
+
+msgctxt "9bfd3c6006a847cbb3ddb2bbb92e31a9"
+msgid "ཡེ་ཤེས་ གཟིགས་པ་ འཇུག་ གོ ། །"
+msgstr "[ainsi] s'applique leur regard de sagesse."
+
+msgctxt "00fd83078aa3478b9c4e5db901405997"
+msgid "རྒྱ་མཚོ་ ཆུ་སྲིན་ རྣམས་ ཀྱི་ གནས ། །"
+msgstr "[Dans] l'océan, la demeure des [monstres] makara,"
+
+msgctxt "380120601bc24d63b4d517a2cbc520f9"
+msgid "དུས་རླབས་ ཡོལ་བ␣ར་ འགྱུར་ ཡང་སྲིད ། །"
+msgstr "il est possible que les marées tardent."
+
+msgctxt "0e92f4d699b04a6285c0c2608b5b383c"
+msgid ""
+"གདུལ་བ␣ར་ བྱ་བ␣འི་ སྲས་ རྣམས་ ལ ། །  སངས་རྒྱས་ དུས་ ལ␣ས་ ཡོལ་བ་ མེད ། །"
+msgstr ""
+"Pour leurs enfants qu'ils doivent dompter, les bouddhas ne prennent [jamais]"
+" de retard."
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགོངས་ནས<«གཡུང་»ནཱ། «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ན།>།
+msgctxt "6687acfbc82c466d8c59fe06f7df49a7"
+msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དགོངས་ ནས །"
+msgstr "Puis le bienheureux pensa que"
+
+msgctxt "0577ecd3c2274220a252445caa4b6783"
+msgid "མཉན་ དུ་ཡོད་པ␣འི་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ འདུལ་བ␣འི་ དུས་ ལ་ བབ་ ནས །"
+msgstr ""
+"c'était le temps de dompter la multitude des habitants (lit. personnes) de "
+"Śrāvastī et"
+
+msgctxt "af09820ce97f4d3085bb797abdc430d0"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ དགོངས་པ་"
+msgstr "le Bienheureux pensa : «"
+
+msgctxt "5ed1375db2c546b194ad4bd8b9ae13c5"
+msgid "ཅི་"
+msgstr "Qu'[en est-il] ?"
+
+# ཚར་གཅད་<«ཁུ་»བཅད།>པས་འདུལ་བར་འགྱུར་རམ་
+msgctxt "e451c869a5104efbb37547f647934787"
+msgid "ཚར་ གཅད་པ␣ས་ འདུལ་བ␣ར་ འགྱུར་ རམ་"
+msgstr "Seront-ils domptés par la subjugation ?"
+
+msgctxt "294c145e8a5a4e3792fb4d08ce170f12"
+msgid "འོན་ཏེ་ བསྟོད་པ␣ས་ འདུལ་བ␣ར་ འགྱུར་ རམ །"
+msgstr "Ou bien seront-ils domptés par les hommages ?"
+
+msgctxt "874f6d09ba5d4b2e8b992d9f437099c3"
+msgid "འོན་ཏེ་ སྐྱོ་བ་ བསྐྱེད་པ␣ས་ འདུལ་བ␣ར་ འགྱུར་ སྙམ་ དུ་"
+msgstr "Ou bien seront-ils domptés par le désenchantement ? »"
+
+msgctxt "bb913c28ec8443619b81520dc067c6bd"
+msgid "དགོངས་ ནས །"
+msgstr "pensa-t-il. Puis,"
+
+msgctxt "6a18d4ee37464979ba76c1290a0c5847"
+msgid ""
+"སྐྱོ་བ་ བསྐྱེད་པ␣ས་ འདུལ་བ␣ར་ འགྱུར་བ␣ར་ བཅོམ་ལྡན་འདས་ ཀྱིས་ གཟིགས་ ནས །"
+msgstr "le Bienheureux vit qu'ils seraient domptés par le désenchantement et"
+
+msgctxt "ad76a43084674420b8cacfa3076e0f38"
+msgid ""
+"དེ་དག་ སྐྱོ་བ་ བསྐྱེད་པ␣འི་ ཕྱིར་ བཅོམ་ལྡན་འདས་ ཀྱིས་ སེམས་ཅན་ དེ་ "
+"རྫུ་འཕྲུལ་ གྱིས་ བཀུག་ སྟེ །"
+msgstr ""
+"pour qu'ils soient désenchantés, le Bienheureux fit venir cet être par ses "
+"pouvoirs surnaturels et"
+
+# ཆུ་ཀླུང་ཁང་ལྡན་གྱི་འགྲམ་དུ་བཞག་ན<«གཡུང་»ནས།>།
+msgctxt "e7b2f9751028480988f6f7c74d1f564a"
+msgid "ཆུ་ ཀླུང་ཁང་ ལྡན་ གྱི་ འགྲམ་ དུ་ བཞག་ ན །"
+msgstr ""
+"il le plaça sur les rives de (lit. près de) la rivière Ajiravatī. À ce "
+"moment,"
+
+msgctxt "b2784feb1080428cac81bfb41ad138f3"
+msgid "དེ␣ར་ ཡང་ དེ་ ནད་ མི་ བཟོད་ ནས་"
+msgstr "là encore, il ne supportait pas ses souffrances et"
+
+msgctxt "48acb36705ec476ea98cd1c99df28c11"
+msgid "ཕན་ཚུན་ རྒྱུག་པ␣ར་ བྱེད་ ལ་"
+msgstr "il courrait ici et là et"
+
+msgctxt "27a4afb79f7a409ea479a57646f93c3e"
+msgid "དེ␣ར་ ཡང་ དེ་ གལ་ཏེ་ ཐང་ལ་ འགྲོ་ ན་ ནི་"
+msgstr "là encore, s'il allait sur une plaine,"
+
+# དེ་ལ་དེ་<«གཡུང་»ལས།>ཉིད་ནས་སེང་གེ་དང་སྟག་<«གཡུང་»རྟག>དང་།
+# གཟིག་དང་དྲེད་ལ་སོགས་པ་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+msgctxt "6681e1a4d3e141b8817aacbce51b2fd1"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ སེང་གེ་ དང་ སྟག་ དང་ །  གཟིག་ དང་ དྲེད་ ལ་སོགས་པ་ ལྕགས་ "
+"ཀྱི་ མཆེ་བ་ ཅན་ དག་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr ""
+"de cette plaine surgissaient des lions, des léopards, des ours [tous] avec "
+"des crocs en métal et"
+
+msgctxt "020c824c2a82441bac6e7ba3caa27a97"
+msgid "དེ་དག་ གིས་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpaient sans cesse sa chair et"
+
+msgctxt "02f8f0e3713a4edcbfb1b067ea14ceb9"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangeaient."
+
+msgctxt "f7ea594034464f2c83a356854f03d216"
+msgid "དེ་སྟེ་ ཆུར་ འབོག་ ན་ ནི་"
+msgstr "Lui, s'il s'enfonçait dans l'eau,"
+
+# དེ་ལ་དེ་ཉིད་ནས་ཆུ་སྲིན་མ་<«གཡུང་»ན།>ཀ་ར་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+msgctxt "1c6a2e2d36934bb881ad116fe1b00a19"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ཆུ་ སྲིན་ མ་ ཀ་ར་ ལྕགས་ ཀྱི་ མཆེ་བ་ ཅན་ དག་ འབྱུང་བ␣ར་ "
+"འགྱུར་ ཏེ །"
+msgstr "y surgissaient des monstres makarah aux crocs en métal et"
+
+msgctxt "55d7de718b6c4fcb8f006aa11ec3685a"
+msgid "དེ་དག་ གིས་ ཀྱང་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpaient sans cesse sa chair et"
+
+msgctxt "8a49847190c74765bd17feca1eaf6ef3"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangeaient."
+
+msgctxt "1db95924eb9c40ffba0e982701044dd1"
+msgid "དེ་སྟེ་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ འགྲོ་ ན་ ནི་"
+msgstr "Lui, s'il allait dans l'espace,"
+
+msgctxt "fce9551f263945369c1235b5a6402910"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ བྱ་རོག་ དང་ བྱ་རྒོད་ དང་ ཆུན་ལག་ ལྕགས་ ཀྱི་ མཆུ་ཅན་ དག་ "
+"འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr ""
+"y surgissaient des corbeaux, des vautours et des oiseaux tsasha tous avec "
+"des becs en métal et"
+
+msgctxt "c2ab1170f0c046d4aae76b3d9ed3c7f7"
+msgid "དེ་དག་ གིས་ ཀྱང་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpaient sans cesse sa chair et"
+
+msgctxt "d66c258687ae412fb1732fadf269e07d"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangeaient."
+
+# དེ་སྟེ་ནགས་སྟུག་<«ལི་»«ཁུ་»སྡུག>པོའི་ནང་དུ་འགྲོ་ན་ནི་
+msgctxt "24d20144849845b29059e860019b7f9d"
+msgid "དེ་སྟེ་ ནགས་ སྟུག་པོ␣འི་ ནང་ དུ་ འགྲོ་ ན་ ནི་"
+msgstr "Lui, s'il allait dans la forêt dense,"
+
+# དེ་ལ་དེ་ཉིད་ནས་ཤིང་ཤལ་<«གཡུང་»ཤམ།>མ་ལིའི་ཚལ་འབྱུང་བར་འགྱུར་ཏེ།
+msgctxt "dd0adc220d1f4795aa525f6c2ca926b9"
+msgid "དེ་ ལ་ དེ་ཉིད་ ནས་ ཤིང་ ཤལ་མ་ལི␣འི་ ཚལ་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr "y surgissait une forêt d'arbres śālmali et"
+
+# དེ་ལ་དེ་ཉིད་དུ་རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་།
+# རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་། མདུང་ཁ་ལེབ་རྣམས་རླུང་གིས་སྤགས་<«གཡུང་»བླགས།>ཏེ་
+msgctxt "276147c574b949bc9d66395ff339d7ff"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ དུ་ རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  "
+"རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ །  མདུང་ ཁ་ལེབ་ རྣམས་ རླུང་ གིས་ སྤགས་ ཏེ་"
+msgstr ""
+"le vent projetait sur lui des épées, des javelots, des lances, des vajras à "
+"une pointe et des lances à pointe plate et"
+
+msgctxt "846baaaac599488faaf63e71374cc98b"
+msgid "དེ␣འི་ སྟེང་ དུ་ འབབ་བོ ། །"
+msgstr "ils tombaient sur lui."
+
+# དེ་སྟེ་རྩིག་པའི་གསེབ་[61a]བམ་<«པེ་»+ར།>རིའི་སུལ་ལམ་བྱ་སྐྱིབས་དག་ཏུ་འགྲོ་བར་འདོད་ན་ཡང་
+msgctxt "82e3ba07960c48ac96203082529e765c"
+msgid ""
+"དེ་སྟེ་ རྩིག་པ␣འི་ གསེབ་ བམ་ རི␣འི་ སུལ་ལམ་ བྱ་སྐྱིབས་ དག་ ཏུ་ འགྲོ་བ␣ར་ "
+"འདོད་ ན་ ཡང་"
+msgstr ""
+"Lui, s'il avait envie d'aller dans les enceintes ou dans les villages de "
+"montagne ou dans des abris sous roche,"
+
+# དེ་ལ་དེ་<«ཅོ་»འདི།>ཉིད་ནས་ལས་ལས་སྐྱེས་པའི་མི་དག་འབྱུང་བར་འགྱུར་ཏེ།
+msgctxt "4f2c2e4e05684e1fa6d4565834caa143"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ ལ␣ས་ ལ␣ས་ སྐྱེས་པ␣འི་ མི་ དག་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr "y surgissaient des hommes créés par ses actions et"
+
+msgctxt "828b5ccab9e448cba583cb66d25c9e83"
+msgid ""
+"རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ "
+"།  མདུང་ ཁ་ལེབ་ རྣམས་ ཐོགས་ ནས་"
+msgstr ""
+"ils portaient des épées, des javelots, des lances, des vajras à une pointe "
+"et des lances à pointe plate et"
+
+# དེའི་ལུས་ལ་འདེབས་ཏེ<«ཅོ་»«ཞོལ་»དེ།>།
+msgctxt "17481065d41848cfa7ca7a7861cc2abf"
+msgid "དེ␣འི་ ལུས་ ལ་ འདེབས་ ཏེ །"
+msgstr "ils frappaient son corps et"
+
+# དེ་དག་གིས་དེའི་ལུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+ལ།>ཐམས་ཅད་བཅད་<«ཞོལ་»གཅོད།>ཅིང་གཏུབ་པར་བྱེད་དེ།
+msgctxt "2c7fc3b5b8614ebba317618d1131aa30"
+msgid "དེ་དག་ གིས་ དེ␣འི་ ལུས་ ཐམས་ཅད་ བཅད་ ཅིང་ གཏུབ་པ␣ར་ བྱེད་ དེ །"
+msgstr "ils tranchaient son corps et le découpaient et"
+
+# རྒྱུ་དེས་ན་སྡུག་བསྔལ་དྲག་པ་དང་། མི་བཟད་<«གཡུང་»«པེ་»ཟད།>པ་དང་། ཚ་བ་དང་།
+# ཡིད་དུ་མི་འོང་བའི་ཚོར་བ་མྱོང་སྟེ་
+msgctxt "cb0c1136a6004ab29b25d52765394b6c"
+msgid ""
+"རྒྱུ་ དེས་ན་ སྡུག་བསྔལ་ དྲག་པ་ དང་ །  མི་བཟད་པ་ དང་ །  ཚ་བ་ དང་ །  ཡིད་ དུ་ "
+"མི་ འོང་བ␣འི་ ཚོར་བ་ མྱོང་ སྟེ་"
+msgstr ""
+"à cause de ça (lit. dû à cette cause), il subissait des souffrances "
+"intenses, insoutenables, des douleurs et des sensations indésirables et"
+
+# ཉམ་ཐག་པའི་སྐད་འབྱིན་ཅིང་<«གཡུང་»«པེ་»–ཅིང་།>
+msgctxt "bbed7c45ad224680962db7f0247cca73"
+msgid "ཉམ་ཐག་པ␣འི་ སྐད་ འབྱིན་ ཅིང་"
+msgstr "il laissait s'échapper des cris de désespoir et"
+
+msgctxt "37f9fb8a77a14b89ba05dadf70af7f8d"
+msgid "ངུའོ ། །"
+msgstr "il pleurait."
+
+# དེ་ནས་དེའི་ཀུ་ཅོའི་<«ཁུ་»ཅོའོ།>སྒྲས་མཉན་དུ་ཡོད་པ་ཐམས་ཅད་གང་བར་གྱུར་ཏོ། །
+msgctxt "3247d669ccc44a4ab5a8e0b4d4053973"
+msgid ""
+"དེ་ནས་ དེ␣འི་ ཀུ་ཅོ␣འི་ སྒྲ␣ས་ མཉན་ དུ་ཡོད་པ་ ཐམས་ཅད་ གང་བ␣ར་ གྱུར་ ཏོ ། །"
+msgstr "Ensuite, ses lamentations emplirent tous les endroits de Śrāvastī."
+
+msgctxt "ae337062ea41446db5e9082b71e61e41"
+msgid ""
+"མཉན་ དུ་ཡོད་པ␣འི་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེས་ འཇིགས་ སུ་ རུང་བ␣འི་ སྒྲ་ དེ་ལྟ་ བུ་ "
+"ཐོས་ སོ ། །"
+msgstr ""
+"La multitude des habitants (lit. personnes) de Śrāvastī entendirent ces cris"
+" terrifiants."
+
+msgctxt "0d430ea4b5b44ef2a7d01c2b43228fc0"
+msgid "ཐོས་ ནས་ ཀྱང་"
+msgstr "Les ayant entendus,"
+
+msgctxt "5d367de60a984d89b377826fdfb53635"
+msgid "སེམས་ཅན་ སྟོང་ཕྲག་ དུ་མ་ མཉན་ དུ་ཡོད་པ་ ནས་ བྱུང་ སྟེ །"
+msgstr "des milliers d'êtres sortirent de Śrāvastī et"
+
+# སྒྲ་གྲག་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»དྲག>པའི་ལོགས་སུ་ཆུ་ཀླུང་ཁང་<«གཡུང་»+པ།
+# «པེ་»+ཕ།>ལྡན་ག་ལ་བ་དེར་དོང་ནས་
+msgctxt "db28b36b51e74aea818c0b985c1d09a5"
+msgid "སྒྲ་ གྲག་པ␣འི་ ལོགས་ སུ་ ཆུ་ ཀླུང་ཁང་ ལྡན་ ག་ལ་བ་ དེ␣ར་ དོང་ ནས་"
+msgstr ""
+"allèrent là d'où les cris provenaient (lit. résonnaient), à la rivière "
+"Ajiravatī et"
+
+# སྐྱེ་བོ་ཕལ་པོ་ཆེ་<«གཡུང་»–ཆེ།>དེ་དག་གིས།
+# ཐག་རིང་པོ་ཞིག་ནས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གིས།>སེམས་ཅན་དེ་དེ་ལྟ་བུའི་གནོད་པའི་སྡུག་བསྔལ་ཉམས་སུ་མྱོང་བ་མཐོང་ངོ་།
+# །
+msgctxt "f0e4868bea424b029d1225886651aaba"
+msgid ""
+"སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ གིས །  ཐག་ རིང་པོ་ ཞིག་ ནས་ སེམས་ཅན་ དེ་དེ་ "
+"ལྟ་བུ␣འི་ གནོད་པ␣འི་ སྡུག་བསྔལ་ ཉམས་ སུ་ མྱོང་བ་ མཐོང་ ངོ་ ། །"
+msgstr ""
+"la multitude des personnes virent au loin quelles (lit. comme ça) "
+"souffrances cet être subissait (lit. expérimentait)."
+
+msgctxt "580ca624ad96441fbf0099c52bb471fc"
+msgid "མཐོང་ ནས་ ཀྱང་"
+msgstr "L'ayant vu,"
+
+msgctxt "f7d312978abe4792ad42b50333bc230a"
+msgid "དེ་དག་ གིས་ བསམས་པ །"
+msgstr "ils pensèrent : «"
+
+# སེམས་ཅན་འདི་ལྟ་བུ་<«གཡུང་»«པེ་»བུའི།>གནོད་པའི་སྡུག་བསྔལ་འདི་འདྲ་བ་ཉམས་སུ་མྱོང་བ་འདི་སུ་ཞིག་སྙམ་མོ།
+# །
+msgctxt "5fdaa5e5b11b4a38a7ea69bcdec53436"
+msgid ""
+"སེམས་ཅན་ འདི་ ལྟ་བུ་ གནོད་པ␣འི་ སྡུག་བསྔལ་ འདི་འདྲ་བ་ ཉམས་ སུ་ མྱོང་བ་ འདི་ "
+"སུ་ཞིག་ སྙམ་ མོ ། །"
+msgstr ""
+"Qui est cet être qui subit les souffrances aussi atroces (lit. les "
+"souffrances d'un tel mal) ? »"
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་བཞུགས་ཤིང་གཞེས་<«ཁུ་»བཞེས།>ལ་འཚོ་བ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་དུས་དུས་སུ།
+# གཙུག་ལག་ཁང་དང་། དུར་ཁྲོད་དང་། རི་དང་ཆུ་ཀླུང་དག་ཏུ་རྒྱུ་ཞིང་གཤེགས་ཏེ་
+msgctxt "e35097052a6f46b2948430768278820b"
+msgid ""
+"སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ བཞུགས་ ཤིང་ གཞེས་ ལ་ འཚོ་བ་ རྣམས་ ནི་ ཆོས་ཉིད་ ཀྱིས་"
+" དུས་ དུས་ སུ །  གཙུག་ལག་ཁང་ དང་ །  དུར་ཁྲོད་ དང་ །  རི་ དང་ ཆུ་ ཀླུང་ དག་ "
+"ཏུ་ རྒྱུ་ ཞིང་གཤེགས་ ཏེ་"
+msgstr ""
+"Les Bienheureux Bouddhas qui sont [dans le monde], [qui] sont en vie et "
+"[qui] vivent, du fait de la nature [des choses], ils se déplacent et vont de"
+" temps en temps vers des vihāras, des cimetières, des montagnes et des "
+"rivières. Ainsi,"
+
+# དོན་འདིའི་<«ཁུ་»དེའི།>ཕྱིར།
+# བཅོམ་ལྡན་འདས་ཆུ་ཀླུང་དུ་རྒྱུ་ཞིང་གཤེགས་པར་བཞེད་ནས།
+msgctxt "be2e9c1092a94a7cab2ef58bcb5eeb88"
+msgid ""
+"དོན་ འདི␣འི་ ཕྱིར །  བཅོམ་ལྡན་འདས་ ཆུ་ ཀླུང་ དུ་ རྒྱུ་ ཞིང་གཤེགས་པ␣ར་ བཞེད་ "
+"ནས །"
+msgstr ""
+"pour cette raison, le Bienheureux eut l'intention de se déplacer et d'aller "
+"à cette rivière et"
+
+msgctxt "ecb9d3cc6a474bbd976e803e40ff84d5"
+msgid "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ བཀའ་ སྩལ་པ །"
+msgstr "il dit à l'honorable Ānanda : «"
+
+msgctxt "926ea7061e9e4e35beaa89fbc32281b2"
+msgid "ཀུན་དགའ་བོ་"
+msgstr "Ānanda,"
+
+msgctxt "657fcf7ac7654448906e57040e89cad6"
+msgid "སོང་ ལ་"
+msgstr "va et"
+
+# དགེ་སློང་རྣམས་ལ་དེ་བཞིན་གཤེགས་པ་ནི་ཆུ་ཀླུང་དུ་རྒྱུ་ཞིང་གཤེགས་ཀྱིས་<«ཞོལ་»ཀྱི།>
+msgctxt "4275c71858354e3ca1f0a16ee4fe8d32"
+msgid ""
+"དགེ་སློང་ རྣམས་ ལ་ དེ་བཞིན་ གཤེགས་པ་ ནི་ ཆུ་ ཀླུང་ དུ་ རྒྱུ་ ཞིང་གཤེགས་ "
+"ཀྱིས་"
+msgstr "aux moines, \"Le Tathāgata va se déplacer et aller à la rivière. Donc,"
+
+# སུ་དེ་བཞིན་གཤེགས་པ་དང་ཐབས་ཅིག་<«གཡུང་»«ལི་»«པེ་»གཅིག>ཏུ་རྒྱུ་ཞིང་འགྲོ་འདོད་པ་དེ་དག་ཆོས་གོས་<«གཡུང་»«པེ་»+དག་ཆོས་གོས།>དག་ཆོས་ཤིག་ཅེས་
+msgctxt "4692f7542fc24d228f3646afdd7d0fe7"
+msgid ""
+"སུ་ དེ་བཞིན་ གཤེགས་པ་ དང་ ཐབས་ཅིག་ ཏུ་ རྒྱུ་ ཞིང་ འགྲོ་ འདོད་པ་ དེ་དག་ "
+"ཆོས་གོས་ དག་ ཆོས་ ཤིག་ ཅེས་"
+msgstr ""
+"que ceux qui veulent se déplacer et aller à la rivière avec le Tathāgata "
+"revêtent leur habit monastique.\""
+
+# བསྒོ་<«གཡུང་»སྒོ། «ཞོལ་»སྒོས།>ཤིག །
+msgctxt "53992703c0cb4f9dbd3721b574ade41e"
+msgid "བསྒོ་ ཤིག  །"
+msgstr "dis-le leur (lit. ordonne-leur ceci). »"
+
+msgctxt "62fdaf1dbbdf45fdb27e4fd6e73bda25"
+msgid "དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏེ་"
+msgstr "», lui dit-il. Puis,"
+
+# བསྒོ་<«ཞོལ་»བསྒོས།>ནས་
+msgctxt "170984d2ab7d48078f6da0da2fa42394"
+msgid "བསྒོ་ ནས་"
+msgstr "lui ayant dit de faire ça,"
+
+# བཅོམ་ལྡན་འདས་དགེ་སློང་གི་ཚོགས་ཀྱིས་ཞབས་འབྲིང་བྱས་ཏེ་<«གཡུང་»ཞམ་རིང་བྱས་སྟེ།
+# «ལི་»«སྣར་»«ཅོ་»ཞབས་འབྲིང་བྱ་སྟེ། «པེ་»བབས་འབྲིང་བྱས་སྟེ།>
+msgctxt "0e2325dcfd8f4da29959b7073369bbb3"
+msgid "བཅོམ་ལྡན་འདས་ དགེ་སློང་ གི་ ཚོགས་ ཀྱིས་ ཞབས་འབྲིང་ བྱས་ ཏེ་"
+msgstr "le Bienheureux, avec un groupe de moines pour le servir,"
+
+# དགེ་སློང་གི་དགེ་འདུན་གྱིས་མདུན་<«གཡུང་»གྱི་འདུན།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»གྱི་མདུན།>དུ་བདར་ནས་
+msgctxt "6c34afcccd8847a5acb98f240bdbfa24"
+msgid "དགེ་སློང་ གི་ དགེ་འདུན་ གྱིས་ མདུན་ དུ་ བདར་ ནས་"
+msgstr "précédé de la saṅgha des moines,"
+
+msgctxt "b23a7cb7188742a199ebdec8c06c296d"
+msgid "ཆུ་ ཀླུང་ཁང་ ལྡན་ ག་ལ་བ་ དེ␣ར་ གཤེགས་ སོ ། །"
+msgstr "s'en alla à l'endroit où se trouvait la rivière Ajiravatī."
+
+msgctxt "d95d38697610446a9488254cc5d84fdd"
+msgid ""
+"དེ་ནས་ སྐྱེ་བོ␣འི་ ཚོགས་ ཀྱིས་ ཐག་ རིང་པོ་ ནས་ བཅོམ་ལྡན་འདས་ མཐོང་ ངོ་ ། །"
+msgstr ""
+"Ensuite, la multitude de personnes virent au loin le Bienheureux qui "
+"arrivait."
+
+msgctxt "4cd32270f480455f8f951d08c968b711"
+msgid "མཐོང་ ནས་ ཀྱང་"
+msgstr "L'ayant vu,"
+
+msgctxt "dacc0c686583426493b01d0764f52bee"
+msgid "མ་དད་པ་ གང་ཡིན་པ་ དེ་དག་ ན་རེ་"
+msgstr "ceux sans dévotion dirent : «"
+
+msgctxt "b03d096f42c042bcac698230bb89fb31"
+msgid "དགེ་སྦྱོང་ གཽ་ ཏ་ མ་ ལྟད་མོ་ ལ་ དགའ་བ་ མེད་ དོ་ ཞེས་"
+msgstr "\"Le pratiquant Gautama n'aime pas les spectacles.\""
+
+# གྲག་<«སྣར་»དྲག «ཞོལ་»གྲགས།>ན་དེ་ཡང་ལྟད་མོའི་དབང་དུ་གྱུར་ཏེ་
+msgctxt "497a02da025b4781a9f54f9f16f08b95"
+msgid "གྲག་ ན་ དེ་ཡང་ ལྟད་མོ␣འི་ དབང་ དུ་ གྱུར་ ཏེ་"
+msgstr "dit-on. Mais il est sous l'influence des spectacles et"
+
+msgctxt "e415c2a39f654cbebf8db9020753c991"
+msgid "འོངས་ སོ་ ཞེས་"
+msgstr "il est venu. »"
+
+msgctxt "c163124569324ed38360def94085cf6f"
+msgid "ཟེར་ རོ ། །"
+msgstr "dirent-ils."
+
+# དད་པ་དང་ལྡན་པ་གང་ཡིན་པ་དེ་དག་ན་རེ་<«གཡུང་»+ནི།>
+msgctxt "decfe83a681747f49a1a81540ac3d74d"
+msgid "དད་པ་ དང་ ལྡན་པ་ གང་ཡིན་པ་ དེ་དག་ ན་རེ་"
+msgstr "Ceux qui avaient de la dévotion dirent : «"
+
+# བཅོམ་ལྡན་འདས་སེམས་ཅན་འདི་ལས་<«ཞོལ་»ལ།>བརྟེན་ཏེ་
+msgctxt "580a916d15024fb194049e353d1c0cd0"
+msgid "བཅོམ་ལྡན་འདས་ སེམས་ཅན་ འདི་ ལ␣ས་ བརྟེན་ ཏེ་"
+msgstr "Le Bienheureux, grâce à (lit. en prenant comme support) cet être,"
+
+# ངོ་མཚར་རྨད་དུ་བྱུང་བའི་ཆོས་ཅིག་<«སྣར་»«ཞོལ་»ཤིག>ལུང་སྟོན་པར་བཞེད་གོར་མ་ཆག་ཅེས་
+msgctxt "a6cc9c43a17040e4ad6e3e907f9bd4be"
+msgid ""
+"ངོ་མཚར་ རྨད་ དུ་ བྱུང་བ␣འི་ ཆོས་ ཅིག་ ལུང་སྟོན་པ␣ར་ བཞེད་ གོར་མ་ཆག་ ཅེས་"
+msgstr ""
+"va sans aucun doute vouloir révéler quelque chose de merveilleux et "
+"fascinant. »"
+
+msgctxt "b6053f5b26d4468a8d89880e0312fcd4"
+msgid "ཟེར་ ནས །"
+msgstr "dirent-ils. Puis,"
+
+msgctxt "b536456900e540a69f4a232268ae9e1f"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ གདན་ བཤམས་ ཏེ་"
+msgstr "ils disposèrent un siège pour le Bienheureux et"
+
+msgctxt "ecb26fa61037450c85adee1c6216f753"
+msgid "སྨྲས་པ །"
+msgstr "dirent : «"
+
+msgctxt "e055753b443f47cf90cf905a8d524459"
+msgid "བཅོམ་ལྡན་འདས་"
+msgstr "Bienheureux,"
+
+msgctxt "320a637e9e7a44ce9ec038b7981a1f3f"
+msgid "ཚུར་ གཤེགས །"
+msgstr "veuillez approcher !"
+
+msgctxt "29edb299dca94c02a6812f4ab39a824e"
+msgid "བཅོམ་ལྡན་འདས་"
+msgstr "Bienheureux,"
+
+msgctxt "fd18e7fe3fa2461990957d5886fefdc1"
+msgid "གཤེགས་པ་ ལེགས་ སོ་ ལེགས་ སོ ། །"
+msgstr "c'est merveilleux, c'est magnifique que Vous soyez venu !"
+
+msgctxt "e5bfdf1cab04406d84a2f0ea85495b13"
+msgid "བཅོམ་ལྡན་འདས་"
+msgstr "Bienheureux,"
+
+msgctxt "f8eaf0ad47094c7d8f74dc2f46b5ac19"
+msgid "གདན་ བཤམས་པ་ ལ་ བཞུགས་ སུ་ གསོལ་ ཞེས་"
+msgstr "Veuillez vous asseoir sur le siège disposé [pour vous]. »"
+
+msgctxt "742a2fcae12443b5bbd7ba105b65b281"
+msgid "ཟེར་ རོ ། །"
+msgstr "dirent-ils."
+
+msgctxt "aa89cf37f6b7479faed09f49ce2c1497"
+msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ གདན་ བཤམས་པ་ ལ་ བཞུགས་ ནས་"
+msgstr "Ensuite, le Bienheureux s'assit sur le siège disposé [pour lui] et"
+
+# བཅོམ་ལྡན་འདས་ཀྱིས་དགོངས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»གསུངས།>པ།
+msgctxt "686ff8756ac24d5b9732a8c4949f37b3"
+msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ དགོངས་པ །"
+msgstr "le Bienheureux pensa : «"
+
+msgctxt "5b94e2c04d8c4b4581c9c6d9e2409746"
+msgid "མ་ལ་"
+msgstr "Décidément,"
+
+# བདག་སེམས་ཅན་འདི་ཅི་ནས་སྔོན་གྱི་ཚེ་རབས་རྗེས་སུ་དྲན་ལ་མིའི་སྐད་དུ་སྨྲ་ཞིང་བདག་དང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–དང་།>གཏམ་ཟེར་བར་འགྱུར་བ་དེ་ལྟ་བུའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་འཇུག་པར་བྱའོ་སྙམ་དུ་
+msgctxt "af868ce0c6bf4bce92771b626a53caa9"
+msgid ""
+"བདག་ སེམས་ཅན་ འདི་ ཅི་ ནས་ སྔོན་ གྱི་ ཚེ་རབས་ རྗེས་སུ་ དྲན་ ལ་ མི␣འི་ སྐད་ "
+"དུ་ སྨྲ་ ཞིང་བདག་ དང་ གཏམ་ ཟེར་བ␣ར་ འགྱུར་བ་ དེ་ལྟ་ བུ␣འི་ ཏིང་ངེ་འཛིན་ ལ་ "
+"སྙོམས་པར་ འཇུག་པ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
+msgstr ""
+"je vais m'engager dans une absorption méditative qui fera à coup sûr que cet"
+" être se souvienne de ses vies passées, qu'il parle une langue humaine et "
+"qu'il discute avec moi. »"
+
+msgctxt "f2a035956d9e40ef8069fb08c58a27bf"
+msgid "དགོངས་ སོ ། །"
+msgstr "pensa-t-Il."
+
+msgctxt "d544ba4bd23f4362b809c5660576d161"
+msgid ""
+"དེ་ནས་ བཅོམ་ལྡན་འདས་ ཅི་ ནས་ སེམས་ཅན་ དེ␣ས་ སྔོན་ གྱི་ ཚེ་རབས་ དྲན་ ལ་ "
+"མི␣འི་ སྐད་ དུ་ སྨྲ་ ཞིང་ །  བཅོམ་ལྡན་འདས་ དང་ གཏམ་ ཟེར་བ␣ར་ འགྱུར་བ་ དེ་ལྟ་"
+" བུ␣འི་ ཏིང་ངེ་འཛིན་ ལ་ སྙོམས་པར་ ཞུགས་ ནས །"
+msgstr ""
+"Ensuite, le Bienheureux s'engagea dans une absorption méditative qui fit que"
+" cet être se souvienne de ses vies passées, qu'il parle une langue humaine "
+"et qu'il discute le Bienheureux et"
+
+# དེར་བཅོམ་ལྡན་འདས་ཀྱིས་སེམས་ཅན་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+དག>ལ་བཀའ་སྩལ་པ།
+msgctxt "4be75c660ff74635bd089070cc0245f1"
+msgid "དེ␣ར་ བཅོམ་ལྡན་འདས་ ཀྱིས་ སེམས་ཅན་ དེ་ ལ་ བཀའ་ སྩལ་པ །"
+msgstr "alors, le Bienheureux dit à cet être : «"
+
+# བཞིན་བཟངས་<«སྣར་»«ཞོལ་»བཟང་།>
+msgctxt "4d5a8a8d8d7d46e799fc47b9553e2e8c"
+msgid "བཞིན་ བཟངས་"
+msgstr "Mon ami (lit. noble visage),"
+
+msgctxt "0a9c38e9d82e493d90d87f9b11e91e28"
+msgid "ཁྱོད་ སྒམ་པོ་ ཡིན་ ནམ །"
+msgstr "es-tu Insondable ? »"
+
+msgctxt "44b1b155873440a3be841daeb22d4a67"
+msgid "བཅོམ་ལྡན་འདས་"
+msgstr "« Bienheureux,"
+
+msgctxt "e1d1e0e8b88e479d82fb881f7a39ba78"
+msgid "བདག་ སྒམ་པོ་ ལགས་སོ ། །"
+msgstr "je suis Insondable. »"
+
+# བཞིན་བཟངས་<«སྣར་»«ཞོལ་»བཟང་།>
+msgctxt "8900781942094ceb8366a75f939814b9"
+msgid "བཞིན་ བཟངས་"
+msgstr "« Mon ami (lit. noble visage),"
+
+msgctxt "7fd185daa7ac4cd09b85cc31d8ff7e33"
+msgid "ཁྱོད་ སྒམ་པོ་ ཡིན་ ནམ །"
+msgstr "es-tu Insondable ? »"
+
+msgctxt "c9e69498b2a74cda817b82c1c9f8166e"
+msgid "བདེ་བ␣ར་ གཤེགས་པ་"
+msgstr "« Tathāgata,"
+
+msgctxt "03d8046603194a4cbd8030449fbb96a5"
+msgid "བདག་ སྒམ་པོ་ ལགས་སོ ། །"
+msgstr "je suis Insondable. »"
+
+# ལུས་དང་ངག་དང་ཡིད་ཀྱི་ཉེས་པར་སྤྱོད་པའི་ལས་རྣམས་ཀྱི་འབྲས་བུ་མྱོང་བ་<«གཡུང་»«པེ་»+བདག>ཡོད་དམ།
+msgctxt "071aa8b7f10c429cbca5cedacc25b7f8"
+msgid ""
+"ལུས་ དང་ ངག་ དང་ ཡིད་ ཀྱི་ ཉེས་པ␣ར་ སྤྱོད་པ␣འི་ ལ␣ས་ རྣམས་ ཀྱི་ འབྲས་བུ་ "
+"མྱོང་བ་ ཡོད་ དམ །"
+msgstr ""
+"« Fait-on l'expérience du résultat des actions mauvaises du corps, de la "
+"parole et de l'esprit ? »"
+
+msgctxt "bfaa4328b26a4cc5b240bad042f10451"
+msgid "བཅོམ་ལྡན་འདས་"
+msgstr "« Bienheureux,"
+
+msgctxt "5c5c15af7a2a4754b3e1a988b9c80c66"
+msgid "མྱོང་བ་ མཆིས་ ལགས་སོ ། །"
+msgstr "on en fait l'expérience. »"
+
+msgctxt "8c5e87a5c09e4f95b75d251df3f52adc"
+msgid ""
+"ལུས་ དང་ ངག་ དང་ ཡིད་ ཀྱི་ ཉེས་པ␣ར་ སྤྱོད་པ␣འི་ ལ␣ས་ རྣམས་ ཀྱི་ འབྲས་བུ་ མི་"
+" སྡུག་པ་ ཡིན་ ནམ །"
+msgstr ""
+"« Le résultat des actions mauvaises du corps, de la parole et de l'esprit "
+"est-il désagréable ? »"
+
+# བདེ་བར་གཤེགས་པ་<«གཡུང་»ག་བ།>
+msgctxt "3c1f4bf60e6345eb98b291a01ce25307"
+msgid "བདེ་བ␣ར་ གཤེགས་པ་"
+msgstr "« Tathāgata,"
+
+msgctxt "5805b4a096374e6e9b669bedf32184c4"
+msgid "མི་ སྡུག་པ་ ལགས་སོ ། །"
+msgstr "il est désagréable. »"
+
+# ཁྱོད་ཀྱི་མི་དགེ་བའི་བཤེས་<«གཡུང་»གཤེས།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཁུ་»«ཞོལ་»བཤེས།>གཉེན་སུ་ཡིན།
+msgctxt "9e061a097d864f29ab0e752b9ef95cf7"
+msgid "ཁྱོད་ ཀྱི་ མི་དགེ་བ␣འི་ བཤེས་གཉེན་ སུ་ ཡིན །"
+msgstr "« Qui est ton ami de mal ? »"
+
+msgctxt "dcb47dea6adf464fad363ca468e16e10"
+msgid "དེ␣ས་ གསོལ་པ །"
+msgstr "Il répondit : «"
+
+msgctxt "3c04b20edfdc45dc9571b4b8926f8091"
+msgid "རང་ གི་ སེམས་ ལགས་སོ ། །"
+msgstr "C'est mon esprit. »"
+
+msgctxt "fcc908683c584b8c833c374388bfbccf"
+msgid "དེ་ནས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ འདི་ སྙམ་ དུ་ སེམས་ ཏེ །"
+msgstr "Ensuite, la multitude des personnes se dirent ceci : «"
+
+msgctxt "23a6e7cff59a40cca70171a897b6a4a7"
+msgid "འདི་ ལྟ་བུ␣འི་ སེམས་ཅན་ སྔོན་ གྱི་ ཚེ་རབས་ དྲན་ ལ་"
+msgstr "Cet être qui se souvient de ses vies passées,"
+
+msgctxt "591cc25ba6914e0d96892b6c54c0b809"
+msgid "མི␣འི་ སྐད་ དུ་ སྨྲ་ ཞིང་"
+msgstr "qui parle une langue humaine et"
+
+msgctxt "dd2e35cef9f64db59b4b56688757963e"
+msgid "བཅོམ་ལྡན་འདས་ དང་ གཏམ་ ཟེར་བ་ འདི་ སུ་ཞིག་ སྙམ་ མོ ། །"
+msgstr "qui discute avec le Bienheureux, qui est-il ? »"
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་སྙན་སླེབས་<«ཞོལ་»སླེབ།>པར་དཀའ་སྟེ།
+msgctxt "235690ca981f440f926a89c5aadef131"
+msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ རྣམས་ ནི་ སྙན་ སླེབས་པ␣ར་ དཀའ་ སྟེ །"
+msgstr "Puisqu'il est difficile de se faire entendre par le Bienheureux,"
+
+# དེ་དག་གིས་བཅོམ་ལྡན་འདས་ཀྱི་སྙན་དུ་ཞུ་མ་<«པེ་»མི།>ནུས་ནས་
+msgctxt "083fc408bc704a81ae16f338539bd72b"
+msgid "དེ་དག་ གིས་ བཅོམ་ལྡན་འདས་ ཀྱི་ སྙན་ དུ་ ཞུ་ མ་ནུ␣ས་ ནས་"
+msgstr "ils ne parvinrent pas à poser cette question au Bienheureux et"
+
+msgctxt "78a77cfed0fa4122a0c1a2a9365d43e8"
+msgid "དེ་དག་ གིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ དྲིས་པ །"
+msgstr "ils demandèrent à l'honorable Ānanda : «"
+
+# བཙུན་[62a]པ་ཀུན་<«ཅོ་»–ཀུན།>དགའ་བོ་
+msgctxt "3d993f6a8ada4be7a998720e37d09140"
+msgid "བཙུན་པ་ ཀུན་དགའ་བོ་"
+msgstr "Vénérable Ānanda,"
+
+msgctxt "5e5d8152557849daa8e5186cf0f35b1a"
+msgid "འདི་ ལྟ་བུ␣འི་ སེམས་ཅན་ སྔོན་ གྱི་ ཚེ་རབས་ དྲན་ ལ་"
+msgstr "un être comme celui-ci qui se souvient de ses vies passées,"
+
+msgctxt "4430bcfc16a6457895b0b79abe979f23"
+msgid "མི␣འི་ སྐད་ དུ་ སྨྲ་ ཞིང་ །"
+msgstr "qui parle une langue humaine et"
+
+msgctxt "50d46cd2ea54455380e5d5910cc3a771"
+msgid "བཅོམ་ལྡན་འདས་ དང་ གཏམ་ ཟེར་བ་ འདི་ སུ་ཞིག  །"
+msgstr "qui discute avec le Bienheureux, qui est-il ? »"
+
+msgctxt "962230c4bef846f4b336e494bb8f94d3"
+msgid "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ སྨྲས་པ །"
+msgstr "L'honorable Ānanda dit : «"
+
+msgctxt "f4f3b641527946e4bf03843264564a7d"
+msgid "བཅོམ་ལྡན་འདས་ ལ་ ཞུས་ ཤིག  །"
+msgstr "Demandez au Bienheureux. »"
+
+msgctxt "29d46ed5907e41f1a22033a6d69b344f"
+msgid "དེ་དག་ གིས་ སྨྲས་པ །"
+msgstr "Ils dirent : «"
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་སྙན་སླེབས་<«གཡུང་»རློབས། «པེ་»སློབས།
+# «སྣར་»སླབས། «ཞོལ་»སླེབ།>པར་དཀའ་ཞིང་
+msgctxt "379ae0dba50144d9befbb1e5112f29d3"
+msgid "སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ རྣམས་ ནི་ སྙན་ སླེབས་པ␣ར་ དཀའ་ ཞིང་"
+msgstr "il est difficile de se faire entendre des Bienheureux,"
+
+# གཟི་བྱིན་བཟོད་པར་དཀའ་<«གཡུང་»–«པེ་»བཀའ།>བས་བདག་ཅག་གིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་སྙན་དུ་ཞུ་མི་ནུས་སོ།
+# །
+msgctxt "7d428ced523f46648da62566a62c0d15"
+msgid ""
+"གཟི་བྱིན་ བཟོད་པ␣ར་ དཀའ་བ␣ས་ བདག་ཅག་ གིས་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ ཀྱི་ སྙན་ "
+"དུ་ ཞུ་ མི་ ནུས་ སོ ། །"
+msgstr ""
+"leur prestance est insoutenable, donc nous ne parvenons pas à lui faire "
+"cette demande."
+
+msgctxt "c23c0e77a3a74de99d5aa7c87c7c5194"
+msgid "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ སྨྲས་པ །"
+msgstr "L'honorable Ānanda dit : «"
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་བདག་གིས་ཀྱང་སྙན་སླེབས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–སྙན།
+# «ཞོལ་»སླེབ།>པར་དཀའ་མོད་ཀྱི།
+msgctxt "aa7ee170a86b4bd8a9664e893525c4a6"
+msgid ""
+"སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ རྣམས་ ནི་ བདག་ གིས་ ཀྱང་ སྙན་ སླེབས་པ␣ར་ དཀའ་ མོད་ "
+"ཀྱི །"
+msgstr ""
+"Il m'est aussi difficile de me faire entendre par les Bienheureux, mais"
+
+# འོན་ཀྱང་ཁྱེད་ལ་སྙིང་བརྩེ་<«གཡུང་»བཙེ།>བའི་ཕྱིར་ཞུ་བར་བགྱིའོ་ཞེས་
+msgctxt "2f6f670407e744e3bf8d425c53cfe57d"
+msgid "འོན་ཀྱང་ ཁྱེད་ ལ་ སྙིང་བརྩེ་བ␣འི་ ཕྱིར་ ཞུ་བ␣ར་ བགྱི␣འོ་ ཞེས་"
+msgstr "pourtant, par compassion pour vous, je vais le demander. »"
+
+msgctxt "b3f37f7e3ca241e4a0a19bcff4fb5d5d"
+msgid "སྨྲ␣ས་ ནས །"
+msgstr "dit-il. Puis,"
+
+# ཚེ་དང་ལྡན་པ་ཀུན་<«གཡུང་»ཞུ་ན།>དགའ་བོས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ཏེ།
+msgctxt "97dd52071414436c86f0dba41e37d4b2"
+msgid "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ཏེ །"
+msgstr ""
+"l'honorable Ānanda [replia] son vêtement supérieur et le laissa retomber sur"
+" une épaule,"
+
+# བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་
+msgctxt "6208d52a957a4d838e7a1080cc243759"
+msgid "བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ་ ལོགས་ སུ་ ཐལ་མོ་ སྦྱར་བ་ བཏུད་ ནས་"
+msgstr "joignit les mains et s'inclina en direction du Bienheureux et"
+
+msgctxt "9cf66202af12426d959a19f2927119dc"
+msgid "བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ ། །"
+msgstr "il dit ceci au Bienheureux : «"
+
+msgctxt "7c6498738b3048e998cb5fe3e013fe0d"
+msgid "བཙུན་པ་"
+msgstr "Vénérable,"
+
+msgctxt "546d6d0f60c54223a0ca4b14851f742a"
+msgid "འདི་ ལྟ་བུ␣འི་ སེམས་ཅན་ སྔོན་ གྱི་ ཚེ་རབས་ དྲན་ ལ་"
+msgstr "Cet être qui se souvient de ses vies passées,"
+
+# མིའི་<«གཡུང་»«པེ་»མི།>སྐད་དུ་སྨྲ་ཞིང་།
+msgctxt "c76c452b6c434252a18b473cee86a84a"
+msgid "མི␣འི་ སྐད་ དུ་ སྨྲ་ ཞིང་ །"
+msgstr "qui parle une langue humaine et"
+
+msgctxt "721e3ef7c1c947d5a8a4511351f871c5"
+msgid "བཅོམ་ལྡན་འདས་ ལ་ བཀའ་ མཆིད་ གསོལ་པ་ འདི་ སུ་ཞིག་ ལགས །"
+msgstr "qui discute avec le Bienheureux, qui est-ce ? »"
+
+msgctxt "67b1202c2a204972ac57756e435408ed"
+msgid "དེ␣ར་ བཅོམ་ལྡན་འདས་ ཀྱིས་ ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་བོ་ ལ་ བཀའ་ སྩལ་པ །"
+msgstr "Alors, le Bienheureux dit à l'honorable Ānanda : «"
+
+msgctxt "89306e035078484d8a35e389af4d5e88"
+msgid "ཀུན་དགའ་བོ་"
+msgstr "Ānanda,"
+
+msgctxt "133ace1f42e3423b90ce53ffb83a72e9"
+msgid "སེམས་ཅན་ འདི་ ནི་ སྡིག་པ␣འི་ ལ␣ས་ བྱེད་ བྱེད་པ་ ཡིན་ ཏེ །"
+msgstr "Cet être en est un qui a continuellement fait des actions négatives ;"
+
+msgctxt "aa4481aa0153418a86fed2bf19e1fc67"
+msgid "འདི␣ས་ སྡིག་པ␣འི་ ལ␣ས་ མང་ དུ་ བྱས་ སོ ། །"
+msgstr "il a réalisé beaucoup d'actions négatives."
+
+msgctxt "a36b75bc033945bc9b7be969a1ce8796"
+msgid "ཀུན་དགའ་བོ་"
+msgstr "Ānanda,"
+
+# སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་ས་ལས་འདས་པ།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ།
+# བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་<«ཞོལ་»–མཁྱེན།>པ།
+# སྐྱེས་བུ་གདུལ་<«གཡུང་»«པེ་»འདུལ།>བྱའི་ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ།
+# ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་ཟེར་ཅན།
+# ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་<«གཡུང་»«པེ་»འབྱུང་།>སྟེ།
+msgctxt "0cb150e9ccc74a11abd02d637e923a22"
+msgid ""
+"སྔོན་བྱུང་བ་ འདས་པ␣འི་ དུས་ ན །  ཉན་ཐོས་ དང་ རང་ སངས་རྒྱས་ ཀྱི་ ས་ལས་ འདས་པ "
+"།  ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ དེ་བཞིན་ གཤེགས་པ་ "
+"དགྲ་བཅོམ་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ རིག་པ་ དང་ ཞབས་ སུ་ ལྡན་པ །  "
+"བདེ་བ␣ར་ གཤེགས་པ །  འཇིག་རྟེན་ མཁྱེན་པ །  སྐྱེས་བུ་ གདུལ་བྱ␣འི་ ཁ་ལོ་ "
+"སྒྱུར་བ །  བླ་ ན་ མེད་པ །  ལྷ་ དང་ མི་ རྣམས་ ཀྱི་ སྟོན་པ །  སངས་རྒྱས་ "
+"བཅོམ་ལྡན་འདས་ འོད་ཟེར་ ཅན །  ཞེས་ བྱ་བ་ འཇིག་རྟེན་ དུ་ བྱུང་ སྟེ །"
+msgstr ""
+"à un moment du passé qui s'est déroulé auparavant, le tathāgata, l'arhat, le"
+" complet et parfait bouddha, celui doté de la vision et des jambes, le "
+"sugata, le connaisseur du monde, l'insurpassable cocher des êtres à guider, "
+"l'enseignant des dieux et des hommes, le Bienheureux Bouddha Prabhāvan était"
+" apparu en ce monde et"
+
+# དེའི་ཚེ་དགྲ་བཅོམ་པ་ཞིག་དགྲ་བཅོམ་པ་ལྔ་བརྒྱ་དང་ཐབས་ཅིག་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»གཅིག>ཏུ་ལྗོངས་རྒྱུ་ཞིང་
+msgctxt "729aa0efd60b46958da2a76e8ddee3ed"
+msgid ""
+"དེ␣འི་ ཚེ་ དགྲ་བཅོམ་པ་ ཞིག་ དགྲ་བཅོམ་པ་ ལྔ་ བརྒྱ་ དང་ ཐབས་ཅིག་ ཏུ་ "
+"ལྗོངས་རྒྱུ་ ཞིང་"
+msgstr "à cette époque, un arhat voyageait avec cinq cent arhats "
+
+msgctxt "59c846684f674ba5b5b685294f1ee179"
+msgid "སོང་བ་ ལ␣ས་"
+msgstr "et se déplaçait. Ainsi,"
+
+msgctxt "2203e832b75845a3953a9c49eb395a9b"
+msgid "རྒྱལ་པོ␣འི་ ཕོ་བྲང་ ཞིག་ ཏུ་ ཕྱིན་ ནས །"
+msgstr "ils arrivèrent à un palais royal et"
+
+msgctxt "ad1c2de3c58241c5a6256112414f77d2"
+msgid "དེ་དག་ རྒྱལ་པོ་ དེ␣འི་ སྐྱེད་མོས་ཚལ་ དུ་ སོང་ སྟེ །"
+msgstr "ils allèrent dans le parc d'agrément de ce roi et"
+
+# རྒན་<«གཡུང་»རྒམ།>རིམས་བཞིན་དུ་ཤིང་དྲུང་རེ་རེར་རྩྭ་བཏིང་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»རྩ་བཏིང་།
+# «ལི་»«ཅོ་»ཙཱལ་ཏིང་།>ནས་
+msgctxt "dc817336947045588fc852e741624c61"
+msgid "རྒན་ རིམས་ བཞིན་ དུ་ ཤིང་ དྲུང་ རེ་རེ␣ར་ རྩྭ་ བཏིང་ ནས་"
+msgstr ""
+"en suivant l'ordre d'ancienneté, ils étalèrent chacun de l'herbe au pied "
+"(lit. près) d'un arbre et"
+
+# སྐྱིལ་མོ་ཀྲུང་<«གཡུང་»དཀྱིལ་མོ་དཀྲུངས། «ལི་»«ཅོ་»སྐྱིལ་མོ་དཀྲུང་།
+# «པེ་»དཀྱིལ་མོ་དཀྲུང་།>བཅས་ཏེ་
+msgctxt "66d3d1a03d2e4a1db72447b78f161360"
+msgid "སྐྱིལ་མོ་ཀྲུང་ བཅས་ ཏེ་"
+msgstr "ils croisèrent leurs jambes et"
+
+# བསམ་གཏན་དང་། རྣམ་པར་ཐར་པ་དང་། ཏིང་ངེ་འཛིན་དང་།
+# སྙོམས་པར་[62b]འཇུག་པའི་བདེ་བ་ཉམས་སུ་མྱོང་བར་བྱེད་<«གཡུང་»བྱོད་ད།>དོ། །
+msgctxt "f9a2ed8274e643c0bc06ebdeea774221"
+msgid ""
+"བསམ་གཏན་ དང་ །  རྣམ་པ␣ར་ ཐར་པ་ དང་ །  ཏིང་ངེ་འཛིན་ དང་ །  སྙོམས་པར་ "
+"འཇུག་པ␣འི་ བདེ་བ་ ཉམས་ སུ་ མྱོང་བ␣ར་ བྱེད་ དོ ། །"
+msgstr ""
+"ils firent l'expérience du bonheur de la concentration, des libérations "
+"parfaites, des concentrations méditatives et des absorptions méditatives."
+
+# དེ་ནས་དེའི་ཚེ་རྒྱལ་པོའི་ཕོ་བྲང་<«གཡུང་»ཕྲང་།>དེ་ཉིད་ན་རྒྱལ་པོ་སྒམ་པོ་ཞེས་བྱ་བ་རྒྱལ་པོ་བྱེད་དེ།
+msgctxt "54e0e367397444afa3cb93f2ddaf3be3"
+msgid ""
+"དེ་ནས་ དེ␣འི་ ཚེ་ རྒྱལ་པོ␣འི་ ཕོ་བྲང་ དེ་ཉིད་ ན་ རྒྱལ་པོ་ སྒམ་པོ་ ཞེས་ བྱ་བ་"
+" རྒྱལ་པོ་ བྱེད་ དེ །"
+msgstr ""
+"Ensuite, à cette époque, le roi Insondable régnait dans ce même palais royal"
+" et"
+
+msgctxt "e9ef1d86c81c477a831796da22c0996b"
+msgid "རྒྱལ་པོ་ དེ་ ནང་པ␣ར་ སྔར་ ལངས་ ནས་"
+msgstr "le roi se leva tôt le lendemain et"
+
+# བུད་མེད་ཀྱི་འཁོར་གྱིས་ཞབས་འབྲིང་<«གཡུང་»ཞམ་རིང་།>བྱས་ཏེ་
+msgctxt "2cbaf740dfc14fbfbf66d8a92edc23d6"
+msgid "བུད་མེད་ ཀྱི་ འཁོར་ གྱིས་ ཞབས་འབྲིང་ བྱས་ ཏེ་"
+msgstr "avec un groupe de dames pour le servir,"
+
+# སྐྱེད་<«གཡུང་»«པེ་»བསྐྱེད།>མོས་ཚལ་དེར་སོང་<«གཡུང་»«པེ་»+སོང་།>ངོ་། །
+msgctxt "f4d9ad7b38b04b9f89612baf48691dc6"
+msgid "སྐྱེད་མོས་ཚལ་ དེ␣ར་ སོང་ ངོ་ ། །"
+msgstr "il alla dans ce parc d'agrément."
+
+msgctxt "4b54e110281f4303aa9a04d3a87eb2e6"
+msgid "དེ་དེ␣ར་ སོང་ ནས་"
+msgstr "Y étant allé,"
+
+# ཕྱོགས་གཅིག་<«གཡུང་»«པེ་»ཅིག>ཏུ་འདུག་པ་དང་།
+msgctxt "2e2cbb5220b94bde9a6205c0b8db72a1"
+msgid "ཕྱོགས་ གཅིག་ ཏུ་ འདུག་པ་ དང་ །"
+msgstr "il s'assit à un endroit (lit. il se tint dans une direction) et"
+
+# བུད་མེད་དེ་དག་མེ་ཏོག་དང་འབྲས་བུ་ལ་སྲེད་པས་ཕན་ཚུན་དུ་འཁྱམ་ཞིང་<«ཞོལ་»འཁྱམས་ཤིང་།>དོང་བ་ལས་
+msgctxt "ba687054d95f44b5a0c8f43c03bea2f8"
+msgid ""
+"བུད་མེད་ དེ་དག་ མེ་ཏོག་ དང་ འབྲས་བུ་ ལ་ སྲེད་པ␣ས་ ཕན་ཚུན་ དུ་ འཁྱམ་ ཞིང་ "
+"དོང་བ་ ལ␣ས་"
+msgstr ""
+"ces dames étaient attirées par les fleurs et les fruits et se promenaient et"
+" allaient [dans le parc]. C'est ainsi que"
+
+# བུད་མེད་དེ་དག་གིས་དགེ་སློང་ལྔ་བརྒྱ་པོ་དེ་དག་ཤིང་དྲུང་དག་ན་ཀླུའི་རྒྱལ་པོ་ལྟར་ལུས་བསྐྱིལ་ཏེ་གཉིད་ལོག་པ་བཞིན་དུ་སྐྱིལ་མོ་ཀྲུང་<«གཡུང་»དཀྱིལ་མོ་དཀྲུང་།
+# «ལི་»«པེ་»«ཅོ་»སྐྱིལ་མོ་དཀྲུང་།>བཅས་ཏེ་
+msgctxt "315b95b9dfe14c93aadf0032d3b06331"
+msgid ""
+"བུད་མེད་ དེ་དག་ གིས་ དགེ་སློང་ ལྔ་ བརྒྱ་པོ་ དེ་དག་ ཤིང་ དྲུང་ དག་ ན་ ཀླུ␣འི་"
+" རྒྱལ་པོ་ ལྟར་ ལུས་ བསྐྱིལ་ ཏེ་ གཉིད་ལོག་པ་ བཞིན་ དུ་ སྐྱིལ་མོ་ཀྲུང་ བཅས་ "
+"ཏེ་"
+msgstr ""
+"ces dames, ces cinq cent moines qui étaient recroquevillés aux pieds des "
+"arbres comme des rois des nāgas et qui avaient les jambes croisées comme "
+"s'ils étaient endormis et"
+
+msgctxt "cdb59eef5cba4986be17d372d2dc68bd"
+msgid "འཁོད་པ་ མཐོང་ ངོ་ ། །"
+msgstr "qui y restaient, elles les virent."
+
+msgctxt "79581f0a73c74a9aa9555cd4aa94c065"
+msgid "མཐོང་ ནས་ ཀྱང་"
+msgstr "Les ayant vus,"
+
+msgctxt "66ea32799b44459c9b7ba011226d7125"
+msgid "མཆོག་ ཏུ་ དགའ་བ་ སྐྱེས་ སོ ། །"
+msgstr "elles ressentirent une joie intense (lit. suprême)."
+
+msgctxt "17f2a82189044185881011f0e0badbc4"
+msgid "དེ་དག་ དགའ་བ་ སྐྱེས་ ནས་"
+msgstr "Elles ressentirent cette joie et"
+
+# དེ་དག་གིས་<«གཡུང་»«པེ་»གི།>ཞབས་ལ་<«གཡུང་»ལི།>ཕྱག་འཚལ་ཏེ།
+msgctxt "515aa175b40f485eb92d7217b1a42ce7"
+msgid "དེ་དག་ གིས་ ཞབས་ ལ་ ཕྱག་ འཚལ་ ཏེ །"
+msgstr "elles se prosternèrent à leurs pieds et"
+
+msgctxt "2616ebfd8d7540ee9c399106cc6eb49e"
+msgid ""
+"དེ་དག་ གི་ ནང་ ན་ ཆེས་ རྒན་པ་ གང་ཡིན་པ་ དེ␣འི་ མདུན་ དུ་ ཆོས་ མཉན་པ␣འི་ "
+"ཕྱིར་ འཁོད་ དོ ། །"
+msgstr "s'assirent devant le plus ancien parmi eux pour écouter le Dharma."
+
+# དེ་ནས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+དེ།>རྒྱལ་པོ་དེས་སྐྱེད་<«གཡུང་»དེས་བསྐྱེད།
+# «པེ་»དེ་བསྐྱེད།>མོས་ཚལ་དེའི་ནང་ནས་སྐྱེས་པའི་སྒྲ་ཐོས་སོ། །
+msgctxt "310cecf287da4951b3740469f96cae22"
+msgid ""
+"དེ་ནས་ རྒྱལ་པོ་ དེ␣ས་ སྐྱེད་མོས་ཚལ་ དེ␣འི་ ནང་ ནས་ སྐྱེས་པ␣འི་ སྒྲ་ ཐོས་ སོ "
+"། །"
+msgstr "Ensuite, le roi entendit la voix d'un homme dans ce parc d'agrément."
+
+msgctxt "0a694cc9568c495aa2858bb12cb65ab4"
+msgid "ཐོས་ ནས་ ཀྱང་"
+msgstr "L'ayant entendue,"
+
+# རལ་གྲི་རྣོན་པོ་མགུལ་<«གཡུང་»འགུལ།>དུ་ཐོགས་ཏེ།
+msgctxt "46eb676ed6144d4893ae94cb7a6e45cd"
+msgid "རལ་གྲི་ རྣོན་པོ་ མགུལ་ དུ་ ཐོགས་ ཏེ །"
+msgstr "il prit (lit. porta) une épée tranchante à son cou et"
+
+msgctxt "d841dfa4829442c8a95bbfb48cce0def"
+msgid "དགེ་སློང་ དེ་དག་ ག་ལ་བ་ དེ␣ར་ སོང་ ནས་"
+msgstr "il alla à l'endroit où se trouvaient ces moines et"
+
+# རྒྱལ་པོ་དེས་དགེ་སློང་ལྔ་བརྒྱ་<«གཡུང་»རྒྱ་བ།
+# «པེ་»བརྒྱ་བོ།>དེ་དག་ཐག་རིང་པོ་ནས་མཐོང་ངོ་། །
+msgctxt "14173e91fb4345eea745cd004bbcb907"
+msgid ""
+"རྒྱལ་པོ་ དེ␣ས་ དགེ་སློང་ ལྔ་ བརྒྱ་ དེ་དག་ ཐག་ རིང་པོ་ ནས་ མཐོང་ ངོ་ ། །"
+msgstr "ce roi vit ces cinq cent moines au loin."
+
+msgctxt "db70664adcf742be964f9e4268ae77f7"
+msgid "མཐོང་ ནས་ ཀྱང་"
+msgstr "Les ayant vus,"
+
+msgctxt "8cca32937ec34113a7854a33fdb2039b"
+msgid "དགེ་སློང་ རྣམས་ ཀྱིས་ ང␣འི་ བཙུན་མོ␣འི་ འཁོར་ མཐོང་ གིས་"
+msgstr "\"Ces moines regardent mon entourage de reines et ceci"
+
+msgctxt "e3d3322d6716407498d3324f9ef1f4ed"
+msgid "མེད་ དོ་ སྙམ་ སྟེ །"
+msgstr "n'est pas [acceptable].\" pensa-t-il. Puis,"
+
+# ཁྲོ་བའི་ཀུན་ནས་དཀྲིས་<«ཁུ་»བཀྲིས།>པ་ཆེན་པོ་སྐྱེས་ནས་
+msgctxt "df0452f408f14e6795bc1e759079a21c"
+msgid "ཁྲོ་བ␣འི་ ཀུན་ ནས་ དཀྲིས་པ་ ཆེན་པོ་ སྐྱེས་ ནས་"
+msgstr ""
+"ayant donné naissance à une émotion (lit. ce qui enserre entièrement) de "
+"colère,"
+
+msgctxt "f827bfa1951e4b68b969ed9e4e2eb538"
+msgid ""
+"མཐོང་ མ་ ཐག་ ཏུ་ རྒྱལ་པོ་ དེ␣ས་ རྒྱལ་པོ␣འི་ ཞོ་ཤས་འཚོ་བ་ རྣམས་ ལ་ བོས་ ཏེ །"
+msgstr "le roi fit appeler les employés du roi et"
+
+msgctxt "1467904afda948e6ac1e84285a231ceb"
+msgid "དེ་དག་ ལ་ བསྒོ་བ །"
+msgstr "il leur donna cet ordre :"
+
+# དགེ་སློང་འདི་རྣམས་ལྕག་གིས་གཞུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཞོལ་»ལྕག་གིས་བཞུས།
+# «ཅོ་»ལྕགས་གིས་བཞུས།>ཤིག་ཅེས་
+msgctxt "20bd06f2434843aba1563b3c1d22cc02"
+msgid "དགེ་སློང་ འདི་ རྣམས་ ལྕག་ གིས་ གཞུས་ ཤིག་ ཅེས་"
+msgstr "\"Frappez ces moines avec des [barres] métalliques.\""
+
+msgctxt "7fa95d25d7c54298bf865cd5c706e3fb"
+msgid "བྱས་ སོ ། །"
+msgstr "dit-il."
+
+msgctxt "30debf42f9e04cc1a11b217bfa21f901"
+msgid "དེ་ནས་ རེ་ཞིག་ ན་ དེ་དག་ ལྕག་ གིས་ བཞུས་ ནས་"
+msgstr ""
+"Ensuite, après un temps, ils les battirent avec des [barres] métalliques et"
+
+# དགེ་སློང་དེ་དག་གི་ལུས་རིལ་གྱིས་<«གཡུང་»«སྣར་»གྲིས།>ཞུ་ལུབ་ཏུ་ཤ་སྣག་བུ་བཞིན་དུ་གྱུར་ཏོ།
+# །
+msgctxt "009766756bd24ab4b0e3b9c605b31fd7"
+msgid ""
+"དགེ་སློང་ དེ་དག་ གི་ ལུས་ རིལ་ གྱིས་ ཞུ་ལུབ་ ཏུ་ ཤ་སྣག་ བུ་ བཞིན་ དུ་ གྱུར་ "
+"ཏོ ། །"
+msgstr ""
+"et recouvrirent (lit. tout autour) la surface (lit. sans espace) des corps "
+"de ces moines de bleus."
+
+msgctxt "4de656966b2b4118b76e7c6d82842b39"
+msgid "དེ་ནས་ དེ␣ས་ དགེ་སློང་ དེ་ རྣམས་ སྙིང་ཚིམ་པ␣ར་ བཞུས་ ནས་"
+msgstr ""
+"Ensuite, quand il eut frappé ces moines de tout son soûl (lit. à en être "
+"satisfait),"
+
+# གཤེད་མ་རྣམས་ལ་གཏད་དེ<«གཡུང་»«པེ་»གཏད་ཏེ། «ལི་»«སྣར་»«ཅོ་»བཏད་དེ།>།
+msgctxt "95fcd052f46845168726ea2c8656e7de"
+msgid "གཤེད་མ་ རྣམས་ ལ་ གཏད་ དེ །"
+msgstr "il les remit aux bourreaux : «"
+
+msgctxt "c842a9642fb74345a0b51f6b690d4252"
+msgid "ཁྱེད་ དེང་ ལ་"
+msgstr "Mettez-vous en route,"
+
+# རབ་ཏུ་བྱུང་བ་འདི་རྣམས་ལས་ཁ་ཅིག་ནི་གསོན་<«གཡུང་»བསོན།>པོར་གསལ་ཤིང་ལ་ཚུགས་ལ་
+msgctxt "5f95765c13524391b795cc88a575d4b5"
+msgid ""
+"རབ་ཏུ་ བྱུང་བ་ འདི་ རྣམས་ ལ␣ས་ ཁ་ཅིག་ ནི་ གསོན་པོ␣ར་ གསལ་ཤིང་ ལ་ ཚུགས་ ལ་"
+msgstr "empalez vivants certains de ces personnes s'étant retirés du monde et"
+
+# རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་། རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་།
+# མདུང་ཁ་ལེབ་རྣམས་ཀྱིས་བསྣུན་<«ཞོལ་»སྣུན།>ཅིག །
+msgctxt "895fdc1e7cac4507bc8ccbdc3d017d28"
+msgid ""
+"རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ "
+"།  མདུང་ ཁ་ལེབ་ རྣམས་ ཀྱིས་ བསྣུན་ ཅིག  །"
+msgstr ""
+"abattez sur eux des épées, des javelots, des lances, des vajras à une pointe"
+" et des lances à pointe plate."
+
+# ཁ་ཅིག་<«གཡུང་»«པེ་»གཅིག>ནི་གསོན་པོར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཁུ་»པར།>ཁྱི་རྣམས་ལ་བྱིན་ཅིག
+# །
+msgctxt "2df946699e784bceadb309448226ced8"
+msgid "ཁ་ཅིག་ ནི་ གསོན་པོ␣ར་ ཁྱི་ རྣམས་ ལ་ བྱིན་ ཅིག  །"
+msgstr "Donnez certains autres vivants à des chiens."
+
+msgctxt "f445f38a5ed24ef9851bf2d8c01f9eb9"
+msgid "ཁ་ཅིག་ ནི་ ལུས་ དུམ་བུ་ དྲུག་ ཏུ་ ཆོད་ ལ་"
+msgstr "Coupez en six certains autres et"
+
+msgctxt "a43d742822f34d1f8fd01e4e44d59fb7"
+msgid "ཕྱོགས་ ཀུན་ དུ་ བོར་ ཞིག་ ཅེས་"
+msgstr "éparpillez-les (lit. jetez les dans toutes les directions).\""
+
+msgctxt "d1f777775887434eb5e63cb669bf7f9b"
+msgid "བྱས་ སོ ། །"
+msgstr "dit-il."
+
+msgctxt "ccc40655e9844cf6907cfb89079f4dd7"
+msgid "དེ་ནས་ རྒྱལ་པོ␣འི་ མི་ དེ་དག་ གིས་ དེ་བཞིན་ དུ་ འཚལ་ ལོ་ ཞེས་"
+msgstr "Ensuite, \"Nous feront ceci (lit. comme ceci).\" les hommes du roi "
+
+msgctxt "8d3d84f07992403dbd6381cc6ec7dc8d"
+msgid "བྱས་ ནས །"
+msgstr "dirent. Puis,"
+
+# དགེ་སློང་ལྔ་བརྒྱ་<«གཡུང་»རྒྱ།>པོ་དེ་དག་ཁ་ཅིག་ནི་གསོན་པོར་གསལ་ཤིང་ལ་བཙུགས་<«གཡུང་»«པེ་»ཚུགས།
+# «ཁུ་»གཙུགས།>[63a]ནས་
+msgctxt "1f7c03dc962747fb8e9d8cde5a853611"
+msgid ""
+"དགེ་སློང་ ལྔ་ བརྒྱ་པོ་ དེ་དག་ ཁ་ཅིག་ ནི་ གསོན་པོ␣ར་ གསལ་ཤིང་ ལ་ བཙུགས་ ནས་"
+msgstr "ils empalèrent vivants certains des cinq cent moines et"
+
+msgctxt "22991d11bb734784bda1aca788ccdd35"
+msgid ""
+"རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ "
+"།  མདུང་ ཁ་ལེབ་ རྣམས་ ཀྱིས་ བསྣུན་ ཏོ ། །"
+msgstr ""
+"abattirent sur eux des épées, des javelots, des lances, des vajras à une "
+"pointe et des lances à pointe plate."
+
+msgctxt "fdcf355cb9ca41b290bb1806a2e65a53"
+msgid "ཁ་ཅིག་ ནི་ གསོན་པོ␣ར་ ཁྱི་ རྣམས་ ལ་ བྱིན་ ནོ ། །"
+msgstr "Ils donnèrent certains autres vivants à des chiens."
+
+msgctxt "7a007e9034a34fd6835a4028054ab5e2"
+msgid "ཁ་ཅིག་ ནི་ ལུས་ དུམ་བུ་ དྲུག་ ཏུ་ བཅད་ དེ་"
+msgstr "Ils coupèrent en six certains autres et"
+
+msgctxt "55467548bc464e3b95822c805c2d3244"
+msgid "ཕྱོགས་ ཀུན་ དུ་ བོར་ རོ ། །"
+msgstr "les éparpillèrent (lit. les jetèrent dans toutes les directions)."
+
+msgctxt "3f7434ff631e46eea9a6b4702f93dc0f"
+msgid "དགེ་སློང་ དག་"
+msgstr "Moines,"
+
+msgctxt "2eb29da28b964b9f90519c59d03b0b50"
+msgid "ཇི་སྙམ་ དུ་ སེམས །"
+msgstr "qu'en pensez-vous ?"
+
+msgctxt "f5484304d8a24bc6b1221df23dd3ecfc"
+msgid ""
+"དེ␣འི་ ཚེ་ རྒྱལ་པོ␣ར་ གྱུར་པ་ གང་ཡིན་པ་ དེ་ ནི་ སེམས་ཅན་ འདི་ཉིད་ ཡིན་ ཏེ །"
+msgstr "À cette époque, celui qui était ce roi est cet être lui-même et"
+
+# དེས་དེར་དགྲ་<«གཡུང་»འགྲ།>བཅོམ་པ་ལྔ་བརྒྱ་པོ་དེ་དག་བསད་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་མནར་མེད་པར་སྐྱེས་སོ།
+# །
+msgctxt "9cce17db00be459c9f0becc7a048fa2c"
+msgid ""
+"དེ␣ས་ དེ␣ར་ དགྲ་བཅོམ་པ་ ལྔ་ བརྒྱ་པོ་ དེ་དག་ བསད་པ␣འི་ ལ␣ས་ དེ␣འི་ རྣམ་པ␣ར་ "
+"སྨིན་པ␣ས་ སེམས་ཅན་ དམྱལ་བ་ ཆེན་པོ་ མནར་མེད་པ␣ར་ སྐྱེས་ སོ ། །"
+msgstr ""
+"le résultat d'avoir tué ces cinq cent arhats l'a fait naître [comme] être du"
+" grand enfer insurpassable (lit. insoutenable)."
+
+msgctxt "b8a5ab2f9f8f4512915a65c7ded88aee"
+msgid ""
+"དེ␣ས་ དགེ་སློང་ དེ་དག་ ལ་ སྡང་བ␣འི་ སེམས་ ཀྱིས་ བལྟས་པ␣འི་ ལ␣ས་ དེ␣འི་ "
+"རྣམ་པ␣ར་ སྨིན་པ␣ས་ ནི་ དམུས་ལོང་ དུ་ གྱུར་ ཏོ ། །"
+msgstr ""
+"Le résultat d'avoir regardé ces moines avec des pensées de colère le fit "
+"devenir aveugle de naissance."
+
+# དེས་དགེ་སློང་དེ་དག་ལྕག་གིས་གཞུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»བཞུས།>པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི་ལུས་རིལ་གྱིས་རྨས་ཞུ་ལུབ་ཏུ་ཡོག་པར་གྱུར་ཏོ།
+# །
+msgctxt "18eb4444efb149369cfd94f105cec11c"
+msgid ""
+"དེ␣ས་ དགེ་སློང་ དེ་དག་ ལྕག་ གིས་ གཞུས་པ␣འི་ ལ␣ས་ དེ␣འི་ རྣམ་པ␣ར་ སྨིན་པ␣ས་ "
+"ནི་ ལུས་ རིལ་ གྱིས་ རྨ␣ས་ ཞུ་ལུབ་ ཏུ་ ཡོག་པ␣ར་ གྱུར་ ཏོ ། །"
+msgstr ""
+"Le résultat d'avoir frappé ces moines avec des [barres] métalliques fit que "
+"la surface (lit. la rondeur) de son corps était entièrement (lit. sans "
+"espace) recouverte de plaies."
+
+# སྤྱི་བོ་མན་ཆད་རྐང་མཐིལ་<«གཡུང་»«པེ་»ཐིལ།>ཡན་ཆད་དུ་སྲིན་ཞུགས་སོ། །
+msgctxt "0a403c129d114da192f8e603863fb497"
+msgid "སྤྱི་བོ་ མན་ཆད་ རྐང་མཐིལ་ ཡན་ཆད་ དུ་ སྲིན་ ཞུགས་ སོ ། །"
+msgstr ""
+"Du haut de sa tête vers le bas et de la plante de ses pieds vers le haut, "
+"des parasites le rongeaient (lit. s'engageaient)."
+
+# དེས་<«ཁུ་»དེ་ནས།>དེ་དག་གཤེད་མ་ལ་གཏད་དེ་
+msgctxt "d96b6ef92f964cd89dfeabc403fbfdd4"
+msgid "དེ␣ས་ དེ་དག་ གཤེད་མ་ ལ་ གཏད་ དེ་"
+msgstr "Qu'il les remit aux bourreaux et"
+
+msgctxt "aaeadeb08c96421da81e2c597062af0e"
+msgid "ཁ་ཅིག་ ནི་ གསོན་པོ␣ར་ གསལ་ཤིང་ ལ་ བཙུགས་ ནས་"
+msgstr "qu'ils en empalèrent certains vivants et"
+
+msgctxt "4afc92709c014e7b99fd63897667051f"
+msgid ""
+"རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ "
+"།  མདུང་ ཁ་ལེབ་ རྣམས་ ཀྱིས་ བསྣུན་པ་ དང་ །"
+msgstr ""
+"abattirent sur eux des épées, des javelots, des lances, des vajras à une "
+"pointe et des lances à pointe plate et"
+
+# ཁ་ཅིག་ནི་གསོན་པོར་<«ཅོ་»པོ། «ཁུ་»པར།>ཁྱི་རྣམས་ལ་བྱིན་པ་དང་།
+msgctxt "b81886c16501432eb2a41d0685cf31a6"
+msgid "ཁ་ཅིག་ ནི་ གསོན་པོ␣ར་ ཁྱི་ རྣམས་ ལ་ བྱིན་པ་ དང་ །"
+msgstr "qu'ils en donnèrent certains vivants à des chiens et"
+
+msgctxt "678a57605b0e463f93377992078b4a1e"
+msgid "ཁ་ཅིག་ ནི་ གསོན་པོ␣ར་ ལུས་ དུམ་བུ་ དྲུག་ ཏུ་ བཅད་ དེ་"
+msgstr "qu'ils en coupèrent certains vivants en six et"
+
+msgctxt "b7a4df8743e7400181f8905c948b28d5"
+msgid "ཕྱོགས་ ཀུན་ དུ་ གཏོར་བ␣འི་ ལ␣ས་ དེ␣འི་ རྣམ་པ␣ར་ སྨིན་པ␣ས་ ནི །"
+msgstr ""
+"qu'ils les éparpillèrent (lit. jetèrent dans toutes les directions), le "
+"résultat de ces actions fit que"
+
+msgctxt "134ef879ad374a95988720b7eefc6cd6"
+msgid "གལ་ཏེ་ ཐང་ལ་ འགྲོ་ ན་ ནི་"
+msgstr "s'il va sur une plaine,"
+
+# དེ་ལ་དེ་ཉིད་ནས་སེང་གེ་དང་། སྟག་དང་། གཟིག་དང་།
+# དྲེད་ལ་སོགས་པ་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་<«གཡུང་»«པེ་»དུག>འབྱུང་བར་འགྱུར་ཏེ།
+msgctxt "2655f56a5f4840589aa78c12530c88b7"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ སེང་གེ་ དང་ །  སྟག་ དང་ །  གཟིག་ དང་ །  དྲེད་ ལ་སོགས་པ་ "
+"ལྕགས་ ཀྱི་ མཆེ་བ་ ཅན་ དག་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr ""
+"y surgissent des lions, des léopards, des ours [tous] avec des crocs en "
+"métal et"
+
+msgctxt "2ea2c1d1cf5143ba9667e146c7387b00"
+msgid "དེ་དག་ གིས་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpent sans cesse sa chair et"
+
+msgctxt "24b375c617884c7888dcbbc719d6e764"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangent."
+
+# དེ་སྟེ་ཆུ་<«ཞོལ་»ཆུར། «ཁུ་»ཆུལ།>འབོག་ན་ནི་
+msgctxt "58a7bccea0d04fdf941bde50bd02c46c"
+msgid "དེ་སྟེ་ ཆུ་འབོག་ ན་ ནི་"
+msgstr "Lui, s'il s'enfonce dans l'eau,"
+
+# དེ་ལ་དེ་ཉིད་ལས་<«ཞོལ་»ནས།>ཆུ་སྲིན་མ་ཀ་ར་ལྕགས་ཀྱི་<«ཞོལ་»ཀྱིས།>མཆེ་བ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+msgctxt "318e7abbbef94fba866182d99c201ee3"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ལ␣ས་ ཆུ་སྲིན་ མ་ ཀ་ར་ ལྕགས་ ཀྱི་ མཆེ་བ་ ཅན་ དག་ འབྱུང་བ␣ར་ "
+"འགྱུར་ ཏེ །"
+msgstr "y surgissent des monstres makarah aux crocs en métal et"
+
+msgctxt "83ad414af85f458482fa47d5b98798f2"
+msgid "དེ་དག་ གིས་ ཀྱང་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpent sans cesse sa chair et"
+
+msgctxt "22e421a3872c45bb8bf4a48370de13f2"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangent."
+
+# དེ་<«པེ་»+སྟེ།>སྟེང་གི་ནམ་མཁའ་ལ་འགྲོ་ན་ནི་
+msgctxt "7513f56fae6345a18df70f10e2980da2"
+msgid "དེ་ སྟེང་ གི་ ནམ་མཁའ་ ལ་ འགྲོ་ ན་ ནི་"
+msgstr "Lui, s'il va dans l'espace,"
+
+msgctxt "43c69863003540769892bb4921d6b701"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ ནས་ བྱ་རོག་ དང་ །  བྱ་རྒོད་ དང་ །  ཆུན་ལག་ ལྕགས་ ཀྱི་ མཆུ་ཅན་"
+" དག་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr ""
+"y surgissent des corbeaux, des vautours et des oiseaux tsasha tous avec des "
+"becs en métal et"
+
+msgctxt "f6cd7e64777849749976243231fcd28a"
+msgid "དེ་དག་ གིས་ ཀྱང་ དེ␣འི་ ཤ་ རྣམས་ བཅད་ ཅིང་ བཅད་ ཅིང་"
+msgstr "ils découpent sans cesse sa chair et"
+
+msgctxt "880f11633e02484f9344aaa153f531b5"
+msgid "ཟ␣འོ ། །"
+msgstr "ils le mangent."
+
+# དེ་སྟེ་<«གཡུང་»«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–སྟེ།>ནགས་སྟུག་<«གཡུང་»«པེ་»སྡུག>པོའི་ནང་དུ་འགྲོ་ན་ནི།
+msgctxt "e0762ec31fd74aee9653d461ea0af065"
+msgid "དེ་སྟེ་ ནགས་ སྟུག་པོ␣འི་ ནང་ དུ་ འགྲོ་ ན་ ནི །"
+msgstr "Lui, s'il va dans la forêt dense,"
+
+msgctxt "ed92d7f11b2d4e7c95d5fa4f9e516a46"
+msgid "དེ་ ལ་ དེ་ཉིད་ ནས་ ཤིང་ ཤལ་མ་ལི␣འི་ ཚལ་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr "y surgit une forêt d'arbres śālmali et"
+
+# དེ་ལ་དེ་ཉིད་དུ་རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་།
+# རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་། མདུང་ཁ་ལེབ་རྣམས་རླུང་གིས་སྤགས་<«གཡུང་»བླགས།>ཏེ་
+msgctxt "1c1c09f1b95b42acab815aea52dd9f20"
+msgid ""
+"དེ་ ལ་ དེ་ཉིད་ དུ་ རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  "
+"རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ །  མདུང་ ཁ་ལེབ་ རྣམས་ རླུང་ གིས་ སྤགས་ ཏེ་"
+msgstr ""
+"le vent projette sur lui des épées, des javelots, des lances, des vajras à "
+"une pointe et des lances à pointe plate et"
+
+msgctxt "5ea27545eaee4b6ab0254bf543d982c7"
+msgid "དེ␣འི་ སྟེང་ དུ་ འབབ་བོ ། །"
+msgstr "ils tombent sur lui."
+
+msgctxt "f6e9264a246c4684a511352c92c5618a"
+msgid ""
+"དེ་སྟེ་ རྩིག་པ␣འི་ གསེབ་ བམ་ རི␣འི་ སུལ་ལམ་ བྱ་སྐྱིབས་ དག་ ཏུ་ འགྲོ་བ␣ར་ "
+"འདོད་ ན་ ཡང་"
+msgstr ""
+"Lui, s'il a envie d'aller dans les enceintes ou dans les villages de "
+"montagne ou dans des abris sous roche,"
+
+msgctxt "3602b2e36e164164819b1be97eef3284"
+msgid "དེ་ ལ་ དེ་ཉིད་ ནས་ ལ␣ས་ ལ␣ས་ སྐྱེས་པ␣འི་ མི་ དག་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ་"
+msgstr "y surgissent des hommes créés par ses actions et"
+
+msgctxt "d12541c65c88490a8557d37c0f1bd35d"
+msgid ""
+"རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ "
+"།  མདུང་ ཁ་ལེབ་ རྣམས་ ཐོགས་ ནས་"
+msgstr ""
+"ils portent des épées, des javelots, des lances, des vajras à une pointe et "
+"des lances à pointe plate et"
+
+msgctxt "4a3be126cd75404ea29f791bd8d5de6c"
+msgid "དེ␣འི་ ལུས་ ལ་ འདེབས་ ཏེ །"
+msgstr "ils frappent son corps et"
+
+# དེ་དག་གིས་དེའི་ལུས་ཐམས་ཅད་བཅད་ཅིང་གཏུབ་པར་<«གཡུང་»བ།>བྱེད་དེ་
+msgctxt "2f982a12c5a9416289944b763bad7a64"
+msgid "དེ་དག་ གིས་ དེ␣འི་ ལུས་ ཐམས་ཅད་ བཅད་ ཅིང་ གཏུབ་པ␣ར་ བྱེད་ དེ་"
+msgstr "ils tranchent son corps et le découpaient et"
+
+# རྒྱུ་དེས་ན་དེས་སྡུག་བསྔལ་དྲག་པ་<«གཡུང་»སྔལ་དྲག་པོ།
+# «པེ་»«ཅོ་»«ཁུ་»བསྔལ་དྲག་པོ།>དང་མི་བཟད་པ་དང་།
+# ཚ་བ་དང་ཡིད་དུ་མི་འོང་བའི་ཚོར་བ་མྱོང་སྟེ་
+msgctxt "8c3adb674a7f4781aaa15f0ae3d25780"
+msgid ""
+"རྒྱུ་ དེས་ན་ དེ␣ས་ སྡུག་བསྔལ་ དྲག་པ་ དང་ མི་བཟད་པ་ དང་ །  ཚ་བ་ དང་ ཡིད་ དུ་ "
+"མི་ འོང་བ␣འི་ ཚོར་བ་ མྱོང་ སྟེ་"
+msgstr ""
+"à cause de ça (lit. dû à cette cause), il subit des souffrances intenses, "
+"insoutenables, des douleurs et des sensations indésirables et"
+
+msgctxt "17dd0a64d8c241ceb1c5f9bb552c47fc"
+msgid "ཉམ་ཐག་པ␣འི་ སྐད་ འབྱིན་ ཅིང་"
+msgstr "il laisse s'échapper des cris de désespoir et"
+
+msgctxt "de858b25e3b24179903db546d8685e42"
+msgid "ངུའོ ། །"
+msgstr "il pleure."
+
+msgctxt "e55b843b59ce4ac1b7c265bdd382e9b0"
+msgid "དགེ་སློང་ དག་"
+msgstr "Moines,"
+
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་ཟེར་ཅན་གྱི་རིང་<«གཡུང་»རིང་>ཚུན་ཆད་ནས།
+# ད་ལྟར་ངའི་རིང་<«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ང་རང་།>གི་བར་དུ་སེམས་ཅན་འདི་སེམས་ཅན་དམྱལ་བ་རྣམས་ནས་ཤི་འཕོས་ཤིང་
+msgctxt "99831227a277404ea33d99cf075c45c1"
+msgid ""
+"ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ འོད་ཟེར་ ཅན་ གྱི་ རིང་ ཚུན་ཆད་ ནས །  ད་ལྟར་"
+" ང␣འི་ རིང་ གི་ བར་ དུ་ སེམས་ཅན་ འདི་ སེམས་ཅན་ དམྱལ་བ་ རྣམས་ ནས་ ཤི་འཕོས་ "
+"ཤིང་"
+msgstr ""
+"depuis l'époque du complet et parfait Bouddha Prabhāvan jusqu'à l'époque "
+"présente (lit. de maintenant) [qui est] la mienne, cet être a quitté [des "
+"vies chez] les êtres des enfers et"
+
+msgctxt "4bf4da6b916c48059d00932106486225"
+msgid "སེམས་ཅན་ དམྱལ་བ་ རྣམས་ འབའ་ཞིག་ ཏུ་ སྐྱེས་ ཏེ་"
+msgstr "est uniquement né parmi les êtres des enfers et"
+
+# འདིས་འདི་ལྟ་བུའི་སྡུག་བསྔལ་རྙེད་<«གཡུང་»སྔལ་སྙེད། «པེ་»སྔལ་རྙེད།>པར་གྱུར་ཏོ།
+# །
+msgctxt "f95e65bb69f945e29145e2eb00665dae"
+msgid "འདི␣ས་ འདི་ ལྟ་བུ␣འི་ སྡུག་བསྔལ་ རྙེད་པ␣ར་ གྱུར་ ཏོ ། །"
+msgstr "il a obtenu de telles souffrances. »"
+
+msgctxt "e8382fdd197342c4bb8c66881cf6a8dd"
+msgid "བཙུན་པ་"
+msgstr "« Vénérable,"
+
+# སེམས་ཅན་འདི་སྡུག་བསྔལ་<«གཡུང་»སྔལ།>འདི་ལས་ནམ་ཐར་བར་འགྱུར་ལགས།
+msgctxt "28b5e755a9944f37896eb442b4879ae2"
+msgid "སེམས་ཅན་ འདི་ སྡུག་བསྔལ་ འདི་ ལ␣ས་ ནམ་ ཐར་བ␣ར་ འགྱུར་ ལགས །"
+msgstr "quand cet être sera-t-il libéré de ces souffrances ? »"
+
+msgctxt "dd0463f9234a475aa6ca40427e423924"
+msgid "བསྐལ་པ་ བཟང་པོ་ འདི་ཉིད་ ལ་ སངས་རྒྱས་ ལྔ་ བརྒྱ་ འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr "« Cinq cent bouddhas apparaîtront pendant cet éon fortuné et"
+
+msgctxt "16e996928cb2401d829219e2e179d445"
+msgid ""
+"དེ␣འི་ བར་ དུ་ ཡང་ སེམས་ཅན་ འདི་ སེམས་ཅན་ དམྱལ་བ་ རྣམས་ ནས་ ཤི་འཕོས་ ཤིང་"
+msgstr "jusque là, cet être quittera [des vies chez] les êtres des enfers et"
+
+msgctxt "f051ee6ec49c4fec948358cc17f04e3d"
+msgid "སེམས་ཅན་ དམྱལ་བ་ རྣམས་ འབའ་ཞིག་ ཏུ་ སྐྱེ་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr "naîtra uniquement parmi les êtres des enfers et"
+
+msgctxt "aa9a9cd8c5f349f994db840e0c598f64"
+msgid "འདི་ ལྟ་བུ␣འི་ སྡུག་བསྔལ་ ཤ་སྟག་ རྙེད་ ནས །"
+msgstr ""
+"il obtiendra à chaque fois (lit. uniquement) des souffrances comme celles-ci"
+" et"
+
+msgctxt "bbf28dd0d413411eb4a8db76d01c974d"
+msgid "དེ␣འི་ འོག་ ཏུ་ སེམས་ཅན་ དམྱལ་བ␣འི་ སྡུག་བསྔལ་ ཟད་ ནས་"
+msgstr ""
+"après ça (lit. en dessous de ça), les souffrances d'être dans les enfers "
+"s'épuiseront et"
+
+msgctxt "3093d728663f45e7be5bbcfae46ec276"
+msgid "མི␣ར་ སྐྱེ་བ་ ཐོབ་པ␣ར་ འགྱུར་ ཏེ །"
+msgstr "il obtiendra de naître chez les humains et"
+
+# དེས་རིགས་ངན་གྱི་ཁྱིམ་དུ་ཉིང་མཚམས་<«ལི་»«ཅོ་»འཚམས།>སྦྱོར་བར་འགྱུར་རོ། །
+msgctxt "f8decae8e5444a9685ff603188a21828"
+msgid "དེ␣ས་ རིགས་ངན་ གྱི་ ཁྱིམ་ དུ་ ཉིང་མཚམས་ སྦྱོར་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr ""
+"il passera la lisière [de sa prochaine vie] dans une maison de basse (lit. "
+"mauvaise) caste."
+
+# དེ་གང་གི་<«གཡུང་»གྱི།>ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ་རི་དགས་ཤོར་<«ཅོ»«ཞོལ»བཤོར།>དུ་འགྲོ་བར་འགྱུར་ཏེ།
+msgctxt "b5779a22a8e547268b51dfed1aea836b"
+msgid ""
+"དེ་ གང་ གི་ ཚེ་ ཆེ␣ར་ སྐྱེས་པ་ དེ␣འི་ ཚེ་ རི་ དག␣ས་ ཤོ␣ར་ དུ་ འགྲོ་བ␣ར་ "
+"འགྱུར་ ཏེ །"
+msgstr ""
+"Quand il aura grandi, il ira chasser (lit. chasser des herbivores sauvages) "
+"et"
+
+msgctxt "11a3fb4bab2844b493e3ecb1e745d46d"
+msgid ""
+"དེ་དེ␣ར་ སོང་བ་ ན་ ནགས་ཁྲོད་ མེ་ཏོག་ ཕུན་སུམ་ ཚོགས་པ་ འབྲས་བུ་ ཕུན་སུམ་ "
+"ཚོགས་པ་ བསིལ་གྲིབ་ ཕུན་སུམ་ ཚོགས་པ་ ཞིག་ ཏུ་ ཕྱིན་ ནས །"
+msgstr ""
+"lorqu'il sera à la chasse (lit. y), il ira dans un endroit de la forêt (lit."
+" au milieu de la forêt) où se trouvaient des fleurs parfaites, des fruits "
+"parfaits et une ombre parfaitement rafraîchissante et"
+
+msgctxt "8c2fd937fd39425982bf764d52daf0ad"
+msgid "དེ␣ས་ བསམས་པ་"
+msgstr "il pensera : «"
+
+# གནས་འདི་ལྟ་བུར་ནི་རི་དགས་རྣམས་འདུ་བར་འགྱུར་རོ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»དེ།>སྙམ་ནས།
+msgctxt "0a8377ccda4f4e0eaa9cf8bfee897a5b"
+msgid "གནས་ འདི་ ལྟ་བུ␣ར་ ནི་ རི་ དག␣ས་ རྣམས་ འདུ་བ␣ར་ འགྱུར་ རོ་ སྙམ་ ནས །"
+msgstr ""
+"Les animaux (lit. herbivores sauvages) se rassemblent dans un endroit comme "
+"celui-ci. » et"
+
+# དེས་དེར་འཁྲུལ་<«གཡུང་»«པེ་»–རོ>འཁོར་དང་རྙི་དང་གཏོར་བ་<«ལི»«ཅོ་»འཕྲུལ།>དང་རྙོང་རྣམས་བཙུགས་<«གཡུང་»སྙི་དང་ཏོར།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»སྙི་དང་གཏམ་པ།>ནས་
+msgctxt "1101f3978e984348a16a8821bb8b32c8"
+msgid "དེ␣ས་ དེ␣ར་ འཁྲུལ་ དང་ རྙི་ དང་ གཏོར་བ་ དང་ རྙོང་ རྣམས་ བཙུགས་ ནས་"
+msgstr ""
+"il y installera des [pièges comme] des trappes mécaniques, des filets, des "
+"assommoirs et [d'autres] filets et"
+
+msgctxt "c6455526b84e44b4a7259e8baf2c989c"
+msgid "འགྲོ་བ␣ར་ བྱེད་ དོ ། །"
+msgstr "partira."
+
+msgctxt "bafb1de9176344a6a1cb58c85a3d3b93"
+msgid "དེ་ནས་ དེ␣འི་ ཚེ་ འཇིག་རྟེན་ དུ་ རང་ སངས་རྒྱས་ ཤིག་ བྱུང་ སྟེ །"
+msgstr ""
+"Ensuite, à ce moment, un bouddha solitaire apparaîtra dans le monde et"
+
+msgctxt "fa48bff618b4456a9c983f04e9841230"
+msgid "དེ་ ནགས་ཁྲོད་ དེ␣ར་ མཚན་མོ་ གནས་ འཆའ་བ␣ར་ བྱེད་ དེ །"
+msgstr ""
+"il s'établira [pour] la nuit dans cet endroit de la forêt (lit. milieu de "
+"forêt) et"
+
+msgctxt "52b71e4079e14c4c8cddd6a1d3ad0f56"
+msgid ""
+"དེ␣འི་ དྲིས་ རི་ དག␣ས་ དེ་དག་ དེ␣འི་ ཉིན་པ␣ར་ ནགས་ཁྲོད་ དེ␣ར་ མི་ འོང་ ངོ་ །"
+" །"
+msgstr ""
+"du fait de son odeur, les animaux sauvages (lit. herbivores sauvages) ne "
+"viendront pas à cet endroit ce jour-là."
+
+msgctxt "7ef8b5b21e7d4623b41c8d0968ae39c3"
+msgid "རྔོན་པ་ དེ་ཡང་ དེ␣ར་ སོང་ ནས་"
+msgstr "Le chasseur ira là et"
+
+# ནགས་ཁྲོད་དེར་<«གཡུང་»«པེ་»གཙུགས།>རང་སངས་རྒྱས་དེ་འབའ་ཞིག་མཐོང་བ་ལས་
+msgctxt "17c8beb6982642a088f62894fd7528b8"
+msgid "ནགས་ཁྲོད་ དེ␣ར་ རང་ སངས་རྒྱས་ དེ་ འབའ་ཞིག་ མཐོང་བ་ ལ␣ས་"
+msgstr "ne voyant que ce bouddha solitaire dans cette endroit de la forêt,"
+
+msgctxt "21d02e9bd36c4d888bdf8df2da160cdd"
+msgid "གཞན་ ཅི་ཡང་ མ་ རྙེད་ ནས་"
+msgstr "ne trouvant aucun autre [animal pris],"
+
+msgctxt "3a7ef41cdf91428f971f2a1246afc543"
+msgid "དེ␣ས་ འདི་ སྙམ་ དུ་ སེམས་ ཏེ །"
+msgstr "il pensera ceci : «"
+
+# རབ་ཏུ་བྱུང་བ་འདི་དག་ནི་གནས་འདི་ལྟ་བུ་ལ་དགའ་བར་སྐྱེད་<«གཡུང་»«པེ་»དེ།>པར་བྱེད་དེ།
+msgctxt "c487bd2828254bf48b8463b6a4e43e4b"
+msgid ""
+"རབ་ཏུ་ བྱུང་བ་ འདི་དག་ ནི་ གནས་ འདི་ ལྟ་བུ་ ལ་ དགའ་བ␣ར་ སྐྱེད་པ␣ར་ བྱེད་ དེ "
+"།"
+msgstr ""
+"Ceux qui se sont retirés du monde se plaisent (lit. développent de "
+"l'appréciation) dans des endroits comme celui-ci et"
+
+# འདི་འདི་ན་འདུག་པར་གྱུར་ན་བདག་ལ་གནོད་པར་འགྱུར་གྱིས<«གཡུང་»«པེ་»བ་བསྐྱེད།>།
+msgctxt "8aed576b1a954071b1202d9218b8ed37"
+msgid "འདི་ འདི་ ན་ འདུག་པ␣ར་ གྱུར་ ན་ བདག་ ལ་ གནོད་པ␣ར་ འགྱུར་ གྱིས །"
+msgstr "si celui-ci reste ici, il me fera du tort. Donc,"
+
+msgctxt "c93e38d22a00418f96d22ca646877579"
+msgid "མ་ལ་"
+msgstr "décidément,"
+
+# བདག་གིས་འདི་བསད་<«ཞོལ་»གྱི།>གོར་མ་ཆག་སྙམ་ནས་
+msgctxt "1ac2d5ccfe8a433db1c267cbb2671152"
+msgid "བདག་ གིས་ འདི་ བསད་ གོར་མ་ཆག་ སྙམ་ ནས་"
+msgstr "il n'y a pas de douce que je doive aussi le tuer. » et"
+
+msgctxt "08eb475b43cc416d95628d98b20b5b7f"
+msgid "དེ␣ས་ རང་ སངས་རྒྱས་ དེ་ བསད་ དེ །"
+msgstr "il tua ce bouddha solitaire et"
+
+msgctxt "7fc9b9d66def420e8a5922330f1b8697"
+msgid "དེ␣ས་ དེ་ བསད་ ནས་"
+msgstr "l'ayant tué,"
+
+msgctxt "476bdc84bca94a168fe1cd3fe0ff6175"
+msgid ""
+"རྔོན་པ་ དེ་ ཤི་བ␣འི་ འོག་ ཏུ་ ཡང་ སེམས་ཅན་ དམྱལ་བ་ ཆེན་པོ་ མནར་མེད་པ␣ར་ "
+"སྐྱེ་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr ""
+"après être mort, ce chasseur renaîtra encore parmi les êtres du grand enfer "
+"insurpassable (lit. insoutenable) et"
+
+# དེ་དེར་ལོ་<«གཡུང་»ཁོ།>བརྒྱ་ཕྲག་དུ་མ་དང་ལོ་སྟོང་ཕྲག་དུ་མའི་བར་དུ་སེམས་ཅན་དམྱལ་བའི་སྡུག་བསྔལ་མྱོང་བར་འགྱུར་རོ།
+# །
+msgctxt "b05ba21724b94140a08a7da1434f1cb6"
+msgid ""
+"དེ་དེ␣ར་ ལོ་ བརྒྱ་ ཕྲག་ དུ་མ་ དང་ ལོ་ སྟོང་ཕྲག་ དུ་མ␣འི་ བར་ དུ་ སེམས་ཅན་ "
+"དམྱལ་བ␣འི་ སྡུག་བསྔལ་ མྱོང་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr ""
+"là, il subira les souffrances des êtres des enfers pendant des centaines et "
+"des milliers d'années."
+
+# དེ་ནས་དེ་ལས་ཟད་ནས་<«ཁུ་»ན།>
+msgctxt "4af00e49afe446faa3a4219fba8e655f"
+msgid "དེ་ནས་ དེ་ལས་ ཟད་ ནས་"
+msgstr "Ensuite, ces actions seront épuisées et"
+
+msgctxt "e98bbbc22b8e43df814edfeaa30410a2"
+msgid "ཡང་ མི␣ར་ སྐྱེ་བ་ ཐོབ་པ␣ར་ ཡང་ འགྱུར་ ཏེ །"
+msgstr "il obtiendra à nouveau de naître chez les humains et"
+
+msgctxt "f03ee336364f494296c2de7dae70c568"
+msgid ""
+"དེ␣འི་ ཚེ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ བླ་མ་ ཞེས་ བྱ་བ་ འཇིག་རྟེན་ དུ་ "
+"འབྱུང་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr ""
+"à cette époque, le complet et parfait Bouddha Uttara apparaîtra dans le "
+"monde et"
+
+msgctxt "6ff73cb4e4e04fb3ae113c9992dc661b"
+msgid "དེ␣འི་ གསུང་རབ་ ལ་ འདི་ རབ་ཏུ་ བྱུང་ ནས་"
+msgstr "il se retirera du monde selon son enseignement et"
+
+msgctxt "614a61be40bd482a83ddd3801646a4e2"
+msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ་"
+msgstr "il éliminera toutes les émotions perturbatrices et"
+
+msgctxt "3662f32ff61d4c5c9933badd050211a2"
+msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱེད་པ␣ར་ འགྱུར་ རོ ། །"
+msgstr "il manifestera l'état d'arhat (lit. l'arhat-même)."
+
+msgctxt "ff5f38f72ca441f1b37b84e36b4801ac"
+msgid "དེ␣ས་ དགྲ་བཅོམ་པ་ ཉིད་ ཐོབ་ ནས་"
+msgstr "Après qu'il ait obtenu l'état d'arhat,"
+
+msgctxt "405b11150c834d7092754ed7aa89f320"
+msgid "རྒྱལ་པོ␣འི་ ཕོ་བྲང་ ཞིག་ ཏུ་ འགྲོ་བ␣ར་ འགྱུར་ ཏེ །"
+msgstr "il ira dans le palais d'un roi et"
+
+# དེ་རྒྱལ་པོའི་སྐྱེད་<«ལི་»«ཅོ་»«ཁུ་»བསྐྱེད།>མོས་ཚལ་དུ་གནས་འཆའ་བར་འགྱུར་རོ། །
+msgctxt "dd0622547beb408aaab76e40cc49a359"
+msgid "དེ་ རྒྱལ་པོ␣འི་ སྐྱེད་མོས་ཚལ་ དུ་ གནས་ འཆའ་བ␣ར་ འགྱུར་ རོ ། །"
+msgstr "il s'établira dans le parc d'agrément de ce roi."
+
+# རྒྱལ་པོ་དེ་ཡང་བུད་མེད་ཀྱི་འཁོར་དག་གིས་ཞབས་འབྲིང་<«གཡུང་»ཞམ་རིང་།
+# «པེ་»ཞབས་བྲིང་།>བྱས་ཏེ།
+msgctxt "6cca635b4f1241fca74babb5a61c5fc0"
+msgid "རྒྱལ་པོ་ དེ་ཡང་ བུད་མེད་ ཀྱི་ འཁོར་ དག་ གིས་ ཞབས་འབྲིང་ བྱས་ ཏེ །"
+msgstr "Ce roi, à son tour, avec un groupe de dames pour le servir,"
+
+# སྐྱེད་<«གཡུང་»བསྐྱེད།>མོས་ཚལ་དེར་འགྲོ་བར་འགྱུར་ལ།
+msgctxt "58e3c70f7c334a1cb5f1deb938ac22fd"
+msgid "སྐྱེད་མོས་ཚལ་ དེ␣ར་ འགྲོ་བ␣ར་ འགྱུར་ ལ །"
+msgstr "ira dans le parc d'agrément et"
+
+# བུད་མེད་དེ་དག་ཀྱང་སྐྱེད་མོས་ཚལ་དེར་མེ་ཏོག་དང་འབྲས་བུ་ལ་སྲེད་<«ལི་»སྲིད།>པས་ཕན་ཚུན་འཁྱམ་ཞིང་<«ཞོལ་»འཁྱམས་ཤིང་།>
+msgctxt "27da4c88661e4b4482261ad20d8986e1"
+msgid ""
+"བུད་མེད་ དེ་དག་ ཀྱང་ སྐྱེད་མོས་ཚལ་ དེ␣ར་ མེ་ཏོག་ དང་ འབྲས་བུ་ ལ་ སྲེད་པ␣ས་ "
+"ཕན་ཚུན་ འཁྱམ་ ཞིང་"
+msgstr ""
+"ces dames seront attirées par les fleurs et les fruits et se promèneront "
+"dans le parc d'agrément et"
+
+msgctxt "9a063a29bd0c48098c3e874e1646f733"
+msgid "འགྲོ་བ་ ལ␣ས །"
+msgstr "elle s'y déplaceront. Ainsi,"
+
+msgctxt "7344ae8276034014bde0a13627f80bca"
+msgid "དེ␣འི་ ཐད་ དུ་ ཕྱིན་ ཏེ་"
+msgstr "elles iront auprès de lui et"
+
+msgctxt "52f9007c3cfd49db915c0c92a52a0518"
+msgid "ཆོས་ མཉན་པ␣འི་ ཕྱིར་ མདུན་ དུ་ འཁོད་ དོ ། །"
+msgstr "elles s'assiéront pour écouter le Dharma."
+
+msgctxt "a316a7d78ba24854bc65f8567b17160e"
+msgid "རྒྱལ་པོ་ དེ་ཡང་ སྐྱེས་པ␣འི་ སྒྲ་ ཐོས་ ནས་"
+msgstr "Ce roi entendra la voix (lit. son) d'un homme et"
+
+msgctxt "2368d1a289bd41bfa46dd22cea19daf6"
+msgid "དེ␣འི་ ཐད་ དུ་ འགྲོ་བ␣ར་ འགྱུར་ ལ །"
+msgstr "il ira auprès de lui et"
+
+msgctxt "5c5fe7d491b64c62a480cf3cb4bc886d"
+msgid "དེ་ མཐོང་ ནས་"
+msgstr "l'ayant vu,"
+
+msgctxt "6f74ec5fdb2d46b0ad4143357dc047c5"
+msgid "ཁྲོ␣ས་ ཏེ་"
+msgstr "il se mettra en colère et"
+
+# ལྕག་གིས་བཞུས་<«ལི་»«སྣར་»«ཅོ་»གཞུས།>ནས་
+msgctxt "2a8a647022584a5194a457dabb7b82ff"
+msgid "ལྕག་ གིས་ བཞུས་ ནས་"
+msgstr "il le frappera avec des [barres] métalliques et"
+
+msgctxt "6a67a44def384d6cb9c518fcec465bc6"
+msgid "དེ␣འི་ ལུས་ དུམ་བུ་ དྲུག་ ཏུ་ བཅད་ དེ །"
+msgstr "il coupera son corps en six et"
+
+# གསོན་<«གཡུང་»བསོན།>པོར་གསལ་ཤིང་ལ་བཙུགས་ནས།
+msgctxt "5a767f6c6ee649469773be36e059f31f"
+msgid "གསོན་པོ␣ར་ གསལ་ཤིང་ ལ་ བཙུགས་ ནས །"
+msgstr "il l'empalera vivant et"
+
+msgctxt "c6d7912d26074c058a3195a3485d3e6f"
+msgid ""
+"རལ་གྲི་ དང་ །  མདུང་ཐུང་ དང་ །  མདའ་བོ་ ཆེ་ དང་ །  རྡོ་རྗེ་ རྩེ་གཅིག་པ་ དང་ "
+"མདུང་ ཁ་ལེབ་ རྣམས་ ཀྱིས་ ལུས་ ལ་ བསྣུན་ ནས་"
+msgstr ""
+"abattra sur lui des épées, des javelots, des lances, des vajras à une pointe"
+" et des lances à pointe plate et"
+
+msgctxt "45971e0d3dec4ec187ce3d94eebc4896"
+msgid "ཁྱི་ རྣམས་ ལ་ བྱིན་པ␣ར་ གྱུར་ ཏེ །"
+msgstr "il le donnera à des chiens et"
+
+msgctxt "5e559c360e094baebbe5c7dc1c5fa9d8"
+msgid "དེ␣འི་ སྡུག་བསྔལ་ གྱི་ མཐའ་ དེ␣ར་ ཐུག་པ␣ར་ འགྱུར་ རོ ། །"
+msgstr "la limite de ses souffrances sera alors atteinte. »"
+
+msgctxt "9951b5eadade47c3ad4d0c29b4b2e2f1"
+msgid ""
+"དེ་ནས་ དེ་ ཐོས་ མ་ ཐག་ ཏུ་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ ཤས་ ཆེ␣ར་ སྐྱོ་བ་ "
+"སྐྱེས་ ཏེ །"
+msgstr ""
+"Ensuite, dès qu'ils eurent entendu ceci, la multitude des personnes "
+"ressentirent un désenchantement intense et"
+
+msgctxt "0d058167423e47289b8a53df6ec246ed"
+msgid "དེ་དག་ གིས་ བསམས་པ །"
+msgstr "ils pensèrent : «"
+
+# འཁོར་བ་ན་འཁོར་ན་བདག་ཅག་<«གཡུང་»«པེ་»ཅིག>གིས་ཀྱང་སྡུག་བསྔལ་མི་བཟད་པ་དེ་ལྟ་བུ་རྙེད་པར་འགྱུར་རོ་སྙམ་མོ།
+# །
+msgctxt "fbe0782463734b548d81b053e2cce1fa"
+msgid ""
+"འཁོར་བ་ ན་ འཁོར་ ན་ བདག་ཅག་ གིས་ ཀྱང་ སྡུག་བསྔལ་ མི་བཟད་པ་ དེ་ལྟ་ བུ་ "
+"རྙེད་པ␣ར་ འགྱུར་ རོ་ སྙམ་ མོ ། །"
+msgstr ""
+"Si nous errons dans le samsara, nous aussi, nous obtiendrons des souffrances"
+" insoutenables comme celles-ci. »"
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དག་གི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–གི།>ཡིད་སྐྱོ་བར་གྱུར་པར་<«ཅོ་»འགྱུར་བ།>ཐུགས་སུ་ཆུད་ནས་
+msgctxt "07f4145a4eeb4126a7ef8bb4ea794348"
+msgid ""
+"དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དེ་དག་ གི་ ཡིད་སྐྱོ་བ␣ར་ གྱུར་པ␣ར་ ཐུགས་ སུ་ ཆུད་"
+" ནས་"
+msgstr "Ensuite, le Bienheureux comprit qu'ils étaient désenchantés et"
+
+msgctxt "9c8266b65f684d15a21aef9ac2514ce6"
+msgid "དེ་ དང་ འཐུན་པ␣འི་ ཆོས་ བསྟན་ ཏེ །"
+msgstr "il leur donna un enseignement correspondant à ceci et"
+
+# སྟན་དེ་ཉིད་ལ་འཁོད་<«པེ་»«ཅོ་»+པ།>བཞིན་དུ་ཁ་[64b]ཅིག་གིས་ནི་དྲོ་བར་གྱུར་པ་བསྐྱེད་དོ།
+# །
+msgctxt "0a8b1a38a36d4ab08c447da1a279597b"
+msgid ""
+"སྟན་ དེ་ཉིད་ ལ་ འཁོད་ བཞིན་ དུ་ ཁ་ཅིག་ གིས་ ནི་ དྲོ་བ␣ར་ གྱུར་པ་ བསྐྱེད་ དོ "
+"། །"
+msgstr ""
+"tandis qu'ils étaient encore assis sur leur sièges, certains développèrent "
+"[le niveau de] la chaleur."
+
+# ཁ་ཅིག་གིས་<«གཡུང་»–གིས། «པེ་»ས།>ནི་རྩེ་མོ་དང་། བདེན་པ་དང་།
+# འཐུན་པའི་བཟོད་པ་དང་།
+# འཇིག་རྟེན་གྱི་ཆོས་ཀྱི་མཆོག་དང་<«གཡུང་»+དང།>མཐོང་བའི་སྙོམས་པར་འཇུག་པ་བསྐྱེད་དོ།
+# །
+msgctxt "9ea4573f53714773a706014ee35685f5"
+msgid ""
+"ཁ་ཅིག་ གིས་ ནི་ རྩེ་མོ་ དང་ །  བདེན་པ་ དང་ །  འཐུན་པ␣འི་ བཟོད་པ་ དང་ །  "
+"འཇིག་རྟེན་ གྱི་ ཆོས་ ཀྱི་ མཆོག་ དང་ མཐོང་བ␣འི་ སྙོམས་པར་ འཇུག་པ་ བསྐྱེད་ དོ "
+"། །"
+msgstr ""
+"Certains autres [développèrent le niveau] du sommet, [d'autres] de "
+"l'acceptation correspondant à la vérité, [d'autres] de [ce qui est] sublime "
+"[parmi] les choses du monde, [d'autres] la concentration méditative de la "
+"vision."
+
+msgctxt "deb4bb18679440c192c8ba8d79d9b9dc"
+msgid ""
+"ཁ་ཅིག་ གིས་ ནི་ རྒྱུན་ དུ་ ཞུགས་པ␣འི་ འབྲས་བུ་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
+msgstr "Certains manifestèrent le résultat de l'entrée dans le courant."
+
+# ཁ་ཅིག་གིས་ནི་ལན་ཅིག་<«མི་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>ཕྱིར་འོང་བའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་སོ།
+# །
+msgctxt "74f3d9ff48774704bea7b6f015bd1dbd"
+msgid ""
+"ཁ་ཅིག་ གིས་ ནི་ ལན་ཅིག་ ཕྱིར་ འོང་བ␣འི་ འབྲས་བུ་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
+msgstr "Certains manifestèrent le résultat de celui qui revient une fois."
+
+# ཁ་ཅིག་གིས་<«སྣར་»–གིས།>ནི་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་སོ། །
+msgctxt "fc0f89b2ec5343fd901471be2af1e0dd"
+msgid "ཁ་ཅིག་ གིས་ ནི་ ཕྱིར་ མི་ འོང་བ␣འི་ འབྲས་བུ་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
+msgstr "Certains manifestèrent le résultat de ceux qui ne reviennent plus."
+
+msgctxt "73970d7b00814f3c9965a046b8208fe1"
+msgid "ཁ་ཅིག་ གིས་ ནི་ རབ་ཏུ་ བྱུང་ ནས་"
+msgstr "Certains se retirèrent du monde et"
+
+msgctxt "ef413226415840d09a273b6d2d389e26"
+msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ སོ ། །"
+msgstr "manifestèrent l'état d'arhat."
+
+# ཁ་ཅིག་གིས་ནི་འཁོར་ལོས་<«གཡུང་»«པེ་»ལོ།>སྒྱུར་བའི་རྒྱལ་པོར་འགྱུར་<«གཡུང་»«པེ་»འགྲོ།>བའི་ས་བོན་བསྐྱེད་དོ།
+# །
+msgctxt "0e1793fefdba4975972b00ede01540ca"
+msgid ""
+"ཁ་ཅིག་ གིས་ ནི་ འཁོར་ལོ␣ས་ སྒྱུར་བ␣འི་ རྒྱལ་པོ␣ར་ འགྱུར་བ␣འི་ ས་བོན་ བསྐྱེད་"
+" དོ ། །"
+msgstr ""
+"Certains développèrent les graines pour devenir (lit. de) des monarques "
+"universels."
+
+# ཁ་ཅིག་གིས་ནི་སྟོབས་ཀྱིས་<«སྣར་»«ཞོལ་»ཀྱི།>འཁོར་ལོས་སྒྱུར་བར་འགྱུར་བ་དང་།
+# ཁ་ཅིག་གིས་ནི་བརྒྱ་བྱིན་དུ་འགྱུར་བ་དང་། ཁ་ཅིག་གིས་ནི་ཚངས་པར་འགྱུར་བ་དང་།
+# ཁ་ཅིག་གིས་ནི་ཉན་ཐོས་ཀྱི་བྱང་ཆུབ་དང་།
+# ཁ་ཅིག་གིས་ནི་རང་<«གཡུང་»–རང་།>སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་དང་།
+# ཁ་ཅིག་གིས་ནི་<«གཡུང་»«པེ་»–ནི།>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་ས་བོན་བསྐྱེད་<«གཡུང་»«པེ་»སྐྱེད།>དོ།
+# །
+msgctxt "c98b56b82f544cd59c4680a61ae32f28"
+msgid ""
+"ཁ་ཅིག་ གིས་ ནི་ སྟོབས་ ཀྱིས་ འཁོར་ལོ␣ས་ སྒྱུར་བ␣ར་ འགྱུར་བ་ དང་ །  ཁ་ཅིག་ "
+"གིས་ ནི་ བརྒྱ་བྱིན་ དུ་ འགྱུར་བ་ དང་ །  ཁ་ཅིག་ གིས་ ནི་ ཚངས་པ␣ར་ འགྱུར་བ་ "
+"དང་ །  ཁ་ཅིག་ གིས་ ནི་ ཉན་ཐོས་ ཀྱི་ བྱང་ཆུབ་ དང་ །  ཁ་ཅིག་ གིས་ ནི་ རང་ "
+"སངས་རྒྱས་ ཀྱི་ བྱང་ཆུབ་ དང་ །  ཁ་ཅིག་ གིས་ ནི་ བླ་ ན་ མེད་པ་ ཡང་དག་པ␣ར་ "
+"རྫོགས་པ␣འི་ བྱང་ཆུབ་ ཀྱི་ ས་བོན་ བསྐྱེད་ དོ ། །"
+msgstr ""
+"Certains développèrent les graines pour devenir des monarques universaux "
+"établis par la force, certains celles pour devenir Indra, certains celles "
+"pour devenir Brahmā, certains celles de l'éveil des auditeurs, certains "
+"celles de l'éveil des bouddhas par soi, certains celles de l'insurpassable "
+"éveil complet et parfait."
+
+# འཁོར་དེ་དག་གི་ནང་ནས་ཕལ་ཆེར་ནི་སངས་རྒྱས་ལ་<«ཅོ་»ལས།>གཞོལ།
+msgctxt "953260908f954b2eab18ea6348b64283"
+msgid "འཁོར་ དེ་དག་ གི་ ནང་ ནས་ ཕལ་ཆེར་ ནི་ སངས་རྒྱས་ ལ་ གཞོལ །"
+msgstr ""
+"la majorité des personnes parmi cet entourage s'engagèrent (lit. "
+"descendirent) auprès du Bouddha, "
+
+msgctxt "77b3e568eed949d79bc5dab6608f1d1d"
+msgid "ཆོས་ ལ་ འབབ་"
+msgstr "s'accordèrent (lit. tomber [d'accord avec]) avec le Dharma,"
+
+# དགེ་འདུན་ལ་བབ་<«ཅོ་»འབབ།>པར་མཛད་དེ།
+msgctxt "11f3892c301c426aaf90b76f1b695a66"
+msgid "དགེ་འདུན་ ལ་ བབ་པ␣ར་ མཛད་ དེ །"
+msgstr ""
+"intégrèrent (lit. être tombé [d'accord avec]) la Saṅgha. Il les fit "
+"[atteindre ceci] et"
+
+msgctxt "3e697f2e7e474d55bc567d9db2303b66"
+msgid "བཀོད་ ནས་"
+msgstr "les y établit et"
+
+# གཙུག་<«གཡུང་»དཀོད་ནས་བཙུག «ལི་»«ཅོ་»བཀོད་ནས་བཙུག
+# «པེ་»གོད་ནས་བཙུག>ལག་ཁང་དུ་གཤེགས་སོ། ། ། །
+msgctxt "e99f95925ae04608b94f4d5662a36535"
+msgid "གཙུག་ལག་ཁང་ དུ་ གཤེགས་ སོ ། ། ། །"
+msgstr "alla au vihāra."
