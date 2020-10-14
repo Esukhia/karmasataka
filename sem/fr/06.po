@@ -302,7 +302,9 @@ msgstr "s'accordèrent (lit. tomber [d'accord avec]) avec le Dharma,"
 
 msgctxt "185634e7d9104c3884b0c3741c6d257f"
 msgid "དགེ་འདུན་ ལ་ བབ་པ␣ར་ བྱས་ ཏེ་"
-msgstr "intégrèrent (lit. être tombé [d'accord avec]) la Saṅgha et"
+msgstr ""
+"intégrèrent (lit. être tombé [d'accord avec]) la Saṅgha. Il les fit "
+"[atteindre ceci] et"
 
 msgctxt "4c6bbd0a11ea4c86b1105375063b5301"
 msgid "བཀོད་ དོ ། །"
