@@ -1728,7 +1728,7 @@ msgstr "prit la posture des jambes croisées et"
 
 msgctxt "73fb8cd30c88498f8fcee081b0eccc79"
 msgid "འདུག་ གོ་"
-msgstr "resta [assis]."
+msgstr "s'y maintint."
 
 # དེ་ནས་ཞལ་ཏ་བྱེད་པ་དེའི་སྦྱིན་བདག་རྣམས་ལ་གུང་<«གཡུང་»+པ
 # «པེ»བེ།>སྐྱེམས་དགོས་པར་གྱུར་ནས།
