@@ -119,11 +119,17 @@ def gen_pdf(file):
 
 if __name__ == '__main__':
     folder = 'fr/reader'
-    idx = int(sys.argv[1]) if len(sys.argv) > 1 else 0
-    files = sorted(list(Path(folder).glob('*.po')))
-    to_loop = files[idx - 1:idx] if idx > 0 else files
-    for file in to_loop:
+    if len(sys.argv) > 1:
+        stem = sys.argv[1]
+        file = Path(folder) / (stem + '.txt')
         print(file.name)
         po = Po(file)
         po.write_txt()
         gen_pdf(file)
+    else:
+        files = sorted(list(Path(folder).glob('*.po')))
+        for file in files:
+            print(file.name)
+            po = Po(file)
+            po.write_txt()
+            gen_pdf(file)

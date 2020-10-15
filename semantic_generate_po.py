@@ -138,10 +138,15 @@ class Transfer:
 
 if __name__ == '__main__':
     folder = 'sem/bo/'
-    idx = int(sys.argv[1]) if len(sys.argv) > 1 else 0
-    files = sorted(list(Path(folder).glob('*.txt')))
-    to_loop = files[idx-1:idx] if idx > 0 else files
-    for file in to_loop:
+    if len(sys.argv) > 1:
+        stem = sys.argv[1]
+        file = Path(folder) / (stem + '.txt')
         print(file)
         po = Po()
         po.txt_to_po(file)
+    else:
+        files = sorted(list(Path(folder).glob('*.txt')))
+        for file in files:
+            print(file)
+            po = Po()
+            po.txt_to_po(file)

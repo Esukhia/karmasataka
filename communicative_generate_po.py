@@ -1,5 +1,6 @@
 from pathlib import Path
 import re
+import sys
 import polib
 from text_formatting import format_fr
 
@@ -58,7 +59,15 @@ class Po:
 
 if __name__ == '__main__':
     folder = 'fr/sem_pars'
-    for file in Path(folder).glob('*.txt'):
+    if len(sys.argv) > 1:
+        stem = sys.argv[1]
+        file = Path(folder) / (stem + '.txt')
         print(file, end='')
         po = Po()
         po.txt_to_po(file)
+    else:
+        files = sorted(list(Path(folder).glob('*.txt')))
+        for file in files:
+            print(file, end='')
+            po = Po()
+            po.txt_to_po(file)
