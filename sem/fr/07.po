@@ -327,7 +327,7 @@ msgstr ""
 # ཕྱག་ལ་རྐོམ་<«གཡུང་»«པེ་»«ཁུ་»སྐོམ།>ཚུགས་བཅས་ཏེ་
 msgctxt "b63c87b51a3d4d078123f11011b90a76"
 msgid "ཕྱག་ ལ་ རྐོམ་ཚུགས་ བཅས་ ཏེ་"
-msgstr "faites-vous un appui de vos mains et"
+msgstr "posez-vous votre visage entre vos paumes et"
 
 # སེམས་ཁོངས་སུ་<«ཞོལ་»ཐུགས་ཁོང་དུ།>ཆུད་ཅིང་བཞུགས།
 msgctxt "9276f7051c114ece880c52db3d957d4c"
