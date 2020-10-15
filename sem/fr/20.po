@@ -497,9 +497,13 @@ msgctxt "a640d6fc5529475d8c0533087a53d39d"
 msgid "བཙུན་པ་"
 msgstr "« Vénérable,"
 
+msgctxt "000c8e34787043edbf39a09f9dc7052f"
+msgid "ལ␣ས་ ཅི་ བགྱིས་ ན །"
+msgstr "Quelles actions a[-t-elle] réalisées"
+
 msgctxt "5f93d4e008c548dba7506e5d8438a060"
-msgid "ལ␣ས་ ཅི་ བགྱིས་ ན །  འདི␣ས་ བཅོམ་ལྡན་འདས་ ཀྱང་ མཉེས་པ␣ར་ བགྱིས་ ཏེ་"
-msgstr "quelles actions a-t-elle faites pour contenter le Bienheureux et"
+msgid "འདི␣ས་ བཅོམ་ལྡན་འདས་ ཀྱང་ མཉེས་པ␣ར་ བགྱིས་ ཏེ་"
+msgstr "[pour] qu'elle contente aussi le Bienheureux et"
 
 msgctxt "d8965098e69948dea2379613b1b333aa"
 msgid "མི་ མཉེས་པ␣ར་ མ་ བགྱིས་ ཏེ །"
