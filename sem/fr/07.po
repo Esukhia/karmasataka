@@ -303,7 +303,7 @@ msgstr "qu'il posait son visage entre ses paumes et"
 
 msgctxt "783e22d268c74ab68f2c5b8fe5fa26ce"
 msgid "འདུག་པ་ མཐོང་ ངོ་ ། །"
-msgstr "qu'il restait [comme ça], elle le vit."
+msgstr "qu'il se maintenait [comme ça], elle le vit."
 
 msgctxt "d45885e487d44f2797b6c7a44b59ebd0"
 msgid "མཐོང་ ནས་ ཀྱང་"
