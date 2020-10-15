@@ -190,12 +190,20 @@ msgctxt "d228abbdcea6434fac38d2ba5c2f5e02"
 msgid "ལྔ་ གང་ཞེ་ན །"
 msgstr ""
 
+msgctxt "7bc3f06137794632ace0c4ae21281e90"
+msgid "སྐྱེས་པ་ ཆགས་པ་ ཡང་ ཤེས་ ལ་"
+msgstr ""
+
 msgctxt "38528022ff934a71a6f4a36c43da8e15"
-msgid "སྐྱེས་པ་ ཆགས་པ་ ཡང་ ཤེས་ ལ་མ་ ཆགས་པ་ ཡང་ ཤེས་པ་ དང་ །"
+msgid "མ་ཆགས་པ་ ཡང་ ཤེས་པ་ དང་ །"
+msgstr ""
+
+msgctxt "29948644c64f4c4ab47ac79073881ee0"
+msgid "དུས་ ཀྱང་ ཤེས་ ལ་"
 msgstr ""
 
 msgctxt "3714f3cb40064413a19452d461f00210"
-msgid "དུས་ ཀྱང་ ཤེས་ ལ་ ཟླ་མཚན་ ཡང་ ཤེས་པ་ དང་"
+msgid "ཟླ་མཚན་ ཡང་ ཤེས་པ་ དང་"
 msgstr ""
 
 msgctxt "4210952af17a4de2b2f8dc58d51dccfa"
@@ -206,8 +214,12 @@ msgctxt "2b467aa3897e48b990a0c44a52bae562"
 msgid "གང་ ལ␣ས་ བུ་ ཆགས་པ␣ར་ ཤེས་པ་ དང་"
 msgstr ""
 
+msgctxt "1118bd6febe240f3bff62b172fc443e6"
+msgid "ཁྱེའུ་ ཡང་ ཤེས་ ལ་"
+msgstr ""
+
 msgctxt "da42af819bc4486cb7a884cfc838ef02"
-msgid "ཁྱེའུ་ ཡང་ ཤེས་ ལ་ བུ་མོ་ ཡང་ ཤེས་པ་ སྟེ །"
+msgid "བུ་མོ་ ཡང་ ཤེས་པ་ སྟེ །"
 msgstr ""
 
 msgctxt "deab4bedfa64478dbd84a8662becf6ef"
