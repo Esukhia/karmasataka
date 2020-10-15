@@ -1159,7 +1159,7 @@ msgstr "Je souffre de la faim et de la soif et"
 # «སྣར་»«ཞོལ་»བྱ་གཏོལ།>མེད་པར་བླ་<«གཡུང་»གླ།>ཞིང་འདུག་གོ། །
 msgctxt "d0eb8de852974bcf81e7a5f6ac0eeab0"
 msgid "ཅི་ ཟ་ གཏོལ་མེད་པ␣ར་ བླ་ ཞིང་ འདུག་ གོ ། །"
-msgstr "je me trouve là sans savoir quoi faire."
+msgstr "je me trouve là sans savoir quoi manger."
 
 msgctxt "05e9dd62b4d846ba8692d3e17a3975da"
 msgid "བྱང་ཆུབ་ སེམས་དཔ␣ས་ སྨྲས་པ །"
