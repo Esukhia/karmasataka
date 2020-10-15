@@ -350,7 +350,8 @@ msgstr "Tandis qu'ils se déplaçaient, la lune brillait et"
 msgctxt "81a65cc7e212444b814444f7ee979c78"
 msgid "མི་ དེ␣ས་ ཀྱང་ དེ␣འི་ ནང་ ན་ འདུག་ བཞིན་ དུ་ གཅིན་ཤོར་ ནས་"
 msgstr ""
-"l'homme à l'intérieur de la malle (lit. ça) ne put retenir son urine et"
+"l'homme se trouvant à l'intérieur de la malle (lit. ça) ne put retenir son "
+"urine et"
 
 # གཅིན་<«ཁུ་»གཅིང་།>དེ་གཟེབ་ལས་ཐར་ཏེ་
 msgctxt "0c259803e2ed49db9c42fcac06996836"
