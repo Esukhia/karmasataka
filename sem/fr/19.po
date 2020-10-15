@@ -53,7 +53,7 @@ msgstr "il pensa : «"
 
 msgctxt "16d0dcdf56a6418fbe5619b0bb2ac391"
 msgid "བདག་ གིས་ དགེ་སྦྱོང་ གཽ་ ཏ་ མ་ གསོད་ ཀྱང་ མ་ནུ␣ས་ ལ །"
-msgstr "Je ne parviendrai pas à tuer le pratiquant Gautama. De plus,"
+msgstr "Je ne parviendrai pas à tuer l'ascète Gautama. De plus,"
 
 # སངས་རྒྱས་ཀྱི་ཐབས་ཀྱང་མ་ཐོབ་ཀྱིས་<«ཞོལ་»གོས་ཀྱི།>
 msgctxt "bc5268a70b7c43bba21520c764d3829f"

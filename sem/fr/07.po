@@ -278,7 +278,7 @@ msgstr "il alla sur le toit (lit. le dessus) de son palais et"
 # ལག་པ་ལ་རྐོམ་<«གཡུང་»«པེ་»«ཁུ་»སྐོམ།>ཚུགས་བཅས་ནས།
 msgctxt "85d19d25f04b49739402c04dc49ccb3f"
 msgid "ལག་པ་ ལ་ རྐོམ་ཚུགས་ བཅས་ ནས །"
-msgstr "faisant un appui de ses mains,"
+msgstr "posant son visage entre ses paumes,"
 
 # ད་<«པེ་»«སྣར་»«ཞོལ་»དེ།>བདག་གིས་ཇི་ལྟར་བྱ་སྙམ་སྟེ་
 msgctxt "4dc18db8f37b407cbd5a2bf854589cbc"
@@ -299,7 +299,7 @@ msgstr "Ensuite, Kāśisundarī alla au dessus de la demeure royale et"
 # ལག་པ་ལ་རྐོམ་<«གཡུང་»«པེ་»«ཁུ་»སྐོམ།>ཚུགས་བཅས་ཏེ་
 msgctxt "9b132687cb79405b9e054036bc7c004a"
 msgid "ལག་པ་ ལ་ རྐོམ་ཚུགས་ བཅས་ ཏེ་"
-msgstr "qu'il faisait un appui de ses mains et"
+msgstr "qu'il posait son visage entre ses paumes et"
 
 msgctxt "783e22d268c74ab68f2c5b8fe5fa26ce"
 msgid "འདུག་པ་ མཐོང་ ངོ་ ། །"
@@ -327,7 +327,7 @@ msgstr ""
 # ཕྱག་ལ་རྐོམ་<«གཡུང་»«པེ་»«ཁུ་»སྐོམ།>ཚུགས་བཅས་ཏེ་
 msgctxt "b63c87b51a3d4d078123f11011b90a76"
 msgid "ཕྱག་ ལ་ རྐོམ་ཚུགས་ བཅས་ ཏེ་"
-msgstr "faites-vous un appui de vos mains et"
+msgstr "posez-vous votre visage entre vos paumes et"
 
 # སེམས་ཁོངས་སུ་<«ཞོལ་»ཐུགས་ཁོང་དུ།>ཆུད་ཅིང་བཞུགས།
 msgctxt "9276f7051c114ece880c52db3d957d4c"

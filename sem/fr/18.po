@@ -730,7 +730,7 @@ msgstr "ceux sans dévotion dirent : «"
 
 msgctxt "b03d096f42c042bcac698230bb89fb31"
 msgid "དགེ་སྦྱོང་ གཽ་ ཏ་ མ་ ལྟད་མོ་ ལ་ དགའ་བ་ མེད་ དོ་ ཞེས་"
-msgstr "\"Le pratiquant Gautama n'aime pas les spectacles.\""
+msgstr "\"L'ascète Gautama n'aime pas les spectacles.\""
 
 # གྲག་<«སྣར་»དྲག «ཞོལ་»གྲགས།>ན་དེ་ཡང་ལྟད་མོའི་དབང་དུ་གྱུར་ཏེ་
 msgctxt "497a02da025b4781a9f54f9f16f08b95"
