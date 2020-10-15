@@ -299,7 +299,7 @@ msgstr "Ensuite, Kāśisundarī alla au dessus de la demeure royale et"
 # ལག་པ་ལ་རྐོམ་<«གཡུང་»«པེ་»«ཁུ་»སྐོམ།>ཚུགས་བཅས་ཏེ་
 msgctxt "9b132687cb79405b9e054036bc7c004a"
 msgid "ལག་པ་ ལ་ རྐོམ་ཚུགས་ བཅས་ ཏེ་"
-msgstr "qu'il faisait un appui de ses mains et"
+msgstr "qu'il posait son visage entre ses paumes et"
 
 msgctxt "783e22d268c74ab68f2c5b8fe5fa26ce"
 msgid "འདུག་པ་ མཐོང་ ངོ་ ། །"
