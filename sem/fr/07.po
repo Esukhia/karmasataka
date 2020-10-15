@@ -278,7 +278,7 @@ msgstr "il alla sur le toit (lit. le dessus) de son palais et"
 # ལག་པ་ལ་རྐོམ་<«གཡུང་»«པེ་»«ཁུ་»སྐོམ།>ཚུགས་བཅས་ནས།
 msgctxt "85d19d25f04b49739402c04dc49ccb3f"
 msgid "ལག་པ་ ལ་ རྐོམ་ཚུགས་ བཅས་ ནས །"
-msgstr "faisant un appui de ses mains,"
+msgstr "posant son visage entre ses paumes,"
 
 # ད་<«པེ་»«སྣར་»«ཞོལ་»དེ།>བདག་གིས་ཇི་ལྟར་བྱ་སྙམ་སྟེ་
 msgctxt "4dc18db8f37b407cbd5a2bf854589cbc"
