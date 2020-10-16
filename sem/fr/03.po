@@ -2044,7 +2044,7 @@ msgstr "Puissé-je ne rien faire qui le mécontente."
 # ཡོན་ཏན་འདི་ལྟ་བུ་<«ཁུ་»བུའི།>དག་ཀྱང་ཐོབ་པར་གྱུར་ཅིག ། ཅེས་
 msgctxt "6d03480d90234aa0bf31984de469cb1b"
 msgid "ཡོན་ཏན་ འདི་ ལྟ་བུ་ དག་ ཀྱང་ ཐོབ་པ␣ར་ གྱུར་ཅིག  །  ཅེས་"
-msgstr "Puissé-je aussi obtenir des qualités semblables à celles-ci »"
+msgstr "Puissé-je aussi obtenir des qualités semblables à celles-ci. »"
 
 msgctxt "24f69b04806942f9a9086942cc4d470e"
 msgid ""
