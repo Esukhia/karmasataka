@@ -1837,7 +1837,7 @@ msgstr "puissions-nous contenter le Bienheureux Bouddha."
 
 msgctxt "e2ea3a8b548c40fe88e7a5f382fb50af"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
-msgstr "Puissions-nous ne rien faire qui le mécontente."
+msgstr "Puissions-nous ne rien faire qui le mécontentera."
 
 msgctxt "976cec26299e4df081e80d1b6359fb88"
 msgid "དེ་ ཁོ་ན␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
