@@ -662,7 +662,7 @@ msgstr ""
 
 msgctxt "b81d30d12ae549a3872e091301b73620"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
-msgstr "Puissé-je ne rien faire qui le mécontente."
+msgstr "Puissé-je ne rien faire qui le mécontentera."
 
 msgctxt "414d312da56d481b9aecdc5850b3ed1f"
 msgid "དེ␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
