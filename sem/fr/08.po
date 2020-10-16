@@ -1148,7 +1148,7 @@ msgstr ""
 
 msgctxt "4dcd16a3291f4518a9662df7cd1cb6ea"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
-msgstr "Puissions-nous ne rien faire qui le mécontentera."
+msgstr "Puissions-nous ne rien faire qui le mécontente."
 
 msgctxt "1bb40b38bfea4c92b97c8d90f98a36cf"
 msgid "དེ་ ཁོ་ན␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
