@@ -589,7 +589,7 @@ msgstr ""
 
 msgctxt "2be5df0ee2634378a76dd1f4ed5e74f5"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
-msgstr "Puissé-je ne rien faire qui le mécontente."
+msgstr "Puissé-je ne rien faire qui le mécontentera."
 
 msgctxt "7918228a49d948a48924d90f453a2f25"
 msgid "དེ་ ཁོ་ན␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
