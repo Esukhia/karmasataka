@@ -1730,7 +1730,7 @@ msgstr ""
 # མི་མཉེས་པར་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག །
 msgctxt "b45d14f64e174612aa8d6248602fa4fe"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
-msgstr "Puissé-je ne rien faire qui le mécontentera."
+msgstr "Puissé-je ne rien faire qui le mécontente."
 
 # དེ་ཁོ་<«གཡུང་»«པེ་»ཁོའ།>ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
 msgctxt "cc0af80f460d4983b2ecdb101c4f8a5d"
