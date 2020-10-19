@@ -409,10 +409,10 @@ msgid ""
 msgstr ""
 "Dès lors, il se rendit de temps à autre dans cette maison pour enseigner à "
 "ce père de famille. Il l’établit ainsi dans une dévotion parfaite. Grâce à "
-"l'honorable moine, il prit refuge et s'engagea à respecter certains vœux. Il"
-" s'engagea aussi avec dévouement dans la pratique de l'aumône et du partage "
-"de ses bienfaits. En peu de temps, les mendiants vinrent chez lui comme on "
-"va au puits chercher de l'eau."
+"l'honorable moine, le père de famille prit refuge et s'engagea à respecter "
+"certains vœux. Il s'engagea aussi avec dévouement dans la pratique de "
+"l'aumône et du partage de ses bienfaits. En peu de temps, les mendiants "
+"vinrent chez lui comme on va au puits chercher de l'eau."
 
 # དེ་ནས་ཕྱི་ཞིག་ན། ཚེ་དང་ལྡན་པ་མ་འགགས་པས། ཕ་མ་དེ་གཉིས་བརྟན་པར་བྱ་བའི་ཕྱིར་
 # ཟླ་མེད་པ་དང་། གཡོག་མེད་པར་གཅིག་པུ་ཁྱིམ་དེར་སོང་བ་དང་ ཁྱིམ་བདག་དེས།
