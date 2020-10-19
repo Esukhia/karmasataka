@@ -746,8 +746,8 @@ msgid ""
 " services à Précepteur tant que je serai en vie. » « Enfant, fais comme il "
 "te plaît. »"
 msgstr ""
-"« Précepteur, dit-il à l'honorable Śāriputra, j'aimerais continuer de vous servir toute ma vie. »\n"
-"« Mon enfant, fais ce qu'il te plaît », lui répondit-il."
+"« Précepteur, dit-il à l'honorable Śāriputra, j'aimerais continuer de vous servir toute ma vie.\n"
+"— Mon enfant, fais ce qu'il te plaît », lui répondit-il."
 
 # དེ་ནས་ཕྱིས་དེ་ལ་དགེ་སློང་རྣམས་ཀྱིས་སྨྲས་པ། མིག་ཆུང་
 # ཁྱོད་ཅིའི་ཕྱིར་བསྙེན་པར་རྫོགས་པར་མི་བྱེད། དེས་སྨྲས་པ།
