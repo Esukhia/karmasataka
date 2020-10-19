@@ -388,7 +388,7 @@ msgstr ""
 "Ainsi, tandis que l’honorable Aniruddha scrutait le monde, il vit qu’un être"
 " qui entamait sa dernière existence en passait le seuil dans la maison de ce"
 " père de famille. Il se demanda qui lui permettrait de se libérer, le "
-"Bouddha ou un auditeur, et vit que c’était à lui de le faire."
+"Bouddha ou un auditeur, et vit que lui-même le ferait."
 
 # མཐོང་ནས་ཀྱང་ ཁྱིམ་དེར་སོང་ནས། ཁྱིམ་བདག་དེ་ལ་དུས་དུས་སུ་ཆོས་སྟོན་ཏོ། །
 # དེས་<«གཡུང་»«པེ་»དེ་ནས།>ཁྱིམ་བདག་དེ་དད་པ་ཕུན་སུམ་ཚོགས་པ་ལ་གནས་པར་བྱས་སོ། །
