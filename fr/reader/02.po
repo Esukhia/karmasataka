@@ -406,7 +406,7 @@ msgid ""
 "[autour de lui] et rentrait [dans sa maison]."
 msgstr ""
 "Après l'enseignement, il le raccompagnait même sur une partie du trajet et "
-"tournait trois fois autour de lui avant de rentrer."
+"tournait à nouveau trois fois autour de lui avant de rentrer."
 
 # དེ་ནས་ཕྱིས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས། ཡང་ཁྱིམ་དེར་ཟན་ཟོས་ཏེ་
 # ཁྱིམ་བདག་དེ་ལ་ཆོས་བཤད་ནས་ ཕྱིར་འགྲོ་བ་ན་ ཁྱི་དེ་ཡང་ཕྱི་བཞིན་འབྲང་སྟེ།
