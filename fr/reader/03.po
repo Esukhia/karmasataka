@@ -63,12 +63,12 @@ msgid ""
 " et aux dieux qui suivent constamment les personnes vertueuses. Puis,"
 msgstr ""
 "Cependant, ne parvenant pas à avoir d'enfant, cet homme commença à "
-"solliciter les dieux de ses prières. Il priait Paśupati, Varuṇa, Kubera, "
-"Śakra et Brahmā et d'autres dieux encore. Il priait aussi les dieux des "
-"parcs, ceux des forêts, ceux des croisements de quatre chemins, ceux des "
-"croisements de trois chemins, ceux qui se nourrissent d'offrandes de "
-"nourriture, ceux qui nous accompagnent depuis la naissance et ceux qui "
-"suivent constamment les vertueux."
+"solliciter les dieux de ses prières. Il pria Paśupati, Varuṇa, Kubera, Śakra"
+" et Brahmā et d'autres dieux encore. Il pria aussi les dieux des parcs, ceux"
+" des forêts, ceux des croisements de quatre chemins, ceux des croisements de"
+" trois chemins, ceux qui se nourrissent d'offrandes de nourriture, ceux qui "
+"nous accompagnent depuis la naissance et ceux qui suivent constamment les "
+"vertueux."
 
 # འཇིག་རྟེན་ན་ཡང་<«ཞོལ་»–ཡང་།>གསོལ་བ་བཏབ་པའི་རྒྱུས་བུ་དང་བུ་མོ་སྐྱེ་བར་འགྱུར་རོ་ཞེས་
 # གྲག་<«ཞོལ་»གྲགས།>མོད་ཀྱི། དེ་ཡང་དེ་ལྟ་ནི་མ་ཡིན་ཏེ།
