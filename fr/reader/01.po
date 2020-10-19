@@ -654,7 +654,7 @@ msgid ""
 "vies, elle ressentit (lit. faire naître) un désenchantement intense."
 msgstr ""
 "\n"
-"« Mon enfant, assieds-toi et écoute le Dharma. » disait l'honorable Śāriputra à la fille devenue une jeune femme. Mais toute enorgueillie par sa beauté et par les charmes de la jeunesse, les distractions accaparaient toujours son attention et elle ne suivait jamais l’enseignement. Un jour, l'honorable Śāriputra voulut lui ouvrir les yeux. Il disposa devant elle les ossements de la chienne et la bénit pour qu’immanquablement, ses vies successives lui reviennent en mémoire. À l'instant où elle se remémora son passé, elle ressentit un désenchantement intense."
+"« Mon enfant, assieds-toi et écoute le Dharma », disait l'honorable Śāriputra à la fille devenue une jeune femme. Mais toute enorgueillie par sa beauté et par les charmes de la jeunesse, les distractions accaparaient toujours son attention et elle ne suivait jamais l’enseignement. Un jour, l'honorable Śāriputra voulut lui ouvrir les yeux. Il disposa devant elle les ossements de la chienne et la bénit pour qu’immanquablement, ses vies successives lui reviennent en mémoire. À l'instant où elle se remémora son passé, elle ressentit un désenchantement intense."
 
 # དེ་སྐྱོ་བ་སྐྱེས་ནས་ བསམས་པ། འཕགས་པ་ཤཱ་རིའི་བུ་ནི།
 # བདག་ལ་དཀའ་བ་བྱེད་བྱེད་པ་ཡིན་པ་ལྟ་ཞིག་སྟེ། འདི་ལས་<«ཞོལ་»ལ།>བརྟེན་ནས།
