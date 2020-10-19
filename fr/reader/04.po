@@ -917,9 +917,9 @@ msgstr ""
 "l’opulence, possède de grandes richesses et d’innombrables biens. C'est "
 "pourquoi il est toujours né dans une famille aussi fortunée. Il formula "
 "aussi le souhait de contenter par ses actes le Bienheureux Bouddha que "
-"deviendrait le jeune brahmane Uttara, en accord avec la prophétie du complet"
-" et parfait bouddha Kāśyapa, de ne rien faire qui le mécontentera, de se "
-"retirer du monde d'après son enseignement, d'éliminer toutes les émotions "
+"deviendrait le jeune brahmane Uttara, selon la prophétie du complet et "
+"parfait bouddha Kāśyapa, de ne rien faire qui le mécontentera, de se retirer"
+" du monde d'après son enseignement, d'éliminer toutes les émotions "
 "perturbatrices et de manifester l'état d'arhat."
 
 # དགེ་སློང་དག་
