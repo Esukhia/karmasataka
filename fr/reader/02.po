@@ -459,9 +459,9 @@ msgstr ""
 "Il reprit naissance dans cette même maison, dans le sein de l'épouse "
 "principale du père de famille. L'honorable Śāriputra fut informé que peu de "
 "temps après l'avoir quitté, le chien qui rentrait avait été tué. « Où est "
-"donc né le chien ? » se demanda l'honorable, avant de voir qu'il se trouvait"
-" dans le sein de l'épouse de ce père de famille. Alors, par amour pour cet "
-"être, il se rendit seul dans cette demeure, sans compagnon ni serviteur.\n"
+"donc né le chien ? » se demanda l'honorable. Il vit qu'il se trouvait dans "
+"le sein de l'épouse de ce père de famille. Alors, par amour pour cet être, "
+"il se rendit seul dans cette demeure, sans compagnon ni serviteur.\n"
 
 # མཐོང་ནས་ཀྱང་ འཕགས་པ་ ཁྱོད་ཅིའི་སླད་དུ་ཟླ་མ་མཆིས་པ་དང་།
 # ཞམ་རིང་མ་མཆིས་པར་གཅིག་པུ་གཤེགས།
