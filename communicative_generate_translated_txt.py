@@ -58,20 +58,33 @@ class Po:
         orig_trans, trans, all, data = self.format_entries()
 
         bitext = self.infile.parent / (self.infile.stem + '.txt')
-        bitext.write_text(orig_trans)
+        if self.is_changed(orig_trans, bitext):
+            bitext.write_text(orig_trans)
 
         trans_txt = self.infile.parent / (self.infile.stem + '_translation.txt')
         trans = self._update_translation_pars(trans, trans_txt)
-        trans_txt.write_text(trans)
+        if self.is_changed(trans, trans_txt):
+            trans_txt.write_text(trans)
 
-        trans_docx = self.infile.parent / (self.infile.stem + '_translation.docx')
-        create_trans_docx(trans, trans_docx)
+            trans_docx = self.infile.parent / (self.infile.stem + '_translation.docx')
+            create_trans_docx(trans, trans_docx)
+
+            gen_pdf(trans_docx)
 
         total = self.infile.parent / (self.infile.stem + '_total.txt')
-        total.write_text(all)
+        if self.is_changed(all, total):
+            total.write_text(all)
 
-        total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
-        create_total_docx(data, total_docx)
+            total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
+            create_total_docx(data, total_docx)
+
+            gen_pdf(total_docx)
+
+    def is_changed(self, new_content, filepath):
+        old_content = filepath.read_text(encoding='utf-8')
+        if new_content != old_content:
+            return True
+        return False
 
     def _update_translation_pars(self, orig_trans, existing):
         if not existing.is_file():
@@ -108,7 +121,7 @@ LOEXE = shutil.which('libreoffice')
 
 
 def gen_pdf(file):
-    print('Generating PDF...')
+    print(f'{file.name}: Generating PDF...')
     docxs = list(file.absolute().parent.glob(f'{file.stem}*.docx'))
     for doc in docxs:
         pdf = doc.parent / (doc.stem + '.pdf')
@@ -129,7 +142,7 @@ if __name__ == '__main__':
     else:
         files = sorted(list(Path(folder).glob('*.po')))
         for file in files:
-            print(file.name)
+            print('\n' + file.name)
             po = Po(file)
             po.write_txt()
-            gen_pdf(file)
+            # gen_pdf(file)
