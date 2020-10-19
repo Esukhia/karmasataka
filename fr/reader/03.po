@@ -154,11 +154,11 @@ msgid ""
 " (lit. s’appuie) sur le côté gauche et y reste."
 msgstr ""
 "/Certaines femmes à l'intelligence naturelle possèdent cinq particularités. "
-"Elle sait quand un homme la désire et quand il ne la désire pas. Elle sait "
-"quand elle est fertile et quand terminent ses menstruations. Elle sait quand"
-" elle est enceinte. Elle sait de qui elle attend un enfant. Elle sait que "
-"c’est un garçon ou une fille parce qu'un garçon se blottit du côté droit de "
-"son ventre et une fille du côté gauche./"
+"Elles savent quand un homme les désire et quand il ne les désire pas. Elles "
+"savent quand elles sont fertiles et quand terminent leurs menstruations. "
+"Elles savent quand elles sont enceintes. Elles savent de qui elles attendent"
+" un enfant. Elles savent que c’est un garçon ou une fille parce qu'un garçon"
+" se blottit dans le ventre du côté droit et une fille du côté gauche./"
 
 # དེ་ནས་གང་གི་ཚེ་དེ་ལ་བུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–བུ།>ཆགས་པར་གྱུར་པ་དེའི་ཚེ་དེ་དགའ་ཆེས་ནས་
 # ཁྱིམ་ཐབ་<«ཞོལ་»ཐབས།>ལ་སྦྲན་པ། ཇོ་བོ་ བདག་ལ་སྲས་ཆགས་ཏེ།
