@@ -426,10 +426,10 @@ msgstr ""
 "Un jour, l'honorable Śāriputra était venu. Il avait pris son repas, avait "
 "enseigné au père de famille et repartait raccompagné par le chien. "
 "Lorsqu'ils arrivèrent sur la grande route, le chien lécha les pieds de "
-"l'honorable moine et tourna trois fois autour de lui en remuant la queue. "
-"Puis, sur le chemin du retour, tandis que la pensée de Śāriputra l'Ancien "
-"emplissait son cœur de joie, il fut grièvement mordu par un autre chien et "
-"mourut de ses blessures."
+"l'honorable moine et, la queue frétillante, il tourna trois fois autour de "
+"lui. Puis, sur le chemin du retour, tandis que la pensée de Śāriputra "
+"l'Ancien emplissait son cœur de joie, il fut grièvement mordu par un autre "
+"chien et mourut de ses blessures."
 
 # དེ་ནས་དེ་གནས་བརྟན་ཤཱ་རིའི་བུ་ལ་སེམས་དགའ་བཞིན་དུ་ཤི་འཕོས་ཏེ་འདས་ནས་
 # ཁྱིམ་དེ་ཉིད་དུ་<«གཡུང་»«པེ་»–ཁྱིམ་དེ་ཉིད་དུ།>ཁྱིམ་བདག་དེའི་ཆུང་མ་ཆེན་མའི་མངལ་དུ་སྐྱེས་སོ།
