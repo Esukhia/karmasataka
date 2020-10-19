@@ -408,7 +408,7 @@ msgid ""
 msgstr ""
 "Le père de famille qui la regardait, pensa : « Quel incroyable hommage de la"
 " part de cette chienne ! Elle est pourtant un être échoué dans une si "
-"mauvaise condition. Ce moine est très certainement un grand être. Oui… Je "
+"mauvaise condition. Ce moine est très certainement un grand être. Oui, je "
 "vais l’inviter à déjeuner. »"
 
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས་
