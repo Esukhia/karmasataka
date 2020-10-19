@@ -270,9 +270,9 @@ msgid ""
 "l’honorable Śāriputra accepta en ne disant rien au père de famille."
 msgstr ""
 "Le père de famille accourut pour maîtriser son chien. Puis, il nettoya les "
-"blessures, les banda et se prosterna. « Vénérable Śāriputra, dit-il, "
-"accepteriez-vous de prendre votre repas ici ? » L'honorable moine accepta "
-"par son silence."
+"blessures de l'honorable, les banda et se prosterna. « Vénérable Śāriputra, "
+"dit-il, accepteriez-vous de prendre votre repas ici ? » L'honorable moine "
+"accepta par son silence."
 
 # དེ་ནས་ཁྱིམ་བདག་དེས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཅང་མི་སྨྲ་བས་གནང་བར་རིག་ནས།
 # སྟན་བཤམས་ཏེ་ འདི་སྐད་ཅེས་སྨྲས་སོ། ། བཙུན་པ་ཤཱ་རིའི་བུ།
