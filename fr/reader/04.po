@@ -658,7 +658,7 @@ msgstr ""
 "À cette époque, un homme en âge de se marier qui vivait dans la ville de "
 "Vārāṇasī épousa une jeune femme. Son épouse et lui apprirent à se connaître "
 "par les jeux de la séduction. Ils commencèrent à s’aimer et laissèrent libre"
-" cours à leurs désirs. Plus tard, elle tomba enceinte et"
+" cours à leurs désirs. Un jour, elle tomba enceinte."
 
 # དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་།
 # བུ་མཚེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཚེ།>མ་གཉིས་བྱུང་སྟེ།
