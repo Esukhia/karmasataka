@@ -553,8 +553,9 @@ msgstr ""
 "diviser, à calculer sur les doigts, à extraire, à dissimuler, à étaler, à "
 "évaluer la qualité des vêtements, à évaluer celle des gemmes, des substances"
 " précieuses, des parfums, des remèdes, des éléphants, des chevaux, des "
-"armures et des armes. Ainsi, il maîtrisa l'écriture et la lecture. Il devint"
-" ingénieux, habile de ses mains, vif d'esprit et rompu aux huit évaluations."
+"armures et des armes. Il vint à maîtriser l'écriture et la lecture. Il "
+"devint ingénieux, habile de ses mains, vif d'esprit et rompu aux huit "
+"évaluations."
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཀྱང་མིག་ཆུང་རབ་ཏུ་དབྱུང་བའི་དུས་ལ་བབ་པར་མཐོང་ནས།
 # སྔ་དྲོ་ཤམ་<«གཡུང་»«པེ་»གྲོ་ཤམ། «ལི་»དྲོ་ཤམས།>ཐབས་དང་ཆོས་གོས་བགོས་ཏེ་
