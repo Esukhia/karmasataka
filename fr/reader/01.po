@@ -850,7 +850,7 @@ msgid ""
 " aussi une part d’actions qui ont eu lieu maintenant. » « Vénérable, quelles"
 " actions du passé a-t-elle réalisées ? »"
 msgstr ""
-"« Moines, une part de ses actions vient du passé, mais l'autre part a eu lieu à notre époque. »\n"
+"— Moines, une part de ses actions vient du passé, mais l'autre part a eu lieu à notre époque. »\n"
 "« Vénérable, quelles sont ses actions du passé ? »\n"
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
