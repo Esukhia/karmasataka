@@ -538,8 +538,12 @@ msgid ""
 " sont, elles me sont arrivées (lit. proviennent) grâce à cette chienne. » "
 "vit-il. l’ayant vu, il s’occupa beaucoup d’elle."
 msgstr ""
-"Régulièrement, il conviait l'honorable Śāriputra pour le déjeuner. À ces occasions, ils donnaient tous deux leurs restes à la petite chienne, qui s'asseyait avec le père de famille devant l'honorable moine et écoutait elle aussi le Dharma.\n"
-"« Toutes ces merveilles que j’ai comprises, je les dois à ma chienne », pensa-t-il. À partir de ce moment, il redoubla d'affection pour elle."
+"Régulièrement, il conviait l'honorable Śāriputra pour le déjeuner. À ces "
+"occasions, ils donnaient tous deux leurs restes à la petite chienne, qui "
+"s'asseyait avec le père de famille devant l'honorable moine et écoutait elle"
+" aussi le Dharma. « Toutes ces merveilles que j’ai comprises, je les dois à "
+"ma chienne », pensa-t-il. À partir de ce moment, il redoubla d'affection "
+"pour elle."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་<«གཡུང་»«པེ་»ནས།>ཁྱི་མོ་དེ་ནད་ཀྱིས་ཐེབས་ནས།
 # ཤཱ་རིའི་བུས་དེ་ལ་སྨྲས་པ<«གཡུང་»མ།>། བུ་ འདི་ལྟར་
