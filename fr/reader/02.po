@@ -768,9 +768,9 @@ msgid ""
 "vastement) et"
 msgstr ""
 "Quelque temps plus tard, des moines lui demandèrent :\n"
-"« Petits-Yeux, pourquoi ne prends-tu pas les vœux complets ? »\n"
-"« Je dois repayer la bonté de Précepteur, répondit-il. Pour pouvoir le servir, je resterai novice toute ma vie. »\n"
-"« En quoi ton précepteur fut-il si bon à ton égard ? » demandèrent-ils. Il leur raconta son histoire en détail."
+"« Petits-Yeux, pourquoi ne prends-tu pas les vœux complets ?\n"
+"— Je dois repayer la bonté de Précepteur, répondit-il. Pour pouvoir le servir, je resterai novice toute ma vie.\n"
+"— En quoi ton précepteur fut-il si bon à ton égard ? » demandèrent-ils. Il leur raconta son histoire en détail."
 
 # དགེ་སློང་དེ་<«ལི་»«སྣར་»«ཞོལ་»–དེ།>དག་གིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ།
 # བཙུན་པ་ མིག་ཆུང་གིས་ལས་ཅི་བགྱིས་ན།
