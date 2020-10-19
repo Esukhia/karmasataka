@@ -669,7 +669,7 @@ msgid ""
 msgstr ""
 "Plus tard, alors qu'il appliquait de l'huile sur les jambes de l'honorable "
 "Śāriputra, il vit des cicatrices et en demanda l'origine. « Mon enfant, "
-"réfléchis à ce qui les a causées. » répondit l'honorable moine."
+"réfléchis à ce qui les a causées », répondit l'honorable moine."
 
 # དེ་ནས་དེས་བདག་ཉིད་ཀྱིས་སྔོན་ཁྱིར་གྱུར་པའི་ཚེ་ཟིན་པར་མཐོང་ནས་
 # དེས་བདག་གང་ནས་ཤི་འཕོས་ཏེ། ཁྱིར་སྐྱེས་པར་གྱུར་ཅེས་ བསམས་ན།
