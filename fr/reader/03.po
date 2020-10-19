@@ -1267,7 +1267,7 @@ msgstr ""
 "Voyez-vous, moines, à cette époque, ce moine était Pūraṇa lui-même. Les "
 "souhaits qu'il formula après avoir fait les offrandes de circonstances à cet"
 " arhat lui valurent de toujours naître dans une famille qui vit dans "
-"l’opulence, possède de grandes richesses et d’innombrables biens."
+"l’opulence, qui possède de grandes richesses et d’innombrables biens."
 
 # དགེ་སློང་དག་
 # ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་པར་གྱུར་ནས།
