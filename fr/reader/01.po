@@ -542,7 +542,7 @@ msgstr ""
 "occasions, ils donnaient tous deux leurs restes à la petite chienne, qui "
 "s'asseyait avec le père de famille devant l'honorable moine et écoutait elle"
 " aussi le Dharma. « Toutes ces merveilles que j’ai comprises, je les dois à "
-"ma chienne », pensa-t-il. À partir de ce moment, il redoubla d'affection "
+"ma chienne. » pensa-t-il. À partir de ce moment, il redoubla d'affection "
 "pour elle."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་<«གཡུང་»«པེ་»ནས།>ཁྱི་མོ་དེ་ནད་ཀྱིས་ཐེབས་ནས།
