@@ -705,9 +705,9 @@ msgstr ""
 "Remontant ainsi une vie après l'autre, il vit que chacune de ses cinq cent "
 "dernières vies avait aussi débouchée sur une renaissance parmi les chiens. «"
 " Imaginant seulement que Précepteur ne se soit pas occupé de moi quand "
-"j'étais ce chien, où aurais-je dû renaître ? » se demanda-t-il. Passant "
-"d'une vie à la suivante par le même procédé, il vit qu'il aurait dû naître "
-"en tant que chien à chacune de ses cinq cent vies suivantes."
+"j'étais ce chien, où aurais-je dû naître ? » se demanda-t-il. Passant d'une "
+"vie à la suivante par le même procédé, il vit qu'il aurait dû naître en tant"
+" que chien à chacune de ses cinq cent vies suivantes."
 
 # དེས་བསམས་པ་ བདག་འདིས་ལོག་པར་ལྟུང་བ་ལས་རྣམ་པར་གྲོལ་བར་བྱས་ཏེ་
 # གཡུང་དྲུང་གི་མཐར་ཐུག་པ་གྲུབ་པ་དང་བདེ་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+ལས།>མྱ་ངན་ལས་འདས་པ་ལ་བཞག་པས་
