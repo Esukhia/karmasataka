@@ -387,8 +387,8 @@ msgstr ""
 "Demandant l'aumône de porte en porte, l'honorable moine arriva devant la "
 "demeure du père de famille. La petite chienne l’aperçut au loin. Elle se "
 "dressa d’un seul coup et courut vers lui. Comme elle le faisait avec les "
-"autres moines, elle lui lécha les pieds avec un profond respect, puis tourna"
-" trois fois autour de lui en remuant la queue."
+"autres moines, elle lui lécha les pieds avec un profond respect, puis, la "
+"queue frétillante, elle tourna trois fois autour de lui."
 
 # དེ་ཡང་ཁྱིམ་བདག་དེས་མཐོང་ངོ་། ། མཐོང་ནས་ཀྱང་བསམས་<«ཞོལ་»བསམ།
 # པོད་འདིའི་ནང་དུ་བསམས་པ་དང་བསམས་ཏེ་སོགས་ཀྱི་བསམས་ཞེས་པ་རྣམས་༼ཞོལ་༽ལ་བསམ་ཞེས་དང་༼གཡུང་༽༼པེ་༽༼ཁུ་༽ལ་སྐབས་འགར་བསམ་ཞེས་འཁོད་ཀྱང་གཤམ་དུ་བསྡུར་མཆན་དུ་བཀོད་མེད།>པ།
