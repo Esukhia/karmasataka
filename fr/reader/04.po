@@ -209,9 +209,9 @@ msgid ""
 "heureux."
 msgstr ""
 "Un jour, un ami attentionné du père de famille qui était un upāsaka dans la tradition bouddhiste lui dit :\n"
-"« Mon ami, à quoi bon chercher un protecteur chez ceux qui ne protègent personne ? Demande de l'aide au Bienheureux Bouddha. Lui répondra à toutes tes attentes. »\n"
-"« Que sait-il donc ? »\n"
-"« Il est celui qui connaît tout », répondit l’upāsaka. « Il connaît dans tous les détails tout ce qui peut être connu. »\n"
+"« Mon ami, à quoi bon chercher un protecteur chez ceux qui ne protègent personne ? Demande de l'aide au Bienheureux Bouddha. Lui répondra à toutes tes attentes.\n"
+"— Que sait-il donc ?\n"
+"— Il est celui qui connaît tout », répondit l’upāsaka. Il connaît dans tous les détails tout ce qui peut être connu. »\n"
 "Ces paroles réjouirent le père de famille."
 
 # དགའ་བ་སྐྱེས་ནས་ བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།
