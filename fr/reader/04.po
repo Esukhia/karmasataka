@@ -186,8 +186,8 @@ msgstr ""
 "n’est rien du passé, du futur ni du présent que vous ne sachiez pas, que "
 "vous ne compreniez pas, veuillez guérir la bosse de mon fils qu’un "
 "déséquilibre du vent a créée. » Chacun d'eux récita toutes les incantations "
-"et lui donna tous les remèdes en sa connaissance, mais aucun ne parvint pas "
-"à le soigner."
+"et lui donna tous les remèdes en sa connaissance, mais aucun ne parvint à le"
+" soigner."
 
 # དེ་ནས་ཁྱིམ་[18b]བདག་དེའི་མཛའ་བོ་བཤེས་པའི་གྲོགས་པོ་སངས་རྒྱས་པའི་དགེ་བསྙེན་<«གཡུང་»བརྙེན།>ཞིག་ཡོད་པ་དེས།
 # དེ་ལ་སྨྲས་པ་ གྲོགས་པོ་
