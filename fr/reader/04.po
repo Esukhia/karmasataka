@@ -140,7 +140,7 @@ msgid ""
 msgstr ""
 "Chagrinés par la maladie de leur fils, ses parents consultèrent tous les "
 "médecins et appliquèrent tous les traitements prescrits, mais rien ne "
-"réussissait à le guérir."
+"parvint à le guérir."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་ཁྱིམ་བདག་དེའི་བློ་སྐྱེས་པ་
 # ཁྱེའུ་འདི་སྨན་པ་ཐམས་ཅད་ཀྱིས་གསོ་མ་ནུས་ཀྱིས<«ཞོལ་»ཀྱི།>།
