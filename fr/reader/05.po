@@ -135,7 +135,7 @@ msgid ""
 "j’aimerais développer les pouvoirs surnaturels. »"
 msgstr ""
 "Et si j'allais trouver le Groupe des Six ? Ils sont des parents éloignés, donc ils voudront toujours que je réussisse et ils seront toujours prêts à m'aider. Comment faire ?… Je vais m'attirer leur sympathie en leur faisant des cadeaux. Je leur adresserai ensuite ma requête. » Elle les invita chez elle. Quand ils furent comblés des nombreux mets et condiments purs et nobles qu'elle servit de ses propres mains, elle se prosterna à leurs pieds et dit :\n"
-"« Êtres sublimes, veuillez m'écouter. Je voudrais obtenir les pouvoirs surnaturels. Je sais qu'il vous est possible de m'expliquer comment les obtenir, aussi je vous demande de me donner les instructions pour les développer. Je voudrais les recevoir de votre part. »"
+"« Êtres sublimes, veuillez m'écouter. Je voudrais obtenir les pouvoirs surnaturels. Je sais qu'il vous est possible de m'expliquer comment les obtenir, aussi je vous demande de me donner les instructions pour les développer. Je voudrais les recevoir de votre part."
 
 # དྲུག་སྡེ་རྣམས་ཀྱིས་དེ་ལ་སྨྲས་པ། ཚོན་མོ་དགའ་མོ། རིག་པ་སུ་ལའང་སྦྱིན་མི་བྱ། །
 # རིག་དང་མཉམ་དུ་འཆི་བར་བྱ། ། ཡང་ན་རིག་པས་རིག་པ་བརྗེ། །
