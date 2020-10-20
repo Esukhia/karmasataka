@@ -484,9 +484,9 @@ msgstr ""
 "parasol, les mains longues, le front large, le nez proéminent, bien dessiné "
 "et les sourcils denses. Lors des célébrations de sa naissance, son père lui "
 "chercha un nom : « J'appelle de mes souhaits sa naissance depuis si "
-"longtemps ! Grâce à cet enfant, je suis parfaitement comblé. Il a exaucé mon"
-" souhait le plus cher, ce que j'ai tant désiré et tant attendu. Oui, son nom"
-" sera \"Pūraṇa\", Celui-qui-Exauce. »"
+"longtemps ! Cet enfant m'a parfaitement comblé. Il a exaucé mon souhait le "
+"plus cher, ce que j'ai tant désiré et tant attendu. Oui, son nom sera "
+"\"Pūraṇa\", Celui-qui-Exauce. »"
 
 # དེ་ནས་ཁྱེའུ་རྫོགས་བྱེད་པང་ན་འཚོ་བའི་མ་མ་གཉིས་དང་། ནུ་མ་སྣུན་<«ཁུ་»སྣུམ།
 # «ཞོལ་»བསྣུན།>པའི་མ་མ་གཉིས་དང་དྲི་མ་འཁྲུ་བའི་མ་མ་གཉིས་དང་རྩེ་བའི་མ་མ་གཉིས་ཏེ་མ་མ་[14a]བརྒྱད་ལ་གཏད་ནས།
