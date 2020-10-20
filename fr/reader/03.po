@@ -985,7 +985,7 @@ msgid ""
 msgstr ""
 "L'autre frère, quant à lui, plongeait dans les désirs, se laissait aller "
 "sans retenue, entretenait des relations extraconjugales. Il tuait des êtres "
-"vivants en grande quantité. Des milliers d'animaux périssaient quand il "
+"vivants en grande quantité : des milliers d'animaux périssaient quand il "
 "allait à la chasse."
 
 # དེར་གང་གི་ཚེ་ཡང་དག་པར་རྫོགས་<«གཡུང་»–པར་རྫོགས།>པའི་སངས་རྒྱས་འཁོར་བ་འཇིག་ཕོ་བྲང་མཛེས་ལྡན་དུ་གཤེགས་ཏེ།
