@@ -717,9 +717,10 @@ msgid ""
 "» Le précepteur dit : « Faites comme il vous plaît à [tous] les deux. » dit-"
 "il. Puis, un temps, il leur fit apprendre les récitations."
 msgstr ""
-"Leur précepteur leur dit un jour : \"Mes deux enfants, deux roues permettent de détenir l’enseignement du Bienheureux : la roue de la concentration et la roue de la récitation. Laquelle voulez-vous pratiquer ?\"\n"
-"\"Pour commencer, lui répondirent-ils, nous pratiquerons les récitations. Après, nous pratiqueront la concentration.\"\n"
-"\"Faites comme il vous plaît.\" dit-il, avant de leur enseigner les récitations."
+"Leur précepteur leur dit un jour : \n"
+"\"Mes deux enfants, deux roues permettent de détenir l’enseignement du Bienheureux : la roue de la concentration et la roue de la récitation. Laquelle voulez-vous pratiquer ?\n"
+"— Pour commencer, lui répondirent-ils, nous pratiquerons les récitations. Après, nous pratiqueront la concentration.\n"
+"— Faites comme il vous plaît.\" dit-il, avant de leur enseigner les récitations."
 
 # དེ་གཉིས་ཀྱི་ནང་ན་གཅིག་ནི་རྒོད་བག་ཅན་ཞིག་གོ། །
 # གཅིག་ནི་བརྟན་པོ་<«གཡུང་»«པེ་»པོའོ།>ཞིག་སྟེ་
