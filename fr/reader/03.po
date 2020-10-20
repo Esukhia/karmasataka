@@ -1126,9 +1126,10 @@ msgid ""
 " est arrivé par le pouvoir de ses souhaits. » « Quels souhaits a-t-il "
 "formulés ? »"
 msgstr ""
-"« Grâce à quelles actions le quadruple entourage lui a fait les offrandes de circonstance quand il est entièrement passé au-delà de la souffrance ? » \n"
-"« Ceci est arrivé par le pouvoir de ses souhaits », dit le Bienheureux.\n"
-"« Quels souhaits a-t-il formulés ? »"
+"\n"
+"— Grâce à quelles actions le quadruple entourage lui a fait les offrandes de circonstance quand il est entièrement passé au-delà de la souffrance ?\n"
+"— Ceci est arrivé par le pouvoir de ses souhaits, dit le Bienheureux.\n"
+"— Quels souhaits a-t-il formulés ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
 # བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན།
