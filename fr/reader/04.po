@@ -308,7 +308,7 @@ msgid ""
 " et"
 msgstr ""
 "Ce matin-là, le Bienheureux revêtit l'habit monastique, puis le bol à aumône"
-" à la main, il partit accompagné d'un groupe de moines pour le servir et "
+" à la main, il partit, accompagné d'un groupe de moines pour le servir et "
 "précédé de la saṅgha des moines. Quand il s'approchait de l'endroit où le "
 "père de famille l'attendait,"
 
