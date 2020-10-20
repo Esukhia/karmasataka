@@ -628,11 +628,11 @@ msgid ""
 msgstr ""
 "Par la suite, bien qu'il persévérât dans ses efforts, bien qu'il ne dormît "
 "ni au crépuscule ni à l'aube, aucun changement ne s'opérera en lui. Un jour,"
-" ses parents apprirent qu'il était malade. Ils se rendirent sans tarder au "
-"monastère avec un médecin et tout le nécessaire pour le soigner. Mais le "
-"moine ne guérissait pas malgré tous les soins. Ses parents virent qu'en "
-"restant là, ils négligeaient toutes les tâches ménagères de leur maison et "
-"décidèrent de soigner leur fils chez eux."
+" ses parents apprirent qu'il était tombé malade. Ils se rendirent sans "
+"tarder au monastère avec un médecin et tout le nécessaire pour le soigner. "
+"Mais le moine ne guérissait pas malgré tous les soins. Ses parents virent "
+"qu'en restant là, ils négligeaient toutes les tâches ménagères de leur "
+"maison et décidèrent de soigner leur fils chez eux."
 
 # ཚེ་དང་ལྡན་པ་མ་འགགས་པའི་རྐང་པ་ལ་ཕྱག་འཚལ་ཏེ་ སྨྲས་པ། འཕགས་པ་
 # མཁྱེན་པར་མཛད་དུ་གསོལ།
