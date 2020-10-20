@@ -504,7 +504,8 @@ msgid ""
 "du Bienheureux. » Puis, le Bienheureux, en lui disant « Moine, viens ici ! "
 "», Vis chastement. » dit-il. Puis,"
 msgstr ""
-"Avec la permission de ses parents, il rejoignit le Bienheureux, se prosterna en lui touchant les pieds de sa tête. En s'inclinant, il laissa retomber d'une épaule son vêtement supérieur qu'il avait replié et s'adressa au Bienheureux : « S'il est envisageable que je me retire du monde, que je prenne les vœux complets et que je devienne ainsi un moine selon le Dharma du Vinaya si bien enseigné, j'aimerais vivre une vie chaste auprès du Bienheureux.\n"
+"Avec la permission de ses parents, il rejoignit le Bienheureux, se prosterna en lui touchant les pieds de sa tête. En s'inclinant, il laissa retomber d'une épaule son vêtement supérieur qu'il avait replié et s'adressa au Bienheureux : \n"
+"« S'il est envisageable que je me retire du monde, que je prenne les vœux complets et que je devienne ainsi un moine selon le Dharma du Vinaya si bien enseigné, j'aimerais vivre une vie chaste auprès du Bienheureux.\n"
 "— Moine, répondit-il, viens près de moi et vis une vie chaste. »"
 
 # ཚིག་དེ་སྐད་ཅེས་བཀའ་སྩལ་པའི་མོད་ལ་སྐྲ་དང་ཁ་སྤུ་བྲེགས་ནས་
