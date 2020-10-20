@@ -483,9 +483,10 @@ msgstr ""
 "d’une ravissante teinte dorée. Il avait un port de tête aussi droit qu’un "
 "parasol, les mains longues, le front large, le nez proéminent, bien dessiné "
 "et les sourcils denses. Lors des célébrations de sa naissance, son père lui "
-"cherchait un nom : « J'attends sa naissance depuis si longtemps. Mon seul "
-"désir est d'avoir un enfant et grâce à lui, je suis parfaitement comblé. "
-"Oui, son nom sera \"Pūraṇa\", Celui-qui-Exauce. »"
+"chercha un nom : « J'appelle de mes souhaits sa naissance depuis si "
+"longtemps ! Grâce à cet enfant, je suis parfaitement comblé. Il a exaucé mon"
+" souhait le plus cher, ce que j'ai tant désiré et tant attendu. Oui, son nom"
+" sera \"Pūraṇa\", Celui-qui-Exauce. »"
 
 # དེ་ནས་ཁྱེའུ་རྫོགས་བྱེད་པང་ན་འཚོ་བའི་མ་མ་གཉིས་དང་། ནུ་མ་སྣུན་<«ཁུ་»སྣུམ།
 # «ཞོལ་»བསྣུན།>པའི་མ་མ་གཉིས་དང་དྲི་མ་འཁྲུ་བའི་མ་མ་གཉིས་དང་རྩེ་བའི་མ་མ་གཉིས་ཏེ་མ་མ་[14a]བརྒྱད་ལ་གཏད་ནས།
