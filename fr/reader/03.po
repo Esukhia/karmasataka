@@ -701,7 +701,7 @@ msgstr ""
 "s’éleva en eux pulvérisa les vingts croyances les plus fortes qui "
 "identifient le moi aux agrégats, cet amas de choses en continuelle "
 "destruction. Ils manifestèrent le résultat de l’entrée dans le courant. "
-"Ainsi, il établit ses parents dans la pratique des vérités."
+"C'est ainsi qu'il établit ses parents dans la pratique des vérités."
 
 # བདག་ཉིད་ཀྱི་སྔོན་གྱི་གནས་རྗེས་སུ་དྲན་པར་བྱེད་དེ།
 # བདག་གང་ནས་འཆི་<«གཡུང་»«པེ་»མཆི།>འཕོས་
