@@ -286,7 +286,7 @@ msgstr ""
 "Sthūlanandā qui voulait acquérir les pouvoirs surnaturels. Elle a convié ces"
 " moines pendant trois lunes entières. Elle a partagé entre eux une grande "
 "quantité de bols à aumône et d'habits monastiques. Pourtant, elle n’a rien "
-"obtenu. Comment est-ce possible ? »"
+"obtenu. Comment est-ce possible ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
 # དགེ་སློང་མ་<«གཡུང་»–མ།>ཚོན་མོ་དགའ་མོ་ནི་དྲུག་སྡེ་རྣམས་ཀྱིས་ད་ལྟར་འབའ་ཞིག་བྲིད་པར་མ་ཟད་དེ།
