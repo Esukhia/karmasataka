@@ -393,9 +393,9 @@ msgid ""
 " ce que vous ferez dépend de vous (lit. vous le savez vous-même). »"
 msgstr ""
 "\n"
-"\"Sœur aînée, répondirent-ils, les troncs tordus, nous les redressons au cordeau. Nous traçons des lignes et nous les taillons à la hachette. Si vous supportez ce traitement, nous tracerons des lignes sur votre dos et nous le taillerons à la hachette\"\n"
-"\"Mais j'en mourrais ! Jamais je ne survivrais à un tel traitement !\" rétorqua-t-elle.\n"
-"\"C'est tout ce que nous savons faire, répondirent-ils. Maintenant, le choix que vous ferez ne regarde que vous.\""
+"— Sœur aînée, répondirent-ils, les troncs tordus, nous les redressons au cordeau. Nous traçons des lignes et nous les taillons à la hachette. Si vous supportez ce traitement, nous tracerons des lignes sur votre dos et nous le taillerons à la hachette\n"
+"— Mais… j'en mourrais ! Jamais je ne survivrais à un tel traitement ! rétorqua-t-elle.\n"
+"— C'est tout ce que nous savons faire, répondirent-ils. Maintenant, le choix que vous ferez ne regarde que vous.\""
 
 # དེ་ནས་དེ་སྐྱེངས་ཏེ་ རེ་ཐག་ཆད་ནས། ཁ་རོག་པར་འདུག་སྟེ།
 # སུ་ལ་ཡང་ཅུང་ཟད་ཀྱང་སྨྲ་བ་མ་ཕོད་དོ། །
