@@ -1238,8 +1238,9 @@ msgstr ""
 "Bouddha que deviendra le jeune brahmane Uttara, selon la prophétie du "
 "complet et parfait Bouddha Kāśyapa. Puissé-je ne rien faire qui le "
 "mécontente. Puissé-je obtenir des qualités comme les siennes. Lorsque je "
-"passerai entièrement au-delà de la souffrance, puissent le Bienheureux et "
-"son quadruple entourage me faire les offrandes de circonstance.\""
+"m'engagerai entièrement dans l'au-delà de la souffrance, puissent le "
+"Bienheureux et son quadruple entourage me faire les offrandes de "
+"circonstance.\""
 
 # དགེ་སློང་དག་ འདི་ཇི་<«ཞོལ་»ཅི།>སྙམ་དུ་སེམས།
 # དེའི་ཚེ་དགེ་སློང་དུ་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་རྫོགས་བྱེད་འདི་ཉིད་ཡིན་ཏེ།
