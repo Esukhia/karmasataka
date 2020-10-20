@@ -169,7 +169,7 @@ msgstr ""
 "/Ou contre des services et des richesses.\"/\n"
 "\n"
 "Ceci étant, si vous voulez notre aide pour accomplir les pouvoirs surnaturels, commencez par nous inviter pendant trois mois et offrez à chacun de nous les six possessions d'un moine. » Elle se prosterna à leurs pieds et dit :\n"
-"« Montrez-moi le moyen d'obtenir les pouvoirs surnaturels. Je ferai ce que vous voulez. »"
+"« Montrez-moi le moyen d'obtenir les pouvoirs surnaturels. Je ferai ce que vous voulez."
 
 # དྲུག་སྡེ་པ་རྣམས་ཀྱིས་སྨྲས་པ། ཆེ་ཞེ་
 # ཁྱོད་ཀྱིས་ཐོག་མར་ཇེ<«གཡུང་»«པེ་»ཇི།>་ལུས་ཟོན་ཡང་བར་གྱིས་དང་།
