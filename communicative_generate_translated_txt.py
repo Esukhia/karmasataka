@@ -54,7 +54,7 @@ class Po:
             parsed.append(parsed_pairs)
         return parsed
 
-    def write_txt(self):
+    def write_txt(self, enforce=False):
         orig_trans, trans, all, data = self.format_entries()
 
         bitext = self.infile.parent / (self.infile.stem + '.txt')
@@ -63,7 +63,7 @@ class Po:
 
         trans_txt = self.infile.parent / (self.infile.stem + '_translation.txt')
         trans = self._update_translation_pars(trans, trans_txt)
-        if self.is_changed(trans, trans_txt):
+        if self.is_changed(trans, trans_txt) or enforce:
             trans_txt.write_text(trans)
 
             trans_docx = self.infile.parent / (self.infile.stem + '_translation.docx')
@@ -72,7 +72,7 @@ class Po:
             gen_pdf(trans_docx)
 
         total = self.infile.parent / (self.infile.stem + '_total.txt')
-        if self.is_changed(all, total):
+        if self.is_changed(all, total) or enforce:
             total.write_text(all)
 
             total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
@@ -138,11 +138,9 @@ if __name__ == '__main__':
         print(file.name)
         po = Po(file)
         po.write_txt()
-        gen_pdf(file)
     else:
         files = sorted(list(Path(folder).glob('*.po')))
         for file in files:
             print('\n' + file.name)
             po = Po(file)
             po.write_txt()
-            # gen_pdf(file)

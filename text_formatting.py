@@ -38,6 +38,12 @@ def format_fr(text):
         r'[ \f\v\u202f\u00a0]+"(.+?)',
         r' “\1', text)
     text = re.sub(
+        r'\n"(.+?)',
+        r'\n“\1', text)
+    text = re.sub(
+        r'(\n|^)/"(.+?)',
+        r'\1/“\2', text)
+    text = re.sub(
         r'(.+?)"([ \f\v\u202f\u00a0]?)',
         r'\1”\2', text)
     text = re.sub(
