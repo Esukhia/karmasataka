@@ -780,7 +780,7 @@ msgid ""
 msgstr ""
 "\"Quelle bêtise ai-je fait !\" pensa-t-il en regrettant son acte. Voir son "
 "frère souffrir autant lui était insupportable. Il alla chercher un médecin "
-"et le traitement nécessaire, puis soigna son frère qui guérit en peut de "
+"et le traitement nécessaire, puis soigna son frère qui guérit en peu de "
 "temps."
 
 # དེ་གང་གི་ཚེ་སོས་པར་གྱུར་པ་དེའི་ཚེ་དེ་ཤས་ཆེར་<«གཡུང་»«པེ་»ཆེ།>སྐྱོ་བ་སྐྱེས་ཏེ།
