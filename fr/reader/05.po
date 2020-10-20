@@ -102,7 +102,7 @@ msgstr ""
 "nonnes, puisqu'elles sont toutes jalouses, ne diront rien. Les moines, il "
 "est difficile de les aborder. Je ne réussis même pas à entamer une "
 "conversation avec ceux qui sont dans notre nonnerie. Jamais ils ne "
-"m'expliqueront les étapes pour acquérir ces pouvoirs…"
+"m'expliqueront les étapes pour acquérir ces pouvoirs."
 
 # མ་ལ་ བདག་དྲུག་སྡེ་རྣམས་ཀྱི་ཐད་དུ་སོང་ན་ནི།
 # དེ་དག་བདག་གི་གཉེན་<«གཡུང་»–«པེ་»མཉེན།>ཡིན་པས།
