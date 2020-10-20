@@ -404,7 +404,7 @@ msgid ""
 "Ensuite, elle devint honteuse et perdit tout espoir et se tint en silence et"
 " n’osa en toucher le moindre mot (lit. même un peu) à personne."
 msgstr ""
-"Toute honteuse, voyant qu'elle s'était fait avoir, elle se tut et n'osa "
+"Toute honteuse, voyant qu'elle s'était fait rouler, elle se tut et n'osa "
 "jamais en parler à quiconque."
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས་ དེའི་ཚེ། རྒན་མོར་<«གཡུང་»བགོད་པར།
