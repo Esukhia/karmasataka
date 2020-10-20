@@ -299,10 +299,9 @@ msgid ""
 "dans le passé, ils la trompèrent aussi et dont elle n’obtint pas ce qu’elle "
 "voulait (lit. son sens), écoutez-le."
 msgstr ""
-"Le Bienheureux dit : « Ce n’est pas la première fois que la nonne "
-"Sthūlanandā est trompée par le Groupe des Six. Écoutez donc comment ils la "
-"trompèrent dans le passé, et comment elle n'obtint pas non plus ce qu'elle "
-"espérait."
+"— Ce n’est pas la première fois que la nonne Sthūlanandā est trompée par le "
+"Groupe des Six, dit le Bienheureux. Écoutez donc comment ils la trompèrent "
+"dans le passé, et comment elle n'obtint pas non plus ce qu'elle espérait."
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
 # གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱི་ན་རྒྱལ་པོ་ཚངས་པས་བྱིན་རྒྱལ་པོ་བྱེད་དེ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–རྒྱལ་པོ་བྱེད་དེ།>།
