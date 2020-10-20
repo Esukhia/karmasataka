@@ -614,7 +614,7 @@ msgstr ""
 "Bienheureux ? Quelles actions lui ont valu de vous contenter, de ne rien "
 "faire qui vous mécontente, de se retirer du monde selon votre enseignement, "
 "d'éliminer toutes les émotions perturbatrices et de manifester l'état "
-"d'arhat ? »"
+"d'arhat ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ དགེ་སློང་འདིས་ལས་བྱས་ཤིང་བསགས་ཏེ།
 msgctxt "line 35, 04.txt"
