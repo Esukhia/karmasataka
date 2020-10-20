@@ -241,7 +241,7 @@ msgid ""
 "savez vous-même). »"
 msgstr ""
 "\n"
-"« Tout ce que nous savons, répondirent-ils, nous vous l'avons expliqué : la manière de rendre votre corps plus léger par précaution, puis l'accès facilité aux pouvoirs surnaturels. À partir de là, ce que vous faites ne nous regarde plus. »"
+"— Tout ce que nous savons, répondirent-ils, nous vous l'avons expliqué : la manière de rendre votre corps plus léger par précaution, puis l'accès facilité aux pouvoirs surnaturels. À partir de là, ce que vous faites ne nous regarde plus. »"
 
 # དེ་ནས་དེ་<«གཡུང་»«པེ་»ད།>ཐོས་མ་ཐག་ཏུ་ཚོན་མོ་དགའ་མོ་ཁྲོ་བའི་<«སྣར་»མོ་ཁྲོ་བས།
 # «ཞོལ་»བོ་ཁྲོ་བས།>ཀུན་ནས་དཀྲིས་པ་ཆེན་པོ་སྐྱེས་ནས།
