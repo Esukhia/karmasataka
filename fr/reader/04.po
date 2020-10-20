@@ -68,8 +68,8 @@ msgid ""
 "après que soient passés neuf ou dix mois, un fils au corps harmonieux (lit. "
 "noble), qui était beau et agréable au regard naquit, et"
 msgstr ""
-"Environ neuf mois plus tard, elle donna le jour à un fils bien proportionné,"
-" dont la beauté réjouissait la vue."
+"Environ neuf mois plus tard, elle donna naissance à un fils bien "
+"proportionné, dont la beauté réjouissait la vue."
 
 # དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས། རིགས་དང་འཐུན་པར་མིང་བཏགས་ཏེ།
 msgctxt "line 7, 04.txt"
