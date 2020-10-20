@@ -134,7 +134,7 @@ if __name__ == '__main__':
     folder = 'fr/reader'
     if len(sys.argv) > 1:
         stem = sys.argv[1]
-        file = Path(folder) / (stem + '.txt')
+        file = Path(folder) / (stem + '.po')
         print(file.name)
         po = Po(file)
         po.write_txt()
