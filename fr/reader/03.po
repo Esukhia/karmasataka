@@ -965,11 +965,11 @@ msgstr ""
 "Moines, dans un passé lointain de cet éon fortuné, quand les hommes vivaient"
 " quarante mille ans, le brahmane Agnidatta, ministre du roi Sukha, qui "
 "exerçait dans le palais royal Śobhāvatī, eut deux fils. L'un fit la "
-"rencontre d'un vieux, d'un malade et d'un mort. Il décida de s'établir dans "
-"la forêt. Là, il se remémora les trente-sept éléments qui dirigent vers "
-"l'éveil et obtint l'éveil insurpassable, complet et parfait. Il tourna à "
-"trois reprises la roue du Dharma en ses douze aspects et fit le bien des "
-"êtres. Il devint ainsi le complet et parfait Bouddha Krakucchanda."
+"rencontre d'une vieille personne, d'un malade et d'un mort. Il décida de "
+"s'établir dans la forêt. Là, il se remémora les trente-sept éléments qui "
+"dirigent vers l'éveil et obtint l'éveil insurpassable, complet et parfait. "
+"Il tourna à trois reprises la roue du Dharma en ses douze aspects et fit le "
+"bien des êtres. Il devint ainsi le complet et parfait Bouddha Krakucchanda."
 
 # ཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>ཤོས་ནི་འདོད་པ་ལ་ཞུགས་ཏེ་
 # བག་མེད་པ་དང་ གཞན་གྱི་ཆུང་མ་ལ་བྱི་བྱེད་པ་དང་། སྲོག་གཅོད་པ་བྱེད་པར་གྱུར་ཏེ།
