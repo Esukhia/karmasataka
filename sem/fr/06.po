@@ -1071,7 +1071,7 @@ msgstr "comment ferons-nous ?"
 # གར་སོང་ཞིག་<«ལི་»«སྣར་»ཞི།>གུ་<«གཡུང་»«པེ་»–གུ།>སྙམ་ནས་
 msgctxt "e60a9e137fb845b5a92e3141d0a8c9be"
 msgid "གར་ སོང་ ཞིག་ གུ་ སྙམ་ ནས་"
-msgstr "Où pourrions-nous aller ? » pensèrent-ils, puis"
+msgstr "Où pourrions-nous aller ? » pensèrent-ils. Puis,"
 
 msgctxt "e8416802eeaa4ea784c1e6795175a228"
 msgid "ཁ་རོག་ སྟེ་"
