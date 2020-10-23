@@ -156,8 +156,8 @@ msgid ""
 "དེ་ནས་ ཀཽ་ ཤཱཾ་ བཱི་ ན་ གནས་པ␣འི་ སྐྱེ་བོ་ མང་པོ␣ས་ འཕགས་པ་ པིཎྜོ་ ལ་བ་ ར་ "
 "དྷཱ་ ཛ་ ལྗོངས་རྒྱུ་ ཞིང་ ཡུལ་ ཀཽ་ ཤཱཾ་ བཱིར་ འོངས་ ཏེ །"
 msgstr ""
-"Ensuite, la population (lit. les gens vivant à) de Kauśāmbī [entendirent "
-"que] « Piṇḍola­bhāradvāja a voyagé et il est venu à Kauśāmbī et"
+"Ensuite, la population (lit. les gens vivant à) de Kauśāmbī [entendit que] «"
+" Piṇḍola­bhāradvāja a voyagé et il est venu à Kauśāmbī et"
 
 # ཀཽ་ཤཱཾ་བཱི་ན་ཁྱིམ་བདག་གདངས་<«གཡུང་»«པེ་»མདངས།>ལས་རིག་གི་ཀུན་དགའ་ར་བ་ན་འདུག་གོ་ཞེས་
 msgctxt "46c33227b3d44fd4b093021fe78d3405"
