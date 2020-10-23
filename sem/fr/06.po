@@ -104,7 +104,7 @@ msgid ""
 "དེ␣ས་ ཡུལ་ ཀཽ་ ཤཱཾ་ བཱི་ ན་ གནས་པ␣འི་ སྐྱེ་བོ་ ཕལ་ཆེར་ བདག་ གིས་ གདུལ་བ␣ར་ "
 "འགྱུར་བ་ མཐོང་ ནས །"
 msgstr ""
-"il vit que la majorité des personnes vivant à Kauśāmbī seraient domptés par "
+"Il vit que la majorité des personnes vivant à Kauśāmbī seraient domptés par "
 "lui. Ensuite,"
 
 msgctxt "22ae76c11aea495e829fa89bbf361a57"
