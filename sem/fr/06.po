@@ -1552,7 +1552,7 @@ msgctxt "acb4e451947e4f96b05b5867adc61d63"
 msgid ""
 "ཀཽ་ ཤཱཾ་ བཱི་ ན་ ཁྱིམ་བདག་ གདངས་ ལ␣ས་ རིག་ གི་ ཀུན་དགའ་ར་བ་ ན་ བཞུགས་ སོ་ "
 "ཞེས་"
-msgstr "à Kauśāmbī, il demeure dans le jardin du père de famille Ghoṣila. »"
+msgstr "à Kauśāmbī, il demeure dans le jardin du père de famille Ghoṣila »,"
 
 msgctxt "198ea88aa30f4330b407d62296061a92"
 msgid "ཐོས་ སོ ། །"
