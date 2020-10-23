@@ -1833,7 +1833,7 @@ msgstr "Moines,"
 
 msgctxt "e15c69011c8e43979347cb7d72bcb59c"
 msgid "དེ་ ནི་ ད་ལྟར་ འབའ་ཞིག་ མ་ ཡིན་ ཏེ །"
-msgstr "Ceci, ce n'est pas uniquement maintenant [que ceci est arrivé]."
+msgstr "ceci, ce n'est pas uniquement maintenant [que ceci est arrivé]."
 
 msgctxt "484f93e71bc540fa90f3204061b1ed6d"
 msgid ""
