@@ -191,7 +191,7 @@ msgid ""
 "དེ་ནས་ དེ་ ཟླ་བ་ དགུ␣འམ་ བཅུ་ ལོན་པ་ དང་ །  བུ་མོ་ གཟུགས་བཟང་ ཞིང་ བལྟ་ ན་ "
 "སྡུག་ ལ་ མཛེས་པ་ ཞིག་ བཙས་ ནས །"
 msgstr ""
-"après que neuf ou dix mois soient passés, elle donna le jour à une fille "
+"Après que neuf ou dix mois soient passés, elle donna le jour à une fille "
 "bien proportionnée (lit. au corps noble), dont la beauté réjouissait la vue "
 "et"
 
