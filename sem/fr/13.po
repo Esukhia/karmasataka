@@ -522,7 +522,7 @@ msgstr "Vous avez bien souffert."
 
 msgctxt "9bede4b36277498397b44a86e5406e30"
 msgid "ཤིན་ཏུ་ ཉོན་མོངས་ སོ་ ཞེས་"
-msgstr "Vous avez beaucoup souffert. »"
+msgstr "Vous avez beaucoup souffert »,"
 
 # བྱས་<«གཡུང་»–བྱས།>སོ། །
 msgctxt "636a907cf53149b0a40f85583790f687"
