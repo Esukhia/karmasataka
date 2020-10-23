@@ -497,7 +497,7 @@ msgid ""
 "འདི␣ས་ བདག་ཅག་ མཚན་ ཐོག་ཐག་ ཉོན་མོངས་ སོ་ སྙམ་ ནས་"
 msgstr ""
 "« Tout ce que nous avons marché (lit. aller) et tout ce que nous avons porté"
-" cet estropié, il nous a fait souffrir la nuit du début à la fin. » "
+" cet estropié, il nous a fait souffrir la nuit du début à la fin », "
 "pensèrent-ils et"
 
 msgctxt "f96f78030418428aa5cbec3c6adfa799"
