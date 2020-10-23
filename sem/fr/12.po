@@ -586,7 +586,7 @@ msgstr "décidément,"
 
 msgctxt "92e2de947f3d46dca008a53b98084aa3"
 msgid "བདག་ གིས་ འདི་ཁོ་ན་ ལ་ སྦྱིན་པ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
-msgstr "c'est bien à lui que je la donnerai. »"
+msgstr "c'est bien à lui que je la donnerai »,"
 
 msgctxt "fb4d7efd86684c7bb0031164b9f73922"
 msgid "བསམས་ ནས །"
