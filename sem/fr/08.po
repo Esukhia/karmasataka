@@ -183,7 +183,7 @@ msgctxt "f28e227ff9b844d0ac0ace3ff12cabcb"
 msgid ""
 "རྒྱལ་པོ་ གསལ་རྒྱལ་ གྱི་ ནི་ བུ་མོ་ བཙས །  ལྷ␣འི་ ནི་ སྲས་པོ་ བལྟམ་ མོ་ ཞེས་"
 msgstr ""
-"Une fille est née au roi Prasenajit. Quant à [vous,] Deva, c'est un fils. »"
+"Une fille est née au roi Prasenajit. Quant à [vous,] Deva, c'est un fils »,"
 
 msgctxt "43e60a98f73949acb5097db2ae5366e0"
 msgid "བྱས་ སོ ། །"
