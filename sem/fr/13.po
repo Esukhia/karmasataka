@@ -105,7 +105,7 @@ msgstr "Alors, il pensa : «"
 
 msgctxt "3fddd42128de4c678f4bca93fca12f3d"
 msgid "མ་ལ་"
-msgstr "décidément,"
+msgstr "Décidément,"
 
 # བདག་གི་<«ཞོལ་»གིས།>འདི་ཚེམ་བུ་མཁན་གྱི་ལས་བསླབས་པ་དང་
 msgctxt "7a8c50523cd444819e9ca53562e55a00"
