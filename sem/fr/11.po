@@ -271,7 +271,7 @@ msgstr "quand lui,"
 
 msgctxt "13b522fb9460474ab6e9e3013446d729"
 msgid "ཀྱེ་ གཽ་ ཏ་ མ་"
-msgstr "\"Hé Gautama,"
+msgstr "\"Hé, Gautama,"
 
 msgctxt "6a3a6b18ca4f4e918b858fc2148932c1"
 msgid "ལ་དུ་ འདི་ བདག་ ལ་ མི་ དགོས་ སོ་ ཞེས་"
