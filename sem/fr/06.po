@@ -2265,7 +2265,7 @@ msgctxt "9c5dff119ad048e5bb6d05ea83297952"
 msgid ""
 "བདག་ རྒྱལ་སྲིད་ ལ␣ས་ ཉམས་པ␣འམ་ སྲོག་ གི་ བར་ཆད་ དུ་ མི་ འགྱུར་ ལགས་ གྲང་ །"
 msgstr ""
-"Risquerais-je de déchoir du [rang] de roi ou d'avoir un obstacle à ma vie ? "
+"risquerais-je de déchoir du [rang] de roi ou d'avoir un obstacle à ma vie ? "
 "»"
 
 msgctxt "7cb47b0cba024c428e951344a336d372"
