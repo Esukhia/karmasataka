@@ -305,7 +305,7 @@ msgstr "redressa son buste,"
 # ལག་པ་གཡས་པ་ནི་བརྐྱང་<«ཞོལ་»བརྐྱངས།>ནས།
 msgctxt "3c5b3c44025b46d6b197a0e95818d0c4"
 msgid "ལག་པ་ གཡས་པ་ ནི་ བརྐྱང་ ནས །"
-msgstr "étendit sa main droite,"
+msgstr "étendit sa main droite et [dit] :"
 
 msgctxt "3247718fc7ec45458c45f247d959a106"
 msgid ""
