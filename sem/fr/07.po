@@ -95,7 +95,7 @@ msgstr "elle est belle. Donc,"
 # བུ་མོ་འདིའི་མིང་ཀཱ་<«གཡུང་»«པེ་»ཀ>ཤི་མཛེས་ལྡན་མ་ཞེས་གདགས་<«གཡུང་»«པེ་»བདགས།>སོ་ཞེས་
 msgctxt "e6f2d6677af4407ca85c989475c45bc8"
 msgid "བུ་མོ་ འདི␣འི་ མིང་ ཀཱ་ ཤི་ མཛེས་ལྡན་ མ་ ཞེས་ གདགས་ སོ་ ཞེས་"
-msgstr "le nom de cette fille sera Kāśisundarī, la Belle de Kāśi. »"
+msgstr "le nom de cette fille sera \"Kāśisundarī\", \"la belle de Kāśi\" »,"
 
 msgctxt "fbd485a0a09b4bce82b4fb160e1c3e80"
 msgid "ཟེར་ རོ ། །"
