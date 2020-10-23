@@ -737,7 +737,7 @@ msgstr ""
 msgctxt "7bfb9f584cc54d249566103a19fc89b6"
 msgid "རློམ་པ་ དེ␣ས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ ལ་ ཁྱད་ དུ་ གསོད་པ␣ར་ བྱེད་ དོ ། །"
 msgstr ""
-"cette arrogance lui faisait mépriser la plupart (lit. multitude) des gens."
+"cette arrogance lui faisait mépriser la plupart (lit. diversité) des gens."
 
 # དེ་ནས་དགེ་བསྙེན་<«གཡུང་»སྙེན།>ཞིག་གིས་དེ་ལ་སྨྲས་པ།
 msgctxt "217e14d0043d41e7a13a70efaa4fc37f"
@@ -1768,7 +1768,7 @@ msgstr "nous contentions tous les deux par nos actes le Bienheureux Bouddha."
 
 msgctxt "c7ca31c4a416420db3fdd50aa0882401"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག  །"
-msgstr "Puissions-nous ne rien faire qui le mécontentera."
+msgstr "Puissions-nous ne rien faire qui le mécontente."
 
 msgctxt "8e00823583474b96aef526e63983cfc2"
 msgid "དེ་ ཁོ་ན␣འི་ བསྟན་པ་ ལ་ རབ་ཏུ་ བྱུང་ ནས་"
