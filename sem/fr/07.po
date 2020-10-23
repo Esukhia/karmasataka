@@ -151,7 +151,7 @@ msgstr "elle demanda [la permission] à ses deux parents et "
 
 msgctxt "df395bb52e374c5686207180d171ed26"
 msgid "སངས་རྒྱས་ དང་ ཆོས་ དང་ དགེ་འདུན་ ལ་ བཀུར་སྟི་ བྱས་ སོ ། །"
-msgstr "il offrit ses services au Bouddha, au Dharma et à la Saṅgha."
+msgstr "elle offrit ses services au Bouddha, au Dharma et à la Saṅgha."
 
 # དེ་གང་གི་ཚེ་ཆེན་མོར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཚེ་ཆེན་པོར།
 # «སྣར་»«ཞོལ་»ཆེན་པོར།>གྱུར་པ་དེའི་ཚེ། ཀཱ་ཤིའི་<«གཡུང་»«པེ་»ཀ་ཤའི།
