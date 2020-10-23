@@ -2384,7 +2384,7 @@ msgid ""
 "གྱུར་ ལ་"
 msgstr ""
 "Maintenant aussi, il a eu de l'animosité envers lui à cause de quoi sa "
-"lumière a disparue et"
+"lumière a disparu et"
 
 msgctxt "815697c653744b99bc9e7cadc79fb54f"
 msgid "ས་ ཡང་ ག␣ས་ སོ ། །"
