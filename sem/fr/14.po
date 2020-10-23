@@ -550,8 +550,8 @@ msgid ""
 "གང་ གི་ དོན་ དུ་ དཔའ་བོ་ འཛུམ་པ་ སྟོན་ མཛད་པ ། །  དེ་ ནི་ ཁྱོད་ ལ་ སྐྱེ་བོ་ "
 "ཕལ་ཆེན་ ཉན་པ␣ར་ འཚལ ། །"
 msgstr ""
-"La raison pour laquelle [vous], Héros, avez montré votre sourire, ceci, la "
-"multitude de personnes aimerait l'entendre de vous."
+"La raison pour laquelle [vous], Héros, avez montré votre sourire, ceci, "
+"d'innombrables personnes aimeraient l'entendre de vous."
 
 # འབྲུག་སྒྲ་ལྟ་བུའི་གསུང་ལྡན་པ། ། ཁྱུ་མཆོག་ལྟ་བུའི་ལྟ་སྟངས་<«གཡུང་»+གཤེགས།>ཅན།
 # ། མི་མཆོག་མཆོད་པ་བགྱིད་པ་ཡི། ། འབྲས་བུ་[54a]ཅིར་འགྱུར་ལུང་བསྟན་གསོལ། །
