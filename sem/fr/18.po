@@ -611,7 +611,7 @@ msgid ""
 "སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ གིས །  ཐག་ རིང་པོ་ ཞིག་ ནས་ སེམས་ཅན་ དེ་དེ་ "
 "ལྟ་བུ␣འི་ གནོད་པ␣འི་ སྡུག་བསྔལ་ ཉམས་ སུ་ མྱོང་བ་ མཐོང་ ངོ་ ། །"
 msgstr ""
-"la multitude des personnes virent au loin quelles (lit. comme ça) "
+"les innombrables personnes virent au loin quelles (lit. comme ça) "
 "souffrances cet être subissait (lit. expérimentait)."
 
 msgctxt "580ca624ad96441fbf0099c52bb471fc"
