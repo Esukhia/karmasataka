@@ -1254,7 +1254,7 @@ msgstr ""
 
 msgctxt "5d00cf15049a49b592e11aff94a65539"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ །"
-msgstr "elle a éliminé toutes les émotions perturbatrices et"
+msgstr "après avoir éliminé toutes les émotions perturbatrices,"
 
 msgctxt "035fc1cabe5f417f90133ccd314a9b49"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱེད་པ␣ར་ གྱུར་ཅིག་ ཅེས་"
