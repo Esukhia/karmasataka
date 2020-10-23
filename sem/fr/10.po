@@ -1902,7 +1902,7 @@ msgstr "Puissions-nous ne rien faire qui le mécontente. »"
 msgctxt "81df75db2b0d4ee0b5076229cb980dd3"
 msgid "བྱས་པ␣ས་ ད་ལྟར་ འདི་ཁོ་ན་ ལ་ བརྟེན་ ཏེ །"
 msgstr ""
-"avoir fait [ce souhait fit que] maintenant, grâce à lui-même (lit. lui "
+"Avoir fait [ce souhait fit que] maintenant, grâce à lui-même (lit. lui "
 "seul),"
 
 msgctxt "36f478eb0f4c43dcae8ba70e9733889a"
