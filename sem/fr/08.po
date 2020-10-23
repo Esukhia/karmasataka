@@ -414,7 +414,7 @@ msgid ""
 "བདག་ གིས་ ནི་ ཆོས་ འདི་ ལྟ་བུ་ ཐོབ་པ␣ས་ ན་ འདོད་པ་ ཡོངས་སུ་ སྤྱོད་པ␣འི་ རྔོ་"
 " མི་ ཐོགས་ ཀྱིས །"
 msgstr ""
-"Moi, puisque j'ai obtenu des capacités (lit. choses) comme celles-ci, je ne "
+"moi, puisque j'ai obtenu des capacités (lit. choses) comme celles-ci, je ne "
 "parviendrai pas à avoir de relation sexuelle (lit. jouir pleinement des "
 "plaisirs). Donc,"
 
