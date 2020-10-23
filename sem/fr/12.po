@@ -653,7 +653,7 @@ msgid ""
 "འདུས་ མོ␣འི་ བུ་ ཡིན་པ␣ས་ ན་ འདུས་པ␣འི་ ཀཱ་ ཏྱཱ་ ཡ་ ན་ ཞེས་ གདགས་ སོ་ ཞེས་"
 msgstr ""
 "qu'il est l'enfant de Assemblée, il portera le nom de \"Kātyāyana-"
-"de-l'Assemblée\". »"
+"de-l'Assemblée\" »,"
 
 msgctxt "75a68746a9464a4fb4234cda298c2446"
 msgid "ཟེར་ རོ ། །"
