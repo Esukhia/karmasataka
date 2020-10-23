@@ -965,7 +965,7 @@ msgstr "Enfant,"
 # ཁྱོད་མ་བཙས་པའི་སྔ་རོལ་ནས། འཕགས་པ་མ་འགགས་པ་ལ་ངས་ཕུལ་གྱིས་<«ཞོལ་»གྱི།>
 msgctxt "13c0828e8fa545f3ae55c7b222f96478"
 msgid "ཁྱོད་ མ་ བཙས་པ␣འི་ སྔ་རོལ་ ནས །  འཕགས་པ་ མ་ འགགས་པ་ ལ་ ངས་ ཕུལ་ གྱིས་"
-msgstr "Avant que tu naisses, je t'avais offert au sublime Aniruddha. Donc,"
+msgstr "avant que tu naisses, je t'avais offert au sublime Aniruddha. Donc,"
 
 msgctxt "49a28d06617e4b34a7a675f101c0c76d"
 msgid "སོང་ ལ །"
