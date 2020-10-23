@@ -1,0 +1,492 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# ལས་བརྒྱ་ཐམ་པ།
+msgctxt "line 1, 08.txt"
+msgid "Les cent karmas"
+msgstr ""
+
+# བམ་པོ་གསུམ་པ།
+msgctxt "line 2, 08.txt"
+msgid "Troisième feuillet"
+msgstr ""
+
+# བདེ་བྱེད་མ་ཞེས་བྱ་བ་<«གཡུང་»བ། «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>ནི།
+msgctxt "line 3, 08.txt"
+msgid "Celle nommée Kṣemā"
+msgstr ""
+
+# གླེང་<«ལི་»གླིང་།>གཞི་མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "line 4, 08.txt"
+msgid ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+msgstr ""
+
+# དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན་རྒྱལ་པོ་གསལ་རྒྱལ་རྒྱལ་པོ་བྱེད་ལ།
+# བཱ་རཱ་ཎ་སཱི་ན་ནི་རྒྱལ་པོ་ཚངས་པས་བྱིན་ཞེས་བྱ་བ་རྒྱལ་པོ་བྱེད་པ་ལས་<«ཁུ་»ལ།>
+# དེ་གཉིས་ཕན་ཚུན་མི་འཐུན་པར་གྱུར་ཏེ།
+# དུས་དུས་སུ་སྐྱེ་བོ་མང་པོ་ཁ་འདོག་<«གཡུང་»དོག>པར་བྱེད་དོ། །
+msgctxt "line 5, 08.txt"
+msgid ""
+"À cette époque, le roi Prasenajit régnait (lit. faisait le roi) et à "
+"Vārāṇasī, le roi nommé Brahmadatta régnait (lit. faisait le roi). Ainsi, eux"
+" deux devinrent ennemis et de manière réccurente (lit. à moment [et] "
+"moment), ils faisaient périr de nombreuses êtres."
+msgstr ""
+
+# དེ་ནས་ཕྱི་ཞིག་ན་རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱིས་དཔུང་གི་ཚོགས་ཡན་ལག་བཞི་གོ་བསྐོན་ཏེ་
+# ཀོ་<«གཡུང་»«པེ་»ཀོ། «གཡུང་»«པེ་»ཀ>ས་ལའི་ཡུལ་དུ་སོང་ནས་
+# ཆུ་ཀླུང་ཁང་ལྡན་གྱི་འགྲམ་དུ་ཕྲུ་མ་བཏབ་སྟེ་ འཁོད་དོ། །
+# རྒྱལ་པོ་གསལ་རྒྱལ་གྱིས་ཀྱང་རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱིས་དཔུང་གི་ཚོགས་ཡན་ལག་བཞི་གོ་བསྐོན་ནས།
+# བདག་དང་གཡུལ་འགྱེད་དུ་འོངས་སོ་ཞེས་ ཐོས་སོ། ། ཐོས་ནས་
+# དེས་ཀྱང་དཔུང་གི་ཚོགས་ཡན་ལག་བཞི་གོ་བསྐོན་ནས་
+# ཀཱ་ཤིའི་རྒྱལ་པོ་དང་གཡུལ་འགྱེད་དུ་སོང་སྟེ། དེས་ཀྱང་ཆུ་ཀླུང་<«གཡུང་»–ཆུ།
+# «པེ་»ཆུ་ལུང་།>ཁང་ལྡན་གྱི་འགྲམ་དུ་ཕྲུ་མ་བཏབ་སྟེ་ འཁོད་དོ། །
+# དེ་ནས་དེ་གཉིས་དེ་ན་འཁོད་པས་ཕན་ཚུན་དུ་སྐྱེ་བོ་མང་པོ་ཁ་འདོག་པར་བྱེད་དོ། །
+# དེ་གཉིས་ཀ་ཡང་མཐུ་ཆེ་ཞིང་ཚུགས་པར་དཀའ་བ་ཡིན་ཏེ།
+# དེ་གཉིས་གཅིག་གིས་གཅིག་མི་ཐུབ་ཅིང་ འདུག་གོ། །
+msgctxt "line 6, 08.txt"
+msgid ""
+"Ensuite, plus tard, le roi Brahmadatta apprêta les quatre partie de son "
+"armée et alla dans le pays de Kośala, puis établirent leur camp près de la "
+"rivière Ajiravatī. Puis, ils s’y installèrent. Le roi Prasenajit, que le roi"
+" Brahmadatta avait apprêté les quatre parties de son armée et [qu’]il venait"
+" lui livrer bataille, il l’entendit. L’ayant entendu, il apprêta lui aussi "
+"les quatre partie de son armée et il alla livrer bataille au roi de Kāśi et "
+"lui aussi établit son camp près de la rivière Ajiravatī. Puis, il s’y "
+"installa. Ensuite, puisqu’ils étaient tous les deux installés là, ils firent"
+" périr de chaque côté de nombreux êtres. Ils étaient tous deux puissants et "
+"difficiles à vaincre. Ainsi, ni l’un ni l’autre ne prenait le dessus et ils "
+"se maintenaient [ainsi]."
+msgstr ""
+
+# དེ་ནས་ཕྱི་ཞིག་ན་དེ་ཁོ་ན་འཁོད་བཞིན་དུ་རྒྱལ་པོ་གསལ་[33a]རྒྱལ་གྱི་བུ་མོ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་སོ།
+# །
+# ཀཱ་<«གཡུང་»«པེ་»ཀ>ཤིའི་རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱི་བུ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་ཀྱང་བཙས་ནས།
+# དེར་དེ་གཉིས་སོ་སོའི་ཕོ་བྲང་འཁོར་དུ་དགའ་བའི་རོལ་མོ་བརྡུངས་སོ། །
+# དེ་ནས་དེ་གཉིས་ཀྱིས་ཕན་ཚུན་དུ་ཐོས་ནས་
+# འདིར་དགའ་བའི་རོལ་མོ་བརྡུངས་པ་དེ་<«གཡུང་»«པེ་»ནི།
+# «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»ན།>ཅི་ཞིག་ཅེས་ དྲིས་ནས་
+# བློན་པོ་རྣམས་ཀྱིས་བསྙད་<«གཡུང་»བརྙེད། «པེ་»བསྙེད།>དེ།
+# རྒྱལ་པོ་གསལ་རྒྱལ་གྱི་ནི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ནི།>བུ་མོ་བཙས།
+# ལྷའི་ནི་སྲས་པོ་བལྟམ་མོ་<«གཡུང་»«པེ་»བལྟ་མོ། «ཞོལ་»བལྟམས་སོ།>ཞེས་ བྱས་སོ། །
+# རྒྱལ་པོ་གསལ་རྒྱལ་གྱི་བློན་པོ་རྣམས་ཀྱིས་<«ཞོལ་»–ཀྱིས།>ཀྱང་བསྙད་དེ།
+# ལྷའི་ནི་སྲས་མོ་བལྟམ<«ཞོལ་»བལྟམས།>།
+# རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱི་ནི་བུ་ཕོ་བཙས་སོ་ཞེས་ བྱས་སོ། །
+msgctxt "line 7, 08.txt"
+msgid ""
+"Ensuite, plus tard, alors qu’ils étaient installés de cette manière, une "
+"fille au corps harmonieux (lit. noble), qui était belle et agréable au "
+"regard naquit [dans la famille] du roi Prasenajit. Un fils au corps "
+"harmonieux (lit. noble), qui était beau et agréable au regard naquit [dans "
+"la famille] de Brahmadatta le roi de Kāśi. Alors, ils firent tous les deux "
+"jouer la musique des célébrations autour de leur camps (lit. palais) "
+"respectifs. Ensuite, ils entendirent chacun [la musique] de l’autre et "
+"« Pourquoi joue-t-on la musique des célébrations ? » demandèrent-ils. Puis, "
+"les ministres expliquèrent (lit. racontèrent) : « Une fille est née au roi "
+"Prasenajit. Quant à [vous,] Deva, c’est un fils. » dirent-ils. Les ministres"
+" du roi Prasenajit l’expliquèrent (lit. racontèrent) aussi : « Une fille est"
+" née chez [vous,] Deva. C’est un fils pour le roi Brahmadatta. » dirent-ils."
+msgstr ""
+
+# དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་དེ་གཉིས་དགའ་བར་གྱུར་ཏེ།
+# བདག་ཅག་གཉིས་ཕན་ཚུན་དགྲར་<«གཡུང་»«པེ་»དགྲ།>མི་བྱེད་པར་གཉེན་བྱེད་པའི་ཐབས་རྙེད་དོ་སྙམ་མོ།
+# །
+# དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱིས་རྒྱལ་པོ་གསལ་རྒྱལ་ལ་ཕོ་ཉ་བཏང་སྟེ།
+# ཁྱོད་ཀྱི་བུ་མོ་བཙས་པ་དེ་བདག་གི་<«ལི་»«སྣར་»«ཅོ་»གིས།>བུ་འདིའི་ཆུང་མར་<«གཡུང་»མ།>བྱིན་ཅིག་ཅེས་
+# སྤྲིང་ངོ་། ། དེ་ནས་རྒྱལ་པོ་གསལ་རྒྱལ་གྱིས་བསམས་པ་
+# ཐབས་འདིས་ནི་བདག་ཇི་སྲིད་འཚོའི་བར་དུ།
+# རྒྱལ་པོ་ཚངས་པས་བྱིན་དང་མཛའ་བར་འགྱུར་རོ་སྙམ་ནས་ དེས་ཀྱང་དེ་ལ་ཕོ་ཉ་བཏང་སྟེ་
+# ཇི་ལྟར་དགའ་བ་དེ་བཞིན་དུ་བྱའོ་ཞེས་ བྱས་ནས།
+# དེ་གཉིས་གཅིག་ལ་གཅིག་བཟོད་པ་<«སྣར་»«ཞོལ་» པར།>གསོལ་ཏེ་ མཛའ་བོ་བྱས་ནས་
+# གཅིག་གིས་ཀྱང་བུ་མོ་ལ་གོས་དང་རྒྱན་མང་པོ་<«གཡུང་»«པེ་»པོས།>བསྐུར་རོ། །
+# གཅིག་གིས་ཀྱང་ཁྱེའུ་ལ་གོས་དང་རྒྱན་མང་པོ་<«གཡུང་»«པེ་»པོས།>བསྐུར་ཏེ།
+# དེ་གཉིས་ཕན་ཚུན་གཉེན་དུ་བྱས་ནས་ མགུལ་ནས་འཇུས་ཏེ་ ཡུལ་དེ་ནས་དོང་ངོ་། །
+msgctxt "line 8, 08.txt"
+msgid ""
+"Ensuite, au moment où chacun d’eux (lit. les deux) entendit [l’explication],"
+" ils devinrent joyeux et « Voilà (lit. j’ai trouvé) le moyen de ne plus être"
+" ennemis l’un de l’autre, mais d’être apparentés. » pensèrent-ils. Alors, au"
+" moment où il entendit ceci, le roi Brahmadatta envoya un messager au roi "
+"Prasenajit : « Donne-moi la fille qui est née chez toi comme femme pour mon "
+"fils. » fit-il dire. Alors, le roi Prasenajit pensa : « Grâce à ça (lit. ce "
+"moyen [fera que]), je deviendrai ami avec le roi Brahmadatta tant que je "
+"serai en vie. » À son tour, il envoya un messager : « Je ferai comme il vous"
+" plaira. » dit-il. Puis, ils (lit. les deux) se demandèrent pardon l’un à "
+"l’autre et ils devinrent (lit. faire) amis et l’un envoya beaucoup de "
+"vêtements et d’ornements pour la fille. L’autre aussi envoya beaucoup de "
+"vêtements et d’ornements au garçon. Puis, ils firent [en sorte] de "
+"s’apparenter et bras dessus bras dessous (lit. se tenant le cou), ils "
+"partirent de cet endroit (lit. région)."
+msgstr ""
+
+# དེ་ནས་རྒྱལ་པོ་གསལ་རྒྱལ་གྱིས་བསམས་པ་
+# བུ་མོ་འདི་བཙས་<«གཡུང་»ཙས།>པས་ང་<«ཅོ་»–ང་།>རྒྱལ་པོ་ཚངས་པས་བྱིན་དང་བདེ་བར་གྱུར་ཏོ་སྙམ་ནས།
+# དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ཏེ། མིང་བདེ་བྱེད་<«གཡུང་»–བྱེད།>མ་ཞེས་བཏགས་སོ། །
+msgctxt "line 9, 08.txt"
+msgid ""
+"Ensuite, le roi Prasenajit pensa : « Puisque cette fille est née, je "
+"m’entends bien (lit. je suis bien) avec le roi Brahmadatta. » pensa-t-il. "
+"Puis, la fête de sa naissance fut faite [de manière] grandiose (lit. "
+"vastement) et elle fut nommée Kṣemā."
+msgstr ""
+
+# དེ་ནས་བུ་མོ་བདེ་བྱེད་མ་འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་<«གཡུང་»–ཉིང་།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»སྙིང་གུས། «ཞོལ་»སྙིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
+# མཚོའི་ནང་གི་པད་མ་<«ཅོ་»+པད་མ།>བཞིན་དུ་སྐྱེ་དྲག་པར་གྱུར་ཏོ། །
+# དེ་ནས་གང་གི་ཚེ་ཆེན་མོར་གྱུར་པ་དེའི་ཚེ།
+# བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་དད་པ་རྙེད་དེ།
+# དེས་སྐྱབས་སུ་འགྲོ་བ་དང་བསླབ་པའི་གཞི་རྣམས་བླངས་ནས། སྦྱིན་པ་དག་བྱིན་ཏེ་
+# བསོད་ནམས་<«ལི་»དེ་བསོད་ནམས། «ཅོ་»དེ་བསོད་སྙོམས།>དག་བྱས་སོ། །
+# དགེ་སློང་མའི་གཙུག་ལག་ཁང་དུ་ཡང་རྒྱུན་མི་འཆད་པར་འགྲོ་ཞིང་ ཆོས་ཉན་ཏོ། །
+# དེ་ནས་ཕྱི་ཞིག་ན་དེས་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ཏེ།
+# རྫུ་འཕྲུལ་ཡང་བསྒྲུབས་ནས།
+# རྫུ་འཕྲུལ་ཆེན་མོ་<«གཡུང་»«པེ་»པོ།>མཐུ་ཆེན་མོ་རྣམ་པར་ཐར་པ་བརྒྱད་ལ་བསམ་གཏན་པར་གྱུར་ཏོ།
+# །
+msgctxt "line 10, 08.txt"
+msgid ""
+"Ensuite, la fille Kṣemā se développa au fil du temps grâce à du lait, du "
+"yaourt, du beurre, du beurre purifié (lit. fondu) et du beurre sur-purifié "
+"(lit. l’essence du beurre). Ainsi, comme un lotus dans un lac, elle grandit "
+"avec force. Ensuite, lorsqu’elle eut grandi, elle conçut de la dévotion pour"
+" l’enseignement du Bienheureux et elle prit refuge et [prit] les vœux (lit. "
+"bases de l’entraînement). Puis, elle pratiqua la générosité et accumula des "
+"mérites. elle allait sans cesse au vihāra des nonnes et écoutait le Dharma. "
+"Ensuite, plus tard, elle manifesta le résultat de ceux qui ne reviennent "
+"plus et obtint aussi les pouvoirs surnaturels et en tant que [détentrice] de"
+" grands pouvoirs surnaturels et [détentrice] des grands pouvoirs, elle "
+"contempla les huit libérations complètes."
+msgstr ""
+
+# དེ་ནས་ཕྱི་ཞིག་ན་དེས་ཕ་མ་གཉིས་ཀྱི་མདུན་<«གཡུང་»བདུན།>དུ་རྫུ་འཕྲུལ་གྱི་ཆོ་འཕྲུལ་བསྟན་ཏེ་
+# སྨྲས་པ། ཡབ་ཡུམ་
+# བདག་གིས་ནི་ཆོས་འདི་ལྟ་བུ་ཐོབ་པས་ན་འདོད་པ་ཡོངས་སུ་སྤྱོད་པའི་རྔོ་མི་ཐོགས་ཀྱིས<«གཡུང་»ངོ་མི་ཐོག་གིས།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»རྔོ་མི་ཐོག་གིས། «ཞོལ་»རྔོ་མི་ཐོགས་ཀྱི།>།
+# བདག་གིས་བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་འབྱུང་བ་<«གཡུང་»«པེ་»བར།>གནང་བར་མཛད་དུ་གསོལ།
+# ཕ་མ་གཉིས་ཀྱིས་སྨྲས་པ། བུ་མོ་<«ལི་»«སྣར་»–མོ།>
+# ཁྱོད་བཙས་མ་ཐག་ཏུ་བདག་ཅག་གིས་ཁྱིམ་ཐབ་ལ་བྱིན་ཟིན་གྱིས་<«ཞོལ་»གྱི།>
+# བདག་ཅག་གིས་གནང་བར་བྱར་མི་རུང་ངོ་། ། དེ་ལྟ་མོད་ཀྱི་<«སྣར་»ཀྱིས།>
+# བདག་ཅག་གིས་དེ་ལ་བཟླུགས་<«གཡུང་»«པེ་»ཟློགས།>ཏེ།
+# དེ་དང་བདག་ཅག་ཅི་ནས་ཕྱིས་འཁོན་<«གཡུང་»«པེ་»ཁོན།>དུ་མི་འགྱུར་བར་བྱས་ལ།
+# བག་མ་ལེན་པ་འོངས་ནས་ ཁྱོད་ཉིད་ཀྱིས་ཁྱིམ་ཐབ་ལ་གསོལ་བ་ཐོབ་ལ་<«གཡུང་»«པེ་»–ལ།>
+# རབ་ཏུ་འབྱུང་བར་གྱིས་ཤིག་ཅེས་ བྱས་སོ། །
+msgctxt "line 11, 08.txt"
+msgid ""
+"Ensuite, plus tard, devant ses deux parents, elle fit montre des miracles de"
+" ses pouvoirs surnaturels et dit : « Père, mère, Moi, puisque j’ai obtenu "
+"des capacités (lit. choses) comme celles-ci, je ne parviendrai pas à avoir "
+"de relation sexuelle (lit. jouir pleinement des plaisirs). Donc, veuillez me"
+" donner la permission de me retirer [du monde] selon l’enseignement du "
+"Bienheureux. » Les deux parents dirent : « Fille, dès ta naissance, nous "
+"t’avons donnée comme épouse. Donc, il n’est pas convenable [pour nous] de te"
+" donner la permission. Ceci étant, [quand] nous les aurons informés et "
+"[quand] nous aurons fait en sorte qu’il n’y ait aucune rancœur par la suite "
+"et [lorsqu’] il sera venu pour te chercher comme future épouse, fais-en toi-"
+"même la demande toi-même à ton époux, puis retire-toi [du monde]. » dirent-"
+"ils."
+msgstr ""
+
+# དེ་ནས་རྒྱལ་པོ་གསལ་རྒྱལ་གྱིས་རྒྱལ་པོ་ཚངས་པས་བྱིན་ལ་ཕོ་ཉ་བཏང་སྟེ།
+# བུ་མོ་བདེ་བྱེད་མ་ནི་རབ་ཏུ་འབྱུང་བར་འདོད་དེ་ བཟློག་པར་མི་ནུས་ཀྱི་
+# མ་ཐོགས་པར་བག་མ་ལོང་<«ཞོལ་»ལོངས།>ཤིག་ཅེས་ སྤྲིང་ངོ་། །
+# རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱིས་ཀྱང་ཕོ་ཉ་བཏང་སྟེ།
+# ཚེས་གྲངས་འདི་ལ་འོང་གིས་<«ཞོལ་»གི།>
+# བག་མ་བཏང་བའི་སྟ་<«གཡུང་»ལྟ།>གོན་གྱིས་ཤིག་ཅེས་ སྤྲིང་ངོ་། །
+msgctxt "line 12, 08.txt"
+msgid ""
+"Ensuite, le roi Prasenajit envoya un messager au roi Brahmadatta : « La "
+"fille Kṣemā veut se retirer du monde et nous ne parvenons pas à la dissuader"
+" (lit. détourner). Donc, prenez-la comme future mariée sans tarder. » "
+"firent-ils dire. Le roi Brahmadatta envoya à son tour un messager : « Nous "
+"viendrons à telle date. Donc, faites les préparatifs pour la donner en "
+"mariage. » firent-ils dire."
+msgstr ""
+
+# དེ་ནས་རྒྱལ་པོ་གསལ་རྒྱལ་གྱིས་ཐོས་མ་ཐག་<«གཡུང་»ཐོག>ཏུ་བག་མ་བཏང་བའི་སྟ་<«གཡུང་»བཏང་བའི་ལྟ།
+# «ཞོལ་»གཏང་བའི་སྟ།>གོན་བྱས་སོ། །
+# རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱིས་ཀྱང་བུ་འབྱོར་པ་ཆེན་པོ་དང་རྒྱལ་པོའི་མཐུ་ཆེན་པོ་དང་ལྡན་པས་བཏང་ངོ་།
+# ། དེ་ནས་རྒྱལ་པོ་གསལ་རྒྱལ་གྱིས་དེ་བཀུར་སྟི་ཆེན་པོས་མཉན་དུ་ཡོད་པར་གཡར་དྲངས་སོ།
+# ། གཡར་དྲངས་ནས་ རང་གི་ཕོ་བྲང་དུ་སྟེགས་བུ་བྱས་ཏེ། རྒྱན་གྱིས་བརྒྱན་ནས་
+# དེར་སྐྱེ་བོ་ཕལ་ཆེར་<«གཡུང་»«པེ་»«ཅོ་»པོ་ཆེ། «ལི་»«སྣར་»«ཞོལ་»ཆེ།>འདུས་སོ། །
+# བུ་མོ་དེ་ཡང་རྒྱན་<«གཡུང་»«པེ་»དེ་རྒྱན། «ལི་»«སྣར་»«ཅོ་»བརྒྱན།
+# «ཞོལ་»རྒྱན།>ཐམས་ཅད་ཀྱིས་བཀླུབས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀླུབས།>ནས་
+# སྟེགས་བུ་བརྒྱན་པ་དེའི་སྟེང་དུ་དྲངས་ཏེ་ བཞག་གོ། །
+msgctxt "line 13, 08.txt"
+msgid ""
+"Ensuite, dès qu’il eut entendu ceci, le roi Prasenajit fit les préparatifs "
+"pour la donner en mariage. Le roi Brahmadatta, de son côté, envoya son fils "
+"avec de grandes richesses et une grande [démonstration de] la puissance "
+"royale. Ensuite, le roi Prasenajit les mena dans Śrāvastī avec un grand "
+"respect. Les y ayant menés, il fit construire une estrade dans son palais, "
+"la fit ornementer et une multitude de personnes se rassemblèrent. La fille, "
+"quant à elle, fut parée de tous les ornements et fut menée sur l’estrade "
+"ornementée et fut laissée là."
+msgstr ""
+
+# ཁྱེའུ་དེ་ཡང་སྟེགས་བུ་བརྒྱན་པ་དེའི་སྟེང་དུ་བཏང་<«ལི་»«ཅོ་»དྲངས།>སྟེ་
+# བུ་མོ་བདེ་བྱེད་མ་དྲང་བར་བྱས་<«གཡུང་»«པེ་»དྲངས།>པ་ལས།
+# དེའི་<«གཡུང་»«པེ་»«ཞོལ་»དེ།>སྟེང་གི་བར་སྣང་ལ་འཕགས་ཏེ་ འབར་བ་དང་།
+# ལམ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ལ།
+# «སྣར་»«ཞོལ་»ལྷ།>[34a]མེར་འདུག་པ་དང་ཆར་འབབ་པ་དང་གློག་འགྱུ་<«ཅོ་»འགྱུར།>བའི་ཆོ་འཕྲུལ་རྣམས་བསྟན་ཏོ།
+# །
+# དེ་ནས་ཁྱེའུ་དེ་དང་སྐྱེ་བོ་དེ་དག་གིས་མཐོང་མ་ཐག་ཏུ་བདེ་བྱེད་མ་ལ་དགའ་བ་ཆེན་པོ་སྐྱེས་<«གཡུང་»བསྐྱེས།>སོ།
+# ། དེ་ནས་ཁྱེའུ་དེས་བསམས་པ།
+# གལ་ཏེ་འདི་ལྟ་བུའི་ཡོན་ཏན་དག་ཐོབ་པ་<«ལི་»«ཅོ་»མཐོང་བ།>ཡིན་ན།
+# འདི་བདག་དང་ལྷན་ཅིག་ཏུ་འདོད་པ་ཡོངས་སུ་སྤྱོད་པར་ག་ལ་འགྱུར་སྙམ་དུ་
+# བསམས་ནས་སྨྲས་པ། བཟང་མོ་ མར་སྤྱོན་དང་ ཁྱོད་ཉིད་ཅི་དགར་<«གཡུང་»«པེ་»ལྟ་བར།
+# «ལི་»«སྣར་»«ཅོ་»ལྟར།>འདམ་དུ་གཞུག་གོ། ། བདེ་བྱེད་མས་སྨྲས་པ། ཇོ་བོ་
+# བདག་ནི་འདོད་པ་ཡོངས་སུ་སྤྱོད་པའི་རྔོ་མི་ཐོགས་ཀྱིས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཐོག་གིས།
+# «ཞོལ་»ཐོགས་ཀྱི།>
+# བདག་བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་འབྱུང་བར་གནང་བར་མཛོད་ཅིག །
+# ཁྱེའུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཁྱེའུ།>སྨྲས་པ། གནང་ངོ་། །
+msgctxt "line 14, 08.txt"
+msgid ""
+"Le garçon, quant à lui, fut envoyé sur l’estrade ornementée et quand il "
+"voulut (lit. fit) prendre (lit. conduire) la fille Kṣemā, [elle] s’éleva "
+"dans les airs et elle montra les miracles de s’élever (lit. brûler) et de "
+"demeurer immobile, puis [ceux] de la pluie qui tombe et des éclairs qui "
+"filent. Ensuite, dès que ce garçon et les autres personnes eurent vu ceci, "
+"ils furent émerveillés (lit. emplis de joie) par Kṣemā. Ensuite, le garçon "
+"pensa : « Si elle a obtenu toutes les qualités (lit. choses) comme celles-"
+"ci, comment pourrait-elle avoir des relations sexuelles (lit. jouir "
+"pleinement des plaisirs) avec moi ? » pensa-t-il, puis il dit : « Noble "
+"[dame], redescendez donc. Je vous laisserai choisir ce qui vous plaira. » "
+"Kṣemā dit : « Seigneur, je ne parviendrai pas à avoir de relation sexuelle "
+"(lit. jouir pleinement des plaisirs). Donc, Permettez-moi de me retirer [du "
+"monde] selon l’enseignement du Bienheureux. » Le garçon dit : « Je te la "
+"donne. »"
+msgstr ""
+
+# དེ་ནས་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེས།>ཐོས་མ་ཐག་ཏུ་བུ་མོ་བདེ་བྱེད་མ་བབས་ཏེ།
+# དེས་སྐྱེ་བོའི་ཚོགས་དེ་དག་ལ་ཆོས་བསྟན་ནས་ ཕ་མ་གཉིས་ལ་གསོལ་ཏེ།
+# རྒྱལ་བུ་<«ཁུ་»»པོ།>རྒྱལ་བྱེད་ཀྱི་ཚལ་དུ་སོང་ནས།
+# དེ་<«གཡུང་»»«ལི་»»«པེ་»»«སྣར་»»«ཅོ་»»«ཞོལ་»»–དེ།>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།
+# བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ།
+# བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཙུན་པ་
+# བདག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་<«གཡུང་»»«པེ་»»–ལ།>རབ་ཏུ་འབྱུང་བ་དང་།
+# བསྙེན་<«གཡུང་»སྙེན།
+# «པེ་»བསྙན།>པར་རྫོགས་ཤིང་དགེ་སློང་མའི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན།
+# བདག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །
+msgctxt "line 15, 08.txt"
+msgid ""
+"Ensuite, dès qu’elle eut entendu ceci, la fille Kṣemā se posa et elle exposa"
+" le Dharma à toutes les personnes assemblées, puis, elle demanda [la "
+"permission] à ses deux parents et elle alla dans le parc du prince Jeta et "
+"elle se dirigea et alla à l’endroit où se trouvait le Bienheureux et elle se"
+" prosterna devant le Bienheureux en touchant ses pieds de sa tête et elle "
+"dit ceci au Bienheureux : « Vénérable, s’il m’est possible de m’extraire du "
+"monde selon le Dharma du Vinaya si bien enseigné, et [s’il m’est possible] "
+"de parfaire l’approche [de la libération], d’obtenir la condition de nonne "
+"pleinement ordonnée, moi aussi, j’aimerais vivre une vie chaste (lit. suivre"
+" le brahmacarya) auprès du Bienheureux. »"
+msgstr ""
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་གཽ་ཏ་མཱི་ལ་གཏད་<«གཡུང་»མི་ལ་ཏད།
+# «པེ་»མི་ལ་གཏད།>དོ། །
+# སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་གཽ་ཏ་མཱིས་<«གཡུང་»«པེ་»མཱས།>ཀྱང་དེ་རབ་ཏུ་ཕྱུང་སྟེ་
+# བསྙེན་པར་རྫོགས་པར་བྱས་ནས་ དེ་ལ་ལུང་ཡང་ཕོག་གོ། །
+# དེས་ཀྱང་བརྩོན་<«གཡུང་»བཅོན།>པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ<«གཡུང་»«པེ་»སྟེ།>།
+msgctxt "line 16, 08.txt"
+msgid ""
+"Alors, le Bienheureux la remit à Mahā­prajāpatī Gautamī. Mahā­prajāpatī "
+"Gautamī lui fit se retirer du monde, puis lui donna l’ordination complète et"
+" lui [accorda] la transmission orale. De son côté, elle s’efforça, "
+"s’appliqua et s’évertua à éliminer toutes les émotions perturbatrices et "
+"elle manifesta l’état d’arhat (lit. l’arhat-même). Alors,"
+msgstr ""
+
+# དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་<«ལི་»«སྣར་»«ཅོ་»མའི།>འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།
+# གསེར་དང་བོང་བར་མཉམ་པ། ནམ་མཁའ་དང་ལག་མཐིལ་<«གཡུང་»ཐིལ
+# «ལི་»«ཅོ་»འཐིལ།>དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ།
+# ཙན་དན་སྦངས་པ་ལྟ་བུར་བསིལ་བར་གྱུར་པ<«གཡུང་»«པེ་»འགྱུར་བ།>།
+# རིག་པས་སྒོ་ངའི་སྦུབས་བཅོམ་པ།
+# རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ།
+# སྲིད་པའི་རྙེད་པ་དང་ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ།
+# དབང་[34b]པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«པེ་»«སྣར་»བརྗེད།>པ་དང་གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏེ།
+# བཅོམ་ལྡན་འདས་ཀྱིས་ཤེས་རབ་དང་ལྡན་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་ཏོ།
+# །<«གཡུང་»བཅོམ་ལྡན་....བསྟན་སྟོ། «ལི་»«ཅོ་»–བཅོམ་ལྡན་....བསྟན་ཏོ།>
+msgctxt "line 17, 08.txt"
+msgid ""
+"elle devint une arhat libre de l’attachement aux trois mondes. Ainsi, [un "
+"morceau] d’or et une motte de terre étaient identiques [à ses yeux] ; elle "
+"[vint à] posséder un esprit [pour lequel] l’espace et la paume de la main "
+"sont similaires ; elle [possédait] la fraîcheur du [bois de] santal trempé ;"
+" sa sagesse avait brisé la coquille de l’œuf ; elle avait obtenu la "
+"connaissance, les clairvoyances et les parfaites discriminations ; elle "
+"avait tourné le dos aux biens du samsara, aux désirs et aux éloges ; elle "
+"était désormais digne (lit. un objet de) des offrandes, de la vénération et "
+"de la révérence (lit. paroles respectueuses) d’Indra, d’Upendra et des "
+"autres dieux. Le Bienheureux proclama (lit. la montra) qu’elle était suprême"
+" parmi ceux doté de sagesse."
+msgstr ""
+
+# བདེ་བྱེད་མ་དེ་ལྟར་རབ་ཏུ་བྱུང་ནས་ རྒྱལ་པོའི་བུ་དེས་བསམས་པ།
+# བུད་མེད་ཀྱིས་ཀྱང་འདི་ལྟ་བུའི་ཆོས་རྟོགས་པར་འགྱུར་ན། མ་ལ་
+# བདག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་འབྱུང་གོར་མ་ཆག་སྙམ་དུ་ བསམས་ནས་
+# དེས་ཀྱང་ཕ་མ་ལ་གསོལ་ཏེ། བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
+# དེས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། །
+msgctxt "line 18, 08.txt"
+msgid ""
+"Kṣemā s’étant ainsi retirée du monde, le prince pensa : « Si même une fille "
+"obtient de telles qualités (lit. choses), décidément, moi aussi, il n’y a "
+"aucun doute qu’il faille que je me retire selon l’enseignement du "
+"Bienheureux. » pensa-t-il. Puis, lui aussi demanda la permission à ses "
+"parents et se retira du monde selon l’enseignement du Bienheureux et lui "
+"aussi s’efforça, s’appliqua et s’évertua à éliminer toutes les émotions "
+"perturbatrices et manifesta l’état d’arhat (lit. l’arhat même)."
+msgstr ""
+
+# དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ་ བཙུན་པ།
+# བུ་མོ་བདེ་བྱེད་མ་དང་རྒྱལ་པོའི་བུ་དེས་ལས་ཅི་བགྱིས་ན་ལས་དེའི་རྣམ་པར་སྨིན་པས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ལ།
+# འདི་གཉིས་ཀྱིས་བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ། མི་མཉེས་པར་མ་བགྱིས་ནས།
+# བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་སྟེ། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
+# སྨོན་ལམ་གྱི་དབང་ལས་གྱུར་ཏོ། ། བཙུན་པ་ འདི་གཉིས་ཀྱིས་སྨོན་ལམ་གང་དུ་བཏབ་ལགས།
+msgctxt "line 19, 08.txt"
+msgid ""
+"Puis les moines s’adressèrent au Bienheureux : « Vénérable, quelles actions "
+"la fille Kṣemā et le prince ont-ils réalisées pour que le résultat de ces "
+"actions les fasse naître dans une lignée familiale qui est riche, possède de"
+" grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens, "
+"[pour] qu’ils contentent tous les deux le Bienheureux et [qu’]ils ne fassent"
+" rien qui le mécontente, puis [qu’]ils se retirent du monde d’après "
+"l’enseignement du Bienheureux et [qu’]ils éliminent toutes les émotions "
+"perturbatrices et [qu’]ils manifestent l’état d’arhat (lit. l’arhat "
+"même) ? » Le Bienheureux dit : « Ceci est arrivé par le pouvoir de leurs "
+"souhaits. » « Vénérable, quels souhaits ont-ils formulés ? »"
+msgstr ""
+
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
+# བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་<«གཡུང་»ཁྱེན།>པ་སྐྱེས་<«གཡུང་»«པེ་»བསྐྱེས།>བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ་བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།
+# དེའི་ཚེ་གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱི་ན།
+# ཁྱིམ་བདག་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ་ཞིག་གནས་པ་དེས།
+# ཐབས་ཟླར་བབ་པ་ལས་ཆུང་མ་བླངས་ནས་
+# དེ་དེ་དང་ལྷན་ཅིག་ཏུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཏུ།>རྩེ་ཞིང་དགའ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དགའལ།>དགའ་མགུར་སྤྱོད་དོ།
+# །
+msgctxt "line 20, 08.txt"
+msgid ""
+"Le Bienheureux dit : « Moines, à un moment du passé qui s’est déroulé "
+"auparavant, pendant ce même éon fortuné, quand la durée de vie des personnes"
+" pouvaient [atteindre] vingt-mille ans, le complet et parfait bouddha, celui"
+" doté de la vision et des jambes, le sugata, le connaisseur du monde, "
+"l’insurpassable cocher des êtres à guider, l’enseignant des dieux et des "
+"hommes, le Bienheureux Bouddha Kāśyapa était apparu en ce monde et à cette "
+"époque, dans la ville de Vārāṇasī, un homme vivait dans l’opulence, "
+"possédait beaucoup de richesses et de grands biens. Puis, arrivé à (lit. "
+"tombé) l’âge de se marier (lit. d’une épouse), il prit une épouse et Avec "
+"elle, ils se séduisirent (lit. jouèrent), ils [apprirent] à s’aimer et "
+"laissèrent libre cours (lit. faire) à leurs envies."
+msgstr ""
+
+# དེ་ནས་ཕྱི་ཞིག་ན་དེ་གཉིས་ཀྱིས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་དད་པ་རྙེད་ནས།
+# དེ་གཉིས་གཅིག་ལ་གཅིག་སྨྲས་པ། བཟང་མོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པོ།>
+# བདག་ཅག་གཉིས་ལ་བུ་ཡང་མེད་བུ་མོ་ཡང་མེད་པས་འདས་<«གཡུང་»འདིས།>ཏེ་ཤི་བའི་འོག་ཏུ་ཅི་བདོག་པ་འདི་དག་རྒྱལ་པོ་དབང་བར་འགྱུར་གྱིས<«ཞོལ་»གྱི།>།
+# བདག་ཅག་གཉིས་གསོན་གྱི་བར་དུ་ཇི་<«གཡུང་»«པེ་»རྗེ།>འདི་དག་འཇིག་རྟེན་ཕ་རོལ་ཏུ་བསྐྱའོ་<«སྣར་»«ཞོལ་»བསྐྱལ་ལོ།>ཞེས་
+# ཟེར་ནས།
+# དེ་བཟའ་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»གཟའ།>བྲན་གཉིས་ཀྱིས་རྣམ་པ་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་པའི་གཙུག་ལག་ཁང་བརྩིགས་ནས།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་རྣམས་ལ་ཕུལ་ཏེ་
+# ཡོ་བྱད་ཐམས་ཅད་སྦྱར་ནས་ དགེ་སློང་རྣམས་ལ་བསྙེན་<«གཡུང་»བརྙེན།>བཀུར་བྱས་སོ། །
+msgctxt "line 21, 08.txt"
+msgid ""
+"Ensuite, plus tard, ils conçurent tous les deux de la dévotion pour "
+"l’enseignement du complet et parfait Bouddha Kāśyapa, et ils se dirent l’un "
+"à l’autre : « Noble [dame], puisque nous n’avons ni de fils, ni de fille, "
+"après que nous serons passé dans l’au-delà et que nous serons morts, tout ce"
+" que nous possédons, le roi en prendra possession. Donc, tant que (lit. dans"
+" l’intervalle où) nous sommes tous les deux en vie, transportons tout ceci "
+"dans l’au-delà de ce monde. » dirent-ils. Puis, Ce [couple], mari et femme, "
+"construisit un vihāra [possédant] au complet tous les [éléments "
+"constitutifs] et l’offrirent au complet et parfait Bouddha Kāśyapa et aux "
+"autres (lit. etc.) [membres] de la saṅgha des moines et ils l’équipèrent "
+"entièrement et ils servirent les moines."
+msgstr ""
+
+# དེ་ནས་ཕྱི་ཞིག་ན་དེ་གཉིས་ཀྱི་བློ་སྐྱེས་པ། བདག་ཅག་གཉིས་ཁྱིམ་ན་གནས་པ་བཏང་ལ་
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་གསུང་རབ་ལ་རབ་ཏུ་འབྱུང་ངོ་ཞེས་
+# ཟེར་ནས་ ཁྱིམ་གྱི་འཁོར་བཏང་སྟེ། སྦྱིན་པ་དག་<«གཡུང་»བདག>བྱིན་ཞིང་
+# བསོད་ནམས་<«ཅོ་»སྙོམས།>དག་བྱས་ནས་
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་སྟེ།
+# བསྙེན་པར་རྫོགས་ནས་
+msgctxt "line 22, 08.txt"
+msgid ""
+"Ensuite, plus tard, ils eurent la pensée [suivante] : « Délaissons tous deux"
+" la vie de famille et retirons-nous du monde selon l’enseignement du complet"
+" et parfait Bouddha Kāśyapa. » dirent-ils. Puis, ils renvoyèrent le "
+"personnel de maison et pratiquèrent la générosité, accumulèrent les mérites "
+"et se retirèrent du monde selon l’enseignement du complet et parfait Bouddha"
+" Kāśyapa et prirent l’ordination complète et"
+msgstr ""
+
+# དེ་གཉིས་ཚེ་གཅིག་<«གཡུང་»ཅིག>ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ཀྱང་ཡོན་ཏན་གྱི་ཚོགས་ཅི་ཡང་མ་ཐོབ་པས།
+# དེ་གཉིས་ཀྱིས་འཆི་ཀར་<«ཅོ་»ཀྱི། «ཞོལ་»གར།>སྨོན་ལམ་བཏབ་པ། ཀྱེ་མ་
+# བདག་ཅག་གཉིས་ཀྱིས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་སྦྱིན་པ་དག་བྱིན་ཞིང་
+# བསོད་ནམས་དག་བྱས་ཏེ་ ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ཀྱང་
+# ཡོན་ཏན་གྱི་ཚོགས་ཅི་ཡང་མ་ཐོབ་ཀྱིས<«ཞོལ་»ཀྱི།>།
+# དགེ་བའི་རྩ་བ་འདིས་བདག་ཅག་གཉིས་ཅི་ནས་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་ཤོག་ཅིག
+# ། གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པར་ཤོག་ཅིག །
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་ཅག་གཉིས་ཀྱིས་མཉེས་པར་བྱེད་པར་<«གཡུང་»«པེ་»–བྱེད་པར།>གྱུར་ཅིག
+# ། མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག ། དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་
+# བྱས་སོ། །
+msgctxt "line 23, 08.txt"
+msgid ""
+"bien qu’ils vécurent chastement toute leur vie, puisqu’ils n’obtinrent "
+"aucune [qualité] de l’ensemble de toutes les qualités, ils formulèrent tous "
+"les deux ce souhait au moment de mourir : « Quelle merveille ! Nous avons "
+"tous les deux pratiqué la générosité (lit. les dons) pour l’enseignement du "
+"complet et parfait Bouddha Kāśyapa, et nous avons accumulé les mérites et "
+"nous avons vécu chastement toute notre vie. Malgré ceci, nous n’avons obtenu"
+" aucune [qualité] de l’ensemble des qualités. Aussi, grâce à ces racines "
+"vertueuses, puissions-nous toujours naître dans une lignée familiale qui est"
+" riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. "
+"grands) biens. Puissions-nous avoir des corps harmonieux (lit. nobles), "
+"agréables au regard et beaux. Puissions-nous tous les deux contenter par mes"
+" actes le Bienheureux Bouddha que [deviendra] le jeune brahmane Uttara "
+"[d’après] la prophétie du complet et parfait Bouddha Kāśyapa. Puissions-nous"
+" ne rien faire qui le mécontente. Nous étant retirés du monde d’après son "
+"(lit. à lui-même) enseignement et après avoir éliminé toutes les émotions "
+"perturbatrices, puissions-nous manifester l’état d’arhat (lit. l’arhat-"
+"même). » dirent-ils."
+msgstr ""
+
+# དགེ་སློང་དག་<«ལི་»«ཅོ་»–དག> ཇི་སྙམ་དུ་སེམས།
+# དེའི་ཚེ་བཟའ་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»གཟའ།>བྲན་དུ་གྱུར་[35b]པ་གང་ཡིན་པ་དེ་གཉིས་ནི་བདེ་བྱེད་མ་འདི་ཉིད་དང་རྒྱལ་པོའི་བུ་འདི་ཉིད་ཡིན་ཏེ།
+# དེ་གཉིས་ཀྱིས་དེར་སྦྱིན་པ་དག་བྱིན་ཞིང་ བསོད་ནམས་<«གཡུང་»རྣམས།>དག་བྱས་ནས་
+# ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དེ།
+# འཆི་ཀར་<«ཞོལ་»གར།>སྨོན་ལམ་བཏབ་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ལ་
+# གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པར་གྱུར་ཏེ།<«གཡུང་»+དེ།>
+msgctxt "line 24, 08.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, ces deux [personnes] qui étaient"
+" ces deux époux (lit. le mari et la femme) sont Kṣemā et le prince eux-"
+"mêmes. De plus, qu’ils aient tous les deux pratiqué la générosité, qu’ils "
+"aient accumulé les mérites et vécu chastement toute leur vie, puis [qu’]ils "
+"aient formulé ce souhait au moment de mourir, le résultat de l’action "
+"d’avoir fait [ces souhaits] les fit naître dans une lignée familiale qui est"
+" riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. "
+"grands) biens à chacune de leurs naissances (lit. partout où ils naissaient,"
+" à chacun de ces endroits). Ainsi, [leurs] corps devinrent harmonieux (lit. "
+"noble), agréables au regard et beaux. De plus,"
+msgstr ""
+
+# དགེ་སློང་དག་
+# ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་པར་གྱུར་ནས།
+# འདི་གཉིས་ཀྱིས་ང་མཉེས་པར་བྱས་ཏེ་ མི་མཉེས་པར་མ་བྱས་ལ།
+# ང་ཉིད་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ།། །།
+msgctxt "line 25, 08.txt"
+msgid ""
+"moines, je suis devenu en tout point (lit. très) l’égal du complet et "
+"parfait Bouddha Kāśyapa, j’ai obtenu une force égale [à la sienne], des "
+"moyens [habiles] égaux [aux siens] et des actes égaux [aux siens], ils m’ont"
+" contenté et n’ont rien fait qui me mécontente, puis ils se sont retirés du "
+"monde selon mon (lit. à moi-même) enseignement et ils ont éliminé toutes les"
+" émotions perturbatrices et ils ont manifesté l’état d’arhat. »"
+msgstr ""

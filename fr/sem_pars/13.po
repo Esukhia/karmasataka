@@ -1,0 +1,782 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# ﻿ཚེམ་བུ་མཁན་ཞེས་བྱ་བ་ནི།
+msgctxt "line 1, 13.txt"
+msgid "[L’histoire] nommée « Le Tailleur »"
+msgstr ""
+
+# གླེང་གཞི་<«གཡུང་»གླེང་བཞི།
+# «ལི་»«སྣར་»«ཅོ་»གླིང་གཞི།>མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "line 2, 13.txt"
+msgid ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+msgstr ""
+
+# དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན་ཁྱིམ་བདག་ཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»གཅིག>གནས་པ་ལས་
+# ཕྱི་ཞིག་ན་དེའི་ཆུང་མ་ལ་བུ་ཆགས་ནས་ དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་
+# ཁྱེའུ་ཞིག་བཙས་ཏེ། ཁྱེའུ་དེ་ཡང་འཕྱེ་བོ་འགྲོ་<«སྣར་»
+# འབྲོ།>མི་ནུས་པ་ཞིག་ཏུ་གྱུར་ཏེ་ དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས།
+# ཁྱེའུ་འདིའི་མིང་<«གཡུང་»«པེ་»+ཅི་སྐད་གདགས་ཤེས་མིང་།>ཅི་<«ཞོལ་»ཇི།>སྐད་གདགས་ཞེས་<«གཡུང་»«མི་»«པེ་»«ཅོ་»ཤེས།>
+# མིང་འདོགས་པར་བྱེད་དེ།
+# ཁྱེའུ་འདི་<«གཡུང་»«པེ་»འདིའི།>འཕྱེ་བོ་ཡིན་པས་ན་<«གཡུང་»«པེ་»ནས།>ཁྱེའུ་འདིའི་མིང་འཕྱེ་བོར་གདགས་སོ།
+# །
+# དེ་ནས་ཁྱེའུ་འཕྱེ་བོ་འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་<«གཡུང་»–ཞུན་མར་དང་།>མར་གྱི་ཉིང་གུས་<«གཡུང་»«པེ་»སྙིང་ཀུས།
+# «ལི་»«སྣར་»«ཅོ་»སྙིང་གུས། «ཞོལ་»སྙིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
+msgctxt "line 3, 13.txt"
+msgid ""
+"à cette époque, un père de famille vivait à Śrāvastī. Puis, plus tard, son "
+"épouse tomba enceinte et après que soient passés neuf ou dix mois, un garçon"
+" naquit et ce garçon était (lit. était devenu) estropié, il n’arrivait pas à"
+" marcher (lit. aller) et la fête de sa naissance fut faite [de manière] "
+"grandiose (lit. vastement) et « Comment nommer ce garçon ? » un nom lui fut "
+"donné : « Puisque ce garçon est estropié, son nom sera “Paṅgu”, "
+"[l’estropié]. » Alors, le garçon Paṅgu se développa au fil du temps grâce à "
+"du lait, du yaourt, du beurre, du beurre purifié (lit. fondu) et du beurre "
+"sur-purifié (lit. l’essence du beurre) et"
+msgstr ""
+
+# དེ་གང་གི་ཚེ་<«གཡུང་»–ཚེ།>ཆེར་སྐྱེས་པ་དེའི་ཚེ་ཕས་བསམས་པ།
+# བདག་གིས་ཁྱེའུ་འདི་ཅི་ནས་འདུག་བཞིན་དུ་ལས་བྱེད་ཅིང་
+# བཟོ་དེས་འཚོ་བ་རྙེད་པར་འགྱུར་བའི་བཟོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»གཟོ།>ཇི་ལྟ་བུ་ཞིག་བསླབ་པར་བྱ་<«གཡུང་»«པེ་»བྱའོ།>སྙམ་མོ།
+# ། དེ་ནས་དེས་བསམས་པ་<«གཡུང་»«པེ་»པས།> མ་ལ་
+# བདག་གི་<«ཞོལ་»གིས།>འདི་ཚེམ་བུ་མཁན་གྱི་ལས་བསླབས་པ་དང་
+# དེས་འདིའི་འཚོ་བ་རྙེད་པར་འགྱུར་རོ་སྙམ་དུ་ བསམས་ནས།
+# དེས་<«གཡུང་»«པེ་»དེ།>ཁྱེའུ་དེ་<«གཡུང་»«པེ་»–དེ།>ཚེམ་བུ་མཁན་གྱི་ལས་སློབ་ཏུ་བཅུག་གོ།
+# ། དེ་ནས་དེ་ཡང་དེ་ལ་སློབ་དཔོན་གྱི་མཆོག་ཏུ་གྱུར་ཏོ། །
+msgctxt "line 4, 13.txt"
+msgid ""
+"quand il eut grandi, son père pensa : « Cet enfant à moi doit pouvoir "
+"toujours travailler assis. Quelle profession (lit. artisanat) qui lui "
+"permettrait d’obtenir [de quoi] vivre vais-je lui faire apprendre ? » Alors,"
+" il pensa : « décidément, quand mon [enfant] aura appris le métier (lit. "
+"travail) de tailleur, il en tirera (lit. obtenir) de quoi vivre. » pensa-t-"
+"il. Puis, il fit apprendre le métier de tailleur à ce garçon. Ensuite, il "
+"devint le meilleur (lit. suprême) [élève] de son maître pour ce [travail]."
+msgstr ""
+
+# དེ་ནས་དུས་སྟོན་ཞིག་བྱེད་པ་ན་ཁྱིམ་བདག་གཞན་ཞིག་གིས་ཆུང་མའི་ཕྱིར་གཞན་གྱི་ཁྱིམ་ནས་གོས་དང་རྒྱན་གཡར་<«ཅོ་»གཡོར།>པོར་བླངས་ནས།
+# ཁྱེར་ཏེ་ འོངས་ཏེ་ ཆུང་མ་དེས་ཀྱང་བགོས་ནས་ དུས་སྟོན་ལ་ཆས་ཏེ་ སོང་ངོ་། །
+# དེ་ནས་དེ་བག་མེད་པས་དེའི་ཞུ་གཅིག་གིས་དྲལ་ཏོ། །
+# དེ་ནས་དེ་ཁྱིམ་ཐབ་ཀྱིས་འཇིགས་ནས་ སུ་ལ་ཡང་མ་བསྟན་ཏེ་ དུས་སྟོན་ལས་ཕྱིར་ལོག་ནས་
+# ཁྱིམ་བདག་དེ་གྲོང་གཞན་ཞིག་ཏུ་སོང་ངོ་། ། དེ་སོང་ནས་
+# བུད་<«གཡུང་»བུ།>མེད་དེས་ཚེམ་བུ་མཁན་དེ་བདག་གིས་<«ཅོ་»«ཞོལ་»གི།>ཁྱིམ་དུ་བླངས་ཏེ།
+# སུས་ཀྱང་མི་མཐོང་བར་བྱ་བའི་ཕྱིར་སྒོ་བཅད་ནས་
+# ཞུ་<«གཡུང་»«པེ་»«སྣར་»«ཅོ་»+བ།>དེ་དྲུབ་ཏུ་བཅུག་པ་དང་།
+# ཚེམ་བུ་མཁན་གྱི་<«ཞོལ་»–གྱི།>ཁྱིམ་དུ་བླངས་པའི་རྗེས་ལ་ཁྱིམ་ཐབ་རང་གི་ཁྱིམ་དུ་འོངས་ནས་
+# སྒོ་རྡུང་ཞིང་ འབོད་དོ། །
+msgctxt "line 5, 13.txt"
+msgid ""
+"Ensuite, lorsqu’eut lieu un festival, un autre père de famille emprunta "
+"(lit. prit en emprunt) des habits et des bijoux pour sa femme dans la maison"
+" d’un autre et il les prit, revint et l’épouse les porta et ils se "
+"dirigèrent au festival et s’en allèrent [de chez eux]. Ensuite, elle ne fit "
+"pas attention et une partie du vêtement se déchira. Ensuite, elle eut peur "
+"de son mari et elle ne le montra à personne et elle rentra du festival et ce"
+" père de famille alla à un autre village. Il s’en alla et cette femme fit "
+"venir (lit. prit) ce tailleur dans sa maison et elle ferma la porte pour que"
+" personne ne puisse voir et elle lui fit coudre la partie du vêtement, puis "
+"après qu’elle ait fait venir le tailleur dans la maison, son mari revint "
+"chez lui et il frappa à la porte et l’appela."
+msgstr ""
+
+# དེ་ནས་དེའི་ཆུང་མས་སྐད་ལས་ངོ་ཤེས་ནས་ ཚེམ་བུ་མཁན་རང་གི་ཁྱིམ་དུ་བཞག་པ་དང་།
+# ཞུ་དྲལ་བའི་ཕྱིར་ཤས་ཆེར་འཇིགས་པ་སྐྱེས་ནས་ དེ་འཇིགས་ཤིང་སྐྲག་པས།
+# ཚེམ་བུ་མཁན་དེ་ཁོང་དུ་ཆུད་པར་བྱས་ཏེ་
+# [48a]གཟེབ་<«གཡུང་»བཟེབ།>ཀྱི་ནང་དུ་བཅུག་<«གཡུང་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»བཅུག>ནས་
+# གཟེབ་རྒྱས་བཏབ་སྟེ་ བཞག་གོ། ། དེ་ནས་སྒོ་ཕྱེ་སྟེ་ ཁྱིམ་ཐབ་ནང་དུ་འོངས་ནས་
+# ཁ་གསག་<«གཡུང་»«ལི་»«སྣར་»«ཞོལ་»གསག «པེ་»«ཅོ་»གསོག>བྱས་ཏེ་
+# ཅི་རིགས་པར་བསྙེན་བཀུར་བྱས་ནས་ དེ་དང་ལྷན་ཅིག་ཏུ་ཉལ་ལོ། །
+msgctxt "line 6, 13.txt"
+msgid ""
+"Ensuite, son épouse le reconnut à la voix et [pour] avoir fait venir le "
+"tailleur chez elle et [pour] avoir déchiré la partie du vêtement, elle fut "
+"prise de panique (lit. extrêmement peur) et prise de panique, elle demanda "
+"(lit. fit) au tailleur de se taire (lit. rester dans ses pensées) et le mit "
+"dans une malle et elle scella la malle et le laissa là. Ensuite, elle ouvrit"
+" la porte et le mari entra dans la maison et elle l’amadoua et le servit de "
+"quelques manières et fut dormir avec lui."
+msgstr ""
+
+# དེ་གཉིས་ཉལ་བ་དང་ རྐུན་པོ་དག་ཅིག་གིས་ཁྱིམ་ཕུག་ནས་ ནང་དུ་འོངས་ཏེ་
+# ཐོག་མ་ཁོ་<«གཡུང་»«པེ་»ཁོན།>ནར་གཟེབ་དེ་ལས་ཟིན་ནས། དེ་དག་འདི་སྙམ་དུ་སེམས་ཏེ་
+# གཟེབ་འདི་འདི་ལྟར་རྒྱས་ལེགས་པར་བཏབ་ལ་
+# ལྕི་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཞོལ་»ལྕིང་།>ལས་ན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ན།>ནོར་བུ་རིན་པོ་ཆེ་ཆེན་པོ་ཡོད་གོར་མ་ཆག་གོ།
+# ། འདིས་ནི་བདག་ཅག་མི་རབས་བདུན་གྱི་བར་དུ་ཡང་ཆོག་པར་འགྱུར་ཏེ།
+# འདི་ཁོ་ནས་བདག་ཅག་ཆོག་གིས་<«ཞོལ་»གི།>
+# བདག་ཅག་ལ་རྫས་གཞན་མི་དགོས་སོ་སྙམ་<«ཅོ་»སྙམས།>དུ་ བསམས་ནས།
+# དེ་དག་གིས་གཟེབ་དེ་གཅིག་པུ་ཁྱེར་ཏེ་ ཕྱིར་ཕྱུང་<«སྣར་»«ཞོལ་»བྱུང་།>ནས་
+# ནགས་འདབ་ཏུ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»འདབ་དུ། «ཞོལ་»འདབས་སུ།>ཁྱེར་རོ། །
+msgctxt "line 7, 13.txt"
+msgid ""
+"Après qu’ils furent endormis, quelques voleurs pénétrèrent (lit. trouèrent) "
+"leur maison et étant entrés, ils prirent en premier cette malle et ils "
+"pensèrent ceci : « Cette malle est si (lit. comme ça) bien scellée, et elle "
+"est lourde. Donc, il ne fait pas de doute qu’il s’y trouve de grands joyaux."
+" Ils nous suffiront pour sept générations, donc nous en avons assez avec ça."
+" Nous n’avons pas besoin d’autres objets. » pensèrent-ils. Puis, ils ne "
+"prirent que cette malle et la sortirent et la prirent dans la forêt."
+msgstr ""
+
+# དེ་དག་འདོང་བ་ན་ཟླ་བ་ཡང་ཤར་ལ་
+# མི་དེས་ཀྱང་དེའི་ནང་ན་འདུག་བཞིན་དུ་<«གཡུང་»བུ།>གཅིན་ཤོར་ནས་
+# གཅིན་<«ཁུ་»གཅིང་།>དེ་གཟེབ་ལས་ཐར་ཏེ་ ཕྱི་རོལ་དུ་ཟགས་<«པེ་»ཟིགས།>སོ། །
+# དེ་ནས་རྐུན་པོ་དེ་དག་འདི་<«གཡུང་»བད།>སྙམ་དུ་སེམས་ཏེ་ འདི་ལྟར་ ཟླ་བ་ཤར་བ་ན།
+# འདིའི་ནང་ནས་ཆུ་འབབ་པ་ལས་ན།
+# འདིའི་ནང་དུ་ནི་ནོར་<«གཡུང་»བདི་ལིན་ད་མནར།>བུ་ཆུ་ཤེལ་བཅུག་ཡང་དག་སྙམ་སྟེ།
+# ལྷག་པར་<«གཡུང་»ལྷང་བར།>ཡང་སྙིང་དགའ་བར་གྱུར་ཏོ། །
+# དེ་ནས་དེ་དག་གིས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–གིས།>ཤ་ཐང་སྟེ་
+# གཟེབ་དེ་ཁྱེར་ནས་ ནགས་འདབ་ཏུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འདབ་དུ།
+# «ཞོལ་»འདབས་སུ།>ལྷགས་སོ། །
+msgctxt "line 8, 13.txt"
+msgid ""
+"Tandis qu’ils se déplaçaient, la lune brillait et l’homme se trouvant à "
+"l’intérieur de la malle (lit. ça) ne put retenir son urine et l’urine "
+"s’échappa de la malle et coula à l’extérieur. Ensuite, les voleurs "
+"pensèrent : « Eh bien (lit. comme ceci) quand la lune brille un liquide "
+"(lit. eau) coule de la malle (lit. de ça). Donc, il ne peut qu’y avoir (lit."
+" c’est juste qu’y sont mis) des joyaux cristaux-d’eau. » pensèrent-ils. "
+"Puis, ils furent d’autant plus heureux. Ensuite, se fatiguant et portant "
+"cette malle, ils arrivèrent dans leur repère (lit. au milieu de la forêt)."
+msgstr ""
+
+# དེ་ནས་མི་རྒོད་ཀྱི་སྡེ་དཔོན་དང་མི་རྒོད་གཞན་དག་གིས་དྲིས་པ།
+# ཁྱོད་ཀྱིས་གཟེབ་འདིའི་ནང་དུ་ཅི་ཞིག་ཁྱེར་ཏེ་འོངས། དེ་དག་གིས་སྨྲས་པ།
+# སྡེ་<«གཡུང་»པ། «ཁུ་»དེད།>དཔོན་
+# དེང་དུ་ནི་བདག་ཅག་གིས་ཐམས་ཅད་ཀྱི་དབུལ་བའི་རྒྱུན་བཅད་ཀྱིས་<«ཞོལ་»ཀྱི།>
+# དགྱེས་པ་བསྐྱེད་དུ་གསོལ། དེང་བདག་ཅག་གིས་རིན་པོ་ཆེས་གང་བའི་གཟེབ་རྙེད་དོ་ཞེས་
+# བྱས་སོ། ། དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་དེ་དག་ཀྱང་སྙིང་དགའ་བར་གྱུར་ཏེ་ སྨྲས་པ།
+# གཟེབ་ཕྱེ་ཞིག་དང་ འདིར་རིན་པོ་ཆེ་ཇི་ལྟ་བུ་དག་བཅུག་པ་བལྟའོ་ཞེས་ བྱས་སོ། །
+# དེ་ནས་དེ་དག་གིས་གཟེབ་དེ་བཀྲོལ་<«གཡུང་»«པེ་»«ཁུ་»«ཞོལ་»དཀྲོལ།>ནས་
+# ཁ་ཕྱེ་<«གཡུང་»«པེ་»ཆེ།>སྟེ་
+msgctxt "line 9, 13.txt"
+msgid ""
+"Ensuite, le chef des brigands et les brigands demandèrent : « Que rapportez-"
+"vous dans cette malle ? » Ils dirent : « Chef, À partir de maintenant, notre"
+" continuelle (lit. continuum) pauvreté à tous cesse. Donc, réjouissez-vous. "
+"Cette fois, nous avons trouvé une malle pleine de joyaux. » dirent-ils. "
+"Ensuite, dès qu’ils eurent entendu ceci, ils furent transportés de bonheur "
+"et dirent : « Ouvrez donc cette malle. Nous allons regarder quels joyaux y "
+"ont été placés. » dirent-ils. Ensuite, ils descellèrent la malle et "
+"l’ouvrirent et"
+msgstr ""
+
+# བལྟས་ན་<«གཡུང་»«པེ་»ནས།> གཟེབ་དེའི་ནང་དུ་འཕྱེ་བོ་<«ཁུ་»འཕྱེའོ།>ཞིག་བཅུག་ཅིང་
+# འདུག་པ་མཐོང་ནས། མཐོང་མ་ཐག་ཏུ་
+# དེར་སོང་སོང་བ་དང་གཟེབ་དེ་ཁྱེར་ཁྱེར་བ་གང་ཡིན་པ་དེ་དག་ནི་འཕྱེ་བོ་འདིས་བདག་ཅག་མཚན་ཐོག་ཐག་<«གཡུང་»«ལི་»«པེ་»ཏག>ཉོན་མོངས་སོ་སྙམ་ནས་
+# སྡུག་བསྔལ་བར་གྱུར་ཏོ། །
+# དེར་མ་དོང་བ་གང་ཡིན་པ་དེ་དག་གིས་ནི་མི་རྒོད་དེར་སོང་སོང་བ་དེ་དག་ལ་གད་མོ་ཆེན་པོས་བཏབ་ནས་
+# སྨྲས་པ། ལེགས་པར་ཉོན་མོངས་སོ། ། ཤིན་ཏུ་ཉོན་མོངས་སོ་ཞེས་ བྱས་<«གཡུང་»–བྱས།>སོ།
+# །
+msgctxt "line 10, 13.txt"
+msgid ""
+"y regardant, qu’un estropié avait été mis dans cette malle et qu’il s’y "
+"trouvait, ils le virent et dès qu’ils le virent, « Tout ce que nous avons "
+"marché (lit. aller) et tout ce que nous avons porté cet estropié, il nous a "
+"fait souffrir la nuit du début à la fin. » pensèrent-ils et ils furent "
+"dépités (lit. souffrirent). Ceux qui n’y étaient pas allés rirent grandement"
+" des bandits qui avaient marchés tout ce temps (lit. marché et marché) et "
+"ils dirent : « Vous avez bien souffert. Vous avez beaucoup souffert. » "
+"dirent-ils."
+msgstr ""
+
+# དེ་ནས་བུད་མེད་དེ་སད་དེ་ ལངས་ནས་ ཁང་པ་དེའི་ནང་དུ་སོང་<«གཡུང་»མང་།>བ་དང་།
+# ཁྱིམ་ཕུག་སྟེ་ གཟེབ་རྐུས་<«གཡུང་»བསྐུས།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»བརྐུས།>པ་མཐོང་ངོ་། ། མཐོང་ནས་ཀྱང་
+# སྙིང་དགའ་<«གཡུང་»«པེ་»+བ།>ནས་ ཚིགས་སུ་བཅད་དེ་ སྨྲས་པ། ཁང་པ་ཕུག་ནས་
+# གཟེབ་ཀྱང་སྟོར། ། བདག་ནི་ཕྱེད་དགའ་ ཕྱེད་མི་དགའ། །
+# ནགས་འདབ་<«ཞོལ་»འདབས།>སོང་བའི་རྐུན་པོ་རྣམས།
+# །དེ་ནི་དགོད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»ད་ནི་རྒོད།>ཅིང་ ངུ་བར་འགྱུར།
+# །ཞེས་ བྱས་སོ། །
+msgctxt "line 11, 13.txt"
+msgid ""
+"Ensuite, cette femme se réveilla et se leva et lorsqu’elle se déplaça dans "
+"la maison, que [quelqu’un] avait pénétré dans la maison et volé la malle, "
+"elle le vit. L’ayant vu, elle devint heureuse et versifiant, elle dit. « On "
+"a pénétré dans la maison et la malle s’est subtilisée (lit. éparpillée). Je "
+"suis à moitié heureuse, à moitié malheureuse. Les voleurs qui sont partis "
+"dans la forêt, ils rient et ils pleurent. » dit-elle."
+msgstr ""
+
+# དེ་ནས་དེར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»དེ།>གཟེབ་དེ་ཁྱེར་ཏེ་འོངས་པ་གང་ཡིན་པ་དེ་དག་ཁྲོས་ཏེ་
+# སྨྲས་པ། འདི་ལྟར་ འཕྱེ་བོ་འདིས་བདག་ཅག་མི་དགའ་བར་བྱས་མོད་ཀྱི།
+# འོན་ཀྱང་བདག་ཅག་གི་གནོད་སྦྱིན་མཆོད་དགོས་ཀྱིས་<«ཞོལ་»ཀྱི།>
+# བདག་ཅག་གིས་འདི་ཁོ་ནས་གནོད་སྦྱིན་ལ་མཆོད་པ་<«གཡུང་»པར།>བྱའོ་ཞེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཞེས།>
+# སྨྲས་ནས། དེ་དག་གིས་གནོད་སྦྱིན་དེའི་མདུན་དུ་བ་ལང་གི་ལྕི་བས་དཀྱིལ་འཁོར་བྱས་ཏེ།
+# བདུག་པ་དང་མེ་ཏོག་དང་མཆོད་པའི་ཆོ་ག་དང་བུམ་པ་གང་བ་རྣམས་བཞག་ནས་
+# རལ་གྲི་རྣོན་པོ་ཐོགས་ཏེ། མི་དེ་གནོད་སྦྱིན་གྱི་མདུན་དུ་བཞག་ནས་
+# མཆོད་སྦྱིན་བྱས་སོ། །
+msgctxt "line 12, 13.txt"
+msgid ""
+"Ensuite, ceux qui avaient apporté la malle se mirent en colère et dirent : "
+"« Eh bien (lit. comme ceci) Il est vrai que l’estropié nous a rendu "
+"malheureux, mais pourtant, nous devons faire offrande au yakṣa. Donc, c’est "
+"lui que (lit. lui seul) nous offrirons au yakṣa. » dirent-ils. Puis, ils "
+"dessinèrent un mandala avec de la bouse de vache devant le yakṣa et ils "
+"disposèrent [dessus] de l’encens, des fleurs et [les objets] du rituel "
+"d’offrande et un vase plein, puis ils prirent (lit. portèrent) des épées "
+"affûtées et ils mirent cet homme devant le yakṣa et ils firent le sacrifice."
+msgstr ""
+
+# དེ་ནས་མི་དེས་ཀྱང་ཇི་ལྟར་བདག་ཉིད་གནོད་སྦྱིན་དེའི་མཆོད་པར་དབུལ་བར་ཆད་པ་ཁོང་དུ་ཆུད་ནས།
+# ཤིན་ཏུ་སྐྲག་སྟེ། བསམས་པ།
+# བཅོམ་ལྡན་འདས་མ་གཏོགས་པ་གཞན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–གཞན།>སུ་ཞིག་ལ་ད་བདག་སྐྱབས་<«གཡུང་»སྐྱིབས།>སུ་འགྲོ་བར་བྱ།
+# སུ་ཞིག་བདག་ལ་སྲོག་ཕངས་<«ཁུ་»ཕོངས།>པ་སྦྱིན་པར་འགྱུར་སྙམ་དུ་ བསམས་ནས།
+# དེས་བཅོམ་ལྡན་འདས་ལ་སེམས་ཀྱིས་གསོལ་བ་བཏབ་པ། བཙུན་པ་
+# བཅོམ་ལྡན་འདས་ཀྱིས་ནི་འདི་ལྟ་སྟེ་འདས་པ་དང་མ་འོངས་པ་དང་།
+# ད་ལྟར་བྱུང་བ་ཅི་ཡང་མི་གཟིགས་པ་དང་མི་མཁྱེན་པ་དང་ཐུགས་སུ་མ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»མི།>ཆུད་པ་མི་མངའ་ན
+# ཀྱེ་མ་ བཅོམ་ལྡན་འདས།
+# བདག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+ཅག>ནི་དཀོས་<«ཁུ་»དགོས།>ཐག་ཅིང་
+# ཉམ་ང་ལ་<«གཡུང་»ང་བ།> ཕོངས་པར་གྱུར་པ་ལགས་ཀྱིས་<«ཞོལ་»ཀྱི།>
+# བདག་ཡོངས་སུ་བསྐྱབ་ཏུ་གསོལ། སྲོག་ཕངས་པ་སྩལ་དུ་གསོལ་ཞེས་ བྱས་སོ། །
+msgctxt "line 13, 13.txt"
+msgid ""
+"Ensuite, cet homme, quant à lui, il comprit (lit. intégra) de quelle manière"
+" ils allaient l’offrir en offrande à ce yakṣa et il eut extrêmement peur et "
+"il pensa : « À part le Bienheureux, en qui d’autre pourrais-je trouver un "
+"refuge ? Qui m’accordera la vie que je pleure (lit. je regrette d’avoir "
+"perdu) ? » pensa-t-il. Puis, Il pria mentalement le Bienheureux : "
+"« Vénérable, Bienheureux, puisqu’il n’est rien du passé, du futur ni du "
+"présent que vous ne voyiez pas, que vous ne sachiez pas et que vous ne "
+"compreniez pas, Hélas ! Bienheureux, je suis tourmenté, affligé et je suis "
+"perdu. Donc, veuillez me sauver (lit. donner refuge) complètement. Veuillez "
+"m’accorder la vie que je pleure (lit. je regrette d’avoir perdu). » dit-il."
+msgstr ""
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་ལམ་སྟོན་པ་
+# རྣམ་པ་གཉིས་ཀྱི་ཤེས་བྱ་དང་ཡེ་ཤེས་ལ་མངའ་བརྙེས་པ་
+# མ་འདྲེས་པའི་དྲན་པ་ཉེ་བར་གཞག་པ་གསུམ་ལ་མཁས་པ་ མི་འཇིགས་པ་བཞིས་མི་འཇིགས་པ།
+# འགྲོ་བ་ལྔར་འགྲོ་བ་ལས་རྣམ་པར་གྲོལ་བ། སྐྱེ་མཆེད་དྲུག་ལ་མཁས་པ།
+# བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་ལ་སྤྱོད་ཡུལ་བ། རྣམ་པར་ཐར་པ་བརྒྱད་ལ་བསམ་གཏན་པ།
+# མཐ་ར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་ལ་སྙོམས་པར་འཇུག་པ།
+# སྟོབས་བཅུའི་སྟོབས་དང་ལྡན་པ།
+# ཡང་དག་པར་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་<«ཞོལ་»སྒྲོག>པ་རྣམས་ནི།
+# ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
+# ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ།
+msgctxt "line 14, 13.txt"
+msgid ""
+"Les Bienheureux Bouddhas montrent l’unique voie à parcourir ; ils possèdent "
+"les deux aspects de la connaissance et de la sagesse ; ils excellent dans "
+"les trois attentions rapprochées qui leur sont propres (lit. qui ne sont pas"
+" mélangés [à d’autres]) ; ils sont intrépides grâce aux quatre "
+"intrépidités ; ils sont entièrement libérés d’aller vers les cinq "
+"renaissances ; ils sont versés dans les six sources des sens ; ils vivent "
+"les sept branches de l’Éveil ; ils contemplent les huit libérations "
+"complètes ; ils s’engagent dans les neuf absorptions méditatives "
+"successives ; ils possèdent la puissance des dix forces ; Eux qui font "
+"résonner le grand rugissement parfait du lion, ils contemplent spontanément "
+"le monde avec les yeux de bouddhas pendant les six périodes de la journée, "
+"trois fois le jour et trois fois la nuit."
+msgstr ""
+
+# སུ་ནི་རྒུད། སུ་ནི་དར། སུ་ནི་ཕོངས་ཤིང་འདུག ། སུ་ནི་ཉམ་ཐག་པར་གྱུར།
+# སུ་ནི་གནོད་པ་དང་ལྡན། སུ་ནི་ཕོངས་པ་དང་ཉམ་ང་བ་<«ཁུ་»པ།>དང་གནོད་པ་དང་ལྡན།
+# སུ་ནི་ངན་སོང་དུ་གཞོལ། སུ་ནི་ངན་སོང་དུ་འབབ།
+# སུ་ནི་ངན་སོང་དུ་<«པེ་»དུབ།>བབ<«གཡུང་»«པེ་»+བ།>། སུ་ནི་ངས་ངན་སོང་ནས་ཕྱུང་སྟེ།
+# མཐོ་རིས་དང་ཐར་པ་དང་འབྲས་བུ་ལ་གཞག་པར་བྱ།
+# སུ་ནི་ཉེས་པར་སྤྱོད་པའི་འདམ་དུ་བྱིང་བ་ལས་ ལག་ནས་དྲང་བར་བྱ།
+# སུ་ནི་འཕགས་པའི་ནོར་བདུན་མེད་པ་ལས་
+# འཕགས་པའི་ནོར་བདུན་གྱི་དབང་ཕྱུག་ལ་དབང་བྱེད་དུ་གཞུག་པར་བྱ།
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་མ་བསྐྱེད་<«གཡུང་»སྐྱེད།>པ་ལས་ བསྐྱེད་པར་བྱ།
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་བསྐྱེད་ཟིན་པ་ལས་ ཡོངས་སུ་སྨིན་པར་བྱ།
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་ཡོངས་སུ་སྨིན་ཟིན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཟིན།>པ་ལས་
+# ཡེ་ཤེས་ཀྱི་མཚོན་གྱིས་བརྟོལ་བར་བྱ།
+# སུ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལ།>ནི་སངས་རྒྱས་བྱུང་བས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ནས།>བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་སྙམ་དུ་
+# ཡེ་ཤེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»+ཀྱི།>གཟིགས་པ་<«གཡུང་»«པེ་»+ལ།>འཇུག་གོ།
+# །
+msgctxt "line 15, 13.txt"
+msgid ""
+"« Qui s’affaiblit ? Qui s’épanouit ? Qui est dans la misère ? Qui est dans "
+"le malheur ? Qui est dans la souffrance ? Qui est dans la misère, le malheur"
+" et la souffrance ? Qui tombe dans les royaumes inférieurs ? Qui est tombé "
+"dans les royaumes inférieurs ? Qui tombera dans les royaumes inférieurs ? "
+"Qui vais-je extirper des royaumes inférieurs et les établir dans les "
+"royaumes supérieurs, la libération ou le résultat ? Quel être (lit. qui) "
+"enlisé dans le marais des mauvaises conduites vais-je tirer par la main ? "
+"Quel être (lit. qui) dépourvu des sept richesses des êtres sublimes vais-je "
+"pousser à s’approprier le pouvoir des seigneurs des sept joyaux des [êtres] "
+"nobles ? Qui, n’ayant pas développé les racines vertueuses, inciterais-je à "
+"[les] développer ? Qui, ayant déjà développé les racines vertueuses, "
+"inciterais-je à [les] faire mûrir ? Qui, ayant déjà fait mûrir entièrement "
+"les racines vertueuses, inciterais-je à [les] faire jaillir à l’aide de "
+"l’arme de la sagesse ? Pour quel être (lit. qui) fructifierais-je ce monde "
+"qui est orné puisqu’un bouddha y est apparu ? » [ainsi] s’applique leur "
+"regard de sagesse."
+msgstr ""
+
+# རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས། །
+# དུས་རླབས་<«གཡུང་»«པེ་»བརླབས།>ཡོལ་བར་འགྱུར་ཡང་སྲིད། །
+# གདུལ་བར་བྱ་བའི་སྲས་རྣམས་ལ། །སངས་རྒྱས་དུས་ལས་ཡོལ་བ་མེད། །
+msgctxt "line 16, 13.txt"
+msgid ""
+"[Dans] l’océan, la demeure des [monstres] makara, il est possible que les "
+"marées tardent. Pour leurs enfants qu’ils doivent dompter, les bouddhas ne "
+"prennent [jamais] de retard."
+msgstr ""
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་གཟིགས་ན།
+# འཕྱེ་བོ་དེ་དང་མི་རྒོད་ལྔ་བརྒྱ་པོ་དེ་རྣམས་གདུལ་<«གཡུང་»«པེ་»གཏུལ།>བའི་དུས་ལ་བབ་པར་ཐུགས་སུ་ཆུད་ནས།
+# ལྷའི་སྐུ་གཟུགས་དེ་ཉིད་ལས་ལྷའི་ཆ་ལུགས་སུ་བཞུགས་སོ། །
+# དེ་ནས་མི་རྒོད་ལྔ་བརྒྱ་འདི་སྙམ་དུ་སེམས་ཏེ། ལྷས་བདག་ཅག་ལ་རང་གི་སྐུ་བསྟན་ཏོ་
+# སྙམ་སྟེ། སྤུ་ཟིང་ཞེས་བྱས་ནས། ཐལ་མོ་སྦྱར་ཏེ་ འཁོད་ནས་ འདི་སྐད་ཅེས་སྨྲས་སོ། །
+# བཅོམ་ལྡན་འདས་ བཀའ་ཅི་སྩལ་ བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
+# ང་<«པེ་»ངེ་།>ལ་མིས་མཆོད་མི་དགོས་ཀྱིས་<«ཞོལ་»ཀྱི།> མིའི་མཆོད་པ་འདི་ཐོང་ཤིག །
+# གལ་ཏེ་ཁྱེད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཁྱེད།>ཆོས་འདོད་ན་ནི་མཆོད་པ་གསོལ་བ་[49b]ཐོང་ལ་
+# འཁོད་ཅིག་དང་ ཆོས་བསྟན་པར་བྱའོ། །
+# དེ་ནས་དེ་ལྟར་འཚལ་ལོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལོ>ཞེས་ བྱས་ནས་
+msgctxt "line 17, 13.txt"
+msgid ""
+"Ensuite, alors que le Bienheureux regardait, il vit que le moment était venu"
+" de dompter cet estropié et les cinq cent brigands. Puis, depuis cette "
+"statue de ce dieu, il se tint dans les attributs de ce dieu. Ensuite, les "
+"cinq cent brigands pensèrent : « Le dieu se montre à nous. » pensèrent-ils. "
+"Puis, ils eurent la chair de poule (lit. leurs poils firent “zing !”) et ils"
+" joignirent les mains et s’installèrent et dirent ceci : « Bienheureux, Que "
+"nous commandez-vous ? » Le Bienheureux dit : « Je ne veux pas d’offrandes "
+"d’humains. Donc, délaissez ces offrandes d’humains. Si vous voulez le "
+"Dharma, délaissez de faire ces offrandes et installez-vous. Je vous "
+"enseignerai le Dharma. » Ensuite, « Nous ferons ainsi. » dirent-ils. Puis,"
+msgstr ""
+
+# མི་རྒོད་དེ་དག་གིས་མཆོད་པ་བཏང་ནས་ བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་
+# ཆོས་མཉན་པའི་ཕྱིར་སྤྱན་སྔར་འཁོད་དོ། །
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་འཕྱེ་བོ་དེ་དང་མི་རྒོད་དེ་དག་གི་<«ལི་»«ཅོ་»གིས།>བསམ་པ་དང་བག་ལ་ཉལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+བ།>དང་ཁམས་དང་རང་བཞིན་ཐུགས་སུ་ཆུད་ནས་
+# དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ།
+# དེས་ན་<«ཁུ་»དེ་ནས།>མི་རྒོད་ལྔ་བརྒྱ་པོ་དེ་དག་གིས་སྟན་དེ་ཉིད་ལ་འཁོད་བཞིན་དུ་འཇིག་<«གཡུང་»«པེ་»འཇིགས།>ཚོགས་ལ་ལྟ་བའི་རིའི་རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་རྡོ་རྗེས་བཅོམ་ནས་
+# རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་<«གཡུང་»–དུ།>བྱས་སོ། །
+# འཕྱེ་བོ་དེས་ཀྱང་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་སོ། །
+msgctxt "line 18, 13.txt"
+msgid ""
+"ces brigands délaissèrent ces offrandes et ils se prosternèrent devant le "
+"Bienheureux en touchant ses pieds de leur tête et s’assirent devant lui pour"
+" entendre le Dharma. Alors, le Bienheureux discerna les pensées, les "
+"tendances habituelles, le tempérament (lit. l’élément) et le caractère (lit."
+" la nature) de l’estropié et des brigands et il leur prodigua un "
+"enseignement leur (lit. à ceci) correspondant. Alors, alors qu’ils étaient "
+"encore assis sur les mêmes sièges, les cinq cent brigands anéantirent les "
+"vingt cimes élevées des vues concernant l’amas périssable à l’aide du "
+"diamant de la sagesse et ils manifestèrent le résultat de l’entrée dans le "
+"courant. Quant à lui, l’estropié manifesta le résultat de ceux qui ne "
+"reviennent plus."
+msgstr ""
+
+# དེ་ནས་<«གཡུང་»ནོས།>དེ་དག་གིས་བདེན་པ་མཐོང་ནས་
+# བཅོམ་ལྡན་འདས་ཀྱིས་ལྷའི་ཆ་ལུགས་མི་སྣང་བར་མཛད་ནས་ རང་བཞིན་གྱི་སྐུར་བཞུགས་སོ། །
+# དེ་ནས་དེ་དག་གིས་བཅོམ་ལྡན་འདས་མཐོང་ནས་ ལྷག་པར་ཡང་དགའ་བ་སྐྱེས་སོ། །
+# དགའ་བ་སྐྱེས་ནས་ སྟན་ལས་ལངས་ཏེ་ བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས།
+# བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«པེ་»དེར།>ལོགས་སུ་ཐལ་<«གཡུང་»ཐ་མ།>མོ་སྦྱར་བ་བཏུད་དེ་
+# བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཙུན་པ་
+# བདག་ཅག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་<«ཞོལ་»བྱུང་།>བ་དང་བསྙེན་པར་རྫོགས་ཤིང་དགེ་སློང་གི་དངོས་པོ་འཐོབ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»ཐོབ།>ཏུ་རུང་ན།
+# བདག་ཅག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །
+msgctxt "line 19, 13.txt"
+msgid ""
+"Ensuite, ils virent les vérités et le Bienheureux fit disparaître les "
+"attributs du dieu et se tint dans son aspect naturel. Ensuite, ils virent le"
+" Bienheureux et ils furent d’autant plus heureux. Devenu heureux, ils se "
+"levèrent de leurs sièges et ils [replièrent] leur vêtement supérieur sur une"
+" épaule et le laissèrent retomber [devant eux] et joignirent les mains et "
+"s’inclinèrent en direction du Bienheureux et ils dirent ceci au "
+"Bienheureux : « Vénérable, s’il nous est possible de nous extraire du monde "
+"selon le Vinaya, le Dharma si bien enseigné, et [s’il nous est possible] de "
+"parfaire l’approche [de la libération], d’obtenir la condition de moines "
+"pleinement ordonnés, nous aussi, nous aimerions vivre une vie chaste (lit. "
+"suivre le brahmacarya) auprès du Bienheureux. »"
+msgstr ""
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་མི་རྒོད་རྣམས་ལ་དགེ་སློང་ཚུར་ཤོག་ཚངས་པར་སྤྱོད་ཅིག་ཅེས་བཀའ་སྩལ་པའི་མོད་ལ་
+# སྐྲ་དང་ཁ་སྤུ་ནི་བྲེགས་ནས། ཞག་བདུན་ལོན་པ་ཙམ་དུ་གྱུར་
+# སྤྱོད་ལམ་ནི་བསྙེན་པར་རྫོགས་ནས་ལོ་བརྒྱ་ལོན་པ་ལྟ་བུར་འདུག་པར་གྱུར་ནས་
+# ལག་ན་ལྷུང་བཟེད་དང་ཆུ་སྣོད་ཐོགས་པར་གྱུར་ཏོ། །
+msgctxt "line 20, 13.txt"
+msgid ""
+"Ensuite, dès que le Bienheureux eut dit « Moines, venez ici ! Vivez "
+"chastement. » aux brigands, leurs cheveux et leurs barbes furent rasés et "
+"devinrent [aussi longs que s’ils étaient coupés] depuis sept jours. "
+"Concernant leur conduite, ils se tinrent comme s’ils avaient été moines "
+"depuis cent ans. ils se trouvèrent entrain de tenir un bol à aumône et un "
+"récipient à eau dans leurs mains."
+msgstr ""
+
+# འདིར་སྨྲས་པ། དེ་བཞིན་གཤེགས་པས་ཚུར་ཞེས་བཀའ་སྩལ་པས། ། དེ་ནི་མགོ་བྲེགས་
+# ལུས་ལ་སྣམ་སྦྱར་གྱོན། ། སངས་རྒྱས་ཀྱི་ནི་དགོངས་པས་གོས་<«གཡུང་»གོ།>བགོས་ནས། །
+# མོད་ལ་དབང་པོ་རབ་ཏུ་ཞི་བར་གནས། །
+msgctxt "line 21, 13.txt"
+msgid ""
+"On dira ici : Le Tathāgata, « [Viens] ici » sa tête est rasée, il porte la "
+"saṃghāṭī. L’intention du Bouddha lui met l’habit et à ce moment, il "
+"maintient ses sens dans un apaisement total."
+msgstr ""
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་རྣམས་ལ་ལུང་ཕོག་སྟེ
+# དེ་དག་གིས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
+# དེ་དག་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།
+# གསེར་དང་བོང་<«གཡུང་»པོར།>བར་མཉམ་པ་
+# ནམ་མཁའ་དང་ལག་མཐིལ་<«གཡུང་»ཐིལ།>དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ།
+# ཙན་དན་སྦངས་པ་ལྟ་བུར་བསིལ་<«གཡུང་»«པེ་»གསིལ།>བར་གྱུར་པ།
+# རིག་པས་སྒོ་ངའི་སྦུབས་བཅོམ་པ་
+# རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ་
+# སྲིད་པའི་རྙེད་པ་དང་ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ།
+# དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+དང་།>པ་དང་གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ།
+# །
+msgctxt "line 22, 13.txt"
+msgid ""
+"Puis, le Bienheureux leur accorda la transmission orale et de leur côté, ils"
+" s’efforcèrent, s’appliquèrent et s’évertuèrent à éliminer toutes les "
+"émotions perturbatrices et ils manifestèrent l’état d’arhat. ils devinrent "
+"des arhats libres de l’attachement aux trois mondes. Ainsi, [un morceau] "
+"d’or et une motte de terre étaient identiques [à leurs yeux] ; ils [vinrent "
+"à] posséder un esprit [pour lequel] l’espace et la paume de la main sont "
+"similaires ; ils [possédaient] la fraîcheur du [bois de] santal trempé ; "
+"leur sagesse avait brisé la coquille de l’œuf ; ils avaient obtenu la "
+"connaissance, les clairvoyances et les parfaites discriminations ; ils "
+"avaient tourné le dos aux biens du samsara, aux désirs et aux éloges ; ils "
+"étaient désormais dignes (lit. un objet de) des offrandes, de la vénération "
+"et de la révérence (lit. paroles respectueuses) d’Indra, d’Upendra et des "
+"autres dieux."
+msgstr ""
+
+# དེ་ནས་འཕྱེ་བོས་བསམས་པ།
+# གལ་ཏེ་བདག་ཀྱང་ལུས་འདི་འདྲ་བར་མ་གྱུར་ན་ནི་བདག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་སྟེ།
+# ཆུ་བོ་རྣམས་ལས་བརྒལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»རྒལ།>བར་བྱ་བ་དང་སྦྱོར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»འབྱོར།>བ་རྣམས་<«གཡུང་»«པེ་»+ཀྱིས།>ལས་འདའ་བར་བྱ་བའི་ཕྱིར་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པར་བྱ་བ་ཞིག་ན་སྙམ་མོ།
+# །
+# དེ་ནས་དེ་སྐད་ཅེས་བརྗོད་མ་ཐག་ཏུ་དེའི་ལུས་དེ་རྣམ་པ་ཐམས་ཅད་དུ་ཡོངས་སུ་རྫོགས་ཤིང་
+# རངས་པར་གྱུར་ནས་ དེ་ལྷག་པར་ཡང་བཅོམ་ལྡན་འདས་ལ་དགའ་བར་གྱུར་ཏོ། །
+msgctxt "line 23, 13.txt"
+msgid ""
+"Ensuite, Paṅgu pensa : « Si mon corps n’était pas comme ça, moi aussi, je me"
+" retirerais du monde selon l’enseignement du Bienheureux et je "
+"m’efforcerais, je m’appliquerais et je m’évertuerais pour traverser les "
+"fleuves et transcender ce qui m’engage [dans le samsara]. » pensa-t-il. "
+"Ensuite, au moment où il dit ceci, il fut entièrement doté de toutes les "
+"facultés physiques et [il se trouva] en parfait état. Puis, il ressentit "
+"plus encore de joie [en pensant] au Bienheureux."
+msgstr ""
+
+# དགའ་བར་གྱུར་ནས་ སྟན་ལས་ལངས་ཏེ་ བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས་
+# བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཙུན་པ་
+# ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་འབྱུང་<«ཁུ་»«ཞོལ་»བྱུང་།>བ་དང་<«གཡུང་»གང་།>བསྙེན་པར་རྫོགས་ཤིང་དགེ་སློང་གི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན།
+# བདག་ཀྱང་<«ཞོལ་»ཅག>བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགེ་སློང་ཚུར་ཤོག་ཅེས་བྱ་བས་རབ་ཏུ་ཕྱུང་སྟེ་
+# བསྙེན་པར་རྫོགས་པར་མཛད་ནས་ ལུང་ཡང་ཕོག་གོ། །
+# དེས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། །
+msgctxt "line 24, 13.txt"
+msgid ""
+"Empli de joie, il se leva de son siège et il [replia] son vêtement supérieur"
+" sur une épaule et le laissa retomber [devant lui] et il dit ceci au "
+"Bienheureux : « Vénérable, s’il est possible de s’extraire du monde selon le"
+" Vinaya, le Dharma si bien exprimé, et [s’il est possible] de parfaire "
+"l’approche [de la libération], d’obtenir la condition de moine pleinement "
+"ordonné, moi aussi, j’aimerais vivre une vie chaste (lit. suivre le "
+"brahmacarya) auprès du Bienheureux. » Ensuite, le Bienheureux le fit se "
+"retirer du monde en lui disant « Moine, viens ici ! » et lui accorda "
+"l’ordination complète et lui [accorda] la transmission orale. De son côté, "
+"il s’efforça, s’appliqua et s’évertua à éliminer toutes les émotions "
+"perturbatrices et il manifesta l’état d’arhat (lit. l’arhat-même)."
+msgstr ""
+
+# དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ་ བཙུན་པ་
+# འཕྱེ་བོས་ལས་ཅི་ཞིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཞིགགྱི>བགྱིས་ན་
+# ལས་དེའི་རྣམ་པར་སྨིན་པས་འཕྱེ་བོར་གྱུར་ལགས། ལས་ཅི་ཞིག་བགྱིས་ན།
+# དེས་བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ་ མི་མཉེས་པར་མ་བགྱིས་ལ།
+# བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་<«གཡུང་»སྟན།>པ་ལ་རབ་ཏུ་བྱུང་ནས་
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་ དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་ལགས།
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་
+# འདི་ཉིད་ཀྱིས་ལས་དེ་<«ལི་»ཏེ།>ལྟ་བུ་བྱས་ཤིང་བསགས་ཏེ་
+msgctxt "line 25, 13.txt"
+msgid ""
+"Puis les moines s’adressèrent au Bienheureux : « Vénérable, quelles actions "
+"Paṅgu a réalisées pour que le résultat de ces actions le rende estropié ? "
+"Quelles actions a[-t-il] réalisées pour qu’il contente le Bienheureux et ne "
+"fasse rien qui le mécontente, puis pour se retirer du monde selon "
+"l’enseignement du Bienheureux et après avoir éliminé toutes les émotions "
+"perturbatrices, [pour qu’]il manifeste l’état d’arhat ? » Le Bienheureux "
+"dit : « Moines, il a lui-même réalisé et accumulé des actions "
+"correspondantes (lit. comme ceci). En effet,"
+msgstr ""
+
+# དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
+# བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ་སྐྱེས་བུ་གདུལ་བྱའི་<«གཡུང་»«པེ་»བའི།>ཁ་ལོ་སྒྱུར་བ།
+# བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་<«གཡུང་»«པེ་»བསྲུང་།>ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།
+# དེའི་ཚེ་བཱ་རཱ་ཎ་སཱི་འདི་ཉིད་ན་ཁྱིམ་བདག་སྤུན་གཉིས་ཤིག་གནས་པ་ལས་
+# གཅིག་གིས་ནི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་ལས་ཆོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཆོས།>ཐོས་ཏེ་
+# ཕྱིར་མི་འོང་བའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ནས།
+# དེས་ཁ་ན་མ་ཐོ་བ་དང་བཅས་པའི་ལས་རྣམས་སྤངས་ཏེ
+# གཅིག་ཏུ་ངེས་པར་ཁ་ན་མ་<«གཡུང་»«པེ་»–མ།>ཐོ་བ་མེད་པའི་ལས་རྣམས་ལ་གནས་སོ། །
+msgctxt "line 26, 13.txt"
+msgid ""
+"Moines, à un moment du passé qui s’est déroulé auparavant, pendant ce même "
+"éon fortuné, quand la durée de vie des personnes pouvaient [atteindre] "
+"vingt-mille ans, le complet et parfait bouddha, celui doté de la vision et "
+"des jambes, le sugata, le connaisseur du monde, l’insurpassable cocher des "
+"êtres à guider, l’enseignant des dieux et des hommes, le Bienheureux Bouddha"
+" Kāśyapa était apparu en ce monde et à cette époque, deux frères vivaient à "
+"Vārāṇasī desquels l’un entendit le Dharma de la part du complet et parfait "
+"Bouddha Kāśyapa et il manifesta le résultat de ceux qui ne reviennent plus. "
+"Puis, il abandonna les actions non-vertueuses et réalisa (lit. se maintint) "
+"uniquement les actions entièrement vertueuses."
+msgstr ""
+
+# ནུ་བོ་ཅིག་ཤོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག་ཤོས།
+# «ཁུ་»གཅིག་བཤོས།>ནི་ཞིང་ལས་<«གཡུང་»«པེ་»སླས།>བྱེད་དེ་ དེས་བསམས་པ་
+# བདག་ནི་གྲང་བ་ན་ཡང་གྲང་བས་ཉེན་ ཚ་བ་<«གཡུང་»ཚ་བས «པེ་»ཆེ་བས།
+# «ཅོ་»ཚེ་བ།>ན་ཡང་ཚ་བས་ཉེན་ལ། འདི་ནི་ཁྱིམ་ན་འདུག་ཅིང་
+# བདེ་བ་ཉམས་སུ་མྱོང་བར་བྱེད་དོ་སྙམ་ནས། དེ་ཁྲོས་ཏེ་
+# ཕྱིར་མི་འོང་བ་དེ་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པ། བདག་ནི་གྲང་བ་ན་ཡང་གྲང་བས་ཉེན་
+# ཚ་བ་ན་ཡང་<«གཡུང་»–ཡང་།>ཚ་བས་ཉེན་ཏེ་ ལས་ཐམས་ཅད་བྱེད་ལ་
+# ཁྱོད་ནི་འཕྱེ་བོ་<«གཡུང་»ལ་བྱེ་འོ།>བཞིན་དུ་ཁྱིམ་ན་ཐེན་ཞིང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཐེན་ཅིང་།
+# «ཁུ་»ཐོན་ཞིང་། «ཞོལ་»འཐེན་ཅིང་།> འདུག་སྟེ་ ཅི་ཡང་བྱེད་པ་མི་འདོད་དམ་ཞེས་
+# བྱས་སོ། །
+msgctxt "line 27, 13.txt"
+msgid ""
+"L’autre frère travaillait dans les champs et il pensa : « je suis affligé "
+"par le froid quand il fait froid, je suis affligé par la chaleur quand il "
+"fait chaud, et lui, il reste dans la maison et il passe du bon temps (lit. "
+"fait l’expérience du bonheur). » pensa-t-il. Puis, il se mit en colère et il"
+" dit des paroles blessantes à celui qui avait [atteint le niveau de] ceux "
+"qui ne reviennent plus : « je suis affligé par le froid quand il fait froid,"
+" je suis affligé par la chaleur quand il fait chaud, et je fais tous les "
+"travaux tandis que toi, comme un estropié, tu te traînes dans la maison et "
+"tu y restes et tu n’as pas envie de faire quoi que ce soit ? » dit-il."
+msgstr ""
+
+# དེ་ནས་ཕྱིར་མི་འོང་བས་བསམས་པ།
+# ནུ་བོ་འདིས་བདག་ལ་ཚིག་རྩུབ་པོ་སྨྲས་ཀྱིས་<«ཞོལ་»ཀྱི།>
+# གཏན་དུ་ཕུང་བར་མི་འགྱུར་བར་<«གཡུང་»«པེ་»བའི།>བྱ་བའི་ཕྱིར་འདིའི་ར་མདའ་<«གཡུང་»འདའ།>བྱ་དགོས་སོ་སྙམ་ནས་
+# དེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–དེས།>དེའི་མདུན་དུ་རྫུ་འཕྲུལ་བསྟན་ཏེ་
+# སྨྲས་པ། ཁྱོད་ཀྱིས་ང་ལ་ཚིག་རྩུབ་པོ་སྨྲས་ཀྱིས་<«ཞོལ་»ཀྱི།> ཉེས་པ་ལ་ཉེས་སོ་ཞེས་
+# བཤགས་པར་གྱིས་ཤིག ། འཁོར་བ་ན་འཁོར་ཞིང་
+# སྡུག་བསྔལ་ཆེན་པོ་རྙེད་ཏ་<«གཡུང་»«པེ་»ད།>རེ།
+# དེ་ནས་དེ་<«གཡུང་»«པེ་»དེས།>ཐོས་མ་ཐག་ཏུ་ནུ་བོ་དེ་འགྱོད་པ་ཆེན་པོ་སྐྱེས་ཏེ།
+# དེས་དེའི་རྐང་པ་ལ་ཕྱག་འཚལ་ནས་ བཟོད་པར་<«གཡུང་»«པེ་»གཟེད་པ།>གསོལ་ཏེ་
+# འདི་སྐད་ཅེས་སྨྲས་སོ། ། བདག་ཁྱིམ་ན་གནས་པ་བཏང་སྟེ། སོང་ལ་
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་འབྱུང་<«གཡུང་»«པེ་»བྱུང་།>ངོ་།
+# ། ཕྱིར་མི་འོང་བས་སྨྲས་པ། ཁྱིམ་གྱི་འཁོར་ཐོང་ལ་<«ཅོ་»བ།>
+# བདག་ཅག་གཉིས་ཀ་རབ་ཏུ་འབྱུང་བར་བྱའོ། ། དེས་སྨྲས་པ། དེ་ལྟར་བགྱིའོ། །
+msgctxt "line 28, 13.txt"
+msgid ""
+"Ensuite, celui qui ne reviendrait plus pensa : « Ce frère à moi me dit des "
+"paroles blessantes. Donc, il faut que je l’aide de façon à ce qu’il ne se "
+"perde pas de manière définitive. » pensa-t-il. Puis, il fit montre de ses "
+"pouvoirs surnaturels devant lui et dit : « Tu m’as dit des paroles "
+"blessantes. Donc, [concernant] ta mauvaise action, [dis] « J’ai mal agi » et"
+" confesse-toi. Tu errerais dans le samsara et subirais de grandes "
+"souffrances ! » dès qu’il entendit ceci, le frère donna naissance à un "
+"regret intense (lit. grand) et il se prosterna à ses pieds et lui demanda "
+"pardon et lui dit ceci : « Je vais délaisser la vie de famille et je vais "
+"partir et je vais me retirer du monde selon l’enseignement du complet et "
+"parfait Bouddha Kāśyapa. » Celui qui ne reviendrait plus dit : « Renvoyons "
+"le personnel de maison et retirons-nous tous les deux du monde. » Il "
+"répondit : « Faisons ceci. »"
+msgstr ""
+
+# དེ་ནས་དེས་ཁྱིམ་གྱི་འཁོར་བཏང་ནས་
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་གཉི་ག་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»གཉིས་ཀ>རབ་ཏུ་བྱུང་སྟེ།
+# ཕྱིར་མི་འོང་བས་ནི་རབ་ཏུ་བྱུང་<«གཡུང་»«པེ་»བའི་འབྲས་བུ་ཐོབ།
+# «ལི་»«སྣར་»བའི་འབྲས་བུ་བྱུང་།>ནས་ ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། །
+# ཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>ཤོས་ཀྱིས་ནི་རབ་ཏུ་བྱུང་ནས་
+# ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དེ་ འཆི་ཀར་<«ཁུ་»གར། «ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
+# བདག་གིས་འདི་ལྟར་སེམས་ཅན་དག་པ་འདི་ལྟ་བུ་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པའི་ལས་དེའི་སྐལ་བ་ཅན་དུ་བདག་མ་གྱུར་ཅིག
+# །
+# བརྒྱ་ལ་ལས་དེའི་འབྲས་བུ་བདག་ལ་སྨིན་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འགྱུར།>ན་ཡང་རབ་ཏུ་འབྱུང་བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་མ་ལེགས་པ་མེད་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»འགྱུར།>ཏེ་
+# ལེགས་པ་<«སྣར་»«ཞོལ་»པར།>འབྱུང་བར་གྱུར་ཅིག ། འདི་ལྟར་ བདག་རབ་ཏུ་བྱུང་ནས་
+# ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ཀྱང་
+# ཡོན་ཏན་ཅི་ཡང་མ་ཐོབ་ཀྱིས་<«གཡུང་»«པེ་»ཀྱང་། «ཞོལ་»ཀྱི།>
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་<«གཡུང་»«པེ་»–པ།>གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་<«ཅོ་»དག>གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག
+# ། མི་མཉེས་པར་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག །
+# དེ་ཁོ་<«གཡུང་»«པེ་»ཁོའ།>ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་ དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་
+# བྱས་སོ། །
+msgctxt "line 29, 13.txt"
+msgid ""
+"Ensuite, il renvoya le personnel de maison et ils se retirèrent tous les "
+"deux selon l’enseignement du complet et parfait Bouddha Kāśyapa, puis celui "
+"qui ne reviendrait plus se retira du monde et après avoir éliminé toutes les"
+" émotions perturbatrices, il manifesta l’état d’arhat (lit. l’arhat-même). "
+"L’autre se retira du monde et vécu chastement toute leur vie, puis il fit ce"
+" souhait au moment de mourir : « Puissé-je de pas devoir subir [le résultat]"
+" d’avoir dit des paroles blessantes à un être comme lui. Si par hasard (lit."
+" sur cent), le résultat mûrit sur moi, puisse ce mal disparaître dès que je "
+"conçois l’idée de me retirer du monde et puisse ce qui est bien m’arriver. "
+"Eh bien (lit. comme ceci) je me suis retiré du monde et j’ai vécu chastement"
+" toute ma vie (lit. une vie), et je n’ai obtenu aucune de des qualités. "
+"Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le "
+"jeune brahmane Uttara [d’après] la prophétie du complet et parfait Bouddha "
+"Kāśyapa. Puissé-je ne rien faire qui le mécontente. M’étant retirée du monde"
+" d’après son (lit. à lui-même) enseignement et après avoir éliminé toutes "
+"les émotions perturbatrices, puissé-je manifester l’état d’arhat (lit. "
+"l’arhat-même). » dit-il."
+msgstr ""
+
+# དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
+# དེའི་ཚེ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་གསུང་རབ་ལ་རབ་ཏུ་བྱུང་བའི་དགེ་སློང་དུ་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་འཕྱེ་བོ་འདི་ཉིད་ཡིན་ཏེ
+# དེས་དེར་ཕུ་བོ་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པའི་ལས་དེས་ནི་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་འཕྱེ་བོར་གྱུར་ཏོ།
+# ། དེ་འགྱོད་པར་གྱུར་ཏེ་ རབ་ཏུ་བྱུང་ནས་ ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དེ་
+# འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ། འདི་ལྟར་
+# བདག་གིས་སེམས་ཅན་དག་པ་འདི་ལྟ་བུ་ལ་ཚིག་རྩུབ་པོ་<«གཡུང་»«པེ་»མོ།>སྨྲས་པའི་ལས་དེའི་སྐལ་བ་ཅན་དུ་བདག་མ་གྱུར་ཅིག
+# །
+# བརྒྱ་ལ་ལས་དེའི་རྣམ་པར་སྨིན་པ་བདག་ལ་སྨིན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ་བདག་ལ་སྨིན།>པར་གྱུར་ན་ཡང་རབ་ཏུ་འབྱུང་<«གཡུང་»«པེ་»«ཞོལ་»བྱུང་།>བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་བདག་གི་<«ཁུ་»གིས།>མ་ལེགས་པ་མེད་པར་གྱུར་ཏེ།
+# ལེགས་པ་འབྱུང་<«གཡུང་»«པེ་»བྱུང་།>བར་གྱུར་ཅིག་ཅེས་
+# བྱས་པ་དེས་ནི་ད་<«གཡུང་»དེ།>ལྟར་རབ་ཏུ་བྱུང་བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་ལུས་ཀྱི་ཡན་ལག་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་པར་གྱུར་ཏོ།
+# ། དེས་དེར་སྨོན་ལམ་བཏབ་སྟེ་ ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས།
+# བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག
+# ། མི་མཉེས་པར་<«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག །
+# དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་ ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་ བྱས་པས་ནི།
+# དགེ་སློང་དག་ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་པར་གྱུར་ནས།
+# འདིས་ང་མཉེས་པར་བྱས་ཏེ་<«གཡུང་»«པེ་»སྟེ།>
+# མི་མཉེས་པར་<«ཅོ་»+བྱས་ཏེ་མི་མཉེས་པར།>མ་བྱས་ལ་
+# ང་ཉིད་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་ ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། །
+msgctxt "line 30, 13.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, le moine qui s’était retiré du "
+"monde selon l’enseignement du complet et parfait Bouddha Kāśyapa est Paṅgu "
+"lui-même et l’action d’avoir dit ces paroles blessantes à son frère le "
+"rendit estropié partout où il naissait. Il regretta et se retira du monde et"
+" vécu chastement toute sa vie et fit ce souhait au moment de mourir : « Eh "
+"bien (lit. comme ceci) Puissé-je de pas devoir subir [le résultat] d’avoir "
+"dit des paroles blessantes à un être comme lui. Si par hasard (lit. sur "
+"cent), le résultat mûrit sur moi, puisse mon mal disparaître dès que je "
+"conçois l’idée de me retirer du monde et puisse ce qui est bien m’arriver. »"
+" Avoir formulé (lit. fait) ce souhait fit que maintenant, son corps trouva "
+"toutes les facultés physiques au moment où il conçut la pensée de se retirer"
+" du monde. Le souhait qu’il formula (« Puissé-je contenter par mes actes le "
+"Bienheureux Bouddha que [deviendra] le jeune brahmane Uttara [d’après] la "
+"prophétie du complet et parfait Bouddha Kāśyapa. Puissé-je ne rien faire qui"
+" le mécontente. M’étant retiré du monde d’après son (lit. à lui-même) "
+"enseignement et après avoir éliminé toutes les émotions perturbatrices, "
+"puissé-je manifester l’état d’arhat (lit. l’arhat-même). » Puisqu’il a fait "
+"ce souhait, moines, je suis devenu en tout point (lit. très) l’égal du "
+"complet et parfait Bouddha Kāśyapa, j’ai obtenu une force égale [à la "
+"sienne], des moyens [habiles] égaux [aux siens] et des actes égaux [aux "
+"siens], il m’a contenté et n’a rien fait qui me mécontente, puis il s’est "
+"retiré du monde selon mon (lit. à moi-même) enseignement et après avoir "
+"éliminé toutes les émotions perturbatrices, il manifesta l’état d’arhat "
+"(lit. l’arhat-même)."
+msgstr ""
+
+# དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་ ཀྱེ་མ་
+# མི་རྒོད་ལྔ་བརྒྱ་པོ་འདི་དག་འཕྱེ་བོ་འདི་དང་མཇལ་<«གཡུང་»«པེ་»འཇལ།>ནས་
+# རབ་ཏུ་བྱུང་སྟེ། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་པ་ལ་གཟིགས། བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
+# དགེ་སློང་དག་ ད་ལྟར་འབའ་ཞིག་མ་ཡིན་གྱི་
+# འདས་པའི་དུས་ན་ཡང་མི་རྒོད་ལྔ་བརྒྱ་པོ་འདི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+ཉིད།>དག་འཕྱེ་བོ་འདི་ཉིད་དང་ཕྲད་ནས་
+# རབ་ཏུ་བྱུང་སྟེ། བསམ་གཏན་བཞི་དང་མངོན་པར་ཤེས་པ་ལྔ་བསྐྱེད་པ་དེ་ཉོན་ཅིག །
+msgctxt "line 31, 13.txt"
+msgid ""
+"Puis les moines s’adressèrent au Bienheureux : « Vénérable, Quelle "
+"merveille ! Ces cinq cent brigands ont rencontré cet estropié et ils se sont"
+" retirés du monde et après avoir éliminé toutes les émotions perturbatrices,"
+" ils ont manifesté l’état d’arhat. Posez-y votre regard. » Le Bienheureux "
+"dit : « Moines, Ce n’est pas uniquement maintenant [que ceci est arrivé]. En"
+" effet, dans le passé aussi, les cinq cent brigands ont rencontré ce même "
+"estropié et ils se sont retirés du monde et ils développèrent les quatre "
+"concentrations et les cinq clairvoyances. Écoutez donc."
+msgstr ""
+
+# དགེ་སློང་དག་
+# སྔོན་བྱུང་བ་འདས་པའི་དུས་ན་མི་རྒོད་ལྔ་བརྒྱ་ཙམ་ནགས་ཁྲོད་ཅིག་ན་རྟེན་ཅིང་གནས་ཏེ།
+# དེ་དག་གིས་རི་ཁྲོད་ཀྱི་གྲོང་ཞིག་བཅོམ་སྟེ། ནོར་ཟས་མང་པོ་དེ་ནས་བླངས་སོ། །
+# མི་འདི་ཡང་ནགས་<«ཅོ་»ནག>ཁྲོད་དེ་ཉིད་ན་རྟེན་ཅིང་འདུག་པ་ལས་
+# མི་རྒོད་དེ་དག་དེར་དོང་བས་<«སྣར་»«ཞོལ་»བ་ལས།>གནོད་སྦྱིན་ལ་<«གཡུང་»«པེ་»ལས།>མི་མཆོད་པའི་ཕྱིར་བཟུང་སྟེ།
+# དེ་དག་ནགས་ཁྲོད་དེར་དོང་ནས་ གནོད་སྦྱིན་དེའི་མདུན་དུ་བ་ལང་གི་ལྕི་བས་བྱུགས་ཏེ།
+# བུམ་པ་གང་བ་དང་མི་དེ་བཞག་ནས་ རལ་གྲི་རྣོན་པོ་ཐོགས་ཏེ།
+# གནོད་སྦྱིན་གྱི་མདུན་དུ་འདུག་ནས་ མཆོད་སྦྱིན་བྱས་སོ། །
+msgctxt "line 32, 13.txt"
+msgid ""
+"Moines, dans une époque maintenant révolue, environ cinq cent brigands "
+"s’étaient établis et vivaient dans une forêt et ils mirent à sac un village "
+"de montagne et y prirent beaucoup de richesses et de nourriture. Cet homme "
+"s’était aussi établi et vivait aussi dans cette forêt et les brigands "
+"allèrent vers lui et l’attrapèrent pour faire une offrande humaine au yakṣa."
+" Alors, ils allèrent dans leur repère (lit. milieu de forêt) et ils "
+"appliquèrent de la bouse de vache devant ce yakṣa et y disposèrent un vase "
+"plein et cet homme et ils prirent (lit. portèrent) des épées affûtées et ils"
+" s’installèrent devant le yakṣa et ils firent le sacrifice."
+msgstr ""
+
+# མི་དེས་ཀྱང་བདག་འདི་རྣམས་ཀྱིས་བསད་དེ་
+# གནོད་སྦྱིན་གྱི་མཆོད་པ་བྱེད་པར་སེམས་སམ་<«གཡུང་»མི་སེམས།>སྙམ་ནས་
+# དེ་ཤིན་ཏུ་འཇིགས་ཤིང་སྐྲག་པར་གྱུར་ཏོ། ། འཇིགས་ཤིང་སྐྲག་ནས་ བསམས་པ།
+# བདག་སུ་ཞིག་ལ་སྐྱབས་སུ་འགྲོ་བར་བྱ།
+# བདག་ལ་སུ་ཞིག་སྲོག་ཕངས་པ་སྦྱིན་པར་འགྱུར་སྙམ་མོ། །
+# དེ་ནས་དེའི་ཚེ་རི་ཁྲོད་དེ་ནས་ཐག་མི་རིང་བ་ཞིག་ན་དཀའ་ཐུབ་ཀྱི་གནས་ཤིག་གི་ནང་ན་<«གཡུང་»«པེ་»ནས།>[52a]དྲང་སྲོང་ཞིག་གནས་སོ།
+# ། དེའི་ཚེ་མི་དེས་དྲང་སྲོང་དེ་ཡིད་ལ་དྲན་ནས་
+# དེས་དད་པའི་སེམས་ཀྱིས་དྲང་སྲོང་དེ་ལ་གསོལ་བ་བཏབ་པ།
+# བཅོམ་ལྡན་འདས་ནི་མི་གཟིགས་པ་དང་། མི་མཁྱེན་པ་དང་།
+# ཐུགས་སུ་<«གཡུང་»–སུ།>མི་ཆུད་པ་ཅི་ཡང་མི་མངའ་ན་ ཀྱེ་མ་
+# བདག་ལ་སྲོག་ཕངས་པ་སྩལ་དུ་གསོལ། དཀའ་བ་སྐུ་ཉམས་སུ་བཞེས་པར་གསོལ་ཞེས་ བྱས་སོ། །
+msgctxt "line 33, 13.txt"
+msgid ""
+"Cet homme, quant à lui, « Ils vont me tuer et vont [m’]offrir au yakṣa. "
+"C’est ce qu’ils pensent. » pensa-t-il. Puis, il fut pris d’une grande "
+"panique. Pris de panique, il pensa : « En qui pourrais-je trouver un "
+"refuge ? Qui m’accordera la vie que je pleure (lit. je regrette d’avoir "
+"perdu) ? » pensa-t-il. Alors, à cette époque, non loin de là dans la "
+"montagne, dans un endroit [dédié] aux austérités, vivait un ṛṣi. À ce "
+"moment, cette personne pensa au ṛṣi et il pria mentalement ce ṛṣi avec "
+"dévotion : « Bienheureux, puisqu’il n’est rien que vous ne voyiez pas, que "
+"vous ne sachiez pas et que vous ne compreniez pas, Quelle merveille ! "
+"Veuillez m’accorder la vie que je pleure (lit. je regrette d’avoir perdu). "
+"Veuillez prendre sur vous les difficultés [pour le faire]. » dit-il."
+msgstr ""
+
+# དེ་ནས་དྲང་སྲོང་དེ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–ལ།>དགའ་བའི་ལྷ་ཞིག་གིས་མི་དེའི་བསམ་པ་སེམས་ཀྱིས་ཤེས་ནས་
+# དྲང་སྲོང་དེ་ལ་སྦྲན་ཏོ། །
+# དེ་ནས་དྲང་སྲོང་གིས་ཐོས་མ་ཐག་ཏུ་རང་གི་དཀའ་ཐུབ་ཀྱི་གནས་ནས་མི་སྣང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གནང་།>བར་གྱུར་ཏེ།
+# མི་རྒོད་དེ་དག་གི་མདུན་<«གཡུང་»«ལི་»«ཅོ་»འདུན།>དུ་འོངས་ནས་
+# མི་རྒོད་དེ་དག་གིས་དྲང་སྲོང་དེ་མཐོང་ངོ་། ། མཐོང་ནས་ཀྱང་
+# དེ་དག་མཆོག་ཏུ་དགའ་བར་གྱུར་ཏོ། ། དགའ་བར་གྱུར་ནས་ དྲང་སྲོང་བཀའ་ཅི་སྩལ་ཞེས་
+# བྱས་སོ། ། དྲང་སྲོང་གིས་སྨྲས་པ། མི་འདི་ཐོང་ལ་ ངའི་མདུན་དུ་འཁོད་ཅིག་དང་
+# ཁྱོད་ལ་ཆོས་བཤད་དོ། ། དེ་ནས་དྲང་སྲོང་གིས་བཀའ་སྩལ་པ་བཞིན་དུ་འཚལ་ལོ་ཞེས་
+# སྨྲས་ནས། མི་རྒོད་དེ་དག་གིས་མི་དེ་བཏང་སྟེ། དྲང་སྲོང་དེའི་རྐང་པ་ལ་ཕྱག་འཚལ་ནས་
+# ཆོས་མཉན་པའི་ཕྱིར་མདུན་དུ་འཁོད་དོ། །
+# དེ་ནས་དྲང་སྲོང་དེས་དེ་དག་ལ་ཆོས་དེ་ལྟ་བུ་བསྟན་ཏེ་
+# དེས་ན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ན།>མི་དེ་དང་མི་རྒོད་ལྔ་བརྒྱ་དྲང་སྲོང་དེ་ཉིད་ཀྱི་ཐད་དུ་རབ་ཏུ་བྱུང་ནས།
+# བསམ་<«གཡུང་»བསམས།>གཏན་བཞི་དང་མངོན་པར་ཤེས་པ་ལྔ་བསྐྱེད་དོ། །
+msgctxt "line 34, 13.txt"
+msgid ""
+"Ensuite, un dieu qui aimait ce ṛṣi connut par l’esprit les pensées de cet "
+"homme et il les raconta au ṛṣi. Ensuite, dès que le ṛṣi l’eut entendu, il "
+"disparut de l’endroit de ses austérités et il vint devant ces brigands et "
+"ces brigands virent ce ṛṣi. L’ayant vu, ils ressentirent une joie intense "
+"(lit. suprême). Emplis de joie, « Que nous commandez-vous, ṛṣi ? » dirent-"
+"ils. Le ṛṣi dit : « relâchez cet homme et installez-vous devant moi. Je vous"
+" enseignerai le Dharma. » Ensuite, « Nous ferons selon les ordres de ṛṣi. » "
+"dirent-ils. Puis, les brigands relâchèrent cet homme et ils se prosternèrent"
+" aux pieds du ṛṣi et s’installèrent devant lui pour écouter le Dharma. "
+"Ensuite, le ṛṣi leur donna un enseignement correspondant (lit. comme ceci) "
+"et de ce fait, cet homme et les cinq cent brigands se retirèrent du monde "
+"auprès de ce ṛṣi et ils développèrent les quatre concentrations et les cinq "
+"clairvoyances."
+msgstr ""
+
+# དགེ་སློང་དག་ ཇི་<«གཡུང་»«པེ་»འདི།>སྙམ་དུ་སེམས།
+# དེའི་ཚེ་དྲང་སྲོང་དུ་གྱུར་པ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་གནས་པར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་ང་ཡིན་ནོ།
+# ། དེའི་ཚེ་མི་གང་ཡིན་པ་དེ་ནི་འཕྱེ་བོ་འདི་ཉིད་ཡིན་ནོ། །
+# མི་རྒོད་ལྔ་བརྒྱར་གྱུར་པ་གང་ཡིན་པ་དེ་དག་ནི་མི་རྒོད་ལྔ་བརྒྱ་པོ་འདི་དག་ཉིད་ཡིན་ཏེ།
+# དེའི་ཚེ་འདི་རྣམས་ཀྱིས་མི་དེ་ལས་<«གཡུང་»«པེ་»«ཞོལ་»ལ།>བརྟེན་ནས་
+# རབ་ཏུ་བྱུང་སྟེ་ བསམ་གཏན་བཞི་དང་མངོན་པར་ཤེས་པ་ལྔ་བསྐྱེད་དོ། །
+# ད་ལྟར་ཡང་འཕྱེ་བོ་འདི་ཉིད་ལ་བརྟེན་ནས་ རབ་ཏུ་བྱུང་སྟེ་<«ཁུ་»ཏེ།>
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། །
+# ལས་བརྒྱ་པ་ལས་སྡོམ་གྱི་ཚིགས་སུ་བཅད་<«ཅོ་»བཅུད།>པ་དང་པོ་རྫོགས་སོ<«གཡུང་»«ལི་»«པེ་»«ཅོ་»སྷོ།>།།
+# །།
+msgctxt "line 35, 13.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, celui qui était un ṛṣi établi "
+"dans la conduite des bodhisattvas, c’était moi-même. À cette époque, celui "
+"qui était cet homme est Paṅgu lui-même. Ceux qui étaient les cinq cent "
+"brigands sont ces cinq cent brigands. De plus, à cette époque, eux, grâce à "
+"cet homme, ils se sont retirés du monde et ils développèrent les quatre "
+"concentrations et les cinq clairvoyances. Maintenant aussi, grâce à Paṅgu "
+"lui-même, ils se sont retirés du monde et après avoir éliminé toutes les "
+"émotions perturbatrices, ils ont manifesté l’état d’arhat. Ceci conclut le "
+"premier verset résomptif des Cents Karmas."
+msgstr ""

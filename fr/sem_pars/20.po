@@ -1,0 +1,288 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# སྐྲ་<«གཡུང་»སྐུ། «པེ་»སྒྲ།>ལྡན་མ་ཞེས་བྱ་བ་ནི།
+msgctxt "line 1, 20.txt"
+msgid "Celle nommée Keśinī"
+msgstr ""
+
+# བྱང་ཆུབ་སེམས་དཔའ་དགའ་ལྡན་གྱི་གནས་ན་<«སྣར་»«ཞོལ་»སུ།>བཞུགས་ཙམ་ན་ཡུལ་སེར་སྐྱའི་གནས་ན་རྒྱལ་པོ་སེང་གེའི་འགྲམ་<«ཁུ་»བགྲམ།>རྒྱལ་པོ་བྱེད་དེ།
+# དེ་བཙུན་མོ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་པ་ལས་
+# སྔ་<«གཡུང་»ལྔ།>ཕྱིར་བུ་ཕོ་བཞི་དང་བུ་མོ་བཞི་བཙས་ཏེ་
+# ཟས་གཙང་<«གཡུང་»བཙང་།>དང་ཟས་དཀར་དང་བྲེ་བོ་ཟས་དང་བདུད་རྩི་ཟས་དང་གཙང་མ་དང་དཀར་མོ་དང་བྲེ་བོ་མ་དང་བདུད་རྩི་མ་རྣམས་སོ།
+# །
+msgctxt "line 2, 20.txt"
+msgid ""
+"Quand le Bodhisattva demeurait dans le paradis (lit. lieu) de Tuṣita, le roi"
+" Siṃhahanu régnait sur le pays de Kapilavastu et lui et sa reine se "
+"divertirent, ils [apprirent] à s’aimer et laissèrent libre cours à leurs "
+"envies et de ce fait, à des moments différents, quatre fils et quatre filles"
+" naquirent, Śuddhodana, Śuklodana, Droṇodana et Amṛtodana, puis Śuddhā, "
+"Śuklā, Droṇā et Amṛtā."
+msgstr ""
+
+# དེའི་ཚེ་ཡུལ་སྤོང་བྱེད་ན་རྒྱལ་པོ་ཤཱཀྱ་རབ་སད་<«གཡུང་»«པེ་»སངས།>གནས་ཏེ།
+# དེའི་བཙུན་མོ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དགའ་ལ།>དགའ་མགུར་སྤྱོད་པ་ལ་
+# བུ་མོ་གཉིས་བཙས་ཏེ། གཅིག་གི་མིང་ནི་སྒྱུ་འཕྲུལ་ཞེས་ བཏགས་སོ། །
+# གཅིག་གི་མིང་ནི་སྒྱུ་འཕྲུལ་ཆེན་མོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པོ>ཞེས་
+# བཏགས་སོ། །
+msgctxt "line 3, 20.txt"
+msgid ""
+"À cette époque, le roi Śākya Suprabuddha vivait dans le pays de Vṛji et lui "
+"et sa reine se divertirent, ils [apprirent] à s’aimer et laissèrent libre "
+"cours à leurs envies et de ce fait, deux filles naquirent et « Māyā » fut le"
+" nom que l’une reçut (lit. donné). « Mahā­māyā » fut le nom que l’autre "
+"reçut (lit. donné)."
+msgstr ""
+
+# དེ་ནས་དེ་གཉིས་འོ་མ་དང་<«ཅོ»–དང་།>། ཞོ་དང་། མར་དང་། ཞུན་མར་དང་།
+# མར་གྱི་སྙིང་གུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
+# མཚོའི་ནང་གི་པད་མ་བཞིན་དུ་སྐྱེ་དྲག་པར་གྱུར་ཏོ། །
+# དེ་ནས་དེ་གཉིས་ལ་མཚན་མཁན་རྣམས་ཀྱིས་བལྟས་ནས།
+# བུ་<«གཡུང་»ལྷ།>མོ་སྒྱུ་འཕྲུལ་ལས་ནི་བུ་མཚན་ཕུན་སུམ་ཚོགས་པ་ཞིག་བཙའ་བར་འགྱུར་ལ།
+# སྒྱུ་འཕྲུལ་ཆེན་མོ་ལས་ནི་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོ་བཙའ་བར་འགྱུར་རོ་ཞེས་
+# ལུང་བསྟན་ཏེ། དེ་གཉིས་ཀྱི་<«སྣར་»«ཞོལ་»ཉིད་ཀྱི།
+# «ཅོ་»གཉིས་ཀྱིས།>སྐྲ་ཏིལ་མར་གྱི་ཐིགས་པ་ཆུར་<«ཞོལ་»ཆུང་།>བླུགས་པ་བཞིན་དུ་རྒྱས་པར་གྱུར་ཏོ།
+# །
+msgctxt "line 4, 20.txt"
+msgid ""
+"Alors, elles se développèrent toutes les deux au fil du temps grâce à du "
+"lait, du yaourt, du beurre, du beurre purifié (lit. fondu) et du beurre sur-"
+"purifié (lit. l’essence du beurre) et comme des lotus dans un lac, elles "
+"grandirent avec force. Ensuite, les augures (lit. ceux qui regardent les "
+"signes) les regardèrent : « La fille Māyā fera naître un fils aux "
+"caractéristiques merveilleuses (lit. parfaites) et Mahā­māyā fera naître un "
+"monarque universel. » prédirent-ils. Puis, Les cheveux à elles deux se "
+"développèrent comme une goutte d’huile de sésame qu’on fait tomber dans "
+"l’eau."
+msgstr ""
+
+# དེ་ནས་རྒྱལ་པོ་སེང་གེ་འགྲམ་གྱིས་ཐོས་ནས།
+# རྒྱལ་པོ་རབ་སད་<«གཡུང་»«པེ་»སངས།>ལ་ཕོ་ཉ་བཏང་སྟེ།
+# ཁྱོད་ཀྱི་བུ་མོ་དེ་གཉིས་བདག་གི་བུའི་ཆུང་མར་བྱིན་ཅིག །<«གཡུང་»«པེ་»གཅིག>
+# འདི་ན་<«ཅོ་»ནི།>ཤཱཀྱ་རྣམས་ཀྱིས་ནི་སུས་ཀྱང་ཐབས་ཟླར་བབ་པའི་ཆུང་མ་གཉིས་མི་བླང་བའི་ནང་ཁྲིམས་དེ་ལྟ་བུ་བཅས་མོད་ཀྱི།
+# གལ་ཏེ་བདག་གིས་ཤཱཀྱ་རྣམས་ཀྱིས་དད་པ་གནང་བར་བྱེད་ནུས་ན་ཕྱིས་གཉི་ག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཁུ་»གཉིས་ག>བླང་ངོ་ཞེས་
+# སྤྲིང་<«ཞོལ་»སྤྲིངས།>ནས། སེང་གེ་འགྲམ་གྱིས་ཤཱཀྱ་རྣམས་ལ་གསོལ་བ་བཏབ་ནས།
+# དེའི་བུ་མོ་གཉི་ག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཉིས།>ཁྱིམ་ན་གནས་པ་རྣམས་ཀྱི་ཁྱིམ་པའི་ཆོས་བཞིན་དུ་བྱས་ཏེ་
+# ཟས་གཙང་གི་བཙུན་མོར་བླངས་སོ། །
+msgctxt "line 5, 20.txt"
+msgid ""
+"Ensuite, le roi Siṃhahanu l’entendit et il envoya un messager au roi "
+"Suprabuddha : « Donne tes deux filles comme épouses à mon fils. Ici, bien "
+"que les Śākyas appliquent la règle interne que personne ne peut prendre deux"
+" épouses en âge de se marier, si je parviens à faire que les Śākyas donner "
+"la permission de bon gré (lit. par dévotion), alors seulement je les "
+"prendrai toutes les deux. » fit-il dire. Puis, Siṃhahanu fit la requête aux "
+"Śākyas et en suivant (lit. faisant) les traditions (lit. dharma) familiales "
+"vertueuses des pères de famille, les deux filles, il les prit comme reines "
+"pour Śuddhodana."
+msgstr ""
+
+# དེར་རྒྱལ་པོ་རབ་སད་<«གཡུང་»«པེ་»སངས།>ཀྱིས་དེ་གཉིས་ལ་བུ་མོ་སྐྲ་ལྡན་མ་ཞེས་བྱ་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+སྐྲ།>སྐྲ་མཁན་དུ་བྱིན་ནོ།
+# ། དེ་ནས་གང་གི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་བཙས་པ་ན།
+# དེ་བཙས་ནས་ཞག་བདུན་ལོན་པའི་འོག་ཏུ་སྒྱུ་འཕྲུལ་ཆེན་མོ་ཤི་ནས་
+# དེ་ཤི་བའི་<«གཡུང་»«པེ་»–འོག་ཏུ་སྒྱུ་འཕྲུལ་ཆེན་མོ་ཤི་ནས་དེ་ཤི་བའི།
+# «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–ཆེན་མོ།>འོག་ཏུ་སུམ་ཅུ་<«གཡུང་»«ལི་»«པེ་»བཅུ།>རྩ་གསུམ་པའི་ལྷ་ཡུལ་དུ་སྐྱེས་སོ།
+# །
+# བུ་མོ་སྐྲ་ལྡན་མ་ནི་དེ་དང་བྲལ་བས་<«གཡུང་»«པེ་»བར།>སྒྱུ་འཕྲུལ་ཆེན་མོའི་སྐྲ་ལ་<«གཡུང་»མོ་སྐྲ་ལས།
+# «མི་»«པེ་»«སྣར་»«ཅོ་»མོའི་སྐྲ་ལས།>འཇུས་ནས། ཤིན་ཏུ་མྱ་ངན་བྱེད་ཅིང་
+# འབུབ་<«སྣར་»དབུག «ཞོལ་»དབུགས།>འདྲིལ་ལ་ སྨྲེ་སྔགས་འདོན་ཅིང་
+# བྲང་རྡུང་སྟེ<«ཞོལ་»བརྡུངས་ཏེ།>།
+# སུས་ཀྱང་དེའི་མྱ་ངན་བསང་<«གཡུང་»«པེ་»བསངས།>མ་ནུས་སོ། །
+msgctxt "line 6, 20.txt"
+msgid ""
+"Alors, le roi Suprabuddha leur donna à toutes les deux la dénommée Keśinī "
+"comme coiffeuse. Ensuite, quand le Bodhisattva naquit, lorsque sept jours "
+"passèrent après sa naissance, Mahā­māyā mourut et après être morte, elle "
+"naquit dans le paradis des Trente-Trois. La fille Keśinī, étant séparée "
+"d’elle, elle s’agrippa aux cheveux de Mahā­māyā et elle fut extrêmement "
+"affligée, elle se referma sur elle-même, elle se lamenta et se frappait la "
+"poitrine. Personne ne parvint à ôter sa tristesse."
+msgstr ""
+
+# དེ་ནས་གང་གི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་སྐུ་ཆེར་འཁྲུངས་པ་དེའི་ཚེ།
+# དེས་རྒན་<«གཡུང་»«པེ་»རྒམ།>པོ་དང་ནད་པ་དང་ཤི་བ་གཟིགས་ནས་
+# ནགས་ཀྱི་ནང་དུ་རྟེན་བཅས་ཏེ། ལོ་དྲུག་གི་བར་དུ་དཀའ་བ་སྤྱད་ནས་
+# བླ་ན་མེད་པའི་ཡེ་ཤེས་བརྙེས་ཏེ། མཐར་གྱིས་འདུལ་བའི་དོན་མཛད་ཅིང་
+# ཡུལ་སེར་སྐྱའི་གནས་སུ་གཤེགས་སོ། ། དེ་དེར་གཤེགས་ནས་ ཤཱཀྱ་རྣམས་རབ་ཏུ་ཕྱུང་ངོ་།
+# །
+# སྐྱེ་དགུའི་<«ཞོལ་»རྒྱའི།>བདག་མོ་ཆེན་མོ་གཽ་ཏ་མཱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»མི།>ཡང་རབ་ཏུ་ཕྱུང་ངོ་།
+# སྐྲ་ལྡན་མ་ཡང་རབ་ཏུ་ཕྱུང་སྟེ། དེས་ཀྱང་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
+# དེ་བཅོམ་ལྡན་འདས་ཀྱིས་བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་ཏོ། །
+msgctxt "line 7, 20.txt"
+msgid ""
+"Ensuite, quand le Bodhisattva eut grandit, il vit une vieille personne, un "
+"malade et un mort et il s’établit dans la forêt et pratiqua l’ascèse pendant"
+" six ans et obtint l’insurpassable sagesse et fit progressivement le bien "
+"des êtres et alla dans le pays de Kapilavastu. Lorsqu’il y fut allé, les "
+"Śākyas se retirèrent du monde. Mahā­prajāpatī Gautamī se retira aussi du "
+"monde. Keśinī se retira aussi du monde et après qu’elle eut éliminé toutes "
+"les émotions perturbatrices, elle manifesta l’état d’arhat (lit. l’arhat-"
+"même). Alors, Le Bienheureux proclama (lit. la montra) qu’elle était suprême"
+" parmi ceux dotés de diligence."
+msgstr ""
+
+# དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་
+# སྐྲ་ལྡན་མས་ལས་ཅི་བགྱིས་ན།
+# ལས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལས།>དེའི་རྣམ་པར་སྨིན་པས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་ཤཱཀྱའི་རིགས་སུ་སྐྱེས་ལགས།
+# ལས་ཅི་བགྱིས་ན་
+# དེས་བྲན་མོ་གཞན་གྱི་[67b]མངག་གཞུག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བཞུག>བགྱིད་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འགྱུར།>ལགས།
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། སྨོན་ལམ་གྱི་དབང་ལས་གྱུར་ཏོ། །
+# འདིས་གང་དུ་སྨོན་ལམ་བཏབ་ལགས།
+msgctxt "line 8, 20.txt"
+msgid ""
+"Puis les moines s’adressèrent au Bienheureux : « Vénérable, quelles actions "
+"Keśinī a réalisées pour que le résultat de ces actions le fit naître dans "
+"une lignée familiale Śākya qui est riche, possède de grandes (lit. "
+"nombreuses) richesses et de nombreux (lit. grands) biens ? Quelles actions "
+"a[-t-elle] réalisées pour qu’ elle soit une servante, qui suit les ordres "
+"des autres ? » Le Bienheureux dit : « Ceci est arrivé par le pouvoir de ses "
+"souhaits. » « Quels souhaits a-t-elle formulés ? »"
+msgstr ""
+
+# དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
+# བསྐལ་པ་དགུ་བཅུ་<«ལི་»«ཅོ་»ཅུ།>རྩ་གཅིག་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ།>ལ།
+# དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ།
+# བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ།
+# བླ་ན་<«གཡུང་»–ན།>མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ།
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམ་པར་གཟིགས་ཞེས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཤེས།>བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།
+# དེ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་
+# གྲོང་ཁྱེར་གཉེན་<«ཞོལ་»གཉེར།>ལྡན་དུ་གཤེགས་ཏེ། དེ་ལྕམ་གཉིས་ཀྱིས་བཤོས་གསོལ་བ་ན།
+# དེར་གཅིག་གིས་སྨོན་ལམ་བཏབ་པ། བདག་ལས་འདི་ལྟ་བུའི་སྐྱེས་བུ་རིན་པོ་ཆེ་བཙས་ཏེ།
+# དེ་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག ། མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག་ཅེས་ བྱས་སོ། །
+# བུ་མོ་ཅིག་<«གཡུང་»«པེ་»མོ་གཅིག
+# «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»བུ་མོ་གཅིག>ཤོས་ཀྱིས་སྨོན་ལམ་བཏབ་པ།
+# བདག་ཀྱང་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཁྱོད་དང་སྤུན་དུ་གྱུར་ཅིག །
+# བདག་འདི་ལྟ་བུའི་སྐྱེས་བུ་རིན་<«གཡུང་»ཆིན།>པོ་ཆེ་དེ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»–དེ།>འཚོ་བར་གྱུར་ཅིག་ཅེས་
+# བྱས་སོ། །
+# དེ་སྤུན་གཉིས་ཀྱི་སྐྲ་མཁན་བྱེད་པའི་བུ་མོ་དེ་ཡང་དེ་ན་འདུག་པར་གྱུར་ཏེ།
+# བུ་མོ་དེས་ཀྱང་དེ་གཉིས་ཀྱི་སྨོན་ལམ་དེ་ལྟ་བུ་དེ་བཏབ་པ་ཐོས་ནས།
+# ཐོས་མ་ཐག་<«ཞོལ་»ཐམ>ཏུ་
+# དེས་ཀྱང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམ་པར་གཟིགས་ལ་<«ལི་»«ཅོ་»–ལ།>བཀུར་སྟི་བྱས་ཏེ།
+# སྨོན་ལམ་བཏབ་པ་ ཀྱེ་མ་ བདག་ཀྱང་དགེ་བའི་རྩ་བ་འདིས།
+# འདི་གཉིས་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་བདག་འདི་གཉིས་ཀྱི་སྐྲ་མཁན་མ་བསྙེན་བཀུར་བྱེད་པར་གྱུར་ནས།
+# འདི་གཉིས་ཀྱི་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–ཀྱི།>བུ་རིན་པོ་ཆེ་དེ་<«ཞོལ་»–དེ།>མཉེས་པར་བྱེད་པར་གྱུར་ཅིག་
+# མི་མཉེས་པར་<«ལི་»«ཅོ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག་ཅེས་ བྱས་ཏེ་
+# དེར་འདིས་སྨོན་ལམ་འདི་ལྟ་བུ་བཏབ་བོ། །
+msgctxt "line 9, 20.txt"
+msgid ""
+"« Moines, à un moment du passé qui s’est déroulé auparavant, pendant le "
+"quatre-vingt-onzième éon, le tathāgata, l’arhat, le complet et parfait "
+"bouddha, celui doté de la vision et des jambes, le sugata, le connaisseur du"
+" monde, l’insurpassable cocher des êtres à guider, l’enseignant des dieux et"
+" des hommes, le Bienheureux Bouddha Vipaśyin était apparu en ce monde et il "
+"s’était éveillé à l’insurpassable, complet et parfait éveil et il alla dans "
+"la ville de Bandhumatī et deux dames lui offrirent le repas et l’une formula"
+" ce souhait : “Puisse un être précieux comme celui-ci naître de moi et "
+"puissé-je le contenter. Puissé-je ne rien faire qui le mécontente.” dit-"
+"elle. L’autre fille formula ce souhait : ”Puissé-je toujours naître comme ta"
+" sœur (lit. personne qui a les même parents). Puissé-je prendre soin d’un "
+"tel être précieux.” dit-elle. La jeune coiffeuse de ces deux sœurs se "
+"trouvait aussi là et cette jeune femme entendit les souhaits qu’elles "
+"avaient toutes les deux faits et dès qu’elle les eut entendus, elle rendit "
+"hommage au complet et parfait bouddha Vipaśyin et elle fit ce souhait : "
+"“Quelle merveille ! Moi aussi, grâce à ces racines vertueuses, puissé-je "
+"toujours servir ces deux [sœurs] et être leur coiffeuse et puissé-je "
+"contenter le précieux fils de ces deux [sœurs]. Puissé-je ne rien faire qui "
+"le mécontente.” dit-elle. Ainsi, c’est un tel souhait qu’elle formula "
+"alors. »"
+msgstr ""
+
+# བཙུན་པ་ ལས་ཅི་བགྱིས་ན། འདིས་བཅོམ་ལྡན་འདས་ཀྱང་མཉེས་པར་བགྱིས་ཏེ་
+# མི་མཉེས་པར་མ་བགྱིས་ཏེ།
+# བཅོམ་ལྡན་འདས་ཀྱི་<«ལི་»«སྣར་»«ཅོ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་<«གཡུང་»–ཉིད།>མངོན་སུམ་དུ་བགྱིས་ནས།
+# བཅོམ་ལྡན་འདས་ཀྱིས་བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་ཡང་བསྟན་ལགས།
+msgctxt "line 10, 20.txt"
+msgid ""
+"« Vénérable, Quelles actions a[-t-elle] réalisées [pour] qu’elle contente "
+"aussi le Bienheureux et ne rien faire pour le mécontenter et se retirer du "
+"monde selon l’enseignement du Bienheureux et éliminer toutes les émotions "
+"perturbatrices et manifester l’état d’arhat et pour que le Bienheureux "
+"proclame qu’elle est suprême parmi ceux dotés de diligence ? »"
+msgstr ""
+
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
+# འདི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་གསུང་རབ་ལ་རབ་ཏུ་བྱུང་སྟེ།
+# གང་ལས་རབ་ཏུ་བྱུང་བའི་མཁན་མོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པོ།>དེ་ནི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་ཏོ།
+# ། དེ་ནས་དེས་<«ཞོལ་»དེའི།>ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ནས།
+# འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
+# འདི་ལྟར་བདག་གིས་<«ཞོལ་»ཉིད།>ཡང་དག་པར་རྫོགས་པའི་<«ཅོ་»–པའི།>སངས་རྒྱས་འོད་སྲུང་གི་གསུང་<«ཅོ་»སུང་།>རབ་ལ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ཀྱང་།
+# ཡོན་ཏན་གྱི་ཚོགས་ཅི་<«གཡུང་»«པེ་»–ཅི།>ཡང་མ་ཐོབ་ཀྱིས་<«ཞོལ་»ཀྱི།>
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་<«གཡུང་»«པེ་»པས།>བྱེད་པར་གྱུར་ཅིག
+# ། མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག ། དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །
+# ཇི་ལྟར་བདག་གིས་<«ཁུ་»«ཞོལ་»གི།>མཁན་མོ་<«གཡུང་»«པེ་»པོ།>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་པ་དེ་བཞིན་དུ་བདག་ཀྱང་ཤཱཀྱ་ཐུབ་པ།
+# ཤཱཀྱའི་རྒྱལ་པོ་དེས་བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་པར་གྱུར་ཅིག་ཅེས་
+# བྱས་སོ། །
+msgctxt "line 11, 20.txt"
+msgid ""
+"Le Bienheureux dit : « Elle se retira du monde selon l’enseignement du "
+"complet et parfait Bouddha Kāśyapa et la préceptrice avec qui elle s’était "
+"retirée du monde avait été proclamée par le complet et parfait Bouddha "
+"Kāśyapa pour être suprême parmi celles dotées de diligence. Alors, elle "
+"avait vécu chastement toute sa vie et elle fit ce souhait au moment de "
+"mourir : « “Ainsi, bien que j’aie vécu toute ma vie chastement selon "
+"l’enseignement du complet et parfait Bouddha Kāśyapa, je n’ai obtenu aucune "
+"[qualité] de l’ensemble de toutes les qualités. Donc, Puissé-je contenter "
+"par mes actes le Bienheureux Bouddha que [deviendra] le jeune brahmane "
+"Uttara [d’après] la prophétie du complet et parfait Bouddha Kāśyapa. Puissé-"
+"je ne rien faire qui le mécontente. M’étant retirée du monde d’après son "
+"(lit. à lui-même) enseignement et après avoir éliminé toutes les émotions "
+"perturbatrices, puissé-je manifester l’état d’arhat (lit. l’arhat-même). De "
+"même que ma préceptrice a été proclamée par le complet et parfait Bouddha "
+"Kāśyapa pour être suprême parmi celles dotées de diligence, puisse "
+"Śākyamuni, le roi des Śākyas, proclamer que je suis suprême parmi celles "
+"dotées de diligence.” dit-elle."
+msgstr ""
+
+# དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
+# དེའི་ཚེ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་བའི་དགེ་སློང་མ་གང་ཡིན་པ་དེ་ནི་སྐྲ་ལྡན་མ་འདི་ཉིད་ཡིན་ཏེ།
+# དེས་དེར་ཚེ་གཅིག་<«གཡུང་»«པེ་»ཅིག>ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ནས་
+# འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་སྟེ<«གཡུང་»«པེ་»ཏེ།>།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་<«ཅོ་»གི།>བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག
+# ། མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག ། དེའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་ དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག །
+# ཇི་ལྟར་བདག་<«ལི་»གདག>གི་མཁན་མོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པོ།>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་<«གཡུང་»ཆོག་ཏུ་སྟན།>པ་དེ་བཞིན་དུ་བདག་ཀྱང་ཤཱཀྱ་ཐུབ་པ་[68b]ཤཱཀྱའི་<«གཡུང་»ཤཱཀྱི།
+# «པེ་»«ཞོལ་»ཤཱཀྱ།>རྒྱལ་པོ་དེས་བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་ལུང་བསྟན་<«གཡུང་»«པེ་»སྟན།>པར་གྱུར་ཅིག་ཅེས་
+# བྱས་སོ། །
+msgctxt "line 12, 20.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, la nonne qui s’était retirée du "
+"monde selon l’enseignement du complet et parfait Bouddha Kāśyapa est Keśinī "
+"elle-même. De plus, elle vécut ainsi chastement toute sa vie, puis elle fit "
+"ce souhait au moment de mourir : “Puissé-je contenter par mes actes le "
+"Bienheureux Bouddha que [deviendra] le jeune brahmane Uttara [d’après] la "
+"prophétie du complet et parfait Bouddha Kāśyapa. Puissé-je ne rien faire qui"
+" le mécontente. M’étant retirée du monde d’après son enseignement et après "
+"avoir éliminé toutes les émotions perturbatrices, puissé-je manifester "
+"l’état d’arhat (lit. l’arhat-même). De même que ma préceptrice a été "
+"proclamée par le complet et parfait Bouddha Kāśyapa pour être suprême parmi "
+"celles dotées de diligence, puisse Śākyamuni, le roi des Śākyas, proclamer "
+"que je suis suprême parmi celles dotées de diligence.” dit-elle."
+msgstr ""
+
+# དགེ་སློང་དག་
+# ང་<«ལི་»«ཅོ་»–ང་།>ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»–«ཞོལ་»རྙེད།
+# «ཅོ་»བརྙེད།>པར་གྱུར་ནས། འདིས་ང་མཉེས་པར་བྱས་ཏེ་ མི་མཉེས་པར་མ་བྱས་ལ།
+# ང་ཉིད་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་ ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ནས།
+# ད་ལྟར་<«གཡུང་»ལྟའ།>ངས་བརྩོན་འགྲུས་བརྩམས་<«ཅོ་»བརྩོམས།>པ་རྣམས་ཀྱི་མཆོག་<«པེ་»ཆོག>ཏུ་བསྟན་<«གཡུང་»སྟན།>ཏོ།
+# ། ། །
+msgctxt "line 13, 20.txt"
+msgid ""
+"Moines, je suis devenu en tout point (lit. très) l’égal du complet et "
+"parfait Bouddha Kāśyapa, j’ai obtenu une force égale [à la sienne], des "
+"moyens [habiles] égaux [aux siens] et des actes égaux [aux siens], elle m’a "
+"contentée et n’a rien fait qui me mécontente, puis elle s’est retirée du "
+"monde selon mon (lit. à moi-même) enseignement et après avoir éliminé toutes"
+" les émotions perturbatrices, elle manifesta l’état d’arhat (lit. l’arhat-"
+"même) et maintenant, j’ai proclamé qu’elle était suprême parmi celles dotées"
+" de diligence. »"
+msgstr ""

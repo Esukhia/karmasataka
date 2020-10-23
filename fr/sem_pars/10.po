@@ -1,0 +1,756 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# སྣ་མའི་མེ་ཏོག་ཅེས་བྱ་བ་ནི།
+msgctxt "line 1, 10.txt"
+msgid "Celui nommé Fleur-de-Jasmin"
+msgstr ""
+
+# གླེང་གཞི་མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "line 2, 10.txt"
+msgid ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+msgstr ""
+
+# དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན།
+# ཁྱིམ་བདག་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ་ཡོངས་སུ་འཛིན་པ་ཡངས་ཤིང་རྒྱ་ཆེ་བ་རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་ལྡན་པ།
+# རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་འགྲན་པ་ཞིག་གནས་པ་དེས་ཐབས་ཟླར་<«གཡུང་»ཟླ།>བབ་པ་ལས་ཆུང་མ་བླངས་ནས།
+# དེ་དེ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་པ་ལས།
+# ཁྱིམ་བདག་དེ་བུ་མེད་དེ་ བུ་འདོད་པའི་ཕྱིར་ལྷ་རྣམས་ལ་ཡང་གསོལ་བ་འདེབས་ཏེ།
+# ལྷ་གུ་ལང་དང་།
+# ཆུ་ལྷ་དང་ཀུ་བེ་ར་དང་བརྒྱ་བྱིན་དང་ཚངས་པ་ལ་སོགས་པ་དང་ཀུན་དགའ་ར་བའི་ལྷ་དང་།
+# ནགས་ཚལ་གྱི་ལྷ་དང་ལམ་གྱི་བཞི་མདོའི་ལྷ་དང་སུམ་མདོའི་ལྷ་དང་གཏོར་མ་ལེན་པའི་ལྷ་དང་ལྷན་ཅིག་སྐྱེས་པ་དང་ཆོས་འཐུན་པ་དང་རྟག་ཏུ་ཕྱི་བཞིན་<«གཡུང་»ཕྱན།>འབྲང་བའི་ལྷ་རྣམས་ལ་ཡང་གསོལ་བ་འདེབས་ལ།
+msgctxt "line 3, 10.txt"
+msgid ""
+"À cette époque, dans la ville de Śrāvastī, un homme qui vivait dans "
+"l’opulence et possédait beaucoup de richesses, dont les possessions étaient "
+"étendues et vastes, qui possédait la richesse de Vaiśravaṇa, qui possédait "
+"des richesses rivalisant celles de Vaiśravaṇa se maria (lit. prit une femme)"
+" puisqu’il était arrivé à (lit. tomba à) l’âge de se marier (lit. de "
+"l’épouse). Avec elle, ils se divertirent, ils [apprirent] à s’aimer et "
+"laissèrent libre cours à leurs envies et pourtant, ce père de famille "
+"n’avait pas d’enfant et parce qu’il voulait un enfant, il adressait ses "
+"prière aux dieux. Il adressa ses prières aux dieux comme Paśupati, Varuṇa, "
+"Kubera, Śakra et Brahmā, aux dieux des parcs, aux dieux des forêts, aux "
+"dieux des croisements de quatre routes, aux dieux des croisements de trois "
+"routes, aux dieux qui reçoivent les offrandes jetées, aux dieux qui naissent"
+" en même temps que soi et à [ceux] qui suivent constamment les personnes "
+"vertueuses. Puis,"
+msgstr ""
+
+# འཇིག་རྟེན་ན་ཡང་<«ཞོལ་»–ཡང་།>གསོལ་བ་བཏབ་པའི་རྒྱུས་བུ་དང་བུ་མོ་སྐྱེ་བར་འགྱུར་རོ།
+# །ཞེས་ གྲགས་མོད་ཀྱི་ དེ་ཡང་དེ་ལྟ་ནི་མ་ཡིན་ཏེ་།
+# གལ་ཏེ་གསོལ་བ་བཏབ་པའི་རྒྱུས་བུ་དང་བུ་མོ་སྐྱེ་བར་འགྱུར་དུ་ཟིན་ན་
+# འཁོར་ལོས་སྒྱུར་<«གཡུང་»«པེ་»བསྒྱུར།>བའི་རྒྱལ་པོ་བཞིན་དུ།
+# རེ་རེ་ལ་ཡང་བུ་སྟོང་སྟོང་ཡོད་པར་འགྱུར་བའི་རིགས་ཏེ།
+# དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཡེ>ནི་གནས་གསུམ་ཚོགས་པ་ལས།
+# བུ་དང་བུ་མོ་སྐྱེ་བར་འགྱུར་ཏེ། གསུམ་གང་ཞེ་ན།
+# ཕ་མ་གཉིས་འདོད་ཆགས་ལངས་ཏེ་ཕྲད་པ་དང་ མ་དུས་ལ་བབ་ཅིང་ཟླ་མཚན་དང་ལྡན་པ་དང་
+# དྲི་ཟ་འོངས་པ་སྟེ། དྲི་ཟའི་སེམས་ཀྱང་རྗེས་སུ་ཆགས་པ་དང་ལྡན་པའམ།
+# ཁོང་ཁྲོ་བ་དང་ལྡན་པ་རྣམ་པ་གཉིས་ལས་གང་ཡང་རུང་བ་སྐྱེས་པའོ། །
+msgctxt "line 4, 10.txt"
+msgid ""
+"dans le monde, « de la cause [que constituent] les prières, des garçons et "
+"des filles naissent » est connu, mais ce n’est pas comme ça que sont [les "
+"choses]. En effet, si la cause des prières faisaient naître des garçons et "
+"des filles, il faudrait que comme pour les monarques universels, chaque "
+"[personne] ait mille enfants. Or, Depuis toujours, c’est l’assemblement de "
+"trois choses qui font naître les garçons et les filles. ces trois [choses] "
+"sont : les deux parents éprouvent du désir et ont un rapport, la mère se "
+"situe au bon moment [dans son cycle] et elle est en âge de procréer (lit. "
+"elle a ses menstruations) et un gandharva est arrivé, et l’esprit du "
+"gandharva, quant à lui, naîtra s’il est [dans] l’une des deux [situations] :"
+" soit il ressent de l’attachement, soit il ressent de l’aversion."
+msgstr ""
+
+# དེ་ནས་དེ་ཡང་གསོལ་བ་འདེབས་པ་ལྷུར་བྱེད་ལ། སེམས་ཅན་ཆེན་པོ་ཆེ་བར་གྲགས་པ།
+# སྲིད་པ་ཐ་མ་ བཙལ་བར་<«ཅོ་»བཙམ་བར།>བྱ་བ་རྙེད་པ་ ཐར་པའི་སྐལ་བ་ཅན་དུ་གྱུར་པ།
+# ཚོགས་བསགས་པ་
+# མྱ་ངན་ལས་འདས་པ་ལ་ནང་དུ་བལྟས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ལྟས།>པ།
+# འཁོར་བ་ལས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ལ།>ཕྱི་རོལ་ཏུ་བལྟས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ལྟས།>པ་
+# སྲིད་པར་འགྲོ་བའི་སྐྱེ་གནས་རྣམས་མི་འདོད་པ་
+# ལུས་ཀྱི་ཐ་མ་འཛིན་པ་ཞིག་<«གཡུང་»མན།>ཀྱང་དེའི་ཆུང་མའི་མངལ་དུ་སྐྱེས་སོ། །
+msgctxt "line 5, 10.txt"
+msgid ""
+"Donc, le père de famille (lit. il) adressait ses prières avec beaucoup "
+"d’entrain et un grand être, connu pour sa grandeur, un [être] sur sa "
+"dernière existence, un [être] qui a obtenu ce qu’il cherchait, un [être] qui"
+" avait ce qu’il faut pour la libération, un [être] qui avait accumulé les "
+"mérites, un [être] qui regardait vers l’intérieur [qu’est] l’au-delà de la "
+"souffrance, un [être] qui regardait vers l’extérieur du samsara, un [être] "
+"qui ne voulait pas de la condition (lit. l’endroit de naissance) des mondes "
+"(lit. endroits où aller) du samsara, un [être] qui tient son dernier corps, "
+"est né dans le sein de son épouse."
+msgstr ""
+
+# བུད་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»བུ།>མེད་མཁས་པའི་རང་བཞིན་ཅན་ཁ་ཅིག་ལ་ནི་ཐུན་མོང་མ་ཡིན་པའི་ཆོས་ལྔ་ཡོད་དེ།
+# ལྔ་<«གཡུང་»«པེ་»–ལྔ།>གང་ཞེ་ན། སྐྱེས་པ་ཆགས་པར་ཡང་ཤེས་ལ་
+# མ་ཆགས་པར་ཡང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–ཤེས་ལ་མ་ཆགས་པར་ཡང་།
+# «ཁུ་»ཤེས་ལ་མ་ཆགས་པ་ཡང་།>ཤེས་པ་དང་། དུས་ཀྱང་ཤེས་ལ་ ཟླ་མཚན་ཡང་ཤེས་པ་དང་།
+# བུ་<«གཡུང་»+ནད།>ཆགས་པ་ཤེས་པ་དང་ གང་ལས་ཆགས་པ་ཤེས་པ་དང་ ཁྱེའུ་ཡང་ཤེས་ལ་
+# བུ་མོ་ཡང་ཤེས་པ་སྟེ།
+# གལ་ཏེ་ཁྱེའུ་ཡིན་ན་ནི་ལྟོ་གཡས་<«གཡུང་»ལྟོག་ལས།>ལོགས་སུ་རྟེན་ཅིང་གནས་སོ། །
+# གལ་ཏེ་བུ་མོ་ཡིན་ན་ནི་ལྟོ་གཡོན་ལོགས་སུ་རྟེན་ཅིང་གནས་སོ། །
+msgctxt "line 6, 10.txt"
+msgid ""
+"Certaines femmes qui ont une intelligence naturelle possèdent cinq "
+"particularités (lit. cinq choses/dharmas spécifiques) : ces cinq sont : "
+"elles savent qu’un homme éprouve du désir pour elles ou bien qu’il n’éprouve"
+" pas de désir, elles connaissent aussi leur cycle (lit. temps) et elles "
+"connaissent aussi leurs règles, elle savent qu’elles sont enceintes (lit. "
+"qu’un enfant est là), elles savent de qui elles sont enceintes (lit. [un "
+"enfant] est là), elles savent [que c’est] un garçon ou bien elles savent "
+"[que c’est] une fille parce que si c’est un garçon, il se positionne (lit. "
+"s’appuie) sur le côté droit et y reste. Si c’est une fille, il se positionne"
+" (lit. s’appuie) sur le côté gauche et y reste."
+msgstr ""
+
+# དེ་ནས་གང་གི་ཚེ་དེ་<«ཅོ་»པ།>ལ་བུ་ཆགས་པར་འགྱུར་བ་དེའི་ཚེ། དེ་དགའ་ཆེས་ནས་
+# ཁྱིམ་ཐབ་ལ་སྦྲན་པ། ཇོ་བོ་ བདག་ལ་སྲས་ཆགས་ཏེ་
+# བདག་གི་རུམ་<«པེ་»ལྟོ།>གཡས་ལོགས་སུ་རྟེན་ཅིང་གནས་པ་ལས་
+# ཁྱེའུར་འགྱུར་བར་ངེས་ཀྱིས་<«ཞོལ་»ཀྱི།> དགྱེས་པ་བསྐྱེད་དུ་གསོལ་ཞེས་ བྱས་ནས།
+# དེ་ཡང་དགའ་ཆེས་ཏེ། རོ་སྟོད་ནི་བཏེག་<«གཡུང་»«པེ་»བརྟེག «ཞོལ་»བཏེགས།>
+# ལག་པ་གཡས་པ་ནི་བརྐྱང་<«ཞོལ་»བརྐྱངས།>ནས། བདག་གིས་ཡུན་རིང་པོ་ནས།
+# སྨོན་སྨོན་པའི་བུའི་ངོ་མཐོང་བར་འོང་ངོ་། ། བདག་གི་བུ་རུང་བར་གྱུར་ཅིག་
+# མི་རུང་བར་མ་གྱུར་ཅིག་ བདག་གི་བྱ་བ་དག་བྱེད་པར་ཤོག་ཅིག ། གསོས་<«གཡུང་»གོས།
+# «པེ་»གས།>ན་གསོས་པའི་ལན་ཕྱིར་གསོ་བར་<«ཁུ་»གསོས་པར།>ཤོག་ཅིག །
+# ནོར་སྐལ་ལ་སྤྱོད་པར་ཤོག་ཅིག ། བདག་གི་རིགས་རྒྱུད་ཡུན་རིང་དུ་གནས་པར་ཤོག་ཅིག །
+# བདག་ཅག་འདས་ཏེ་ཤི་བའི་འོག་ཏུ་ཡང་བདག་<«གཡུང་»བདད།>ཅག་གི་ཕྱིར་མང་ཡང་རུང་ཉུང་ཡང་རུང་སྟེ།
+# སྦྱིན་པ་དག་བྱིན་ལ་ བསོད་ནམས་དག་བྱས་ནས་
+# དེ་གཉིས་གང་དང་གང་དུ་སྐྱེས་ཤིང་འགྲོ་བ་དེར་འདི་སོང་ཤིག་ཅེས་
+# ཡོན་སྔོ་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»བསྔོ།>བར་ཤོག་ཅིག་ཅེས་ དགའ་བའི་ཚིག་བརྗོད་དོ། །
+msgctxt "line 7, 10.txt"
+msgid ""
+"Donc, lorsqu’[elle] tomba enceinte (lit. un enfant fut là), elle fut "
+"extrêmement contente et elle [le] raconta à son mari : « Seigneur, je suis "
+"enceinte d’un garçon (lit. un garçon est dans moi) parce que il se "
+"positionne (lit. s’appuie) du côté droit de mon ventre (lit. matrice). "
+"Ainsi, il est certain que ce soit un garçon. Donc, réjouissez-vous.» dit-"
+"elle. Puis, il fut extrêmement (lit. de trop) content et redressa son buste,"
+" étendit sa main droite, « Je vais pouvoir (lit. ça vient) voir le visage de"
+" l’enfant que j’ai tant souhaité (lit. souhaité et souhaité) depuis "
+"longtemps. Puisse-t-il convenir comme mon enfant. Puisse-t-il ne pas ne pas "
+"convenir. Puisse-t-il faire les choses que je fais. Si je m’occupe de lui, "
+"puisse-t-il répondre à [mes] soins en s’occupant [de moi] en retour. Puisse-"
+"t-il bénéficier de mon héritage (lit. part des richesses). Puisse ma lignée "
+"familiale se maintenir longtemps. Après que nous ayons transmigré (lit. "
+"dépassé) et que nous soyons morts, pour nous, que ce soit beaucoup ou que ce"
+" soit peu, [puisse-t-il] pratiquer la générosité et accumuler (lit. faire) "
+"des mérites et « Que ces mérites (lit. ils) aillent là où ils (lit. ces "
+"deux) sont partis et nés » puisse-t-il les dédier ainsi. » il dit [ces] "
+"paroles de joie."
+msgstr ""
+
+# དེས་<«གཡུང་»«པེ་»དེ།>བུ་ཆགས་པར་རིག་ནས་
+# བུའི་རིམ་གྲོ་<«གཡུང་»«པེ་»«སྣར་»«ཁུ་»འགྲོ།>བྱ་བའི་ཕྱིར་ཁང་བཟངས་ཀྱི་<«ལི་»«སྣར་»«ཅོ་»ཁངས་བཟངས་ཀྱི།
+# «ཞོལ་»ཁང་བཟང་གི།>སྟེང་དུ་ཉམ་<«སྣར་»«ཞོལ་»ཉམས།>རངས་སུ་བཞག་སྟེ།
+# གྲང་བའི་ཚེ་གྲང་བའི་ཡོ་བྱད་རྣམས་དང་ཚ་བའི་ཚེ་ཚ་བའི་ཡོ་བྱད་རྣམས་དང་སྨན་པས་བསྟན་པའི་ཟས་རྣམས་[38a]དང་ཧ་ཅང་ཁ་བ་མ་ཡིན་པ་རྣམས་དང་ཧ་ཅང་སྐྱུར་བ་མ་ཡིན་པ་རྣམས་དང་ཧ་ཅང་ལན་ཚྭ་ཆེ་བ་མ་ཡིན་པ་རྣམས་དང་ཧ་ཅང་མངར་<«གཡུང་»«པེ་»དངར།>བ་མ་ཡིན་པ་རྣམས་དང་ཧ་ཅང་རོ་ཚ་བ་མ་ཡིན་པ་རྣམས་དང་ཧ་ཅང་བསྐ་<«གཡུང་»ཅར་སྐ།
+# «པེ་»ཅང་བ་བསྐ།>བ་མ་ཡིན་པ་<«པེ་»–པ།>རྣམས་ཏེ།
+# ཁ་བ་དང་སྐྱུར་བ་དང་ལན་ཚྭ་<«གཡུང་»«པེ་»«ཅོ་»ཚ།>དང་མངར་<«གཡུང་»«པེ་»དངར།>བ་དང་ཚ་བ་དང་བསྐ་བ་མེད་པའི་ཟས་རྣམས་ཀྱིས་བསྟེན་ཅིང་།
+# དོ་ཤལ་དང་སེ་<«གཡུང་»སོན། «པེ་»སོ།>མོ་དོས་ལུས་རྣམ་པར་བཀླུབས་<«གཡུང་»གླུབས།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀླུབས།>ཏེ། ལྷའི་བུ་མོ་དགའ་བའི་ཚལ་ན་<«གཡུང་»རྣ།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»ནས།>རྣམ་པར་རྒྱུ་བ་བཞིན་དུ་ཁྲིའི་སྟེང་ནས་ཁྲིའི་སྟེང་དང་ཁྲིའུའི་<«ལི་»«སྣར་»«ཅོ་»ཁྲིའུ།>སྟེང་ནས།
+# ཁྲིའུའི་<«གཡུང་»ཁྲིའུ། «པེ་»«ལི་»«སྣར་»ཁྲིའུ།>སྟེང་དུ་རྒྱུ་ཞིང་
+# འོག་གི་ས་གཞི་ལ་མི་འབབ་པ་དང་།
+# དེས་ཡིད་དུ་མི་འོང་བའི་སྒྲ་སྐད་<«གཡུང་»སྐྲད།>ཅི་ཡང་མི་ཐོས་པར་བྱས་སོ། །
+msgctxt "line 8, 10.txt"
+msgid ""
+"Ayant compris qu’il attendait un enfant (lit. un enfant était là), pour "
+"prendre soin de son enfant, il [l’]installa confortablement sur la partie "
+"supérieur de leur maison et [Il fit qu’]on lui procure (lit. elle dépende "
+"de) les choses pour le froid quand il faisait froid, les choses pour le "
+"chaud quand il faisait chaud, les aliments recommandés (lit. montrés) par le"
+" médecin, ceux qui ne sont pas trop amers, ceux qui ne sont pas trop acides,"
+" ceux qui ne sont pas trop salés, ceux qui ne sont pas trop sucrés, ceux qui"
+" ne sont pas trop piquants, ceux qui ne sont pas trop astringents, c’est à "
+"dire les aliments qui ne sont ni amers, ni acides, ni salés, ni sucrés, ni "
+"piquants ni astringents, [il fit qu’]on pare entièrement son corps de "
+"colliers courts et longs, [il fit qu’]on la (lit. son corps) déplace comme "
+"une jeune déesse (lit. une fille de dieu) qui évolue dans un jardin "
+"merveilleux (lit. jardin des plaisirs), du dessus d’un divan (lit. trône) au"
+" dessus d’un [autre] divan, du dessus d’un siège (lit. petit trône) au "
+"dessus d’un [autre] siège, sans descendre jusqu’au sol (lit. le sol du bas),"
+" il fit qu’elle n’entende aucun son, aucune voix désagréable."
+msgstr ""
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པའི་<«ཁུ་»པུའི།>ལམ་སྟོན་པ་
+# རྣམ་པ་གཉིས་ཀྱི་ཤེས་བྱ་དང་། ཡེ་ཤེས་ལ་མངའ་བརྙེས་པ་
+# མ་འདྲེས་པའི་དྲན་པ་ཉེ་བར་གཞག་པ་གསུམ་ལ་མཁས་པ། མི་འཇིགས་པ་བཞིས་མི་འཇིགས་པ་
+# འགྲོ་བ་ལྔར་འགྲོ་བ་ལས་རྣམ་པར་གྲོལ་བ་ སྐྱེ་<«གཡུང་»བསྐྱེ།>མཆེད་དྲུག་ལ་མཁས་པ།
+# བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་ལ་སྤྱོད་ཡུལ་བ་ རྣམ་པར་ཐར་པ་བརྒྱད་ལ་བསམ་གཏན་པ།
+# མཐར་<«ཅོ་»ཐར།>གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་ལ་སྙོམས་པར་འཇུག་པ།
+# སྟོབས་བཅུའི་སྟོབས་དང་ལྡན་པ་
+# ཡང་དག་པའི་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་<«ཞོལ་»སྒྲོག>པ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
+# ཉིན་མཚན་དུས་དྲུག་ཏུ།
+# སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»གྱི།>འཇིག་རྟེན་ལ་གཟིགས་ཏེ།
+msgctxt "line 9, 10.txt"
+msgid ""
+"Les Bienheureux Bouddhas montrent l’unique voie à parcourir ; ils possèdent "
+"les deux aspects de la connaissance et de la sagesse ; ils excellent dans "
+"les trois attentions rapprochées qui leur sont propres ; ils sont intrépides"
+" grâce aux quatre intrépidités ; ils sont entièrement libérés d’aller vers "
+"les cinq renaissances ; ils sont versés dans les six sources des sens ; ils "
+"vivent les sept branches de l’Éveil ; ils contemplent les huit libérations "
+"complètes ; ils s’engagent dans les neuf absorptions méditatives "
+"successives ; ils possèdent la puissance (lit. force) des dix forces ; eux "
+"qui font résonner le parfait [et] grand rugissement du lion, naturellement, "
+"ils regardent le monde avec les yeux de bouddha pendant les six périodes de "
+"la journée, les trois du jour et les trois de la nuit :"
+msgstr ""
+
+# སུ་ནི་རྒུད་ སུ་ནི་དར་ སུ་ནི་ཕོངས་ཤིང་འདུག ། སུ་ནི་ཉམ་ང་བར་གྱུར།
+# སུ་ནི་གནོད་པ་དང་ལྡན། སུ་ནི་ཕོངས་པ་དང་ཉམ་ང་བ་དང་གནོད་པ་དང་ལྡན།
+# སུ་ནི་ངན་སོང་དུ་གཞོལ་
+# སུ་ནི་ངན་སོང་དུ་བབ<«གཡུང་»«ལི་»«སྣར་»«ཅོ་»«ཁུ་»«ཞོལ»འབབ།>།
+# སུ་ནི་ངན་སོང་དུ་བབ། སུ་ནི་ངས་ངན་སོང་ནས་ཕྱུང་སྟེ།
+# མཐོ་རིས་དང་ཐར་པ་དང་འབྲས་བུ་ལ་གཞག་པར་བྱ།
+# སུ་ནི་ཉེས་པར་སྤྱོད་པའི་འདམ་དུ་བྱིང་བ་ལས་ ལག་ནས་དྲང་བར་བྱ།
+# སུ་ནི་འཕགས་པའི་ནོར་བདུན་མེད་པ་ལས་
+# འཕགས་པའི་ནོར་བདུན་གྱི་དབང་ཕྱུག་ལ་དབང་བྱེད་དུ་གཞུག་པར་བྱ།
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་མ་བསྐྱེད་<«གཡུང་»མ་སྐྱེད། «སྣར་»པ་བསྐྱེད།>པ་ལས་
+# བསྐྱེད་པར་བྱ། སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་བསྐྱེད་ཟིན་པ་ལས་ ཡོངས་སུ་སྨིན་པར་བྱ།
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་ཡོངས་སུ་སྨིན་ཟིན་པ་ལས་
+# ཡེ་ཤེས་ཀྱི་མཚོན་གྱིས་བརྟོལ་བར་བྱ།
+# སུ་ལ་ནི་སངས་རྒྱས་བྱུང་བས་བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་སྙམ་དུ་
+# ཡེ་ཤེས་གཟིགས་པ་འཇུག་གོ། །
+msgctxt "line 10, 10.txt"
+msgid ""
+"« Qui décline ? Qui prospère (lit. s’étendre) ? Qui est dans la misère ? Qui"
+" est dans le malheur ? Qui est dans la souffrance ? Qui est dans la misère, "
+"le malheur et la souffrance ? Qui chute dans les mondes inférieurs ? Qui "
+"tombera dans les royaumes inférieurs ? Qui tombera dans les royaumes "
+"inférieurs ? Qui vais-je extirper des royaumes inférieurs et les établir "
+"dans les royaumes supérieurs, la libération ou le résultat ? Quel être (lit."
+" qui) enlisé dans le marais des mauvaises conduites vais-je tirer par la "
+"main ? Quel être (lit. qui) dépourvu des sept richesses des êtres sublimes "
+"vais-je pousser à s’approprier le pouvoir des seigneurs des sept joyaux des "
+"[êtres] nobles ? Qui, n’ayant pas développé les racines vertueuses, "
+"inciterais-je à [les] développer ? Qui, ayant déjà développé les racines "
+"vertueuses, inciterais-je à [les] faire mûrir ? Qui, ayant déjà fait mûrir "
+"entièrement les racines vertueuses, inciterais-je à [les] faire jaillir à "
+"l’aide de l’arme de la sagesse ? Pour quel être (lit. qui) fructifierais-je "
+"ce monde qui est orné puisqu’un bouddha y est apparu ? » [ainsi] s’applique "
+"leur regard de sagesse."
+msgstr ""
+
+# རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས། ། དུས་རླབས་ཡོལ་<«ལི་»གཡོལ།>བར་འགྱུར་ཡང་སྲིད། །
+# གདུལ་བར་བྱ་བའི་སྲས་རྣམས་ལ།
+# །སངས་རྒྱས་དུས་ལས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ལ།>ཡོལ་བ་མེད། །
+msgctxt "line 11, 10.txt"
+msgid ""
+"[Dans] l’océan, la demeure des [monstres] makara, il est possible que les "
+"marées tardent. Pour leurs enfants qu’ils doivent dompter, les bouddhas ne "
+"prennent [jamais] de retard."
+msgstr ""
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ཇི་ལྟར་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
+# ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་པ་དེ་བཞིན་དུ་
+# ཉན་ཐོས་ཆེན་པོ་རྣམས་ཀྱང་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་<«གཡུང་»«པེ་»–མཚན་དུས་གསུམ།
+# «ཅོ་»མཚེན་དུས་གསུམ།>སྟེ།
+# ཉིན་མཚན་དུས་དྲུག་ཏུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཏུ།>ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་<«གཡུང་»འཇིགས།>རྟེན་ལ་ལྟ་བར་བྱེད་དེ།
+msgctxt "line 12, 10.txt"
+msgid ""
+"De même que les Bienheureux Bouddhas regardent le monde avec les yeux de "
+"bouddha pendant les six périodes de la journée, les trois du jour et les "
+"trois de la nuit, les grands auditeurs, eux aussi, regardent le monde avec "
+"les yeux d’auditeur pendant les six périodes de la journée, les trois du "
+"jour et les trois de la nuit. Ainsi,"
+msgstr ""
+
+# ཚེ་དང་ལྡན་པ་མ་འགགས་པས་ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་རྟེན་ལ་བལྟས་ན།
+# སྲིད་པ་ཐ་མ་པའི་སེམས་ཅན་ཞིག་གིས་ཁྱིམ་བདག་དེའི་ཆུང་མ་ཆེན་མའི་ལྟོར་ཉིང་མཚམས་སྦྱར་བར་མཐོང་ངོ་།
+# ། མཐོང་ནས་ཀྱང་ བསམས་པ། སེམས་ཅན་དེ་སུས་འདུལ་བར་འགྱུར།
+# ཅི་སངས་རྒྱས་ཀྱིས་འདུལ་བར་འགྱུར་རམ་
+# འོན་ཏེ་ཉན་ཐོས་ཀྱིས་འདུལ་བར་འགྱུར་ཞིག་<«གཡུང་»«པེ་»ཞི།>གུ་སྙམ་པ་དང་།
+# དེ་<«གཡུང་»«པེ་»དེས།>བདག་ཉིད་ཀྱིས་འདུལ་བར་འགྱུར་བར་མཐོང་ལ།
+msgctxt "line 13, 10.txt"
+msgid ""
+"lorsque l’honorable Aniruddha regardait le monde avec les yeux d’auditeur, "
+"il vit qu’un être sur sa dernière vie (lit. existence) avait passé la "
+"lisière [de sa prochaine vie] dans le sein de l’épouse principale de ce père"
+" de famille. L’ayant vu, il pensa : « Cet être, qui le domptera ? Est-ce que"
+" le Bouddha le domptera ou bien est-ce qu’un auditeur le domptera ? » pensa-"
+"t-il. À ce moment, il vit que c’était lui-même (lit. moi-même) qui le "
+"dompterait, puis"
+msgstr ""
+
+# དེ་ཡང་སྔན་ཅད་<«གཡུང་»«པེ་»«སྣར་»སྔན་ཆད། «ཅོ་»སྔོན་ཅད།
+# «ཞོལ་»སྔོན་ཆད།>ཁྱིམ་དེའི་བསེན་ཡིན་ཏེ།
+# དེས་ཁྱིམ་བདག་དེ་བརྟན་<«ལི་»«ཅོ་»བརྟེན།>པོར་བྱ་བའི་ཕྱིར་ཟླ་མེད་པ་དང་གཡོག་མེད་པར་གཅིག་<«གཡུང་»«པེ་»ཅིག>པུ་ཁྱིམ་བདག་དེའི་ཁྱིམ་དུ་སོང་བ་དང་
+# ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་མ་འགགས་པ་ཟླ་མེད་པ་དང་གཡོག་མེད་པར་གཅིག་པུ་འོང་བ་མཐོང་ངོ་།
+# ། མཐོང་ནས་ཀྱང་ འཕགས་པ་ ཁྱོད་ཟླ་མ་མཆིས་པ་དང་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–པ་དང་།>།
+# ཞབས་འབྲིང་<«གཡུང་»«པེ་»ཞམ་རིང་།>མ་མཆིས་པར་གཅིག་པུ་གཤེགས་ན་
+# འཕགས་པའི་ཞབས་འབྲིང་<«གཡུང་»«པེ་»ཞམ་རིང་།>བགྱིད་པ་<«གཡུང་»«པེ་»+ཡང་།>འགའ་ཡང་མ་མཆིས་སམ་ཞེས་
+# དྲིས་སོ། ། ཚེ་དང་ལྡན་པ་མ་འགགས་པས་སྨྲས་པ་
+# ཁྱེད་ཅག་ལྟ་བུ་འབའ་ཞིག་ལས་རྙེད་པ་མ་གཏོགས་པར་བདག་ཅག་གིས་<«གཡུང་»«པེ་»–གིས།>གུད་ན།
+# གཡོག་ག་ལ་རྙེད་དེ་
+# ཁྱེད་<«གཡུང་»«པེ་»–ཁྱེད།>ལས་རྙེད་པ་འབའ་ཞིག་བདག་ཅག་<«གཡུང་»ཅེག
+# «པེ་»ཅིག>གི་གཡོག་བྱེད་པར་ཟད་དོ། ། ཁྱིམ་བདག་གིས་སྨྲས་པ། འཕགས་པ་
+# བདག་གི་མཆིས་བྲང་ལ་བུ་ཆགས་པ་མཆིས་ཀྱིས<«ཞོལ་»ཀྱི།>།
+# དེ་ལས་གལ་ཏེ་ཁྱེའུ་<«ཅོ་»གྱི་ལྟ།>ཞིག་[39a]བཙས་པར་གྱུར་ན།
+# དེ་བདག་གིས་འཕགས་པའི་ཞབས་འབྲིང་<«གཡུང་»«པེ་»ཞམ་རིང་།
+# «སྣར་»«ཞོལ་»ཞབས་རིང་།>དུ་དབུལ་ལོ། ། ཚེ་དང་ལྡན་པ་མ་འགགས་པས་སྨྲས་པ།
+# ཁོང་དགེ་བ་དག་ནི་དམ་བཅས་པ་ལ་བརྟན་པ་ཡིན་ནོ་ཞེས་ དེ་སྐད་སྨྲས་ནས།
+# ཚེ་དང་ལྡན་པ་མ་འགགས་པ་སོང་ངོ་། །
+msgctxt "line 14, 10.txt"
+msgid ""
+"il était déjà l’ami spirituel de cette famille. Donc, pour rendre ce père de"
+" famille stable [dans ses engagements], il alla seul, sans serviteur, dans "
+"la maison de ce père de famille. Alors, Ce père de famille vit que "
+"l’honorable Aniruddha vint seul, sans compagnon ni serviteur. L’ayant vu, "
+"« [Être] sublime, si vous venez seul, sans compagnon ni serviteur, Ne se "
+"trouve-t-il personne pour [vous] servir (lit. faire le serviteur), [être] "
+"sublime ? » demanda-t-il. L’honorable Aniruddha dit : « En dehors de [ceux] "
+"que j’obtiendrais par [ceux] comme vous, où ailleurs pourrais-je obtenir des"
+" serviteurs ? Seuls ceux que j’obtiens de votre part (lit. vous) me "
+"servent. » Le père de famille dit : « [Être] sublime, mon épouse attend un "
+"enfant (lit. il est arrivé un enfant à mon épouse), si c’est un garçon qui "
+"naît, je [vous] l’offrirai, être sublime, comme serviteur. » L’honorable "
+"Aniruddha dit : « puisque [ceux dont] l’esprit (lit. l’intérieur) est "
+"vertueux sont stables dans leurs promesses. » dit-il. Puis, l’honorable "
+"Aniruddha s’en alla."
+msgstr ""
+
+# ཁྱིམ་བདག་དེའི་ཆུང་མ་ཡང་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་།
+# ཁྱེའུ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་ཏེ།
+# དེའི་ལུས་ཐམས་ཅད་ནས་སྣ་མའི་མེ་ཏོག་གི་དྲིའི་ངད་ལྡང་སྟེ།
+# དེས་ཁྱིམ་དེ་ཐམས་ཅད་སྣ་མའི་མེ་ཏོག་གི་དྲིས་འགེངས་པར་བྱེད་དོ། །
+# ཁྱེའུ་དེ་མའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–མའི།>མངལ་དུ་ཞུགས་པ་དང་བཙས་པའི་ཚེ་ཡང་ཁྱིམ་དེ་ཀུན་དུ་སྣ་<«གཡུང་»–སྣ།>མའི་མེ་ཏོག་གི་ཆར་འབབ་བོ།
+# ། དེ་ནས་དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས།
+# ཁྱེའུ་འདིའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»འདི།>མིང་ཅི་སྐད་གདགས་ཞེས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཤེས།>
+# མིང་འདོགས་པར་བྱེད་དེ<«གཡུང་»«པེ་»དོ།>།
+# ཁྱེའུ་འདི་མའི་མངལ་དུ་ཞུགས་པ་དང་བཙས་པའི་ཚེ་ཁྱིམ་དུ་སྣ་མའི་མེ་ཏོག་གི་ཆར་འབབ་པས་ན།
+# དེའི་ཕྱིར་ཁྱེའུ་འདིའི་མིང་སྣ་མའི་མེ་ཏོག་ཅེས་ གདགས་སོ། །
+msgctxt "line 15, 10.txt"
+msgid ""
+"[À] l’épouse de ce père de famille, après que neuf ou dix mois soient "
+"passés, un fils au corps harmonieux (lit. noble), qui était beau et agréable"
+" au regard naquit, et de tout son corps s’exhalait la senteur de fleur de "
+"jasmin, et il emplit toute la maison de la senteur de fleur de jasmin. "
+"Lorsque ce garçon était entré dans le sein de sa mère et lorsqu’il était né,"
+" il avait plu des fleurs de jasmin sur toute la maison. Ensuite, la fête de "
+"sa naissance fut faite [de manière] grandiose (lit. vastement) et « Comment "
+"nommer ce garçon ? » un nom lui fut donné : quand ce garçon est entré dans "
+"le sein de sa mère et quand il est né, puisqu’il a plu des fleurs de jasmin,"
+" pour cette raison, le nom de ce garçon sera “Fleur-de-Jasmin”. » fut-il "
+"nommé."
+msgstr ""
+
+# དེ་ནས་ཁྱེའུ་སྣ་མའི་མེ་ཏོག་འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་བསྐྱེད་<«གཡུང་»སྙིང་ཀུས་སྐྱེདི།
+# «ལི་»«སྣར་»«ཅོ་»སྙིང་གུས་བསྐྱེད། «པེ་»སྙིང་ཀུས་བསྐྱིད།
+# «ཞོལ་»སྙིང་ཁུས་བསྐྱེད།>བསྲིངས་ཏེ།
+# མཚོའི་ནང་གི་པད་མ་བཞིན་དུ་སྐྱེ་དྲག་པར་གྱུར་ཏོ། །
+# དེ་གང་གི་ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ་ཡི་གེ་དང་ཁོང་རྩིས་དང་ཤོད་དགོད་དང་ལག་རྩིས་དང་དབྱུང་བ་དང་སྦ་བ་དང་དགྲམ་པ་དང་གོས་བརྟག་<«གཡུང་»རྟག>པ་དང་ནོར་བུ་བརྟག་པ་དང་རིན་པོ་ཆེ་བརྟག་པ་དང་སྤོས་བརྟག་པ་དང་སྨན་བརྟག་པ་དང་གླང་པོ་ཆེ་བརྟག་པ་དང་རྟ་བརྟག་པ་དང་གོ་མཚོན་བརྟག་པ་བསླབས་ཏེ།
+# ཡི་གེ་མཁས་པ་དང་ཀློག་<«ཅོ་»སློག>མཁས་པ་དང་མཛངས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»འཛངས།>པ་དང་<«གཡུང་»«ལི་»«པེ་»ངང་།>བྱ་བ་གསལ་བ་དང་ཡིད་གཞུངས་པ་དང་བརྟག་པ་རྣམ་པ་བརྒྱད་ལ་བྱང་བར་གྱུར་ཏོ།
+# །
+msgctxt "line 16, 10.txt"
+msgid ""
+"Alors, le garçon Fleur-de-Jasmin se développa au fil du temps grâce à du "
+"lait, du yaourt, du beurre, du beurre purifié (lit. fondu) et du beurre sur-"
+"purifié (lit. l’essence du beurre), comme un lotus dans un lac, elle grandit"
+" avec force. Lorsqu’il eut grandi, il apprit à lire, à calculer mentalement,"
+" à diviser, à calculer sur les doigts, à extraire, à dissimuler, à étaler, à"
+" évaluer la qualité des vêtements, celle des gemmes, celle des substances "
+"précieuses, celle des parfums, celle des remèdes, celle des éléphants, celle"
+" des chevaux, celle des armures et celle des armes. Ainsi, il sut "
+"parfaitement écrire (lit. versé dans les lettres). Il sut parfaitement lire "
+"(lit. versé dans la lecture). Il devint ingénieux, habile de ses mains (lit."
+" clair sur les choses à faire), vif d’esprit et rompu (lit. entraîné) aux "
+"huit évaluations."
+msgstr ""
+
+# དེ་ནས་ཕྱི་ཞིག་ན་ཚེ་དང་ལྡན་པ་མ་འགགས་པས།
+# ཁྱེའུ་དེ་རབ་ཏུ་དབྱུང་བའི་དུས་ལ་བབ་པར་མཐོང་ནས། ཁྱིམ་བདག་དེའི་ཁྱིམ་དུ་སོང་སྟེ།
+# ཁྱིམ་བདག་ལ་སྨྲས་པ། ཁྱིམ་བདག་ ཁྱེའུ་འདི་ནི་མ་བཙས་པའི་སྔ་རོལ་ནས།
+# ཁྱོད་ཀྱིས་བདག་གི་གཡོག་ཏུ་བྱིན་ཏེ།
+# ཁོང་དགེ་བ་རྣམས་ནི་དམ་བཅས་པ་ལ་<«ཁུ་»པས།>བརྟན་<«ཅོ་»བརྟེན།>པ་ཡིན་ན།
+# དེ་ཁོ་ན་ལྟར་དམ་མ་བཅས་སམ། ཁྱིམ་བདག་གིས་སྨྲས་པ། འཕགས་པ་
+# དེ་ཁོ་ན་ལྟར་དམ་བཅས་ལགས་སོ་ཞེས་ སྨྲས་ནས། ཁྱེའུ་དེ་ལག་པ་གཉིས་ཀྱིས་བཟུང་སྟེ།
+# ཚེ་དང་ལྡན་པ་མ་འགགས་པ་ལ་ཕུལ་ནས་ སྨྲས་པ། བུ་ ཁྱོད་མ་བཙས་པའི་སྔ་རོལ་ནས།
+# འཕགས་པ་མ་འགགས་པ་ལ་ངས་ཕུལ་གྱིས་<«ཞོལ་»གྱི།> སོང་ལ།
+# འཕགས་པའི་ཞབས་འབྲིང་<«གཡུང་»«པེ་»ཞམ་རིང་།>གྱིས་ཤིག ། ཁྱེའུས་སྨྲས་པ།
+# དེ་ནི་བདག་ལ་ཕན་གདགས་པ་ལགས་སོ་ཞེས་ བྱས་ནས།
+# ཁྱེའུ་དེ་ཚེ་དང་ལྡན་པ་མ་འགགས་པའི་ཕྱི་བཞིན་དུ་ཆས་སོ། །
+# ཚེ་དང་ལྡན་པ་མ་འགགས་པས་ཀྱང་།
+# ཁྱིམ་བདག་དེ་<«གཡུང་»«པེ་»དེའི།>ཆོས་ཀྱི་གཏམ་གྱིས་ཡང་དག་པར་བསྟན།
+# ཡང་དག་པར་འཛིན་དུ་བཅུག ། ཡང་དག་པར་གཟེངས་བསྟོད། ཡང་དག་པར་དགའ་བར་བྱས་ནས།
+# སྟན་ལས་ལངས་ཏེ་ སོང་ངོ་། །
+msgctxt "line 17, 10.txt"
+msgid ""
+"Ensuite, l’honorable Aniruddha vit que le moment était venu [que] ce garçon "
+"se retire du monde, et il se rendit dans la maison de ce père de famille et "
+"il dit au père de famille : « Père de famille, Tu m’avais donné ce garçon "
+"comme serviteur avant qu’il naisse, aussi, puisque [ceux dont] l’esprit "
+"(lit. l’intérieur) est vertueux sont stables dans leurs promesses, n’avais-"
+"tu pas fait exactement cette promesse ? » Le père de famille dit : « [Être] "
+"sublime, j’avais fait exactement cette promesse. » dit-il. Puis, il tint ce "
+"garçon par les deux mains et l’offrit à l’honorable Aniruddha et dit : "
+"« Enfant, Avant que tu naisses, je t’avais offert au sublime Aniruddha. "
+"Donc, va et fais le serviteur de [cet] [être] sublime. » Le garçon dit : "
+"« Ceci est un bienfait pour moi. » dit-il. Puis, ce garçon suivit (lit. alla"
+" à la suite de) l’honorable Aniruddha et Ensuite, l’honorable Aniruddha "
+"instruisit parfaitement le père de famille par un discours sur le Dharma, il"
+" le lui fit assimiler en entier, l’encouragea grandement, le réjouit "
+"entièrement. Puis, se leva de son siège et s’en alla."
+msgstr ""
+
+# དེ་ནས་ཁྱེའུ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–དེ།>ཚེ་དང་ལྡན་པ་མ་འགགས་པས་གཙུག་ལག་ཁང་དུ་ཁྲིད་ནས་
+# རབ་ཏུ་ཕྱུང་སྟེ། བསྙེན་པར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པ།>རྫོགས་པར་བྱས་ནས་
+# དེ་ལ་ལུང་ཡང་ཕོག་གོ། །
+# དེས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
+msgctxt "line 18, 10.txt"
+msgid ""
+"Ensuite, l’honorable Aniruddha mena le garçon au monastère et il [lui fit] "
+"se retirer du monde et lui donna l’ordination complète et lui [accorda] la "
+"transmission orale. De son côté, il s’efforça, s’appliqua et s’évertua à "
+"éliminer toutes les émotions perturbatrices et il manifesta l’état d’arhat "
+"(lit. l’arhat-même). Alors,"
+msgstr ""
+
+# དེ་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས། གསེར་དང་བོང་བར་མཉམ་པ།
+# ནམ་མཁའ་དང་ལག་མཐིལ་དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ།
+# ཙན་དན་སྦངས་པ་ལྟ་བུར་བསིལ་བར་གྱུར་པ། རིག་པས་<«གཡུང་»བམ།>སྒོ་ངའི་སྦུབས་བཅོམ་པ།
+# རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ་
+# སྲིད་པའི་རྙེད་པ་དང་ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ་ དབང་པོ་དང་།
+# ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«སྣར་»བརྗེད།
+# «པེ་»བརྗོད།>པ་དང་། གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ། །
+msgctxt "line 19, 10.txt"
+msgid ""
+"il devint un arhat libre de l’attachement aux trois mondes. Ainsi, [un "
+"morceau] d’or et une motte de terre étaient identiques [à ses yeux] ; il "
+"[vint à] posséder un esprit [pour lequel] l’espace et la paume de la main "
+"sont similaires ; il [possédait] la fraîcheur du [bois de] santal trempé ; "
+"sa sagesse avait brisé la coquille de l’œuf ; il avait obtenu la "
+"connaissance, la clairvoyance et la parfaite discrimination ; il avait "
+"tourné le dos aux biens du samsara, aux désirs et aux éloges ; il était "
+"désormais digne (lit. un objet de) des offrandes, de la vénération et de la "
+"révérence (lit. paroles respectueuses) d’Indra, d’Upendra et des autres "
+"dieux."
+msgstr ""
+
+# དེ་ཡང་རྫུ་འཕྲུལ་ཆེ་ཞིང་མཐུ་ཆེ་ལ།
+# བསམ་གཏན་དང་རྣམ་པར་ཐར་པ་དང་ཏིང་ངེ་འཛིན་དང་སྙོམས་པར་འཇུག་པའི་བར་དུ་ཐོབ་པ་ཡིན་ནོ།
+# ། དེ་<«གཡུང་»«པེ་»ད།>སྙོམས་པར་འཇུག་པ་དང་ལྡང་བ་ལ་མྱུར་ཏེ།
+# ཁབ་ལན་རེ་འཛུགས་པའི་ཡུན་ཙམ་ལ།
+# ཏིང་ངེ་འཛིན་གཞན་དང་གཞན་དག་ལ་སྙོམས་པར་འཇུག་ཅིང་ལྡང་ངོ་། །
+msgctxt "line 20, 10.txt"
+msgid ""
+"Il [possédait] de grands pouvoirs surnaturels, une grande puissance et il "
+"avait obtenu [depuis] la concentration, les parfaites libérations, les "
+"samādhis jusqu’aux absorptions méditatives. Il rapide pour entrer et sortir "
+"des absorptions méditatives. Ainsi, le temps qu’une aiguille transperce un "
+"pétale, il entrait dans une absorption méditative et en ressortait pour une "
+"autre [absorption]."
+msgstr ""
+
+# དེ་ནས་ཕྱི་ཞིག་ན། ཚེ་དང་ལྡན་པ་སྣ་མའི་མེ་ཏོག་གིས་བསམས་པ།
+# བཅོམ་ལྡན་འདས་ཀྱིས་བདག་གི་སྡུག་བསྔལ་དང་ཡིད་མི་བདེ་བ་རྣམ་པ་དུ་མ་ནི་བསལ།
+# བདེ་བ་དང་ཡིད་བདེ་བ་རྣམ་<«གཡུང་»དམ།>པ་དུ་མ་ནི་བསྒྲུབས།
+# སྡིག་པ་མི་དགེ་བའི་ཆོས་རྣམ་པ་དུ་མ་ནི་བསལ<«གཡུང་»གསལ། «པེ་»བསམ།>།
+# དགེ་བའི་ཆོས་རྣམ་པ་དུ་མ་<«གཡུང་»–མ།>ནི་[40a]བསྒྲུབས་ན།
+# བདག་གིས་བཅོམ་ལྡན་འདས་ཀྱིས་<«གཡུང་»«པེ་»«ཞོལ་»ཀྱི།>བཀའ་དྲིན་ཇི་ལྟར་བསབ་པར་བྱ་སྙམ་མོ།
+# ། དེ་ནས་དེས་བསམས་པ།
+# སངས་རྒྱས་རྣམས་འཇིག་རྟེན་དུ་འབྱུང་བ་གང་<«གཡུང་»«པེ་»–བ་གང་།>ཡང་རུང་བ་དེ་དག་ཐམས་ཅད་ནི་སེམས་ཅན་ལ་ཕན་པའི་ཕྱིར་འབྱུང་བར་ཟད་ཀྱིས<«ཞོལ་»ཀྱི།>།
+# མ་ལ་
+# བདག་གིས་ཀྱང་སེམས་ཅན་ལ་ཕན་པར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>བྱའོ་སྙམ་མོ།
+# །
+msgctxt "line 21, 10.txt"
+msgid ""
+"Ensuite, plus tard, l’honorable Fleur-de-Jasmin pensa : « Le Bienheureux a "
+"dissipé d’innombrables souffrances et inconforts [que] j’[avais]. Il a "
+"accompli d’innombrables bonheurs [physiques] et mentaux pour moi. Il a "
+"dissipé d’innombrables actions négatives et choses mauvaises. Il a accompli "
+"d’innombrables actions positives pour moi. Donc, comment vais-je repayer la "
+"bonté du Bienheureux ? » Alors, il pensa : « L’apparition des Bouddhas dans "
+"le monde et tout ce qu’ils [y font], c’est uniquement pour le bien des "
+"êtres. Donc, décidément, je dois moi aussi faire le bien des êtres. »"
+msgstr ""
+
+# དེ་ནས་དེས་བདག་གིས་གདུལ་བར་འགྱུར་བ་འགའ་ལྟ་ཡོད་དམ་སྙམ་དུ་ བསམས་པ་དང་།
+# དེས་ཐོག་མ་ཁོ་ནར་ཕ་མ་གཉིས་མཐོང་ངོ་། ། མཐོང་ནས་ཀྱང་ དེས་བསམས་པ་
+# ཐབས་ཅི་ཞིག་གིས་དེ་<«ཅོ་»ནི།>གཉིས་འདུལ་བར་འགྱུར་སྙམ་པ་དང་།
+# དེས་རྫུ་འཕྲུལ་གྱིས་འདུལ་བར་རིག་ནས།
+# རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་ནས་མི་སྣང་བར་གྱུར་<«ལི་»«སྣར་»«ཅོ་»འགྱུར།>ཏེ།
+# རང་གི་ཁྱིམ་དུ་<«གཡུང་»–དུ།>ཕ་མ་གཉིས་ཀྱི་མདུན་ལོགས་ནས་ས་བརྟོལ་<«གཡུང་»«པེ་»རྟོལ།
+# «ཁུ་»བརྡོལ།>ཏེ་ བྱུང་ནས་ སྟེང་གི་ནམ་མཁའ་ལ་འདུག་སྟེ།
+# འབར་བ་དང་ལམ་མེར་འདུག་པ་དང་།
+# ཆར་འབེབས་པ་དང་གློག་འགྱུ་བའི་ཆོ་འཕྲུལ་རྣམས་བསྟན་ནས་ བབས་ཏེ།
+# སྟན་བཤམས་པ་ལ་འདུག་གོ། ། དེ་འདུག་ནས་
+msgctxt "line 22, 10.txt"
+msgid ""
+"Ensuite, « Se trouve-t-il quelqu’un qui doive être dompté par moi ? » pensa-"
+"t-il. Alors, il vit en premier lieu ses deux parents. Les ayant vus, il "
+"pensa : « par quel méthode seront-ils domptés ? » À ce moment, il vit qu’ils"
+" seraient domptés par les pouvoirs surnaturels et il disparut du parc du "
+"prince Jeta et émergea du sol devant ses deux parents dans sa maison et en "
+"étant sorti, il se tint en hauteur dans les airs et il montra les miracles "
+"de s’élever (lit. brûler) et de demeurer immobile, puis [ceux] de la pluie "
+"qui tombe et des éclairs qui filent et se posa et il s’assit sur le siège "
+"disposé [pour lui]. S’étant assis,"
+msgstr ""
+
+# ཕ་མ་གཉིས་ལ་དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ།
+# དེ་ནས་ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པས་སྟན་དེ་ཉིད་ལ་འཁོད་བཞིན་དུ་འཇིག་ཚོགས་ལ་ལྟ་བའི་རིའི་རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་<«གཡུང་»ཤེ།>རྡོ་རྗེས་བཅོམ་སྟེ།
+# རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་ནས་ སྐྱབས་སུ་འགྲོ་བ་དང་།
+# བསླབ་པའི་གཞི་རྣམས་ལ་གནས་པར་བྱས་ཏེ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བྱ་སྟེ།>།
+# བདེན་པ་མཐོང་ནས་ སྦྱིན་པ་དག་སྦྱིན་<«ཁུ་»བྱིན།>ཞིང་
+# བསོད་ནམས་དག་བྱེད་པར་གྱུར་ཏོ། །
+msgctxt "line 23, 10.txt"
+msgid ""
+"il prodigua un enseignement (lit. à ceci) correspondant à ses deux parents. "
+"Alors, ensuite, le père de famille et son entourage détruisirent les vingt "
+"cimes élevées des vues concernant l’amas périssable à l’aide du diamant de "
+"la sagesse tandis qu’il était assis sur son siège et ils manifestèrent le "
+"résultat de l’entrée dans le courant et s’établirent dans le refuge et "
+"[certains] vœux (lit. bases de l’entraînement) et après avoir vu les "
+"vérités, ils pratiquèrent la générosité et accumulèrent les mérites."
+msgstr ""
+
+# དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས། བཅོམ་ལྡན་འདས་ལ་ཞུས་པ<«གཡུང་»«པེ་»ཞུ་བ།>། བཙུན་པ་
+# སྣ་མའི་མེ་ཏོག་གིས་ལས་ཅི་ཞིག་བགྱིས་ན།
+# ལས་དེའི་རྣམ་པར་སྨིན་པས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ཏེ།
+# གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པར་གྱུར་ལ།
+# བཙས་མ་ཐག་ཏུ་ཡང་ལུས་ཐམས་ཅད་ནས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ནས།>སྣ་མའི་མེ་ཏོག་གི་ངད་ལྡང་ཞིང་
+# མངལ་དུ་ཞུགས་པ་དང་བཙས་པའི་ཚེ་ཡང་ཁྱིམ་དུ་སྣ་མའི་མེ་ཏོག་གི་ཆར་བབ་<«ཞོལ་»ཕབ།>ལ།
+# འདིས་བཅོམ་ལྡན་འདས་ཀྱང་མཉེས་པར་བགྱིས་ཏེ།
+# མི་མཉེས་པར་མ་བགྱིས་ནས<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–ནས།>།
+# བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་<«གཡུང་»–ལ།>རབ་ཏུ་བྱུང་སྟེ།
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་[40b]དུ་བགྱིས་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ།>ལགས།
+# ཕ་མ་གཉིས་ཀྱིས་ཀྱང་ལས་ཅི་བགྱིས་ན། དེས་དེ་ཁོ་ན་ལ་བརྟེན་ནས་
+# བཅོམ་ལྡན་འདས་མཉེས་པར་བགྱིས་ཏེ་
+# མི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»མ།>མཉེས་པར་མ་བགྱིས་ལགས།
+msgctxt "line 24, 10.txt"
+msgid ""
+"Puis les moines s’adressèrent au Bienheureux : « Vénérable, quelles actions "
+"Fleur-de-Jasmin a réalisées pour que le résultat de ces actions le fit "
+"naître dans une lignée familiale qui est riche, possède de grandes (lit. "
+"nombreuses) richesses et de nombreux (lit. grands) biens, puis [que son] "
+"corps devint harmonieux (lit. noble), agréable au regard et beau, et [que] "
+"juste après sa naissance, tout son corps exhalait la senteur de fleur de "
+"jasmin et [qu’]à son entrée dans le sein [maternel] et à sa naissance, il "
+"pleuve des fleurs de jasmin, puis qu’il contente aussi le Bienheureux et ne "
+"fasse rien qui le mécontente, puis [qu’]ils se retirent du monde d’après "
+"l’enseignement du Bienheureux et [qu’]il élimine toutes les émotions "
+"perturbatrices et [qu’]il manifeste l’état d’arhat ? Ses deux parents, "
+"quelles actions ont-ils réalisées pour que grâce à lui seul ils contentent "
+"le Bienheureux et ne fassent rien qui le mécontente ? »"
+msgstr ""
+
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་<«གཡུང་»ཀྱིབ་བགང་།>སྩལ་པ། སྨོན་ལམ་གྱི་དབང་ལས་གྱུར་ཏོ།
+# ། བཙུན་པ་ འདིས་སྨོན་ལམ་གང་དུ་བཏབ་ལགས།
+msgctxt "line 25, 10.txt"
+msgid ""
+"Le Bienheureux dit : « Ceci est arrivé par le pouvoir de leurs souhaits. » "
+"« Vénérable, « Quels souhaits a-t-il formulés ? »"
+msgstr ""
+
+# དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
+# བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ།
+# འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་འདུལ་བ་ཁ་ལོ་སྒྱུར་བ།
+# བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ།
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་ཞེས་བྱ་བ་<«ཅོ་»–བ།>འཇིག་རྟེན་དུ་བྱུང་སྟེ།
+# དེའི་ཚེ་བཱ་རཱ་ཎ་སཱི་ན་ཁྱིམ་བདག་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བ་ཡོངས་སུ་འཛིན་པ།
+# ཡངས་ཤིང་རྒྱ་<«གཡུང་»«པེ་»–རྒྱ།>ཆེ་བ་རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་ལྡན་པ།
+# རྣམ་ཐོས་ཀྱི་བུའི་ནོར་དང་འགྲན་པ་ཞིག་གནས་པ་དེས་ཐབས་ཟླར་བབ་པ་ལས། ཆུང་མ་བླངས་ནས།
+msgctxt "line 26, 10.txt"
+msgid ""
+"« Moines, à un moment du passé qui s’est déroulé auparavant, pendant ce même"
+" éon fortuné, quand la durée de vie des personnes pouvaient [atteindre] "
+"vingt-mille ans, le complet et parfait bouddha, celui doté de la vision et "
+"des jambes, le sugata, le connaisseur du monde, l’insurpassable cocher des "
+"êtres à guider, l’enseignant des dieux et des hommes, le Bienheureux Bouddha"
+" Kāśyapa était apparu en ce monde et À cette époque, dans la ville de "
+"Vārāṇasī, un homme qui vivait dans l’opulence et possédait beaucoup de "
+"richesses, dont les possessions étaient étendues et vastes, qui possédait la"
+" richesse de Vaiśravaṇa, qui possédait des richesses rivalisant celles de "
+"Vaiśravaṇa se maria (lit. prit une femme) puisqu’il était arrivé à (lit. "
+"tomba à) l’âge de se marier (lit. de l’épouse)."
+msgstr ""
+
+# དེ་དེ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་པ་ལས།
+# ཕྱི་ཞིག་ན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ན།>དེའི་ཆུང་མ་ལ་བུ་ཆགས་ནས།
+# དེས་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་།
+# ཁྱེའུ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་སོ། །
+msgctxt "line 27, 10.txt"
+msgid ""
+"Avec elle, ils se divertirent, ils [apprirent] à s’aimer et laissèrent libre"
+" cours à leurs envies et de ce fait, plus tard, son épouse tomba enceinte et"
+" après que neuf ou dix mois soient passés, elle donna le jour à un fils bien"
+" proportionné (lit. noble), dont la beauté réjouissait la vue."
+msgstr ""
+
+# དེ་ནས་དེ་ཆེར་<«གཡུང་»«པེ་»ཕྱིར།>སྐྱེས་པ་དང་།
+# དེས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་<«གཡུང་»སྟན།>པ་ལ་དད་པ་རྙེད་ནས།
+# དེས་ཕ་མ་ལ་གསོལ་ཏེ<«གཡུང་»ཏོ།>། རབ་ཏུ་བྱུང་<«གཡུང་»«པེ་»«ཅོ་»འབྱུང་།>ངོ་། །
+# རབ་ཏུ་བྱུང་ནས་ སྡེ་སྣོད་གསུམ་བསླབས་ཏེ།
+# རིག་པ་དང་གྲོལ་བའི་སྤོབས་<«གཡུང་»སྨོབས།>པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བར་གྱུར་ནས་
+# དེས་ཕ་མ་གཉིས་དད་པ་<«གཡུང་»«པེ་»–པ།>ཕུན་སུམ་ཚོགས་པ་ལ་བཀོད་དེ<«གཡུང་»དོ།>།
+# སྐྱབས་སུ་འགྲོ་བ་དང་། བསླབ་པའི་གཞི་རྣམས་ལ་གནས་པར་བྱས་སོ<«གཡུང་»«པེ་»བྱའོ།>། །
+# སྦྱིན་པ་དང་སྦྱིན་པའི་བགོ་བཤའ་ལ་ཡང་བཙུད་དོ། །
+msgctxt "line 28, 10.txt"
+msgid ""
+"Ensuite, lorsqu’il eut grandi, il conçut de la dévotion pour l’enseignement "
+"du complet et parfait Bouddha Kāśyapa, et il demanda [la permission] à ses "
+"parents et se retira du monde. Après s’être retiré du monde, il étudia les "
+"trois corbeilles et il devint une enseignante du Dharma qui possédait les "
+"connaissances et l’éloquence pour libérer et il établit ses deux parents "
+"dans une dévotion parfaite, puis il les installa (lit. fit rester) dans le "
+"refuge (lit. la prise de refuge) et dans les vœux (lit. bases de "
+"l’entraînement). Il les fit aussi s’engager (lit. entrer) dans la [pratique "
+"de la] générosité et l’échange de la générosité."
+msgstr ""
+
+# ཕྱི་ཞིག་ན་དེས་བསམས་པ།
+# བདག་གིས་ཐོས་པའི་སྒོ་ནས་བྱ་བ་གང་ཡིན་པ་དེ་ནི་བདག་གིས་བྱས་ཟིན་གྱིས། མ་ལ་
+# ད་ནི་བདག་གིས་དགེ་འདུན་གྱི་ཞལ་ཏ་བྱའོ་སྙམ་དུ་ བསམས་ནས།
+# ཕ་མ་གཉིས་དང་བྲམ་ཟེ་དང་ཁྱིམ་བདག་དད་པ་ཅན་གཞན་དག་ལ་བསྐུལ་ཏེ།
+# དགེ་འདུན་ལ་འབྲས་ཆན་<«ལི་»«ཅོ་»ཆེན།>དང་ཐུག་པ་<«གཡུང་»«པེ་»+དང་།>བཏུང་བ་དང་སྐྱོ་མ་རྣམས་[41a]དང་གོས་དང་ཟས་དང་མལ་ཆ་དང་སྟན་དང་ནད་གསོས་དང་སྨན་ཟོང་རྣམས་ཕུལ་ལོ།
+# ། ཁབ་ཀྱང་ཕུལ་ལོ། །
+msgctxt "line 29, 10.txt"
+msgid ""
+"Un jour, il pensa : « tout ce qu’il fallait faire par l’étuve (lit. "
+"l’écoute), je l’ai déjà fait. Donc, décidément, maintenant, je vais servir "
+"la saṅgha. » pensa-t-il. Puis, il sollicita ses deux parents, des brahmanes "
+"et d’autres pères de famille qui possédait la dévotion et il offrit à la "
+"saṅgha du riz, de la soupe, de la boisson, et du gruau, des vêtements, de la"
+" nourriture, des couvertures, des coussins, des médicaments et des "
+"fournitures médicales. Il offrit aussi des aiguilles."
+msgstr ""
+
+# དེ་བཞིན་དུ་དབུ་སྐྲ་དང་སེན་མོའི་མཆོད་རྟེན་རྣམས་ལ་ཡང་ཏིལ་མར་གྱིས་བྱུག་<«གཡུང་»དབྱུག>པ་དང་སྤོས་ཀྱིས་བྱུག་པ་དང་།
+# མར་མེའི་ཕྲེང་བ་དང་སྣ་མའི་མེ་ཏོག་གི་ཕྲེང་བ་དང་གདུགས་ཀྱང་ཕུལ་
+# སྣ་མའི་མེ་ཏོག་གི་སིལ་མས་ཀྱང་གཏོར་ནས། སྨོན་ལམ་བཏབ་པ། ཀྱེ་མ་
+# དགེ་བའི་རྩ་བ་འདིས་ན<«སྣར་»«ཞོལ་»ན་བདག«ཅོ་»ནི།>།
+# གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་ཤོག་ཅིག
+# ། གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པར་ཤོག་ཅིག །
+# བདག་གི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»གིས།>ལུས་ཐམས་ཅད་ནས་ཀྱང་སྣ་མའི་མེ་ཏོག་གི་<«གཡུང་»«ལི་»གྱི།>དྲིའི་ངད་ལྡང་བར་<«གཡུང་»«པེ་»ལྡང་བ།
+# «ཁུ་»ལྡན་པར།>ཤོག་ཅིག །
+# མངལ་དུ་ཞུགས་པ་དང་བཙས་པའི་ཚེ་ཡང་བདག་གི་ཁྱིམ་དུ་སྣ་མའི་མེ་ཏོག་གི་ཆར་འབབ་པར་ཤོག་ཅིག
+# །
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་<«གཡུང་»གྲམ།>ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག
+# ། མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག །
+# དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས<«གཡུང་»ནོས།>། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག ། ཤེས་རབ་ཀྱང་རྣོ་བར་གྱུར་ཅིག །
+# བསམ་གཏན་དང་། རྣམ་པར་ཐར་པ་དང་། ཏིང་ངེ་འཛིན་དང་།
+# སྙོམས་པར་འཇུག་པ་རྣམས་ཀྱང་ཐོབ་སྟེ<«གཡུང་»«པེ་»ཏེ།>།
+# སྙོམས་པར་འཇུག་པ་དང་ལྡང་བ་ལ་མྱུར་བར་གྱུར་ཅིག །
+# ཁབ་ལན་རེ་འཛུགས་པའི་ཡུན་ཙམ་ལ་ཡང་། ཏིང་ངེ་འཛིན་གཞན་དང་།
+# གཞན་དག་ལ་སྙོམས་པར་འཇུག་ཅིང་ལྡང་བར་གྱུར་ཅིག་ཅེས་ བྱས་སོ། །
+msgctxt "line 30, 10.txt"
+msgid ""
+"De même, il offrit aussi des onctions d’huile de sésame, des onguents "
+"parfumés, des guirlandes de lampes à huile et des guirlandes de fleurs de "
+"jasmin et des ombrelles aux stūpa [contenant] des cheveux et des ongles. Il "
+"jeta en offrande des fleurs de jasmins cueillies (lit. en petites unités) et"
+" il fit ce souhait : « Quelle merveille ! Grâce à ces racines vertueuses, "
+"puissé-je toujours naître dans une lignée familiale qui est riche, possède "
+"de grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens. "
+"Puissé-je avoir un corps harmonieux (lit. noble), agréable au regard et "
+"beau. Puisse mon corps entier exhaler la senteur de fleur de jasmin. Puisse-"
+"t-il pleuvoir des fleurs de jasmin sur ma maison quand j’entrerai dans le "
+"sein [maternel] et quand je naîtrai. Puissé-je contenter par mes actes le "
+"Bienheureux Bouddha que [deviendra] le jeune brahmane Uttara [d’après] la "
+"prophétie du complet et parfait Bouddha Kāśyapa. Puissé-je ne rien faire qui"
+" le mécontente. M’étant retiré du monde d’après son (lit. à lui-même) "
+"enseignement et après avoir éliminé toutes les émotions perturbatrices, "
+"puissé-je manifester l’état d’arhat (lit. l’arhat-même). Puisse [ma] sagesse"
+" être aiguisée. Puissé-je aussi obtenir la concentration, les parfaites "
+"libérations, les samādhis et les absorptions méditatives et puissé-je être "
+"rapide pour entrer et sortir des absorptions méditatives. Même pendant le "
+"temps qu’une aiguille transperce un pétale, puissé-je entrer dans une "
+"absorption méditative et en ressortir pour une autre [absorption]. » dit-il."
+msgstr ""
+
+# དེ་ནས་ཕ་མ་གཉིས་ཀྱིས་དེ་མཐོང་ནས་ དྲིས་<«གཡུང་»བྲིས།>པ། བུ་
+# ཁྱོད་ཀྱིས་སྨོན་ལམ་ཅི་ཞིག་བཏབ།
+# དེས་དེ་གཉིས་ལ་བདག་གིས་སྨོན་ལམ་འདི་ལྟར་<«ཅོ་»འདིར།>བཏབ་པོ་ཞེས་
+# ཐམས་ཅད་བསྙད་<«གཡུང་»བརྙེད།>དོ། ། ཕ་མ་གཉིས་ཀྱིས་སྨྲས་པ།
+# ཁྱོད་ཁོ་ན་བདག་ཅག་གཉིས་ཀྱི་བུར་གྱུར་ཅིག །
+# བདག་ཅག་གཉིས་ཀྱང་ཁྱོད་ཀྱི་ཕ་མར་གྱུར་ཅིག །
+# ཁྱོད་ཁོ་ན་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ལས།>བརྟེན་ཏེ་
+# བདག་ཅག་གཉིས་ཀྱིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །
+# མི་མཉེས་པར་བྱེད་པར་<«གཡུང་»«པེ་»–བྱེད་པར།>མ་གྱུར་ཅིག་ཅེས་ བྱས་སོ། །
+msgctxt "line 31, 10.txt"
+msgid ""
+"Ensuite, ses deux parents le virent et lui demandèrent : « Enfant, quel "
+"souhait as-tu fait ? » à tous les deux, « J’ai formulé un souhait comme "
+"ceci. » il leur expliqua en détail (lit. tous). Les deux parents dirent : "
+"« Que notre enfant à tous les deux soit toi-même (lit. seulement toi). Que "
+"nous deux soyons aussi tes parents. Que grâce à toi-même (lit. seulement "
+"toi), nous contentions tous les deux par nos actes le Bienheureux Bouddha. "
+"Puissé-je ne rien faire qui le mécontente. » dirent-ils."
+msgstr ""
+
+# དགེ་སློང་དག་ ཇི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཅི།>སྙམ་དུ་སེམས།
+# དེའི་ཚེ་དགེ་སློང་དུ་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་སྣ་མའི་མེ་ཏོག་འདི་ཉིད་ཡིན་ཏེ།
+# དེ་དེར་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
+# ཆོས་བཞིན་དུ་ཞལ་ཏ་བྱས་ཏེ། སངས་རྒྱས་དང་།
+# ཆོས་དང་དགེ་འདུན་ལ་བཀུར་སྟི་<«གཡུང་»«པེ་»སྟིར།>བྱས་ནས།
+# སྨོན་ལམ་བཏབ་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་<«གཡུང་»–སུ།>སྐྱེས་ཏེ།
+# གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པར་གྱུར་ལ་
+# བཙས་<«གཡུང་»གཙས།>མ་ཐག་ཏུ་ཡང་དེའི་ལུས་ཐམས་ཅད་ནས།
+# སྣ་མའི་མེ་ཏོག་གི་དྲིའི་ངད་ལྡང་བར་གྱུར་པ་དང་། མངལ་དུ་ཞུགས་པ་དང་།
+# བཙས་པའི་ཚེ་ཡང་དེའི་ཁྱིམ་དུ་སྣ་མའི་མེ་ཏོག་གི་ཆར་ཕབ་སྟེ<«སྣར་»«ཞོལ་»བབ་སྟེ།
+# «ཁུ་»ཕབ་ཏེ།>།
+msgctxt "line 32, 10.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, celui qui était ce moine est "
+"Fleur-de-Jasmin lui-même, et il s’est retiré du monde selon l’enseignement "
+"du complet et parfait Bouddha Kāśyapa et a servi [la saṅgha] en accord avec "
+"le Dharma et il offrit ses services au Bouddha, au Dharma et à la Saṅgha et "
+"le résultat de l’action d’avoir formulé ces souhaits le fit naître dans une "
+"lignée familiale qui est riche, possède de grandes (lit. nombreuses) "
+"richesses et de nombreux (lit. grands) biens à chacune de ses naissances "
+"(lit. partout où il naissait, à chacun de ces endroits) et son corps est "
+"devenu harmonieux (lit. noble), agréable au regard et beau, et juste après "
+"sa naissance, tout son corps a exhalé la senteur de fleur de jasmin et à son"
+" entrée dans le sein [maternel] et à sa naissance, il a plu des fleurs de "
+"jasmin. De plus,"
+msgstr ""
+
+# དགེ་སློང་དག་ ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་།
+# ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་<«གཡུང་»«པེ་»–དང་ཐབས་མཉམ་པ།>རྙེད་<«ཁུ་»བརྙེས།>པར་གྱུར་ནས།
+# འདིས་ང་མཉེས་པར་བྱས་ཏེ་ མི་མཉེས་པར་མ་བྱས་ལ། ང་ཉིད་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ། དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ལ་
+# ཤེས་རབ་རྣོ་བར་གྱུར་ཏེ། བསམ་གཏན་དང་། རྣམ་པར་ཐར་པ་དང་། ཏིང་ངེ་འཛིན་དང་།
+# སྙོམས་པར་འཇུག་པ་རྣམས་ཐོབ་ནས།
+# སྙོམས་པར་འཇུག་པ་དང་ལྡང་བ་<«ལི་»«པེ་»«ཅོ་»ལྡན་པ།>ལ་མྱུར་བར་གྱུར་ཏེ།
+# ཁབ་ལན་རེ་འཛུགས་པའི་ཡུན་ཙམ་ལ་ཡང་ཏིང་ངེ་འཛིན་གཞན་དང་།
+# གཞན་དག་ལ་སྙོམས་པར་འཇུག་ཅིང་ལྡང་བར་བྱེད་དོ། །
+msgctxt "line 33, 10.txt"
+msgid ""
+"moines, je suis devenu en tout point (lit. très) l’égal du complet et "
+"parfait Bouddha Kāśyapa, j’ai obtenu une force égale [à la sienne], des "
+"moyens [habiles] égaux [aux siens] et des actes égaux [aux siens], il m’a "
+"contenté et n’a rien fait qui me mécontente, puis il s’est retiré du monde "
+"selon mon (lit. à moi-même) enseignement et il a éliminé toutes les émotions"
+" perturbatrices et il a manifesté l’état d’arhat et sa sagesse est devenue "
+"aiguisée et il a obtenu la concentration, les parfaites libérations, les "
+"samādhis et les absorptions méditatives et il est devenu rapide pour entrer "
+"et sortir des absorptions méditatives. Ainsi, même pendant le temps qu’une "
+"aiguille transperce un pétale, il entrait dans une absorption méditative et "
+"en ressortait pour une autre [absorption]."
+msgstr ""
+
+# དེའི་ཚེ་ཕ་མར་གྱུར་པ་དེ་གཉིས་ནི། ཕ་མ་འདི་གཉིས་ཡིན་ཏེ།
+# དེ་གཉིས་ཀྱིས་དེར་སྨོན་ལམ་བཏབ་སྟེ། ཁྱོད་ཁོ་ན་ལ་བརྟེན་<«གཡུང་»ན་རྟེན།>ནས།
+# བདག་ཅག་གཉིས་ཀྱིས་ཤཱཀྱའི་རྒྱལ་པོ་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །
+# མི་མཉེས་པར་བྱེད་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»–པར་བྱེད།
+# «ཁུ་»གཉེས་པར་བྱེད།>པར་མ་གྱུར་ཅིག ། ཅེས་ བྱས་པས་ད་ལྟར་འདི་ཁོ་ན་ལ་བརྟེན་ཏེ།
+# འདི་གཉིས་ཀྱིས་ང་མཉེས་པར་བྱས་ཏེ་ མི་མཉེས་པར་མ་བྱས་སོ།། །།
+msgctxt "line 34, 10.txt"
+msgid ""
+"À cette époque, les deux [personnes] qui étaient ses parents sont ses deux "
+"parents et ils formulèrent le souhait suivant : « Que grâce à toi-même (lit."
+" seulement toi), nous contentions tous les deux par nos actes le roi des "
+"Śākyas. Puissions-nous ne rien faire qui le mécontente. » avoir fait [ce "
+"souhait fit que] maintenant, grâce à lui-même (lit. lui seul), ils m’ont "
+"tous les deux contenté et n’ont rien fait qui m’a mécontenté."
+msgstr ""

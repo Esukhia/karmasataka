@@ -1,0 +1,299 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# ཤན་<«སྣར་»«ཞོལ་»བཤན།>པ་ཞེས་བྱ་བ་ནི།  གླེང་གཞི་མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "line 1, 22.txt"
+msgid ""
+"L’histoire du boucher \t Cette histoire [fut contée] alors que le "
+"Bienheureux séjournait à Śrāvastī."
+msgstr ""
+
+# དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན་ཤན་<«སྣར་»«ཞོལ་»བཤན།>པ་ཞིག་གནས་པ་དེས་ཐབས་ཟླར་བབ་པ་ལས་ཆུང་མར་<«གཡུང་»«པེ་»«སྣར་»«ཁུ་»«ཞོལ་»མ།>བླངས་པ་ལས།
+# ཕྱི་ཞིག་ན་དེའི་ཆུང་མ་ལ་བུ་ཆགས་ནས་
+# དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེ།>ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་
+# བུ་<«ཞོལ་»དུ།>བྱུང་སྟེ། ཁྱེའུ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»ལྟ།
+# «ཅོ་»ལྔ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་ནས་
+# དེ་ཕ་མའི་སྙིང་དུ་ཤས་ཆེར་སྡུག་ཅིང་ཕངས་<«སྣར་»«ཞོལ་»ཕོངས།>ལ་ཡིད་དུ་འོང་བར་གྱུར་ཏོ།
+# ། དེ་ནས་དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ཏེ་
+# རིགས་དང་འཐུན་པའི་མིང་བཏགས་<«གཡུང་»བརྟགས།>ནས།
+# འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»སྙིང་ཁུས།
+# «སྣར་»«ཞོལ་»ཉིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
+# དེ་གང་གི་ཚེ་ཆེར་<«ཞོལ་»ཚེར།>སྐྱེས་པ་དེའི་ཚེ་ཕ་མ་དེ་གཉིས་ཀྱིས་བཟའ་བ་དང་<«གཡུང་»«པེ་»–དང་།>བཅའ་བ་བཟང་པོ་བྱིན་ལ་
+# ལས་ཅི་ཡང་བྱེད་དུ་མི་འཇུག་གོ། །
+msgctxt "line 2, 22.txt"
+msgid ""
+"à cette époque, un boucher vivait à Śrāvastī. Puis, arrivé à (lit. tombé) "
+"l’âge de se marier (lit. d’une épouse), il prit une épouse et plus tard, son"
+" épouse tomba enceinte et après que soient passés neuf ou dix mois, un "
+"enfant naquit et un fils au corps harmonieux (lit. noble), qui était beau et"
+" agréable au regard naquit, et il devint extrêmement aimé (lit. extrêmement "
+"agréable au cœur de), précieux (lit. regretteraient grandement sa perte) et "
+"agréable à ses parents. Ensuite, la fête de sa naissance fut faite [de "
+"manière] grandiose (lit. vastement) et on lui donna un nom en accord avec sa"
+" caste. Puis, il se développa au fil du temps grâce à du lait, du yaourt, du"
+" beurre, du beurre purifié (lit. fondu) et du beurre sur-purifié (lit. "
+"l’essence du beurre). Ainsi, quand il grandissait, ses deux parents lui "
+"donnaient la meilleure (lit. noble) nourriture et boisson et ne le laissait "
+"pas travailler."
+msgstr ""
+
+# དེ་ནས་ཕྱིས་དེའི་ཕས་དེ་རང་གི་ལས་བྱེད་དུ་བཅུག་པ་དང་ དེ་ན་རེ་ ཡབ་
+# བདག་ནི་<«གཡུང་»–བདག་ནི།>བདག་ཉིད་འགུམ་པའི་རྔོ་ནི་ཐོགས་ཀྱི<«གཡུང་»«པེ་»མི་ཐོག་གི།
+# «སྣར་»«ལི་»«ཅོ་»ནི་ཐོག་གི།>།
+# སྲོག་ཆགས་འགུམ་པའི་རྔོ་ནི་མི་ཐོགས་སོ་<«གཡུང་»ཐོག་གོ།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»མི་ཐོག་གོ།>ཞེས་ ཟེར་རོ། །
+# ཤན་<«སྣར་»«ཞོལ་»བཤན།>པའི་ཆུང་མས་སྨྲས་པ། ཇོ་བོ་
+# ཁྱེའུ་འདི་ལ་གནོད་པར་མ་<«གཡུང་»–མ།>མཛད་ཅིག་དང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དང་།>།
+# བདག་ཅག་གིས་<«གཡུང་»«པེ་»ཅིག>ལས་འདི་གླ་མི་བགྱིད་དུ་སྩལ་ཏོ། །
+# དེ་ནས་དེ་སྐད་ཅེས་ཐོས་པའི་མོད་ལ།
+# ཤན་<«སྣར་»«ཞོལ་»བཤན།>པ་དེས་ཁྱེའུ་དེ་དལ་བར་<«གཡུང་»ལ་དལ།
+# «པེ་»ལ་དལ་བར།>བཞག་གོ། །
+msgctxt "line 3, 22.txt"
+msgid ""
+"Ensuite, plus tard, son père lui fit faire son propre métier et il dit : "
+"« Père, je parviendrais à me tuer moi-même, mais je ne parviendrai pas à "
+"tuer des êtres vivants. » dit-il. la femme du boucher dit : « Seigneur, ne "
+"faites pas de mal à ce garçon. Nous ferons faire ce travail par un "
+"employé. » Ensuite, dès qu’il eut entendu ces paroles, le boucher laissa ce "
+"garçon tranquille (lit. en loisir)."
+msgstr ""
+
+# དེ་ནས་ཕྱི་ཞིག་ན་ཁྱེའུ་དེས་བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»འདའ་ཀྱིས།
+# «པེ་»འདས་ཀྱིས།>བསྟན་པ་ལ་དད་པ་རྙེད་<«གཡུང་»སྙེད། «ཅོ་»བརྙེད།>ནས།
+# དེ་དུས་དུས་སུ་རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་དུ་འགྲོ་ཞིང་
+# བཅོམ་ལྡན་འདས་ལ་ཆོས་མཉན་པར་བྱེད་དོ། །
+# དེ་ནས་ཕྱི་ཞིག་ན་དེ་རབ་ཏུ་འབྱུང་བའི་<«གཡུང་»«པེ་»+བསམ་པས།>སེམས་སྐྱེས་ནས།
+# དེས་བསམས་པ། བདག་གིས་ཁྱིམ་ན་གནས་པ་བཏང་ལ།
+# བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«པེ་»«ཅོ་»ཀྱིས།>བསྟན་པ་ལ་རབ་ཏུ་འབྱུང་ངོ་སྙམ་ནས།
+# ཕ་མ་གཉིས་ལ་གསོལ་ཏེ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཏོ།>།
+# བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
+# བསྙེན་<«གཡུང་»སྙེན།>པར་རྫོགས་པར་བྱས་སོ། ། དེ་ནས་དེས་བརྩོན་པ་དང་།
+# བསྒྲུབ་<«སྣར་»«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ནས།
+msgctxt "line 4, 22.txt"
+msgid ""
+"Ensuite, plus tard, ce garçon conçut (lit. obtint) de la dévotion pour "
+"l’enseignement du Bienheureux et il allait régulièrement dans le parc du "
+"prince Jeta et il écoutait le Dharma de [la part] du Bienheureux. Ensuite, "
+"plus tard, il conçut l’idée de se retirer du monde et Il pensa : « je vais "
+"délaisser la vie de famille et je me retirerai du monde selon l’enseignement"
+" du Bienheureux. » Alors, il demanda [la permission] à ses deux parents : "
+"« M’étant retiré du monde selon l’enseignement du Bienheureux, je prendrai "
+"l’ordination complète. » Ensuite, de son côté, il s’efforça, s’appliqua et "
+"s’évertua à éliminer toutes les émotions perturbatrices et il a manifesté "
+"l’état d’arhat."
+msgstr ""
+
+# དེ་<«ཁུ་»དེས།>དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།
+# གསེར་དང་བོང་བར་མཉམ་པ་ ནམ་མཁའ་དང་ལག་མཐིལ་དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ་
+# ཙན་དན་<«གཡུང་»དོན།>སྦངས་པ་ལྟ་བུར་བསིལ་བར་གྱུར་པ།
+# རིག་པས་སྒོ་ངའི་སྦུབས་བཅོམ་པ་
+# རིག་པ་དང་མངོན་པར་ཤེས་པ་དང་སོ་སོ་ཡང་དག་པར་རིག་པ་ཐོབ་པ་ སྲིད་པའི་རྙེད་པ་དང་།
+# ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+དང་།>
+# དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«པེ་»«སྣར་»བརྗེད།>པ་དང་གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ།
+# །
+msgctxt "line 5, 22.txt"
+msgid ""
+"Il devint un arhat libre de l’attachement aux trois mondes. Ainsi, [un "
+"morceau] d’or et une motte de terre étaient identiques [à leurs yeux] ; il "
+"[vint à] posséder un esprit [pour lequel] l’espace et la paume de la main "
+"sont similaires ; il [possédait] la fraîcheur du [bois de] santal trempé ; "
+"sa sagesse avait brisé la coquille de l’œuf ; il avait obtenu la "
+"connaissance, la clairvoyance et la parfaite discrimination ; il avait "
+"tourné le dos aux biens du samsara, aux désirs et aux éloges ; il était "
+"désormais digne (lit. un objet de) des offrandes, de la vénération et de la "
+"révérence (lit. paroles respectueuses) d’Indra, d’Upendra et des autres "
+"dieux."
+msgstr ""
+
+# དེ་ནས་དེས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་ནས་ བསམས་པ།
+# བདག་གིས་འདུལ་བར་འགྱུར་བ་འགའ་ལྟ་ཡོད་དམ་<«གཡུང་»«པེ་»–དམ།>སྙམ་པ་དང་།
+# དེས་ཐོག་མ་ཁོ་ནར་ཕ་མ་གཉིས་འདུལ་<«ཁུ་»འབུལ།>བར་འགྱུར་བ་མཐོང་ངོ་། །
+# མཐོང་ནས་ཀྱང་ དེ་གཉིས་ཀྱི་ཐད་དུ་སོང་སྟེ་ ཆོས་བསྟན་ནས།
+# སྡིག་པའི་ལས་དེ་ལས་བཟློག་སྟེ།
+# བདེན་པ་རྣམས་དང་སྐྱབས་སུ་འགྲོ་བ་དང་བསླབ་པའི་གནས་རྣམས་ལ་ཡང་བཀོད་དོ། །
+# སྦྱིན་པ་དང་སྦྱིན་པའི་བགོ་བཤའ་བྱ་བ་ལ་ཡང་བཙུད་དེ་
+# དེས་ཁྱིམ་དེ་<«གཡུང་»«པེ་»དེག>སློང་བའི་སྐྱེ་བོ་རྣམས་ཀྱི་ཆུ་དོང་ལྟ་བུར་གྱུར་པར་བྱས་སོ།
+# །
+# དགེ་སློང་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་པ་དེ་ལ་ཡང་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་སྦྱར་<«གཡུང་»«ལི་»«སྣར་»«ཅོ་»:|:ཀུནསྦྱོར།>ཏོ།
+# ། དེས་ཀྱང་བདག་ཉིད་ཀྱང་ལོངས་སྤྱོད་པར་བྱེད་ལ་
+# ཚངས་པར་སྤྱོད་པ་<«གཡུང་»–བྱེད་ལ་ཚངས་པར་སྤྱོད་པ།>གཞན་དག་ལ་ཡང་སྦྱིན་པར་བྱེད་དོ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»དེ།>།
+# །
+msgctxt "line 6, 22.txt"
+msgid ""
+"Après qu’il ait obtenu l’état d’arhat, il pensa : « Se trouve-t-il quelqu’un"
+" qui doive être dompté par moi ? » il vit en premier lieu que ses deux "
+"parents devaient être domptés. L’ayant vu, il alla auprès d’eux deux et leur"
+" enseigna le Dharma et les détourna des actions négatives et les établit "
+"dans les vérités, le refuge et dans les vœux (lit. bases de l’entraînement)."
+" Il les fit aussi s’engager (lit. entrer) dans la pratique (lit. action) de "
+"la générosité et l’échange de la générosité et il fit que leur maison "
+"devienne comme un puits pour les personnes qui mendiaient. Ils procurèrent "
+"beaucoup de mets et condiments purs et nobles à ce moine arhat. Il en "
+"consomma lui-même et il en offrit aussi aux autres [personnes] vivant "
+"chastement."
+msgstr ""
+
+# དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་
+# དགེ་སློང་འདིས་ལས་ཅི་བགྱིས་ན།
+# ལས་དེའི་རྣམ་པར་སྨིན་པས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་ཤན་པའི་<«པེ་»ཤན་པོའི།
+# «སྣར་»«ཞོལ་»བཤན་པའི།>རིགས་སུ་ཡང་སྐྱེས་ལ། སྡིག་པའི་ལས་ལ་ཡང་སེམས་མ་ཞུགས།
+# བཅོམ་ལྡན་འདས་ཀྱང་འདིས་མཉེས་པར་བགྱིས་ཏེ།
+# མི་མཉེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»མཉེས།>པར་མ་བགྱིས་
+# བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་ཡང་རབ་ཏུ་བྱུང་ནས་
+# ཉོན་མོངས་པ་ཐམས་ཅད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཐམས་ཅད།>སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བགྱིས་
+# ཁྱིམ་པའི་ཚེ་དང་རབ་ཏུ་བྱུང་བའི་ཚེ་ན་ཡང་བཟའ་བ་དང་བཅའ་བ་བཟང་པོ་དང་ལྡན་པར་གྱུར་ལགས།
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། སྨོན་ལམ་གྱི་དབང་ལས་གྱུར་ཏོ། ། བཙུན་པ་
+# འདིས་གང་དུ་སྨོན་ལམ་བཏབ་ལགས།
+msgctxt "line 7, 22.txt"
+msgid ""
+"Puis les moines s’adressèrent au Bienheureux : « Vénérable, quelles actions "
+"ce moine a[-t-il] réalisées pour que le résultat de ces actions le fit "
+"naître dans une lignée familiale de boucher qui est riche, possède de "
+"grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens, mais"
+" ne le fit pas s’intéresser (lit. engager son esprit) aux actions négatives,"
+" [pour] qu’il contente aussi le Bienheureux et ne fasse rien qui le "
+"mécontente, puis qu’il se retire du monde selon l’enseignement du "
+"Bienheureux et après avoir éliminé toutes les émotions perturbatrices, qu’il"
+" manifeste l’état d’arhat et qu’il ait des mets et condiments purs et nobles"
+" quand il vivait en famille et quand il s’est retiré du monde ? » Le "
+"Bienheureux dit : « Ceci est arrivé par le pouvoir de ses souhaits. » "
+"« Vénérable, Quels souhaits a-t-il formulés ? »"
+msgstr ""
+
+# དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
+# རི་ཁྲོད་ཅིག་ན་ཤན་<«སྣར་»«ཞོལ་»བཤན།>པ་མང་པོ་དག་<«ལི་»«ཅོ་»–དག>ཅིག །
+# སྐྱེད་<«གཡུང་»«པེ་»བསྐྱེད།>མོས་ཚལ་གྱི་<«གཡུང་»«པེ་»གྱིས།>ནང་དུ་དོང་སྟེ་
+# བཟའ་བ་དང་བཅའ་བ་བཟང་པོ་མང་པོ་བཤམས་པ་ལས།
+# རང་སངས་རྒྱས་ཞིག་<«ཁུ་»+ན།>སྐྱེད་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»བསྐྱེད།>མོས་ཚལ་དེར་བསོད་སྙོམས་ལ་འོངས་ནས།
+# དེ་ཤན་<«སྣར་»«ཞོལ་»བཤན།>པའི་མི་ཞིག་གིས་མཐོང་སྟེ། མཐོང་མ་ཐག་ཏུ་
+# ཤན་<«སྣར་»«ཞོལ་»བཤན།>པའི་མི་དེ་རང་སངས་རྒྱས་དེ་ལ་ཤིན་ཏུ་དགའ་བ་སྐྱེས་ཏེ།
+# དགའ་བ་སྐྱེས་ནས་
+# རང་སངས་རྒྱས་དེ་ལ་བཟའ་བ་དང་བཅའ་བ་གཙང་མ་བཟང་པོ་མང་པོ་<«གཡུང་»«པེ་»མོ།>ཕུལ་ལོ།
+# ། བདག་ཉིད་ཆེན་པོ་དེ་དག་ནི་ལུས་ཀྱིས་ཆོས་སྟོན་པར་བྱེད་ཀྱི་
+# ཚིག་གིས་ཆོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཆོས།>སྟོན་པར་མི་བྱེད་དེ།
+# དེས་དེར་བསོད་སྙོམས་བླངས་ནས། དེ་ཉིད་དུ་སྟེང་གི་ནམ་མཁའ་ལ་སོང་ངོ་། །
+# དེ་ནས་མི་དེས་མཐོང་ནས་ ལྷག་པར་ཡང་<«གཡུང»«པེ་»+དག་པར།>[75b]དགའ་བ་སྐྱེས་སོ། །
+msgctxt "line 8, 22.txt"
+msgid ""
+"« Moines, dans une époque maintenant révolue, dans un village de montagne, "
+"beaucoup de bouchers étaient allé dans un parc d’agrément et avaient disposé"
+" beaucoup de mets en condiments purs et nobles et un bouddha solitaire était"
+" venu dans le parc d’agrément pour faire l’aumône et l’un (lit. une "
+"personne) des bouchers le vit et dès qu’il le vit, ce boucher (lit. cette "
+"personne des bouchers) ressentit une joie intense pour ce bouddha solitaire "
+"et ayant ressenti cette joie, il offrit beaucoup de mets et condiments purs "
+"et nobles à ce bouddha solitaire. Ces grands êtres enseignent pas le Dharma "
+"par leur corps. Ainsi, ils n’exposent pas le Dharma avec des paroles et "
+"celui-ci prit l’aumône de ce [boucher] et juste là, il s’éleva dans les "
+"airs. Ensuite, cet homme le vit et ressentit d’autant plus de joie."
+msgstr ""
+
+# དེ་དགའ་བ་སྐྱེས་ནས་ སྨོན་ལམ་བཏབ་པ། ཀྱེ་མ་
+# དགེ་བའི་རྩ་བ་འདིས་བདག་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་ཤན་<«སྣར་»«ཞོལ་»བཤན།>པའི་རིགས་སུ་སྐྱེས་ལ།
+# བཟའ་བ་དང་བཅའ་བ་བཟང་པོ་དང་ཡང་ལྡན་པ་དང་ བདག་སྡིག་པའི་ལས་དེ་ཡང་མི་བྱེད་པ་དང་།
+# འདི་བས་ཀྱང་ཆེས་ཁྱད་པར་དུ་འཕགས་པའི་སྟོན་པ་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག་
+# མི་མཉེས་པར་བྱེད་པར་<«གཡུང་»–བྱེད་པར། བདང>མ་གྱུར་ཅིག །
+# ཡོན་ཏན་གྱི་ཚོགས་འདི་ལྟ་བུ་དག་ཀྱང་ཐོབ་པར་གྱུར་ཅིག །
+# དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་ བྱས་སོ། །
+msgctxt "line 9, 22.txt"
+msgid ""
+"Ayant ressenti cette joie, il fit ce souhait : “Quelle merveille ! Grâce à "
+"ces racines vertueuses, puissé-je toujours naître dans une lignée familiale "
+"de bouchers qui est riche, possède de grandes (lit. nombreuses) richesses et"
+" de nombreux (lit. grands) biens et [puissé-je] disposer de mets et "
+"condiments nobles et [puissé-je] ne pas faire ces actions négatives et "
+"[puissé-je] contenter un enseignant bien supérieur à lui. Puissé-je ne rien "
+"faire qui le mécontente. Puissé-je aussi obtenir des qualités semblables à "
+"celles-ci. M’étant retiré du monde d’après son (lit. à lui-même) "
+"enseignement et après avoir éliminé toutes les émotions perturbatrices, "
+"puissé-je manifester l’état d’arhat (lit. l’arhat-même).” dit-il."
+msgstr ""
+
+# དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
+# དེའི་ཚེ་ཤན་<«སྣར་»«ཞོལ་»བཤན།>པར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་དགེ་སློང་འདི་ཉིད་ཡིན་ཏེ།
+# དེས་རང་སངས་རྒྱས་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–དེ།>ལ་བཤོས་ཕུལ་ནས།
+# སྨོན་ལམ་བཏབ་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་ཤན་<«སྣར་»«ཞོལ»བཤན།>པའི་རིགས་སུ་སྐྱེས་ནས་
+# གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པར་གྱུར་ཏེ།
+# བཟའ་བ་དང་བཅའ་བ་བཟང་པོ་དང་ཡང་ལྡན་པར་གྱུར་ལ། དེས་སྡིག་པའི་ལས་ཀྱང་མ་བྱས་ཏེ།
+msgctxt "line 10, 22.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, celui qui était ce boucher est "
+"ce moine lui-même et il a offert le repas à ce bouddha solitaire et le "
+"résultat de l’action d’avoir formulé ces souhaits le fit naître dans une "
+"lignée familiale de bouchers qui est riche, possède de grandes (lit. "
+"nombreuses) richesses et de nombreux (lit. grands) biens à chacune de ses "
+"naissances (lit. partout où il naissait, à chacun de ces endroits) et [son] "
+"corps devint harmonieux (lit. noble), agréable au regard et beau, et il "
+"disposa de mets et condiments nobles et il n’a pas non plus fait d’actions "
+"négatives. De plus,"
+msgstr ""
+
+# དགེ་སློང་དག་
+# ང་<«གཡུང་»དེ།>རང་སངས་རྒྱས་བྱེ་བ་ཕྲག་འབུམ་བས་ཀྱང་ཆེས་ལྷག་པར་ཁྱད་པར་དུ་འཕགས་པ།
+# ང་<«གཡུང་»«པེ་»«ཅོ་»«ཁུ་»«ཞོལ»དེ།>ལྟ་བུ་འདིས་མཉེས་པར་བྱས་ཏེ།
+# མི་མཉེས་པར་མ་བྱས་<«གཡུང་»»«ལི་»»«པེ་»»«སྣར་»»«ཅོ་»«ཞོལ»»–ལ།>ལ།
+# ང་<«གཡུང་»»དེ།>ཉིད་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། །
+# གཞན་ཡང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་འདི་རབ་ཏུ་བྱུང་ནས་
+# དེར་འདིས་ཚེ་གཅིག་<«གཡུང་»»«པེ་»»ཅིག>ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་<«གཡུང་»«པེ་»སྤྱོད།>དེ་
+# འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ། ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས།
+# བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག
+# ། མི་མཉེས་པར་བྱེད་པར་མ་གྱུར་ཅིག ། དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས།
+# ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་<«གཡུང་»«པེ་»–དུ།>བྱེད་པར་གྱུར་<«གཡུང་»«པེ་»འགྱུར།>ཅིག་ཅེས་
+# བྱས་སོ། །
+msgctxt "line 11, 22.txt"
+msgid ""
+"moines, je suis cent mille fois dix millions de fois très largement "
+"supérieur à un bouddha solitaire et il a contenté [quelqu’un] comme moi et "
+"n’a rien fait qui me mécontente, puis il s’est retiré du monde selon mon "
+"(lit. à moi-même) enseignement et après avoir éliminé toutes les émotions "
+"perturbatrices, il a manifesté l’état d’arhat. Par ailleurs, après qu’il se "
+"retira du monde selon l’enseignement du complet et parfait Bouddha Kāśyapa, "
+"il vécu chastement toute sa vie, puis fit ce souhait au moment de mourir : "
+"“Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le"
+" jeune brahmane Uttara [d’après] la prophétie du complet et parfait Bouddha "
+"Kāśyapa. Puissé-je ne rien faire qui le mécontente. M’étant retiré du monde "
+"d’après son (lit. à lui-même) enseignement et après avoir éliminé toutes les"
+" émotions perturbatrices, puissé-je manifester l’état d’arhat (lit. l’arhat-"
+"même).” dit-il."
+msgstr ""
+
+# དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
+# དེའི་ཚེ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་<«གཡུང་»«པེ་»སྲུངས།>གི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་བའི་དགེ་སློང་དུ་གྱུར་པ་གང་ཡིན་པ་དེ་ནི།
+# དགེ་སློང་འདི་ཉིད་ཡིན་ཏེ།
+# དེས་དེར་ཚེ་གཅིག་<«གཡུང་»«པེ་»ཅིག>ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ནས།
+# འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་སྟེ།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»–«ཅོ་»གི།>བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་<«ཞོལ་»–གྱུར།>ཅིག
+# ། མི་མཉེས་<«གཡུང་»«པེ་»མཉས།>པར་བྱེད་པར་མ་གྱུར་ཅིག །
+# དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་ ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་ བྱས་པ་དེས་ན།
+# དགེ་སློང་དག་ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་<«གཡུང་»–པ།>དང་ཐབས་མཉམ་པ་བརྙེས་<«གཡུང་»བསྙེས།>པར་གྱུར་ནས་
+# འདིས་ང་མཉེས་པར་བྱས་ཏེ། མི་མཉེས་པར་མ་བྱས་ལ།
+# ང་ཉིད་ཀྱི་བསྟན་པ་ལ་<«ཅོ་»གལ།>རབ་ཏུ་བྱུང་ནས་ ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། ། ། །
+msgctxt "line 12, 22.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, le moine qui s’était retiré du "
+"monde selon l’enseignement du complet et parfait Bouddha Kāśyapa est ce "
+"moine lui-même et il vécut chastement toute sa vie et fit ce souhait au "
+"moment de mourir : “Puissé-je contenter par mes actes le Bienheureux Bouddha"
+" que [deviendra] le jeune brahmane Uttara [d’après] la prophétie du complet "
+"et parfait Bouddha Kāśyapa. Puissé-je ne rien faire qui le mécontente. "
+"M’étant retiré du monde d’après son (lit. à lui-même) enseignement et après "
+"avoir éliminé toutes les émotions perturbatrices, puissé-je manifester "
+"l’état d’arhat (lit. l’arhat-même).” Puisqu’il a fait ce souhait, moines, je"
+" suis devenu en tout point (lit. très) l’égal du complet et parfait Bouddha "
+"Kāśyapa, j’ai obtenu une force égale [à la sienne], des moyens [habiles] "
+"égaux [aux siens] et des actes égaux [aux siens], il m’a contenté et n’a "
+"rien fait qui me mécontente, puis il s’est retiré du monde selon mon (lit. à"
+" moi-même) enseignement et il a éliminé toutes les émotions perturbatrices "
+"et il a manifesté l’état d’arhat. »"
+msgstr ""
