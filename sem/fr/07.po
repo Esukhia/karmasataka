@@ -615,8 +615,8 @@ msgctxt "f9219021c96645b6878c1e5a9846ed19"
 msgid ""
 "དེ་ནས་ རྒྱལ་པོ་ དེ་དག་ དང་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ ཡ་མཚན་ དུ་ གྱུར་ ཏེ །"
 msgstr ""
-"Ensuite, les rois et la multitude de personnes [présentes] en furent ébahis "
-"(lit. émerveillés) et"
+"Ensuite, les rois et les innombrables personnes [présentes] en furent ébahis"
+" (lit. émerveillés) et"
 
 # འདི་འདི་<«གཡུང་»«པེ་»–འདི།>ལྟར་བྱད་གཟུགས་མཛེས་ལ་འདོད་པ་རྣམས་ལ་ཡང་མི་ལྟ་བ་ངོ་མཚར་ཏོ་སྙམ་མོ།
 # །
