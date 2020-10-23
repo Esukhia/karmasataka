@@ -721,7 +721,7 @@ msgstr ""
 
 msgctxt "e53aa2223e4a465c8bdfd5d1e6b6c800"
 msgid "ཐོས་ སོ ། །"
-msgstr "il l'entendit."
+msgstr "il l'entendit [dire]."
 
 # དེ་ནས་<«གཡུང་»«པེ་»–དེ་ནས།>ཐོས་མ་ཐག་ཏུ་རྒྱལ་པོ་དེ་ཅིའི་ཕྱིར་ཡང་བདག་ལ་ལྟར་<«ཞོལ་»བལྟར།>འོང་སྙམ་དུ་
 msgctxt "6576d1e90d8448bc8d0f344203577845"
@@ -737,7 +737,7 @@ msgstr "pensa-t-il. Alors,"
 
 msgctxt "4e789d9cfd134b29abd9b753f081dafd"
 msgid "དེ␣ས་ གལ་ཏེ་ དགེ་སློང་ འདི་ བདག་ བསུ་བ␣ར་ ཡང་ མི་ བྱེད་"
-msgstr "que celui-ci [pensait] « Si ce moine ne me reçoit pas,"
+msgstr "que celui-ci [pensait] « si ce moine ne me reçoit pas,"
 
 # ལྡང་བར་ཡང་<«གཡུང་»མི་བྱེད་ལྡང་བར།>མི་བྱེད་པར་གྱུར་ན།
 msgctxt "456b4ca7707147c5b65c99e6f72218d0"
