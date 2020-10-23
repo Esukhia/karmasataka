@@ -640,7 +640,7 @@ msgstr "« Suivons-la un temps pour"
 
 msgctxt "7079969358ad4eedb5fb96d93401443a"
 msgid "འདི་ ཅི་ བྱེད་པ་ བལྟ␣འོ་ ཞེས་"
-msgstr "voir ce qu'elle va faire. »"
+msgstr "voir ce qu'elle va faire »,"
 
 msgctxt "ad9fbf283a2d4b3fb2a5e93868de330d"
 msgid "འཛེར་ ཏོ ། །"
