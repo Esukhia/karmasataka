@@ -160,16 +160,20 @@ msgctxt "98f6d088378f463387dc33a6e252aea3"
 msgid "དེ་དག་ གིས་ བསམས་པ །"
 msgstr "ils pensèrent : «"
 
-# ཅི་མདང་སུམ་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པའམ་ལྷའི་དབང་པོ་བརྒྱ་<«གཡུང་»«པེ་»བརྒྱན།>བྱིན་ནམ།
+msgctxt "888475ece5e04a92af8ee6fa7f884012"
+msgid "ཅི་"
+msgstr "Qu'en est-il ?"
+
+# མདང་སུམ་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པའམ་ལྷའི་དབང་པོ་བརྒྱ་<«གཡུང་»«པེ་»བརྒྱན།>བྱིན་ནམ།
 # རྒྱལ་པོ་ཆེན་པོ་བཞི་བཅོམ་ལྡན་འདས་ལ་བལྟ་བའི་ཕྱིར་འོངས་སམ་སྙམ་ནས།
 msgctxt "6eec73531b414cd39e8f2a0aab94a8d5"
 msgid ""
-"ཅི་ མདང་ སུམ་ མི་མཇེད་ ཀྱི་ བདག་པོ་ ཚངས་པ␣འམ་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ ནམ །"
-"  རྒྱལ་པོ་ ཆེན་པོ་ བཞི་ བཅོམ་ལྡན་འདས་ ལ་ བལྟ་བ␣འི་ ཕྱིར་ འོངས་ སམ་ སྙམ་ ནས །"
+"མདང་ སུམ་ མི་མཇེད་ ཀྱི་ བདག་པོ་ ཚངས་པ␣འམ་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ ནམ །  "
+"རྒྱལ་པོ་ ཆེན་པོ་ བཞི་ བཅོམ་ལྡན་འདས་ ལ་ བལྟ་བ␣འི་ ཕྱིར་ འོངས་ སམ་ སྙམ་ ནས །"
 msgstr ""
-"Qu'en est-il ? Est-ce que cette nuit, Brahmā le seigneur du monde Sahā , ou "
-"bien Śakra le roi des dieux, ou bien les quatre grands rois sont-ils venus "
-"voir le Bienheureux ? » pensèrent-ils. Puis,"
+"Est-ce que cette nuit, Brahmā le seigneur du monde Sahā , ou bien Śakra le "
+"roi des dieux, ou bien les quatre grands rois sont-ils venus voir le "
+"Bienheureux ? » pensèrent-ils. Puis,"
 
 msgctxt "7ddc541297e2488e8402fcfdd13ffe8c"
 msgid "བཅོམ་ལྡན་འདས་ ལ་དོན་ དེ་ ཞུས་པ །"
@@ -179,16 +183,19 @@ msgctxt "6ddfeb3174f24b3cb2131430f8d4ec83"
 msgid "བཙུན་པ་"
 msgstr "Vénérable,"
 
-# ཅི་ལགས་<«སྣར་»ལེགས།>མདང་སུམ་མི་མཇེད་ཀྱི་བདག་པོ་ཚངས་པའམ་ལྷའི་དབང་པོ་བརྒྱ་བྱིན་ནམ་རྒྱལ་པོ་ཆེན་པོ་བཞི་བཅོམ་ལྡན་འདས་ལ་བལྟ་བའི་སླད་དུ་མཆིས་ལགས་སམ།
+# ཅི་ལགས་<«སྣར་»ལེགས།>
+msgctxt "d8a85f87ca194951a0ccdf4981b0f59c"
+msgid "ཅི་ ལགས་"
+msgstr "Qu'en est-il ?"
+
 msgctxt "efb83f055a6641c3994ad33318dc65d4"
 msgid ""
-"ཅི་ ལགས་ མདང་ སུམ་ མི་མཇེད་ ཀྱི་ བདག་པོ་ ཚངས་པ␣འམ་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་"
-" ནམ་ རྒྱལ་པོ་ ཆེན་པོ་ བཞི་ བཅོམ་ལྡན་འདས་ ལ་ བལྟ་བ␣འི་ སླད་ དུ་ མཆིས་ ལགས་ སམ"
-" །"
+"མདང་ སུམ་ མི་མཇེད་ ཀྱི་ བདག་པོ་ ཚངས་པ␣འམ་ ལྷ␣འི་ དབང་པོ་ བརྒྱ་བྱིན་ ནམ་ "
+"རྒྱལ་པོ་ ཆེན་པོ་ བཞི་ བཅོམ་ལྡན་འདས་ ལ་ བལྟ་བ␣འི་ སླད་ དུ་ མཆིས་ ལགས་ སམ །"
 msgstr ""
-"Qu'en est-il ? Est-ce que cette nuit, Brahmā le seigneur du monde Sahā , ou "
-"bien Śakra le roi des dieux, ou bien les quatre grands rois sont-ils venus "
-"voir le Bienheureux ? »"
+"Est-ce que cette nuit, Brahmā le seigneur du monde Sahā , ou bien Śakra le "
+"roi des dieux, ou bien les quatre grands rois sont-ils venus voir le "
+"Bienheureux ? »"
 
 msgctxt "d652857c37044274b97fc524b015b957"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
