@@ -1561,7 +1561,7 @@ msgstr "Tu m'as dit des paroles blessantes. Donc,"
 
 msgctxt "247d8c709bf44ac2ad5525fb4d627240"
 msgid "ཉེས་པ་ ལ་ཉེ␣ས་ སོ་ ཞེས་"
-msgstr "[concernant] ta mauvaise action, [dis] « J'ai mal agi » et"
+msgstr "[concernant] ta mauvaise action, [dis] « J'ai mal agi. » et"
 
 msgctxt "98e539205d3f4af5aef02a088d02be46"
 msgid "བཤགས་པ␣ར་ གྱིས་ ཤིག  །"
