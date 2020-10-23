@@ -85,7 +85,7 @@ msgstr "décidément,"
 
 msgctxt "51296b864afd4a4eb704df449950e1b4"
 msgid "བདག་ གིས་ ཀྱང་ སེམས་ཅན་ ལ་ ཕན་པ␣ར་ བྱ་ གོར་མ་ཆག་ སྙམ་ ནས་"
-msgstr "il n'y a pas de douce que je doive aussi faire le bien des êtres. »"
+msgstr "il n'y a pas de doute que je doive aussi faire le bien des êtres. »"
 
 msgctxt "51b0d4cbc0a54d32b6978fbd9a989929"
 msgid "དེ␣ས་ བསམས་པ །"
