@@ -106,7 +106,7 @@ msgstr "Garçon,"
 
 msgctxt "fa746bfecfcf46c88d350d1adff1e60d"
 msgid "གལ་ཏེ་ ཁྱོད་ ཀྱིས་ འདི་སྐད་ དུ །"
-msgstr "Si tu dis ceci : \""
+msgstr "Si tu dis ceci :"
 
 msgctxt "03b3e4f0eb2445a7859b5d66ab47fe2e"
 msgid "ལ་དུ་ འདི་ བདག་ ལ་ མི་ དགོས་ སོ་ ཞེས་"
