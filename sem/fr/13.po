@@ -613,7 +613,7 @@ msgstr "Eh bien (lit. comme ceci),"
 
 msgctxt "513cde0702724c85af5a8bf34e4aaca8"
 msgid "འཕྱེ་བོ་ འདི␣ས་ བདག་ཅག་ མི་ དགའ་བ␣ར་ བྱས་ མོད་ ཀྱི །"
-msgstr "Il est vrai que l'estropié nous a rendu malheureux, mais"
+msgstr "il est vrai que l'estropié nous a rendu malheureux, mais"
 
 # འོན་ཀྱང་བདག་ཅག་གི་གནོད་སྦྱིན་མཆོད་དགོས་ཀྱིས་<«ཞོལ་»ཀྱི།>
 msgctxt "2e21756151244c448714a9cddb5f5d2d"
