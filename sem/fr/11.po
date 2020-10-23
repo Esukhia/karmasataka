@@ -160,7 +160,7 @@ msgctxt "b19da037a3ee4e94bf4c8d107e9e77bc"
 msgid "དེ་ ནི་ གནས་ མེད་ ཅིང་ སྐབས་ མ་ ཡིན་ ནོ་ སྙམ་ དུ་"
 msgstr ""
 "ceci n'est pas correct et ne peut pas arriver (lit. il n'y a pas de moment) "
-"»"
+"»,"
 
 msgctxt "eb56d943c68d40e89c1a11c6da2c301b"
 msgid "རིག་ ནས་"
