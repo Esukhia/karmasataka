@@ -237,7 +237,7 @@ msgstr ""
 msgctxt "6f7d123adbd54c4887b426055a264bbb"
 msgid ""
 "ཁྱོད་ ཀྱི་ བུ་མོ་ བཙས་པ་ དེ་ བདག་ གི་ བུ་ འདི␣འི་ ཆུང་མ␣ར་ བྱིན་ ཅིག་ ཅེས་"
-msgstr "Donne-moi la fille qui est née chez toi comme femme pour mon fils. »"
+msgstr "Donne-moi la fille qui est née chez toi comme femme pour mon fils »,"
 
 msgctxt "2bf8afac390a4c1a8643e33ed17ac509"
 msgid "སྤྲིང་ ངོ་ ། །"
