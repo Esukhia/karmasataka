@@ -1076,7 +1076,7 @@ msgstr "décidément,"
 
 msgctxt "d28a39bf17a7431c8ca49a46ac468d5b"
 msgid "ད་ནི་ བདག་ གིས་ བསམ་གཏན་ ལ་ འབད་པ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
-msgstr "maintenant, je vais m'efforcer à la concentration méditative »"
+msgstr "maintenant, je vais m'efforcer à la concentration méditative »,"
 
 msgctxt "8f0299d3b0354df48dd63de6c68f677f"
 msgid "བསམས་ ནས །"
