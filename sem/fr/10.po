@@ -940,7 +940,7 @@ msgstr "[Être] sublime,"
 
 msgctxt "fd595c2571d4479dab0da6046e24bae7"
 msgid "དེ་ ཁོ་ན་ ལྟར་ དམ་བཅ␣ས་ ལགས་སོ་ ཞེས་"
-msgstr "j'avais fait exactement cette promesse. »"
+msgstr "j'avais fait exactement cette promesse »,"
 
 msgctxt "4487aaded05941e99454eccbc53d2904"
 msgid "སྨྲ␣ས་ ནས །"
