@@ -518,7 +518,7 @@ msgstr ""
 # གཞན་<«གཡུང་»ད་ཞན།>ནི་མི་འདོད་དོ་སྙམ་དུ་
 msgctxt "0eb6f868a5f04685a39bff9c8123c0da"
 msgid "གཞན་ ནི་ མི་ འདོད་ དོ་ སྙམ་ དུ་"
-msgstr "Je ne veux pas d'autre [mari]. »"
+msgstr "Je ne veux pas d'autre [mari] »,"
 
 msgctxt "0a50656d061d4cf9a8782071f02dc203"
 msgid "བསམས་ ནས །"
