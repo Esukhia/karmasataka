@@ -848,7 +848,7 @@ msgstr "moi, je vous pardonne, mais"
 # རང་གི་སེམས་ལ་བཟོད་<«གཡུང་»«པེ་»གཟོད།>པ་གསོལ་ཅིག་ཅེས་
 msgctxt "cf90858cb78246b2bbdfe4716e7b46e7"
 msgid "རང་ གི་ སེམས་ ལ་ བཟོད་པ་ གསོལ་ ཅིག་ ཅེས་"
-msgstr "demandez pardon à votre propre esprit. »"
+msgstr "demandez pardon à votre propre esprit »,"
 
 msgctxt "96297a23bdfb47899a21b0684478ea55"
 msgid "བྱས་ སོ ། །"
