@@ -999,7 +999,7 @@ msgid ""
 "ཚེ་ དང་ ལྡན་པ་ མ་ འགགས་པ␣ས་ ཀྱང་ །  ཁྱིམ་བདག་ དེ་ ཆོས་ ཀྱི་ གཏམ་ གྱིས་ "
 "ཡང་དག་པ␣ར་ བསྟན །"
 msgstr ""
-"Ensuite, l'honorable Aniruddha instruisit parfaitement le père de famille "
+"ensuite, l'honorable Aniruddha instruisit parfaitement le père de famille "
 "par un discours sur le Dharma,"
 
 msgctxt "cbcea5aa72c6431f8c2755fc7c06a363"
