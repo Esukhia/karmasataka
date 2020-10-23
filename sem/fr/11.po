@@ -110,7 +110,7 @@ msgstr "Si tu dis ceci :"
 
 msgctxt "03b3e4f0eb2445a7859b5d66ab47fe2e"
 msgid "ལ་དུ་ འདི་ བདག་ ལ་ མི་ དགོས་ སོ་ ཞེས་"
-msgstr "Je ne veux pas de ce laḍḍū.\""
+msgstr "\"Je ne veux pas de ce laḍḍū\","
 
 msgctxt "5752815cc99949629be3083b5e64d974"
 msgid "བྱས་ ན་ ནི་ དེ␣འི་ འོག་ ཏུ་ ངས་ སྦྱིན་ ནོ ། །"
