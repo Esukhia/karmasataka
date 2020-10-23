@@ -849,7 +849,7 @@ msgstr ""
 
 msgctxt "4a70f29411dd496aa91dae8740f61d8b"
 msgid "གྲངས་ སུ་ བགྲང་ དུ་ ཡང་ མེད་ དོ་ ཞེས་"
-msgstr "ils ne peuvent pas être quantifiés. »"
+msgstr "ils ne peuvent pas être quantifiés »,"
 
 msgctxt "a9237b3ba4ed4db39a62aa41f35796fe"
 msgid "བྱས་ སོ ། །"
