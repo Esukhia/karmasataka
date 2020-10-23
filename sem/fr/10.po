@@ -1525,7 +1525,7 @@ msgid ""
 "བདག་ གིས་ ཐོས་པ␣འི་ སྒོ་ ནས་ བྱ་བ་ གང་ཡིན་པ་ དེ་ ནི་ བདག་ གིས་ བྱས་ ཟིན་ "
 "གྱིས །"
 msgstr ""
-"tout ce qu'il fallait faire par l'étuve (lit. l'écoute), je l'ai déjà fait. "
+"Tout ce qu'il fallait faire par l'étuve (lit. l'écoute), je l'ai déjà fait. "
 "Donc,"
 
 msgctxt "ccbfed7e1f2f430ca1569e4b292055c0"
