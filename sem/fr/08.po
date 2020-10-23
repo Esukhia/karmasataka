@@ -629,7 +629,7 @@ msgstr ""
 
 msgctxt "d4c7a08add3a4a899f0ab982b0261ffa"
 msgid "བསམས་ ནས་ སྨྲས་པ །"
-msgstr "pensa-t-il, puis il dit : «"
+msgstr "pensa-t-il. Puis il dit : «"
 
 msgctxt "b81c7fea369349ffa4f25e5462529d19"
 msgid "བཟང་མོ་"
