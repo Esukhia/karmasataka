@@ -719,7 +719,7 @@ msgstr "si vous venez seul, sans compagnon ni serviteur,"
 msgctxt "89fd4e3a06a4432389f96b5bb3b57be2"
 msgid "འཕགས་པ␣འི་ ཞབས་འབྲིང་ བགྱིད་པ་ འགའ་ཡང་ མ་ མཆིས་ སམ་ ཞེས་"
 msgstr ""
-"Ne se trouve-t-il personne pour [vous] servir (lit. faire le serviteur), "
+"ne se trouve-t-il personne pour [vous] servir (lit. faire le serviteur), "
 "[être] sublime ? »"
 
 msgctxt "0451b0161b9b4a7792a9acbfafcf6de7"
