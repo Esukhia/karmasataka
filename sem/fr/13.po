@@ -322,7 +322,7 @@ msgstr "nous en avons assez avec ça."
 # བདག་ཅག་ལ་རྫས་གཞན་མི་དགོས་སོ་སྙམ་<«ཅོ་»སྙམས།>དུ་
 msgctxt "338934f9451b40888f354fa2190b32c8"
 msgid "བདག་ཅག་ ལ་རྫས་ གཞན་ མི་ དགོས་ སོ་ སྙམ་ དུ་"
-msgstr "Nous n'avons pas besoin d'autres objets. »"
+msgstr "Nous n'avons pas besoin d'autres objets »,"
 
 msgctxt "f4d997af7b3a4e0ebbdff1abd7416b42"
 msgid "བསམས་ ནས །"
