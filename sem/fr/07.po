@@ -240,7 +240,7 @@ msgstr "[nous] irons là et"
 # མཐུས་དབྲོག་<«གཡུང་»«པེ་»དགྲོག>གོ་སྙམ་དུ་
 msgctxt "943205ea927d455d84c1b0ddf1b0412a"
 msgid "མཐུ␣ས་ དབྲོག་ གོ་ སྙམ་ དུ་"
-msgstr "nous la prendrons par la force »"
+msgstr "nous la prendrons par la force »,"
 
 msgctxt "98fb6fa2fee542b0a415a23eae8726e0"
 msgid "བསམས་ ཏེ །"
