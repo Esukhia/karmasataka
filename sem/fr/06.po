@@ -354,7 +354,7 @@ msgstr ""
 # ལྷ་དང་མི་རྣམས་ཀྱི་ནང་དུ་གོམ་པ་<«གཡུང་»བར། «པེ་»པར།>འདོར་དུ་བཅུག་སྟེ།
 msgctxt "7997f5f132044a44abe752f0326889bd"
 msgid "ལྷ་ དང་ མི་ རྣམས་ ཀྱི་ ནང་ དུ་ གོམ་པ་ འདོར་ དུ་ བཅུག་ སྟེ །"
-msgstr "on nous a fait marcher chez les dieux et les hommes et"
+msgstr "vous (lit. on) nous avez fait marcher chez les dieux et les hommes et"
 
 # ཁྲག་དང་མཆི་མའི་རྒྱ་མཚོ་ནི་སྐམས<«གཡུང་»«པེ་»«ཞོལ་»བསྐམས།>།
 msgctxt "e633e7dc4c47440387ae482ffbfbb4be"
