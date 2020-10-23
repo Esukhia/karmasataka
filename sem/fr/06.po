@@ -2123,7 +2123,7 @@ msgid ""
 "དེ་ ནི་ ང་ ཡི་ ཡང་སྙིང་ དུ་ སྡུག་པ་ དང་ ཡིད་ དུ་ འོང་བ་ དང་ །  མཁན་པོ་ དང་ "
 "དྲན་པ␣ར་ བྱ་བ་ ཡིན་ གྱིས་"
 msgstr ""
-"lui, il est aussi [quelqu'un que] je porte dans mon cœur (lit. il est "
+"Lui, il est aussi [quelqu'un que] je porte dans mon cœur (lit. il est "
 "agréable à mon cœur), [que] j'apprécie, [qui est] un précepteur [pour moi] "
 "et qui est [quelqu'un] à qui je pense. De ce fait,"
 
