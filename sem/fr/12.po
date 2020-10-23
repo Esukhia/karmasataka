@@ -1555,7 +1555,7 @@ msgstr "décidément,"
 msgctxt "c53e903572b94d4b86a754f1d6ea4a86"
 msgid "ད་ནི་ བདག་ གིས་ དགེ་འདུན་ གྱི་ ཞལ་ཏ་ ཆོས་བཞིན་ དུ་ བྱ␣འོ་ སྙམ་ ནས་"
 msgstr ""
-"maintenant, je vais servir la saṅgha en accord avec le Dharma. » pensa-t-il."
+"maintenant, je vais servir la saṅgha en accord avec le Dharma », pensa-t-il."
 " Puis,"
 
 msgctxt "35d6d10b77fc49ad8fd0e5d7cc78e9ce"
