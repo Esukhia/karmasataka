@@ -300,7 +300,7 @@ msgid ""
 "བྲམ་ཟེ␣འི་ ཁྱེའུ་ དེ␣ས་ ནི་ ཚེ་རབས་ སྟོང་ཕྲག་ དུ་མ␣ར་ བླང་བ␣འི་ འདུ་ཤེས་ "
 "འབའ་ཞིག་ ཀུན་ དུ་ བསྟེན་ ཅིང་"
 msgstr ""
-"Ce garçon brahmane ne fonctionnait qu'avec (lit. se reposait entièrement "
+"ce garçon brahmane ne fonctionnait qu'avec (lit. se reposait entièrement "
 "seulement sur) la pensée de prendre depuis d'innombrables milliers de vies. "
 "De plus,"
 
