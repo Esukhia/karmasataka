@@ -2182,7 +2182,7 @@ msgstr "je vais couper sa tête et"
 
 msgctxt "c2f8ba93fc5c4c23a064eb03cffe847e"
 msgid "བོར་ རོ་ སྙམ་ དུ་"
-msgstr "je la jetterai. »"
+msgstr "je la jetterai »,"
 
 msgctxt "327fab881122409c8ebdb9c4a77b1709"
 msgid "བསམས་པ་ དང་ །"
