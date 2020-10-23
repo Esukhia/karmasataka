@@ -953,7 +953,7 @@ msgstr ""
 msgctxt "cf8ae6851f5347019212d62f997c0810"
 msgid "དེ་དེ་ དང་ ལྷན་ཅིག་ ཏུ་ རྩེ་ ཞིང་ དགའ་ ལ་ དགའ་མགུ␣ར་ སྤྱོད་པ་ ལ␣ས །"
 msgstr ""
-"Avec elle, ils se divertirent, ils [apprirent] à s'aimer et laissèrent libre"
+"avec elle, ils se divertirent, ils [apprirent] à s'aimer et laissèrent libre"
 " cours à leurs envies et de ce fait,"
 
 # ཕྱི་ཞིག་ན་དེའི་ཆུང་མ་ལ་བུ་<«གཡུང་»ལུ། «པེ་»བ།>ཆགས་ནས་
