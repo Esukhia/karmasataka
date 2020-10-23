@@ -706,7 +706,7 @@ msgstr "il se posta [là]."
 # དེ་དེ་ན་འདུག་པས་སྐྱེ་བོ་ཕལ་པོ་<«ཅོ་»–པོ།>ཆེ་ཁ་འདོག་པར་བྱེད་དོ། །
 msgctxt "000b98cf22b44288816044eabfe89a48"
 msgid "དེ་དེ་ ན་ འདུག་པ␣ས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ཁ་ འདོག་པ␣ར་ བྱེད་ དོ ། །"
-msgstr "Puisqu'il était là, il fit périr une multitude d'êtres."
+msgstr "Puisqu'il était là, il fit périr d'innombrables êtres."
 
 # དེ་ནས་དབང་ཆེན་སྡེའི་བཙུན་མོས་ཕྲིན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཕྲིན།>སྤྲིང་སྟེ།
 msgctxt "d42b4e1e23a44348a3103bd4b420b7fa"
