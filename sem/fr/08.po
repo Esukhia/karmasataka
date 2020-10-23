@@ -559,7 +559,7 @@ msgstr "la fit ornementer et"
 # དེར་སྐྱེ་བོ་ཕལ་ཆེར་<«གཡུང་»«པེ་»«ཅོ་»པོ་ཆེ། «ལི་»«སྣར་»«ཞོལ་»ཆེ།>འདུས་སོ། །
 msgctxt "c87901b3e2b44abd93f311c740b0da52"
 msgid "དེ␣ར་ སྐྱེ་བོ་ ཕལ་ཆེར་ འདུས་ སོ ། །"
-msgstr "une multitude de personnes se rassemblèrent."
+msgstr "d'innombrables personnes se rassemblèrent."
 
 # བུ་མོ་དེ་ཡང་རྒྱན་<«གཡུང་»«པེ་»དེ་རྒྱན། «ལི་»«སྣར་»«ཅོ་»བརྒྱན།
 # «ཞོལ་»རྒྱན།>ཐམས་ཅད་ཀྱིས་བཀླུབས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཀླུབས།>ནས་
