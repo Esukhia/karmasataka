@@ -1150,7 +1150,7 @@ msgstr ""
 # དགེ་བའི་ཆོས་རྣམ་པ་དུ་མ་<«གཡུང་»–མ།>ནི་[40a]བསྒྲུབས་ན།
 msgctxt "55889d7a3afd4e09bf6c13a2b1de03e1"
 msgid "དགེ་བ␣འི་ ཆོས་ རྣམ་པ་ དུ་མ་ ནི་ བསྒྲུབས་ ན །"
-msgstr "Il a accompli d'innombrables actions positives pour moi. Donc,"
+msgstr "Il a accompli d'innombrables choses positives pour moi. Donc,"
 
 # བདག་གིས་བཅོམ་ལྡན་འདས་ཀྱིས་<«གཡུང་»«པེ་»«ཞོལ་»ཀྱི།>བཀའ་དྲིན་ཇི་ལྟར་བསབ་པར་བྱ་སྙམ་མོ།
 # །
