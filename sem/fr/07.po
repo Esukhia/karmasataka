@@ -433,7 +433,7 @@ msgstr "Fille,"
 
 msgctxt "7b82b462a6784639badf8185cff61a6d"
 msgid "འདམ་པ་ ཡོད་ དོ ། །"
-msgstr "elles ont le choix. »"
+msgstr "elles [en] ont le choix. »"
 
 msgctxt "d7f5b6f4ff324204ad888d91a0eebb3b"
 msgid "བུ་མོ␣ས་ སྨྲས་པ །"
