@@ -843,7 +843,7 @@ msgid ""
 "མེ་ཏོག་ གི་ ཆ␣ར་ འབབ་པ␣ས་ ན །  དེ␣འི་ ཕྱིར་ ཁྱེའུ་ འདི␣འི་ མིང་ སྣ་མ␣འི་ "
 "མེ་ཏོག་ ཅེས་"
 msgstr ""
-"quand ce garçon est entré dans le sein de sa mère et quand il est né, "
+"« Quand ce garçon est entré dans le sein de sa mère et quand il est né, "
 "puisqu'il a plu des fleurs de jasmin, pour cette raison, le nom de ce garçon"
 " sera \"Fleur-de-Jasmin\". »"
 
