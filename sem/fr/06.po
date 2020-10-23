@@ -2110,7 +2110,7 @@ msgstr ""
 # «སྣར་»ལ་ལྟ།>བའི་སླད་དུ་མཆི་བ་ལགས་སོ། །
 msgctxt "11585effd048471089f5211ce2d47eff"
 msgid "འདི་དག་ ནི་ དེ་ ལ་ བལྟ་བ␣འི་ སླད་ དུ་ མཆི་བ་ ལགས་སོ ། །"
-msgstr "Ces [personnes] sont [là] pour lui rendre visite. »"
+msgstr "ces [personnes] sont [là] pour lui rendre visite. »"
 
 msgctxt "b00e38cb2db243c2ac879b1386613403"
 msgid "དེ་ནས་ རྒྱལ་པོ␣ས་ བསམས་པ །"
