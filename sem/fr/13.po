@@ -736,7 +736,7 @@ msgstr "veuillez me sauver (lit. donner refuge) complètement."
 msgctxt "4dafc178fd1a4b57a9383ada7a537d19"
 msgid "སྲོག་ ཕངས་པ་ སྩལ་ དུ་ གསོལ་ ཞེས་"
 msgstr ""
-"Veuillez m'accorder la vie que je pleure (lit. je regrette d'avoir perdu). »"
+"Veuillez m'accorder la vie que je pleure (lit. je regrette d'avoir perdu) »,"
 
 msgctxt "7e2060fcdb91435e80c17ef6604d1445"
 msgid "བྱས་ སོ ། །"
