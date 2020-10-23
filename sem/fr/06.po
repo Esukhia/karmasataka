@@ -384,7 +384,7 @@ msgid ""
 msgstr ""
 "tant que nous serons en vie, veuillez accepter de notre part la nourriture, "
 "les vêtements, les couvertures, les sièges, les médicaments et les "
-"fournitures médicales. »"
+"fournitures médicales »,"
 
 msgctxt "193d8f6477384adb8177b5a950a5afb6"
 msgid "བྱས་ སོ ། །"
