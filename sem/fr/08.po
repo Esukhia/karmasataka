@@ -362,7 +362,7 @@ msgstr "accumula des mérites."
 
 msgctxt "46dc7b59e64d4fa196b57146b931d8ea"
 msgid "དགེ་སློང་ མ␣འི་ གཙུག་ལག་ཁང་ དུ་ ཡང་ རྒྱུན་ མི་འཆད་པ␣ར་ འགྲོ་ ཞིང་"
-msgstr "elle allait sans cesse au vihāra des nonnes et"
+msgstr "Elle allait sans cesse au vihāra des nonnes et"
 
 msgctxt "0e3f4f9aac37447a955c7f466329a69d"
 msgid "ཆོས་ ཉན་ ཏོ ། །"
