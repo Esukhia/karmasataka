@@ -170,7 +170,7 @@ msgstr "il n'existe pas d'autre fille qui soit son égale »"
 
 msgctxt "48977005edc447d59b4ad71439893797"
 msgid "ཀུན་ ཏུ་ གྲགས་པ␣ས་ རྒྱས་པ␣ར་ གྱུར་ ཏོ ། །"
-msgstr "[ceci] fut connu de toutes parts et [cette renommée] s'étendit."
+msgstr "fut connu de toutes parts et [cette renommée] s'étendit."
 
 # དེ་ནས་དེ་<«ཁུ་»+དེ།>ཐོས་མ་ཐག་ཏུ་ཉི་འོག་གི་རྒྱལ་པོ་དྲུག་འདོད་ཆགས་ཀྱི་མདས་ཕོག་[30a]ནས།
 msgctxt "22a954d0f0374797af80dc5ea519ff3d"
