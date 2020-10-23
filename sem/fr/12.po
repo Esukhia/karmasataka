@@ -552,7 +552,7 @@ msgstr "Je ne la donnerai pas à celui issu d'une caste élevée."
 
 msgctxt "acd72abc99bc435fb02ac2dbbb9f2ba5"
 msgid "དབང་ཕྱུག་ དང་ ལྡན་པ་ ལ་ ཡང་ མི་ སྦྱིན་ ནོ་ ཞེས་"
-msgstr "Je ne la donnerai pas à celui qui est puissant. »"
+msgstr "Je ne la donnerai pas à celui qui est puissant »,"
 
 msgctxt "c3dbf043290c4e86942f904745984f6d"
 msgid "དམ་བཅ␣ས་པ་ ལ␣ས །"
