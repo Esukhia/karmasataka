@@ -930,7 +930,7 @@ msgstr "C'est mon esprit. »"
 
 msgctxt "fcc908683c584b8c833c374388bfbccf"
 msgid "དེ་ནས་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ འདི་ སྙམ་ དུ་ སེམས་ ཏེ །"
-msgstr "Ensuite, la multitude des personnes se dirent ceci : «"
+msgstr "Ensuite, les innombrables personnes se dirent ceci : «"
 
 msgctxt "23a6e7cff59a40cca70171a897b6a4a7"
 msgid "འདི་ ལྟ་བུ␣འི་ སེམས་ཅན་ སྔོན་ གྱི་ ཚེ་རབས་ དྲན་ ལ་"
