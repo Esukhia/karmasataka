@@ -164,7 +164,7 @@ msgstr ""
 
 msgctxt "eb56d943c68d40e89c1a11c6da2c301b"
 msgid "རིག་ ནས་"
-msgstr "vit-il. Puis,"
+msgstr "pensa-t-il. Puis,"
 
 # བྲམ་ཟེའི་<«ཁུ་»ཟེའུ།>ཁྱེའུ་དེ་གུད་དུ་བཀར་ཏེ།
 msgctxt "19ce3add9f3447fcad4bebacd728a7b5"
