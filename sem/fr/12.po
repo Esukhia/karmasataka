@@ -107,7 +107,7 @@ msgid ""
 "དེ␣ས་ ནི་ བསྟན་བཅོས་ ཐམས་ཅད་ རྟོགས་པ␣ར་ འགྱུར་ ལ་ གཞུང་ སྨྲ་བ་ ཐམས་ཅད་ "
 "ཚར་གཅོད་པ␣ར་ འགྱུར་ ཏེ །"
 msgstr ""
-"il maîtrisera (lit. comprendra) tous les traités et vaincra tous les "
+"qu'il maîtrisera (lit. comprendra) tous les traités et vaincra tous les "
 "exégètes. Ainsi,"
 
 msgctxt "d8b6c84b74f648fab9fefaab67914709"
