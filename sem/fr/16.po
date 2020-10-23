@@ -327,7 +327,7 @@ msgstr ""
 
 msgctxt "3ad81ce417434986ac9473a1a281884d"
 msgid "སྡུག་བསྔལ་ ཟད་པར་ བྱེད་པ␣ར་ འགྱུར ། །  ཞེས་"
-msgstr "épuisera les souffrances."
+msgstr "épuisera les souffrances,"
 
 # རྗོད་<10,#>པར་བྱེད་དོ། །
 msgctxt "03d4fbdbe5304d559e54f5aaa9e9606d"
