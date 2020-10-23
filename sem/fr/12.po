@@ -1730,7 +1730,7 @@ msgstr "quel souhait as-tu fait ? »"
 
 msgctxt "42e6c963a6424fae825a6d8d46ef48ea"
 msgid "དེ་ནས་ དེ␣ས་ ཕ་མ་ གཉིས་ ལ་ བདག་ གིས་ སྨོན་ལམ་ འདི་ལྟར་ བཏབ་པོ་ ཞེས་"
-msgstr "Ensuite, que « J'ai fait un souhait comme ceci. »"
+msgstr "Ensuite, que « J'ai fait un souhait comme ceci »,"
 
 # རྒྱས་པར་བསྙད་<«གཡུང་»བརྙད།>དོ། །
 msgctxt "0e558ed6b0aa45079e7d8460ef33103a"
