@@ -708,7 +708,7 @@ msgstr ""
 
 msgctxt "b051108da0b144a6969475269fc11fd9"
 msgid "ཀྱེ་མ་"
-msgstr "Hélas !"
+msgstr "hélas,"
 
 msgctxt "149b931f390f485780cad12ad5404b88"
 msgid "བཅོམ་ལྡན་འདས །"
