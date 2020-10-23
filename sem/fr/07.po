@@ -406,7 +406,7 @@ msgstr "ils ont assiégé Vārāṇasī et"
 
 msgctxt "3a3fc34ce74049b2a89c0d6228ee0929"
 msgid "འཁོད་ དོ ། །"
-msgstr "se trouvent là."
+msgstr "se trouvent là. »"
 
 # ཀཱ་<«གཡུང་»«པེ་»«ཅོ་»ཀ>ཤི་མཛེས་ལྡན་མས་སྨྲས་པ།
 msgctxt "7d96837f5a2c4fc79cda2962d2b7c372"
