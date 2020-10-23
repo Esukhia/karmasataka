@@ -133,7 +133,7 @@ msgstr "comme un lotus dans un lac, elle grandit avec force."
 
 msgctxt "c115617813ae47dc859e389f03800142"
 msgid "དེ་ གང་ གི་ ཚེ་ ཆེན་ མོ␣ར་ གྱུར་ ཏེ །"
-msgstr "lorsqu'elle eut grandi,"
+msgstr "Lorsqu'elle eut grandi,"
 
 # སྒྱུ་རྩལ་ཤེས་པར་གྱུར་པ་དེའི་ཚེ།
 # དེས་བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱིས།>བསྟན་པ་ལ་དད་པ་རྙེད་ནས་
