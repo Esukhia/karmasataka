@@ -502,7 +502,7 @@ msgstr "Elle, me laissant de côté,"
 
 msgctxt "1960014be84949b3b1b9e2f49aa163a4"
 msgid "གཞན་ འདམ་པ␣ར་ མི་ འགྱུར་ རོ་ སྙམ་ ནས་"
-msgstr "elle ne choisira pas un autre. » pensèrent-ils et"
+msgstr "elle ne choisira pas un autre », pensèrent-ils et"
 
 msgctxt "20616e6ec2df4da0b11e326593775083"
 msgid "སྨྲས་པ །"
