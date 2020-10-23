@@ -283,12 +283,12 @@ msgstr "posant son visage entre ses paumes,"
 # ད་<«པེ་»«སྣར་»«ཞོལ་»དེ།>བདག་གིས་ཇི་ལྟར་བྱ་སྙམ་སྟེ་
 msgctxt "4dc18db8f37b407cbd5a2bf854589cbc"
 msgid "ད་ བདག་ གིས་ ཇི་ལྟར་ བྱ་ སྙམ་ སྟེ་"
-msgstr "« Maintenant, comment vais-je faire ? » se demandait-il,"
+msgstr "« Maintenant, comment vais-je faire ? » se demandait-il et"
 
 # སེམས་ཁོངས་སུ་<«ཞོལ་»ཁོང་དུ།>ཆུད་ཅིང་འདུག་གོ། །
 msgctxt "104bea90d88d4a019bb73bc1c6a6ea5f"
 msgid "སེམས་ ཁོངས་ སུ་ ཆུད་ ཅིང་ འདུག་ གོ ། །"
-msgstr "demeurant absorbé dans ses pensées."
+msgstr "il demeurait absorbé dans ses pensées."
 
 # དེ་ནས་ཀཱ་<«གཡུང་»«པེ་»ཀ>ཤི་མཛེས་ལྡན་མས་རྒྱལ་པོ་ཁང་བཟངས་ཀྱི་<«ཞོལ་»བཟང་གི།>སྟེང་དུ་སོང་ནས་
 msgctxt "9dceb8a55ec24280acb846c40ce61238"
