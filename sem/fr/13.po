@@ -1267,7 +1267,7 @@ msgid ""
 "ཕྱིར་ བརྩོན་པ་ དང་ བསྒྲུབ་པ་ དང་ འབད་པ␣ར་ བྱ་བ་ ཞིག་ ན་ སྙམ་ མོ ། །"
 msgstr ""
 "je m'efforcerais, je m'appliquerais et je m'évertuerais pour traverser les "
-"fleuves et transcender ce qui m'engage [dans le samsara]. » pensa-t-il."
+"fleuves et transcender ce qui m'engage [dans le samsara] », pensa-t-il."
 
 msgctxt "304a7f86ba8643ac8d618072bf7bfc49"
 msgid ""
