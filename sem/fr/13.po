@@ -274,7 +274,7 @@ msgstr "le servit de quelques manières et"
 
 msgctxt "9ee9ee39a0494253ace8e27b433e0bee"
 msgid "དེ་ དང་ ལྷན་ཅིག་ ཏུ་ ཉལ་ ལོ ། །"
-msgstr "fut dormir avec lui."
+msgstr "s'en fut dormir avec lui."
 
 msgctxt "aca4fc09d14a490697e12fad6c10d423"
 msgid "དེ་ གཉིས་ ཉལ་བ་ དང་"
