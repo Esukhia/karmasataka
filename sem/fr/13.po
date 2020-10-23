@@ -1833,7 +1833,7 @@ msgstr ""
 
 msgctxt "c6eef0a6ca654b71a97751dfeed571c7"
 msgid "དེ␣ས་ དེ␣ར་ སྨོན་ལམ་ བཏབ་ སྟེ་"
-msgstr "Le souhait qu'il formula (« "
+msgstr "Il formula le souhait suivant : « "
 
 msgctxt "c2a1ab59dc194049a6c720a928da1ae8"
 msgid ""
