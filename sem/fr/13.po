@@ -592,7 +592,7 @@ msgstr "Les voleurs qui sont partis dans la forêt, ils rient et"
 
 msgctxt "2ff2e5afb6fa4c6ca57349f659ba008c"
 msgid "ངུ་བ␣ར་ འགྱུར ། ། ཞེས་"
-msgstr "ils pleurent. »"
+msgstr "ils pleurent »,"
 
 msgctxt "4044b41b4a214c549e1ae82f5963a45d"
 msgid "བྱས་ སོ ། །"
