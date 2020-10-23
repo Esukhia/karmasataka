@@ -105,7 +105,7 @@ msgstr ""
 # དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཡེ>ནི་གནས་གསུམ་ཚོགས་པ་ལས།
 msgctxt "9d0ed751551242b78a5746020edfcbac"
 msgid "དེ་ ནི་ གནས་ གསུམ་ ཚོགས་པ་ ལ␣ས །"
-msgstr "Depuis toujours, c'est l'assemblement de trois choses qui"
+msgstr "depuis toujours, c'est l'assemblement de trois choses qui"
 
 msgctxt "b4203e9cd98e47eab712d1ecd2bccd98"
 msgid "བུ་ དང་ བུ་མོ་ སྐྱེ་བ␣ར་ འགྱུར་ ཏེ །"
@@ -113,7 +113,7 @@ msgstr "font naître les garçons et les filles. "
 
 msgctxt "5e2adca035ac46b88506884e9c0ede3a"
 msgid "གསུམ་ གང་ཞེ་ན །"
-msgstr "ces trois [choses] sont :"
+msgstr "Ces trois [choses] sont :"
 
 msgctxt "227072fbb97f43c6a5e7151043927e13"
 msgid "ཕ་མ་ གཉིས་ འདོད་ཆགས་ ལངས་ ཏེ་ ཕྲད་པ་ དང་"
