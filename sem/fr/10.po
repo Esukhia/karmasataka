@@ -363,8 +363,8 @@ msgstr "accumuler (lit. faire) des mérites et"
 msgctxt "a17b822fda46408a90cefbaa796d0cfd"
 msgid "དེ་ གཉིས་ གང་དང་གང་ དུ་ སྐྱེས་ ཤིང་ འགྲོ་བ་ དེ␣ར་ འདི་ སོང་ ཤིག་ ཅེས་"
 msgstr ""
-"« Que ces mérites (lit. ils) aillent là où ils (lit. ces deux) sont partis "
-"et nés »"
+"\"Que ces mérites (lit. ils) aillent là où ils (lit. ces deux) sont partis "
+"et nés\""
 
 # ཡོན་སྔོ་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»བསྔོ།>བར་ཤོག་ཅིག་ཅེས་
 msgctxt "41160c5b0ed444298c683cdcb9097e8e"
