@@ -2243,7 +2243,7 @@ msgstr "moi, je vous pardonne, mais"
 
 msgctxt "89d31dfa881c4868994b8c25f4f84b8a"
 msgid "འོན་ཀྱང་ རང་ གི་ སེམས་ ལ་ བཟོད་པ་ གསོལ་ ཅིག་ ཅེས་"
-msgstr "par contre (lit. pourtant), demandez pardon à votre propre esprit. »"
+msgstr "par contre (lit. pourtant), demandez pardon à votre propre esprit »,"
 
 msgctxt "634d31ac2e644e5ab4862e6cef54e09c"
 msgid "བྱས་ སོ ། །"
