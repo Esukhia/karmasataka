@@ -568,7 +568,7 @@ msgstr "Kāśisundarī, quant à elle, monta une noble monture et"
 
 msgctxt "2baeaeaf8c934c7997145dcaf792c5b8"
 msgid "བུ་མོ་ དག་ གིས་ གཡོག་ བྱས་ ནས་"
-msgstr "avec des jeunes femmes qui la servaient. Puis,"
+msgstr "suivie (lit. avec) des jeunes femmes qui la servaient et"
 
 # ཆས་གོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཆོས་གོས།
 # «ཁུ་»ཆས་གོ།>ཚོན་ཅན་གྱི་རྒྱལ་མཚན་བསྒྲེངས་ཏེ།
