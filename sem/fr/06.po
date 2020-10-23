@@ -1652,7 +1652,7 @@ msgstr "joignit les mains et s'inclina en direction du Bienheureux et"
 
 msgctxt "28584abb99184216be81dd0ffb262330"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ འདི་སྐད་ ཅེས་ གསོལ་ ཏོ ། །"
-msgstr "il dit ceci au Bienheureux : «"
+msgstr "dit ceci au Bienheureux : «"
 
 msgctxt "a3c04aefa63e493d98e2fcb241dedebc"
 msgid "བཅོམ་ལྡན་འདས་"
