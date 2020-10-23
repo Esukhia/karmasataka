@@ -1994,7 +1994,7 @@ msgstr "je vais délaisser la vie de famille et"
 # «ཞོལ་»འདབས་སུ།>གནས་བཅའ་བར་བྱའོ་སྙམ་དུ་
 msgctxt "593d68519e3d4becb24ec96da165925b"
 msgid "ནགས་ འདབ་ ཏུ་ གནས་ བཅའ་བ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
-msgstr "je m'établirai dans la forêt »"
+msgstr "je m'établirai dans la forêt »,"
 
 msgctxt "d4b6712264fd4cad8be26bd89b62d93b"
 msgid "བསམས་ ནས་"
