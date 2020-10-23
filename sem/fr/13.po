@@ -2021,7 +2021,7 @@ msgstr "Cet homme, quant à lui, « Ils vont me tuer et"
 msgctxt "bd6abdf9ce224b8fb744c18da0e98b19"
 msgid "གནོད་སྦྱིན་ གྱི་ མཆོད་པ་ བྱེད་པ␣ར་ སེམས་ སམ་ སྙམ་ ནས་"
 msgstr ""
-"vont [m']offrir au yakṣa. C'est ce qu'ils pensent. » pensa-t-il. Puis,"
+"vont [m']offrir au yakṣa. C'est ce qu'ils pensent », pensa-t-il. Puis,"
 
 msgctxt "329bff8f221a4ebf9728f2369eb1e305"
 msgid "དེ་ ཤིན་ཏུ་ འཇིགས་ ཤིང་ སྐྲག་པ␣ར་ གྱུར་ ཏོ ། །"
