@@ -797,7 +797,7 @@ msgid ""
 msgstr ""
 "qu'il se retire du monde, passant d'une vie de famille à une vie sans "
 "famille uniquement par une véritable dévotion, sa renommée de Tathāgata, "
-"d'Arhat, de parfait et complet Bouddha résonnera grandement.\""
+"d'Arhat, de parfait et complet Bouddha résonnera grandement\","
 
 msgctxt "6fd705f1b7b64479ab6cee80c4576d6b"
 msgid "ལུང་བསྟན་པ་ ལ␣ས་"
