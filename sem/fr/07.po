@@ -463,7 +463,7 @@ msgctxt "7a193694c276440dac9ac415e0430ab3"
 msgid ""
 "ཁྱོད་ ཉི་འོག་ གི་ རྒྱལ་པོ་ རྣམས་ ལ་ ང་ བཟླུགས་ ཀྱི་ བར་ དུ་ སྡོད་ ཅིག་ ཅེས་"
 msgstr ""
-"reste là jusqu'à ce que j'aie le consentement des rois de la périphérie »"
+"reste là jusqu'à ce que j'aie le consentement des rois de la périphérie »,"
 
 msgctxt "e281d22e176343b2a258d44c1800cf97"
 msgid "བྱས་ ནས །"
