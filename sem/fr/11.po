@@ -122,12 +122,12 @@ msgstr "Ensuite, lui : «"
 
 msgctxt "81fc04ebe29047fb97720ed1f5b0dca7"
 msgid "ཀྱེ་ གཽ་ ཏ་ མ་"
-msgstr "Hé Gautama,"
+msgstr "Hé, Gautama,"
 
 # ལ་དུ་<«གཡུང་»ཅ། «ལི་»«སྣར་»ཏུ།>འདི་བདག་ལ་མི་དགོས་ཞེས་
 msgctxt "b08110cbad62465e817fbc984e8577f5"
 msgid "ལ་དུ་ འདི་ བདག་ ལ་ མི་ དགོས་ ཞེས་"
-msgstr "Je ne veux pas de ce laḍḍū. »"
+msgstr "Je ne veux pas de ce laḍḍū »,"
 
 msgctxt "cc2e41691cda42938f524a3294a28abe"
 msgid "སྨྲ␣ས་ སོ ། །"
