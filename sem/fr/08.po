@@ -88,7 +88,7 @@ msgstr "[qu']il venait lui livrer bataille,"
 
 msgctxt "db8272f62be74b3a854e3147e72a455d"
 msgid "ཐོས་ སོ ། །"
-msgstr "il l'entendit."
+msgstr "il l'entendit [dire]."
 
 msgctxt "b8b6124e625042f0ab4bb4c306fd4d5b"
 msgid "ཐོས་ ནས་"
