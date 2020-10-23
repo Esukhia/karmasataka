@@ -891,7 +891,7 @@ msgstr ""
 
 msgctxt "c448946d92614d00bca66e9b1e652354"
 msgid "གནང་ བར་ མཛད་ དུ་ གསོལ་ ཞེས་"
-msgstr "veuillez m'accorder [votre permission]. »"
+msgstr "veuillez m'accorder [votre permission] »,"
 
 msgctxt "31feb388bcb747b19cf144fc1ca0fa8b"
 msgid "བྱས་ སོ ། །"
