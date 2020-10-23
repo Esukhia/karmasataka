@@ -200,7 +200,7 @@ msgstr "Père de famille,"
 
 msgctxt "cd55198a64464cc9a92aa9872de6e630"
 msgid "ཁྱོད་ ཅི་ ལྟར་ དགའ་བ་ དེ་བཞིན་ དུ་ བྱ␣འོ་ ཞེས་"
-msgstr "je ferai comme il vous plaira. »"
+msgstr "je ferai comme il vous plaira »,"
 
 msgctxt "f620a87c01c14470a6f9ca38922c3e6f"
 msgid "བྱས་ ནས་"
