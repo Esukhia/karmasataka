@@ -1483,7 +1483,7 @@ msgstr "lui, il reste dans la maison et"
 msgctxt "2201cb3d4beb4c82940a019c491d06df"
 msgid "བདེ་བ་ ཉམས་ སུ་ མྱོང་བ␣ར་ བྱེད་ དོ་ སྙམ་ ནས །"
 msgstr ""
-"il passe du bon temps (lit. fait l'expérience du bonheur). » pensa-t-il. "
+"il passe du bon temps (lit. fait l'expérience du bonheur) », pensa-t-il. "
 "Puis,"
 
 msgctxt "bdb189be517e48c0994932de0395940b"
