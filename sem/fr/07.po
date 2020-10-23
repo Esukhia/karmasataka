@@ -166,7 +166,7 @@ msgstr ""
 
 msgctxt "81d88a7afaf14801bc03b88d41916a9d"
 msgid "འཇིག་རྟེན་ ན་ བུ་མོ་ དེ་ དང་ འདྲ་བ་ གཞན་ མེད་ དོ་ ཞེས་"
-msgstr "il n'existe pas d'autre fille qui soit son égale. »,"
+msgstr "il n'existe pas d'autre fille qui soit son égale »"
 
 msgctxt "48977005edc447d59b4ad71439893797"
 msgid "ཀུན་ ཏུ་ གྲགས་པ␣ས་ རྒྱས་པ␣ར་ གྱུར་ ཏོ ། །"
