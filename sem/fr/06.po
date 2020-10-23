@@ -1585,8 +1585,8 @@ msgid ""
 "བཅོམ་ལྡན་འདས་ ཀྱིས་ བད་ ས␣འི་ རྒྱལ་པོ་ འཆར་ཀ་ ཆོས་ ཀྱི་ གཏམ་ གྱིས་ "
 "ཡང་དག་པ␣ར་ བསྟན །"
 msgstr ""
-"Ensuite, le Bienheureux instruisit parfaitement Udayin, le roi de Vatsa, par"
-" un discours sur le Dharma,"
+"le Bienheureux instruisit parfaitement Udayin, le roi de Vatsa, par un "
+"discours sur le Dharma,"
 
 # ཡང་དག་པར་འཛིན་དུ་བཅུག །<«གཡུང»«ལི་»«པེ་»«ཅོ་»འཇུག>
 msgctxt "30907d9f16cd42a4babe82d90a8b54a3"
