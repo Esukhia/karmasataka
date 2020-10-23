@@ -1093,7 +1093,7 @@ msgid ""
 "སྲོད་ དང་ ཐོ་རངས་ མི་ ཉལ་བ␣ར་ བརྩོན་པ་ ལྷུར་ བྱེད་པ་ ལ་ གནས་པ␣ས་ བྱམས་པ␣འི་ "
 "སེམས་ ཀྱི་ ཏིང་ངེ་འཛིན་ བསྐྱེད་ ནས །"
 msgstr ""
-"Ensuite, maintenant de grands efforts sans dormir ni à l'aube ni au "
+"ensuite, maintenant de grands efforts sans dormir ni à l'aube ni au "
 "crépuscule, elle développa la concentration méditative de la bonté et"
 
 msgctxt "b7b8d33cdb734bb981b0ccad8efad82e"
