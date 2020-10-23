@@ -218,7 +218,7 @@ msgstr "à qui la donner ? »"
 
 msgctxt "87461024fb6647fa95eb00e82f214caf"
 msgid "བསམས་ ནས་"
-msgstr "pensait-il. Puis,"
+msgstr "pensa-t-il. Puis,"
 
 msgctxt "62107fa55c49459698469a59a7c5912c"
 msgid "གང་ ཡང་ སྦྱིན་ མི་འདོད་པ␣ར་ གྱུར་ ཏོ ། །"
