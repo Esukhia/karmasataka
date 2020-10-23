@@ -845,7 +845,7 @@ msgid ""
 msgstr ""
 "« Quand ce garçon est entré dans le sein de sa mère et quand il est né, "
 "puisqu'il a plu des fleurs de jasmin, pour cette raison, le nom de ce garçon"
-" sera \"Fleur-de-Jasmin\". »"
+" sera \"Fleur-de-Jasmin\" »,"
 
 msgctxt "4867ce17234b4c589ebc2500811da2b0"
 msgid "གདགས་ སོ ། །"
