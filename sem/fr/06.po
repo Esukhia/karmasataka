@@ -1540,8 +1540,8 @@ msgid ""
 "དེ་ནས་ བད་ ས␣འི་ རྒྱལ་པོ་ འཆར་ཀ␣ས་ བཅོམ་ལྡན་འདས་ པད་མ␣འི་ ལྗོངས་རྒྱུ་ "
 "ཞིང་གཤེགས་ ཏེ །"
 msgstr ""
-"Ensuite, Udayin, le roi de Vatsa, « Le Bienheureux a voyagé à travers le "
-"pays de Vatsa et"
+"Ensuite, Udayin, le roi de Vatsa, que « le Bienheureux a voyagé à travers le"
+" pays de Vatsa et"
 
 # ཀཽ་ཤཱཾ་བཱིར་བྱོན་ནས་<«ཞོལ་»པས།>
 msgctxt "d73f34cf67bf4cec9acc1be3f5edbe74"
