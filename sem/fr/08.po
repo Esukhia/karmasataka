@@ -966,7 +966,7 @@ msgstr ""
 msgctxt "87bb67be2f594b99a72a928b8dfb7d15"
 msgid "དེ་དེ་ དང་ ལྷན་ཅིག་ ཏུ་ རྩེ་ ཞིང་ དགའ་ ལ་ དགའ་མགུ␣ར་ སྤྱོད་ དོ ། །"
 msgstr ""
-"Avec elle, ils se séduisirent (lit. jouèrent), ils [apprirent] à s'aimer et "
+"avec elle, ils se séduisirent (lit. jouèrent), ils [apprirent] à s'aimer et "
 "laissèrent libre cours (lit. faire) à leurs envies."
 
 msgctxt "a539c4a61e664a8990502d72da3329b7"
