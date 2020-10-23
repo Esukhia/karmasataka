@@ -1794,7 +1794,7 @@ msgstr "fit ce souhait au moment de mourir : «"
 
 msgctxt "e5ee746df7de4d30a991f259769c4fe0"
 msgid "འདི་ལྟར་"
-msgstr "Eh bien (lit. comme ceci)"
+msgstr "Eh bien (lit. comme ceci),"
 
 # བདག་གིས་སེམས་ཅན་དག་པ་འདི་ལྟ་བུ་ལ་ཚིག་རྩུབ་པོ་<«གཡུང་»«པེ་»མོ།>སྨྲས་པའི་ལས་དེའི་སྐལ་བ་ཅན་དུ་བདག་མ་གྱུར་ཅིག
 # །
