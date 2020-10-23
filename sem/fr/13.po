@@ -456,7 +456,7 @@ msgstr "Ouvrez donc cette malle."
 
 msgctxt "7bbf8df7ec2d405eb37a90ab76bbb01e"
 msgid "འདི␣ར་ རིན་པོ་ཆེ་ ཇི་ལྟ་བུ་ དག་ བཅུག་པ་ བལྟ␣འོ་ ཞེས་"
-msgstr "Nous allons regarder quels joyaux y ont été placés. »"
+msgstr "Nous allons regarder quels joyaux y ont été placés »,"
 
 msgctxt "3b4a262e69504b9fb9aad7fe8e2dcead"
 msgid "བྱས་ སོ ། །"
