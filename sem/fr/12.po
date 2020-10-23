@@ -100,7 +100,7 @@ msgstr "Deva,"
 
 msgctxt "893671fd2403463e81a1a348b61bb6c3"
 msgid "འདི་ ནི་ ལྟོ་ ན་ མཆིས་པ␣འི་ སེམས་ཅན་ དེ␣འི་ མཐུ་ ལགས་ ཏེ །"
-msgstr "Ceci est dû à l'être qui est dans son ventre. Ceci parce que"
+msgstr "Ceci est dû à l'être qui est dans son ventre. Ceci parce"
 
 msgctxt "3298d0bbc29446a98fe768da6a4da14d"
 msgid ""
