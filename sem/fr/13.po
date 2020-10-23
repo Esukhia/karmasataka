@@ -1002,7 +1002,7 @@ msgstr "Je vous enseignerai le Dharma. »"
 # དེ་ནས་དེ་ལྟར་འཚལ་ལོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལོ>ཞེས་
 msgctxt "be5bb52e08184a1eb7e4b641da8656d8"
 msgid "དེ་ནས་ དེ་ལྟར་ འཚལ་ ལོ་ ཞེས་"
-msgstr "Ensuite, « Nous ferons ainsi. »"
+msgstr "Ensuite, « Nous ferons ainsi »,"
 
 msgctxt "6d4247bca62543159e3adddac6822e1b"
 msgid "བྱས་ ནས་"
