@@ -139,7 +139,7 @@ msgstr "Après avoir dit ceci,"
 
 msgctxt "518e446cbebe4dd4ad6f39a933cf3ce9"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བྲམ་ཟེ␣འི་ ཁྱེའུ་ དེ་ ལ་ལ་ དུ་ དེ་ བྱིན་ ནོ ། །"
-msgstr "Le Bienheureux donna le laḍḍū à ce garçon de brahmane."
+msgstr "le Bienheureux donna le laḍḍū à ce garçon de brahmane."
 
 # དེའི་ཚེ་ཁྱིམ་བདག་<«གཡུང་»ན་དེ་འདག
 # «པེ་»ནི་ཁྱིམ་བདག>མགོན་མེད་ཟས་སྦྱིན་བཅོམ་ལྡན་འདས་ཀྱི་དྲུང་ནས་ཐག་མི་རིང་བ་ཞིག་ན་འདུག་པ།
