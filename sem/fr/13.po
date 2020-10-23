@@ -383,7 +383,7 @@ msgctxt "b36b00e67eb44584aa66598909e9a54a"
 msgid "འདི␣འི་ ནང་ དུ་ ནི་ ནོར་བུ་ ཆུ་ཤེལ་ བཅུག་ ཡང་དག་ སྙམ་ སྟེ །"
 msgstr ""
 "il ne peut qu'y avoir (lit. c'est juste qu'y sont mis) des joyaux "
-"cristaux-d'eau. » pensèrent-ils. Puis,"
+"cristaux-d'eau », pensèrent-ils. Puis,"
 
 # ལྷག་པར་<«གཡུང་»ལྷང་བར།>ཡང་སྙིང་དགའ་བར་གྱུར་ཏོ། །
 msgctxt "27a4ac7930644978b3c4162b1d3e949f"
