@@ -223,7 +223,7 @@ msgid ""
 "སྙམ་ མོ ། །"
 msgstr ""
 "« Voilà (lit. j'ai trouvé) le moyen de ne plus être ennemis l'un de l'autre,"
-" mais d'être apparentés. » pensèrent-ils."
+" mais d'être apparentés », pensèrent-ils."
 
 msgctxt "ee0e8569bad34fdfb331221abd920732"
 msgid ""
