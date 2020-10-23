@@ -90,7 +90,7 @@ msgstr "Hé, Gautama,"
 
 msgctxt "920666a9ce744da1831d5bff3d7b5275"
 msgid "ལ་དུ་ འོ་ནི་ ང་ ལ་ བྱིན་ ཅིག་ ཅེས་"
-msgstr "donne-moi ce laḍḍū-là. »"
+msgstr "donne-moi ce laḍḍū-là »,"
 
 msgctxt "0ce46972f0a140cbb6000957da2b1024"
 msgid "བྱས་ སོ ། །"
