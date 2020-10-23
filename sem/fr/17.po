@@ -85,7 +85,7 @@ msgid ""
 "འདི་ ནི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ རྣམས་ གང་ གི་ ཚེ །  འཛུམ་པ་ མཛད་པ␣འི་ "
 "ཆོས་ཉིད་ དེ །"
 msgstr ""
-"ceci, quand les Bienheureux Bouddhas sourient, [c'est] la nature [des "
+"Ceci, quand les Bienheureux Bouddhas sourient, [c'est] la nature [des "
 "sourires] que"
 
 msgctxt "111a058a66a24fac94655768dfa27760"
