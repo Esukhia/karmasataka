@@ -216,7 +216,7 @@ msgid ""
 "བུ་མོ་ འདི␣འི་ མིང་ འདུས་ མོ་ ཞེས་ གདགས་ སོ་ ཞེས་"
 msgstr ""
 "Puisque la mère de cette fille a vaincu tous les exégètes dans une "
-"assemblée, elle portera le nom de \"Assemblée\". »"
+"assemblée, elle portera le nom de \"Assemblée\" »,"
 
 msgctxt "c4038a86572b4df48d3fe5b39ea08812"
 msgid "ཟེར་ རོ ། །"
