@@ -310,7 +310,7 @@ msgid ""
 "ནས །"
 msgstr ""
 "Puisque cette fille est née, je m'entends bien (lit. je suis bien) avec le "
-"roi Brahmadatta. » pensa-t-il. Puis,"
+"roi Brahmadatta », pensa-t-il. Puis,"
 
 msgctxt "c919cf14b57c493ba24c341eb78d9fba"
 msgid "དེ␣འི་ བཙས་ སྟོན་ རྒྱས་པ␣ར་ བྱས་ ཏེ །"
