@@ -1201,7 +1201,7 @@ msgstr "ils manifestèrent l'état d'arhat."
 msgctxt "c882d4ba517e466a98a6f5c2a3551924"
 msgid "དེ་དག་ དགྲ་བཅོམ་པ་ ཁམས་ གསུམ་པ␣འི་ འདོད་ཆགས་ དང་ བྲལ་བ␣ར་ གྱུར་ ནས །"
 msgstr ""
-"ils devinrent des arhats libres de l'attachement aux trois mondes. Ainsi,"
+"Ils devinrent des arhats libres de l'attachement aux trois mondes. Ainsi,"
 
 # གསེར་དང་བོང་<«གཡུང་»པོར།>བར་མཉམ་པ་
 msgctxt "c82012a7feac467e8dade400c8d84d42"
