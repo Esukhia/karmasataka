@@ -1470,7 +1470,7 @@ msgstr "le réjouit entièrement."
 
 msgctxt "06199115b55c4e3babcf3a8550605a93"
 msgid "ཆོས་ ཀྱི་ གཏམ་ རྣམ་ གྲངས་ དུ་མ␣ས་ ཡང་དག་པ␣ར་ བསྟན །"
-msgstr "il l'instruisit parfaitement par de nombreux discours sur le Dharma,"
+msgstr "Il l'instruisit parfaitement par de nombreux discours sur le Dharma,"
 
 msgctxt "d23aa11057f64d5085974b9b93216b81"
 msgid "ཡང་དག་པ␣ར་ འཛིན་ དུ་ བཅུག  །"
