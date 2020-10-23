@@ -512,7 +512,7 @@ msgstr ""
 
 msgctxt "2e5e6a5efc7e4325b9034db21ea634d4"
 msgid "རབ་ཏུ་ བྱུང་ སྟེ །"
-msgstr "qui s'est retireré du monde. Et"
+msgstr "qui s'est retiré du monde. Et"
 
 msgctxt "95a68833255d4b9f8d8e403884632034"
 msgid "དེ་ ལྗོངས་རྒྱུ་ ཞིང་ མཆིས་པ་ ལ␣ས་"
