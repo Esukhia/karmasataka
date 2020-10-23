@@ -1137,7 +1137,7 @@ msgstr "réjouissez-vous grandement. "
 
 msgctxt "0f7d92d979284c1cbe0664e368a03726"
 msgid "བདག་ གིས་ ཁྱོད་ ཉིད་ ཀྱི་ ཕོ་བྲང་ དུ་ བསྐྱལ་ ལོ་ ཞེས་"
-msgstr "Je vous conduirai à votre palais. »"
+msgstr "Je vous conduirai à votre palais »,"
 
 msgctxt "6307142cd6ce4e45affb52de4f739697"
 msgid "སྨྲ␣ས་ ནས །"
