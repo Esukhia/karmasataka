@@ -1669,7 +1669,7 @@ msgstr "L'autre se retira du monde et"
 
 msgctxt "ee99925ee8f44e4e840d0b88b0c01270"
 msgid "ཚེ་ གཅིག་ ཏུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་ དེ་"
-msgstr "vécu chastement toute leur vie, puis"
+msgstr "vécu chastement toute sa vie, puis"
 
 # འཆི་ཀར་<«ཁུ་»གར། «ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
 msgctxt "806e8a00940e4cad980dff3ef6684184"
