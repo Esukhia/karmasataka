@@ -1150,7 +1150,7 @@ msgstr "Il les ordonna pleinement et"
 
 msgctxt "66f239da32214e7ab354b484e109e128"
 msgid "དེ་ གཉིས་ ལ་ལུང་ ཡང་ ཕོག་ སྟེ །"
-msgstr "Il conféra à eux deux la transmission orale. Alors,"
+msgstr "il conféra à eux deux la transmission orale. Alors,"
 
 # དེ་གཉིས་ཀྱིས་ཀྱང་བརྩོན་པ་དང་། བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་།
 # འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
