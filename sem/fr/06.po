@@ -1290,7 +1290,7 @@ msgstr ""
 # དེས་<«གཡུང་»«པེ་»དེ།>བསམས་པ།
 msgctxt "92ec69c34bcd4fc792952ab981fcdc14"
 msgid "དེ␣ས་ བསམས་པ །"
-msgstr "Il pensa : «"
+msgstr "il pensa : «"
 
 # རེ་ཞིག་བདག་གྲོང་ཁྱེར་དུ་འགྲོ་བ་བཏང་<«གཡུང་»«པེ་»+བ།>ལ་
 msgctxt "42afbf59c6f64bb4a578a8b2756c0475"
