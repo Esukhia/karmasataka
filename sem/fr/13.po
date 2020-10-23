@@ -2084,7 +2084,7 @@ msgstr ""
 
 msgctxt "2223a42ab0444eaaafba257fabc90638"
 msgid "དཀའ་བ་ སྐུ་ཉམས་ སུ་ བཞེས་པ␣ར་ གསོལ་ ཞེས་"
-msgstr "Veuillez prendre sur vous les difficultés [pour le faire]. »"
+msgstr "Veuillez prendre sur vous les difficultés [pour le faire] »,"
 
 msgctxt "4dd21985d5ba4b009965098636a6b597"
 msgid "བྱས་ སོ ། །"
