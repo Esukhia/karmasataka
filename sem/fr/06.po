@@ -751,7 +751,7 @@ msgstr "je vais lui couper la tête d'un coup et"
 
 msgctxt "5cd89f083ccd4e6b985a4c10ad718947"
 msgid "ས་ ལ་ དོར་ རོ་ སྙམ་ དུ་"
-msgstr "je la jetterai par terre. »"
+msgstr "je la jetterai par terre »,"
 
 # སྡང་<«གཡུང་»ལྡང་། «ལི་»སྡེང་།>བའི་སེམས་ཀྱིས་འོངས་པར་དེས་མཐོང་སྟེ།
 msgctxt "a56a4553591142d288e2a24624a834a7"
