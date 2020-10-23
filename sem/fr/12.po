@@ -83,7 +83,7 @@ msgid ""
 " དུ་ ཡིད་ ལ་ འདོད་པ །  དེ་ལྟ་ བུ་ ཞིག་ སྐྱེས་ སོ ། །"
 msgstr ""
 "elle conçut le désir suivant : « Que j'ai envie (lit. que ceci arrive) de "
-"débattre avec les exégètes! »"
+"débattre avec les exégètes ! »"
 
 # དེ་ནས་རྒྱལ་པོས་དེ་ཐོས་མ་ཐག་ཏུ་ལྟས་མཁན་རྣམས་<«པེ་»«སྣར་»«ཁུ་»«ཞོལ་»རྣམ།>ལ་བསྟན་ཏེ།
 msgctxt "e62ec59750864378bc6be8df5ad77ad7"
