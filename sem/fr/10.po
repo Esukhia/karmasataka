@@ -1143,7 +1143,9 @@ msgstr ""
 # སྡིག་པ་མི་དགེ་བའི་ཆོས་རྣམ་པ་དུ་མ་ནི་བསལ<«གཡུང་»གསལ། «པེ་»བསམ།>།
 msgctxt "e1a76100a5e9493b83da230fd9d1759f"
 msgid "སྡིག་པ་ མི་དགེ་བ␣འི་ ཆོས་ རྣམ་པ་ དུ་མ་ ནི་ བསལ །"
-msgstr "Il a dissipé d'innombrables actions négatives et choses mauvaises."
+msgstr ""
+"Il a dissipé d'innombrables actions négatives, ces actions (lit. choses) "
+"non-vertueuses."
 
 # དགེ་བའི་ཆོས་རྣམ་པ་དུ་མ་<«གཡུང་»–མ།>ནི་[40a]བསྒྲུབས་ན།
 msgctxt "55889d7a3afd4e09bf6c13a2b1de03e1"
