@@ -91,7 +91,7 @@ msgstr "L'ascète Gautama possède de grands pouvoirs surnaturels,"
 # མཐུ་ཆེ་<«གཡུང་»ཆེད།>བ་ཡིན་ནོ་སྙམ་ནས།
 msgctxt "4c1b1e008a0e495ea97b75d44abb401c"
 msgid "མཐུ་ ཆེ་བ་ ཡིན་ ནོ་ སྙམ་ ནས །"
-msgstr "il possède une grande puissance. » pensa-t-il. Puis,"
+msgstr "il possède une grande puissance », pensa-t-il. Puis,"
 
 msgctxt "bb3fc4ce786b4bf8bfec9ad833d254fc"
 msgid "དེ་ བཅོམ་ལྡན་འདས་ ལ་ དགའ་བ་ སྐྱེས་ སོ ། །"
