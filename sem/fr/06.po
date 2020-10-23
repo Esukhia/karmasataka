@@ -1631,7 +1631,7 @@ msgid ""
 "དེ་ནས་ བད་ ས␣འི་ རྒྱལ་པོ་ འཆར་ཀ␣ས །  བཅོམ་ལྡན་འདས་ ཀྱི་ གཏམ་ གྱི་ མཇུག་ "
 "རྫོགས་པ␣ར་ རིག་ ནས །"
 msgstr ""
-"Ensuite, Udayin, le roi de Vatsa, compris que le discours du Bienheureux "
+"Ensuite, Udayin, le roi de Vatsa, comprit que le discours du Bienheureux "
 "était terminé et"
 
 msgctxt "d2b2017df7b74481ae97bd8fd8cbfc6d"
