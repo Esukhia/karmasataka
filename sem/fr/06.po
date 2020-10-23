@@ -1861,8 +1861,8 @@ msgctxt "571b68c35f864d4cb5fe2dcda3f1b6aa"
 msgid ""
 "འབྲས་ སཱ་ ལུ་ དང་ བུ་རམ་ཤིང་ དང་བ་ ལང་ དང་ མ་ཧེ་ དང་ ལྡན་པ␣ར་ འདུག་ སྟེ །"
 msgstr ""
-"le royaume (lit. il) se trouve en possession de riz, de cannes à sucre, de "
-"vaches et de buffles."
+"le royaume (lit. il) se trouvait en possession de riz, de cannes à sucre, de"
+" vaches et de buffles."
 
 # བུ་གཅིག་པ་སྡུག་པ་ལ་བྱ་བ་བཞིན་དུ་ཆོས་བཞིན་དུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཆོས་བཞིན་དུ།>རྒྱལ་སྲིད་<«གཡུང་»–སྲིད།>བྱེད་དོ།
 # །
