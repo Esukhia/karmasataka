@@ -2129,7 +2129,7 @@ msgstr ""
 
 msgctxt "9beb7390c9d64f0f9da9ca2dfd74ab35"
 msgid "ང་ ཡང་ དེ་ བལྟ་བ␣འི་ ཕྱིར་ འགྲོ␣འོ་ སྙམ་ དུ་"
-msgstr "moi aussi, je vais le voir. »"
+msgstr "moi aussi, je vais le voir »,"
 
 msgctxt "18df57f6e1794070839a23f00cedfa5b"
 msgid "བསམས་ ནས །"
