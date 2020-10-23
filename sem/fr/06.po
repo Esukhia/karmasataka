@@ -526,7 +526,7 @@ msgstr "il arriva (lit. se trouva) à Kauśāmbī et"
 msgctxt "341c79fe623248e9b598844ce620d206"
 msgid ""
 "ཀཽ་ ཤཱཾ་ བཱི་ ན་ ཁྱིམ་བདག་ གདངས་ ལ␣ས་ རིག་ གི་ ཀུན་དགའ་ར་བ་ ན་ གནས་ ཏེ །"
-msgstr "à Kauśāmbī, il demeure dans le jardin du père de famille Ghoṣila. "
+msgstr "à Kauśāmbī, il s'établit dans le jardin du père de famille Ghoṣila. "
 
 msgctxt "96c57b79ca6e4d8aac90e97e181a3e17"
 msgid "འདི་དག་ ནི་ དེ་ ལ་ བལྟ་བ␣འི་ སླད་ དུ་ མཆིས་པ་ ལགས་སོ ། །"
