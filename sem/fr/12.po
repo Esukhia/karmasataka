@@ -769,7 +769,7 @@ msgid ""
 " རྣམས་ ཀྱིས་ ལུང་བསྟན་ ཏེ་"
 msgstr ""
 "dans le Magadha, un fils des Śākyas a reçu une prédiction des devins qui "
-"tirent les présages : «"
+"tirent les présages :"
 
 # གལ་<«གཡུང་»ག་ལི།>ཏེ་ཁྱིམ་ན་གནས་ན་ནི་འཁོར་ལོས་སྒྱུར་བའི་རྒྱལ་པོར་འགྱུར་རོ། །
 msgctxt "5d2e527fa6c949a19981ca61d5fd01b5"
