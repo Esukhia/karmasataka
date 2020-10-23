@@ -271,7 +271,7 @@ msgstr "Seigneur,"
 
 msgctxt "8d0776a6ec6e4bafa21827b78883a906"
 msgid "བདག་ ལ་ སྲས་ ཆགས་ ཏེ་"
-msgstr "je suis enceinte d'un garçon (lit. un garçon est dans moi) parce que"
+msgstr "je suis enceinte d'un garçon (lit. un garçon est dans moi) parce"
 
 # བདག་གི་རུམ་<«པེ་»ལྟོ།>གཡས་ལོགས་སུ་རྟེན་ཅིང་གནས་པ་ལས་
 msgctxt "17f0f4e96cbc406d870a51e0a6e40112"
