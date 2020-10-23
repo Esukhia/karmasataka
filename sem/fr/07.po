@@ -189,7 +189,7 @@ msgstr "ils envoyèrent tous un messager à Brahmadatta le roi de Kāśi et"
 
 msgctxt "04c7a776474e4719adac0b971589f8f0"
 msgid "དེ་དག་ རེ་རེ་ ནས་ བུ་མོ་ དེ་ ང་ ལ་ བྱིན་ ཅིག་ ཅེས་"
-msgstr "« Donnez-moi cette fille. » [était ce que] chacun d'eux "
+msgstr "« Donnez-moi cette fille » [était ce que] chacun d'eux "
 
 msgctxt "444dc0ff7a2f4a729f8746491b3f7f77"
 msgid "སྤྲིང་ ངོ་ ། །"
