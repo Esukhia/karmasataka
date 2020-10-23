@@ -1614,7 +1614,7 @@ msgstr "il les lui fit assimiler en entier,"
 # ཡང་དག་པར་གཟེངས་<«གཡུང་»བཟེངས «པེ་»བཟེང་པ།>བསྟོད།
 msgctxt "d9ef335370ae4393abc498362bda7a2a"
 msgid "ཡང་དག་པ␣ར་ གཟེངས་བསྟོད །"
-msgstr "l'encouragea grandement,"
+msgstr "l'encouragea grandement et"
 
 msgctxt "8f60055736a04fb69b1bb751bfb1402e"
 msgid "ཡང་དག་པ␣ར་ དགའ་བ␣ར་ མཛད་ ནས་"
