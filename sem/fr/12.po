@@ -1444,7 +1444,7 @@ msgid ""
 "གསོལ་ ཞེས་"
 msgstr ""
 "veuillez nous donner la permission de nous retirer [du monde] selon "
-"l'enseignement du Bienheureux. »"
+"l'enseignement du Bienheureux »,"
 
 msgctxt "27ad604567c44c41a1c42c4df2b99377"
 msgid "བྱས་ སོ ། །"
