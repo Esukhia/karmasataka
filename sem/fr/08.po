@@ -843,7 +843,7 @@ msgid ""
 "བདག་ ཀྱང་ བཅོམ་ལྡན་འདས་ ཀྱི་ བསྟན་པ་ ལ་ རབ་ཏུ་ འབྱུང་ གོར་མ་ཆག་ སྙམ་ དུ་"
 msgstr ""
 "moi aussi, il n'y a aucun doute qu'il faille que je me retire selon "
-"l'enseignement du Bienheureux. »"
+"l'enseignement du Bienheureux »,"
 
 msgctxt "bede0964e0204600844e559539406189"
 msgid "བསམས་ ནས་"
