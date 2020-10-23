@@ -1049,7 +1049,7 @@ msgid ""
 " ཞེས་"
 msgstr ""
 "retirons-nous du monde selon l'enseignement du complet et parfait Bouddha "
-"Kāśyapa. »"
+"Kāśyapa »,"
 
 msgctxt "b29f6948fafe42d397988b0696a3a427"
 msgid "ཟེར་ ནས་"
