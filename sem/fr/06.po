@@ -178,7 +178,7 @@ msgstr "L'ayant entendu,"
 msgctxt "3bf6cd6410144fd8920f2e624d6abf5d"
 msgid "ཚོགས་ ནས་ ཚོགས་ དང་ སྡེ་ཚན་ ནས་ སྡེ་ཚན་ དུ་ འདུས་ ཤིང་ ཚོགས་ ཏེ །"
 msgstr ""
-"Ils se rassemblèrent et se regroupèrent en groupes (lit. de groupe en "
+"ils se rassemblèrent et se regroupèrent en groupes (lit. de groupe en "
 "groupe) et en assemblées (lit. d'assemblée en assemblée), et"
 
 msgctxt "bbe409ba906840bdb9e93e97ebb25d87"
