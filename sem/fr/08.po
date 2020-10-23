@@ -1003,7 +1003,7 @@ msgid ""
 "ཞེས་"
 msgstr ""
 "tant que (lit. dans l'intervalle où) nous sommes tous les deux en vie, "
-"transportons tout ceci dans l'au-delà de ce monde. »"
+"transportons tout ceci dans l'au-delà de ce monde »,"
 
 msgctxt "bffb69c168a0496cafb2f5b9c2db19d5"
 msgid "ཟེར་ ནས །"
