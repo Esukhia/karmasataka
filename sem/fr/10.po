@@ -373,7 +373,7 @@ msgstr "puisse-t-il les dédier ainsi. »"
 
 msgctxt "fe14d3c839da4c178eb9be93efa08fe4"
 msgid "དགའ་བ␣འི་ ཚིག་ བརྗོད་ དོ ། །"
-msgstr "il dit [ces] paroles de joie."
+msgstr "Il dit [ces] paroles de joie."
 
 # དེས་<«གཡུང་»«པེ་»དེ།>བུ་ཆགས་པར་རིག་ནས་
 msgctxt "d355c3db900e4fdb958b1f9b0f0ace39"
