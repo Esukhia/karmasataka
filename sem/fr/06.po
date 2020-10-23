@@ -1523,7 +1523,7 @@ msgstr "précédé de la saṅgha des moines,"
 # ཀཽ་ཤཱཾ་བཱི་ག་ལ་བ་<«གཡུང་»«པེ་»བར།>དེར་རྒྱུ་ཞིང་གཤེགས་པ་ལས་
 msgctxt "3c73e3c9123d4c148bb1ca0757563182"
 msgid "ཀཽ་ ཤཱཾ་ བཱི་ ག་ལ་བ་ དེ␣ར་ རྒྱུ་ ཞིང་གཤེགས་པ་ ལ␣ས་"
-msgstr "il voyagea et se rendit à l'endroit de Kauśāmbī. Alors,"
+msgstr "il voyagea et se rendit à l'endroit où se trouvait Kauśāmbī. Alors,"
 
 msgctxt "53d4e44fec63447ab16bd5e90deb5770"
 msgid "མཐར་གྱིས་ ཀཽ་ ཤཱཾ་ བཱིར་ བྱོན་ ཏེ །"
