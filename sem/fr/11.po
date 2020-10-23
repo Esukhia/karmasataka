@@ -86,7 +86,7 @@ msgstr "dit : «"
 # ཀྱེ་གཽ་<«ཞོལ་»གོའུ།>ཏ་མ།
 msgctxt "3b2f9e8926044809ab65f410415bb3f5"
 msgid "ཀྱེ་ གཽ་ ཏ་ མ །"
-msgstr "Hé Gautama,"
+msgstr "Hé, Gautama,"
 
 msgctxt "920666a9ce744da1831d5bff3d7b5275"
 msgid "ལ་དུ་ འོ་ནི་ ང་ ལ་ བྱིན་ ཅིག་ ཅེས་"
