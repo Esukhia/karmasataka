@@ -1084,7 +1084,8 @@ msgstr "pensa-t-elle. Puis,"
 
 msgctxt "bf7b7a1f466047cb9bd7decab4f72692"
 msgid "ཡིད་ ལ་ བྱེད་པ␣འི་ ལུང་ མནོས་ ཏེ་"
-msgstr "elle reçut la transmission de l'action de maintenir à l'esprit et"
+msgstr ""
+"elle reçut la transmission de l'action de maintenir [un objet] à l'esprit et"
 
 # སྲོད་དང་ཐོ་<«གཡུང་»ཐོས།>རངས་མི་<«གཡུང་»«པེ་»མ།>ཉལ་བར་བརྩོན་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པར།>ལྷུར་བྱེད་པ་ལ་གནས་པས་བྱམས་པའི་སེམས་ཀྱི་ཏིང་ངེ་འཛིན་བསྐྱེད་ནས།
 msgctxt "a4f0aa619ad14ea7b9762bd079e16ab7"
