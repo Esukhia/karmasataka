@@ -698,7 +698,7 @@ msgid ""
 "ཁྱིམ་བདག་ དེ␣ས་ ཚེ་ དང་ ལྡན་པ་ མ་ འགགས་པ་ ཟླ་མེད་པ་ དང་ གཡོག་ མེད་པ␣ར་ "
 "གཅིག་པུ་ འོང་བ་ མཐོང་ ངོ་ ། །"
 msgstr ""
-"Ce père de famille vit que l'honorable Aniruddha vint seul, sans compagnon "
+"ce père de famille vit que l'honorable Aniruddha vint seul, sans compagnon "
 "ni serviteur."
 
 msgctxt "a31e1e06cf9b41a9a950d4b930137bbc"
