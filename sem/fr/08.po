@@ -261,7 +261,7 @@ msgstr "À son tour, il envoya un messager : «"
 
 msgctxt "2875d50eefce45a39f70d0c6cfa4d45a"
 msgid "ཇི་ལྟར་ དགའ་བ་ དེ་བཞིན་ དུ་ བྱ␣འོ་ ཞེས་"
-msgstr "Je ferai comme il vous plaira »,"
+msgstr "Je ferai comme il te plaira »,"
 
 msgctxt "012a9bf525ae4a2a9d289ff1463ff648"
 msgid "བྱས་ ནས །"
