@@ -98,7 +98,7 @@ msgstr "dit-il."
 
 msgctxt "df70f59c187f4192b161daa9e72ffc5d"
 msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས །  བྲམ་ཟེ␣འི་ ཁྱེའུ་ དེ་ ལ་ བཀའ་ སྩལ་པ །"
-msgstr "Ensuite, le Bienheureux dit à ce garçon de brahmane :"
+msgstr "Ensuite, le Bienheureux dit à ce garçon de brahmane : «"
 
 msgctxt "4895bcadf308469f96513fe393df44c4"
 msgid "ཁྱེའུ་"
