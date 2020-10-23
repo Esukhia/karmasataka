@@ -408,7 +408,7 @@ msgstr "« Je vais aller là et"
 
 msgctxt "7aecd91a732a48538ad86c817babc7d2"
 msgid "དེ་ ཅི་ ཤེས་པ་ བལྟ␣འོ་ སྙམ་ མོ ། །"
-msgstr "je verrai ce qu'elle sait. » se dit-il."
+msgstr "je verrai ce qu'elle sait », se dit-il."
 
 msgctxt "ec2a9f61a92b451fb8668e24d454974a"
 msgid "དེ་ནས་ དེ་ འཁོར་ ལྔ་ བརྒྱ་ དང་ ཆ␣ས་ ཏེ །"
