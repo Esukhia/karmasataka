@@ -943,7 +943,7 @@ msgstr "Ensuite, les cinq cent brigands pensèrent : «"
 
 msgctxt "d5c3e96441944c438270783b907ad56f"
 msgid "ལྷས་ བདག་ཅག་ ལ་ རང་ གི་ སྐུ་ བསྟན་ ཏོ་"
-msgstr "Le dieu se montre à nous. »"
+msgstr "Le dieu se montre à nous »,"
 
 msgctxt "61b9826f84e7412a9d313595ea93b346"
 msgid "སྙམ་ སྟེ །"
