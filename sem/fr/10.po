@@ -596,7 +596,7 @@ msgstr ""
 
 msgctxt "a6c75cd3d6754e0a81db02cec0b288b2"
 msgid "ཡེ་ཤེས་ གཟིགས་པ་ འཇུག་ གོ ། །"
-msgstr "[ainsi] s'applique leur regard de sagesse."
+msgstr "[Ainsi] s'applique leur regard de sagesse."
 
 msgctxt "878ced8ffd0641b788dd4deb368b7c84"
 msgid "རྒྱ་མཚོ་ ཆུ་སྲིན་ རྣམས་ ཀྱི་ གནས ། །"
