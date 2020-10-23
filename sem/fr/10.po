@@ -277,8 +277,8 @@ msgstr "je suis enceinte d'un garçon (lit. un garçon est dans moi) parce"
 msgctxt "17f0f4e96cbc406d870a51e0a6e40112"
 msgid "བདག་ གི་ རུམ་ གཡས་ལོགས་ སུ་ རྟེན་ ཅིང་ གནས་པ་ ལ␣ས་"
 msgstr ""
-"il se positionne (lit. s'appuie) du côté droit de mon ventre (lit. matrice)."
-" Ainsi,"
+"qu'il se positionne (lit. s'appuie) du côté droit de mon ventre (lit. "
+"matrice). Ainsi,"
 
 # ཁྱེའུར་འགྱུར་བར་ངེས་ཀྱིས་<«ཞོལ་»ཀྱི།>
 msgctxt "ade3b271a632409fa342b3af308b2270"
