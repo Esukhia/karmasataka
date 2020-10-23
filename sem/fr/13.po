@@ -2075,7 +2075,7 @@ msgstr ""
 
 msgctxt "7e25cb2fff1d47baa82848feedea157b"
 msgid "ཀྱེ་མ་"
-msgstr "Quelle merveille !"
+msgstr "hélas,"
 
 msgctxt "a30fed31f73f4388bc8a55295d4282b6"
 msgid "བདག་ ལ་ སྲོག་ ཕངས་པ་ སྩལ་ དུ་ གསོལ །"
