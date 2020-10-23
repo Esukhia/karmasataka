@@ -584,7 +584,7 @@ msgid ""
 "མཉན་ དུ་ཡོད་པ␣འི་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེས་ འཇིགས་ སུ་ རུང་བ␣འི་ སྒྲ་ དེ་ལྟ་ བུ་ "
 "ཐོས་ སོ ། །"
 msgstr ""
-"La multitude des habitants (lit. personnes) de Śrāvastī entendirent ces cris"
+"Les innombrables habitants (lit. personnes) de Śrāvastī entendirent ces cris"
 " terrifiants."
 
 msgctxt "0d430ea4b5b44ef2a7d01c2b43228fc0"
