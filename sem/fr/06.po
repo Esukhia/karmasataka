@@ -1642,8 +1642,8 @@ msgstr "il se leva de son siège et"
 msgctxt "ca33d06bd0b34c2a8e1cc6addda3244a"
 msgid "བླ་གོས་ ཕྲག་པ་ གཅིག་ ཏུ་ གཟར་ ནས །"
 msgstr ""
-"il [replia] son vêtement supérieur sur une épaule et le laissa retomber "
-"[devant lui] et"
+"[replia] son vêtement supérieur sur une épaule et le laissa retomber [devant"
+" lui] et"
 
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་<«ཁུ་»བདུད།>དེ།
 msgctxt "b7d036c9027c4fa39f40875d22a41499"
