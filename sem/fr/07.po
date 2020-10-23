@@ -804,7 +804,7 @@ msgstr ""
 
 msgctxt "88a19a8e2d4e49bdacbd91e8a27ec405"
 msgid "སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ ཀྱང་ ཡ་མཚན་ དུ་ གྱུར་ ནས །"
-msgstr "Les innombrables personnes furent ébahis et"
+msgstr "Les innombrables personnes furent ébahies et"
 
 msgctxt "cf71fe0db0314bc199a57ab3585edc37"
 msgid "བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ␣ར་ སོང་ སྟེ་ ལྷགས་ ནས་"
