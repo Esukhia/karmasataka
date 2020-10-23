@@ -113,7 +113,7 @@ msgstr ""
 msgctxt "d8b6c84b74f648fab9fefaab67914709"
 msgid ""
 "དེ␣འི་ སླད་ དུ་ འདི␣འི་ ཡིད་ ལ་ འདོད་པ །  དེ་ལྟ་ བུ་ སྐྱེས་པ་ ལགས་སོ་ ཞེས་"
-msgstr "c'est pour cette raison qu'elle conçoit ce désir. »"
+msgstr "c'est pour cette raison qu'elle conçoit ce désir »,"
 
 msgctxt "2ef4fc5522df44e5b450e77512a62451"
 msgid "ཟེར་ རོ ། །"
