@@ -809,7 +809,7 @@ msgstr "Les innombrables personnes furent ébahies et"
 msgctxt "cf71fe0db0314bc199a57ab3585edc37"
 msgid "བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ␣ར་ སོང་ སྟེ་ ལྷགས་ ནས་"
 msgstr ""
-"ils se dirigèrent et allèrent à l'endroit où se trouvait le Bienheureux et"
+"tous se dirigèrent et allèrent à l'endroit où se trouvait le Bienheureux et"
 
 msgctxt "bfe19105d5af410a8471e9321067a43b"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ ཞབས་ ལ་མགོ་ བོས་ ཕྱག་ འཚལ་ ཏེ །"
