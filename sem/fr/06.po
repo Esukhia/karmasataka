@@ -1622,7 +1622,7 @@ msgstr "le réjouit entièrement. Puis,"
 
 msgctxt "1287c82db2e9419a84014f0701c8f021"
 msgid "ཅང་ མི་ གསུང་བ␣ར་ བཞུགས་ སོ ། །"
-msgstr "resta sans rien dire."
+msgstr "il resta sans rien dire."
 
 # དེ་ནས་བད་<«གཡུང་»བལ།>སའི་རྒྱལ་པོ་འཆར་<«ཁུ་»ཆར།>ཀས།
 # བཅོམ་ལྡན་འདས་ཀྱི་གཏམ་གྱི་མཇུག་<«གཡུང་»འཇུག>རྫོགས་པར་རིག་ནས།
