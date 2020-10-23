@@ -434,7 +434,7 @@ msgstr "réjouissez-vous."
 
 msgctxt "dadb61a4c6664d2183d63ace1eee09dd"
 msgid "དེང་ བདག་ཅག་ གིས་ རིན་པོ་ཆེ␣ས་ གང་བ␣འི་ གཟེབ་ རྙེད་ དོ་ ཞེས་"
-msgstr "Cette fois, nous avons trouvé une malle pleine de joyaux. »"
+msgstr "Cette fois, nous avons trouvé une malle pleine de joyaux »,"
 
 msgctxt "43ec5c827bc148339ae24d24557d0b8b"
 msgid "བྱས་ སོ ། །"
