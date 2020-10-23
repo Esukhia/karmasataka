@@ -1348,7 +1348,7 @@ msgstr "s'assit devant lui pour écouter le Dharma."
 msgctxt "18f8175387824f3d9a5b85615aab16e8"
 msgid "གནས་བརྟན་ གྱིས་ ཀྱང་ དེ་ ལ །  དེ་ དང་ འཐུན་པ␣འི་ ཆོས་ བསྟན་ ཏོ ། །"
 msgstr ""
-"L'Ancien, quant à lui, donna lui prodigua un enseignement lui correspondait."
+"L'Ancien, quant à lui, donna lui prodigua un enseignement lui correspondant."
 
 msgctxt "2c7606d3db1f41f8b53eba05ead0caea"
 msgid ""
