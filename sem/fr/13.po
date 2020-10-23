@@ -1469,7 +1469,7 @@ msgstr "il pensa : «"
 
 msgctxt "44677f718693425f877916792d848586"
 msgid "བདག་ ནི་ གྲང་བ་ ན་ ཡང་ གྲང་བ␣ས་ ཉེན་"
-msgstr "je suis affligé par le froid quand il fait froid,"
+msgstr "Je suis affligé par le froid quand il fait froid,"
 
 # ཚ་བ་<«གཡུང་»ཚ་བས «པེ་»ཆེ་བས། «ཅོ་»ཚེ་བ།>ན་ཡང་ཚ་བས་ཉེན་ལ།
 msgctxt "b3344c1d74fe424ba501c96ac8c398a8"
