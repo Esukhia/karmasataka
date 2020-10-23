@@ -609,7 +609,7 @@ msgstr "dirent : «"
 
 msgctxt "fcddebb660df4cf292b69149aa0ba43e"
 msgid "འདི་ལྟར་"
-msgstr "Eh bien (lit. comme ceci)"
+msgstr "Eh bien (lit. comme ceci),"
 
 msgctxt "513cde0702724c85af5a8bf34e4aaca8"
 msgid "འཕྱེ་བོ་ འདི␣ས་ བདག་ཅག་ མི་ དགའ་བ␣ར་ བྱས་ མོད་ ཀྱི །"
