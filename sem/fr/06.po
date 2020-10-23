@@ -700,7 +700,7 @@ msgstr "je couperai sa tête et"
 # དོར་<«གཡུང་»«པེ་»བོར། «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»བོར།>རོ་སྙམ་དུ་
 msgctxt "4c6d0e1750cb479e8afdb7e7b8bf46e6"
 msgid "དོར་ རོ་ སྙམ་ དུ་"
-msgstr "je la jetterai. »"
+msgstr "je la jetterai »,"
 
 msgctxt "eccfbce642ed40939e4e9682767e3304"
 msgid "བསམས་ ནས །"
