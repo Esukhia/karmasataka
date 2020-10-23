@@ -1110,7 +1110,7 @@ msgstr "demanda-t-il."
 # རྒྱལ་པོ་དེ་ཡང་སེམས་རྟས་<«ཞོལ་»བརྟས།>ནས་
 msgctxt "88e065e6f3c74b3ab04f281dbf629f87"
 msgid "རྒྱལ་པོ་ དེ་ཡང་ སེམས་ རྟ␣ས་ ནས་"
-msgstr "Le roi recouvra son esprit et"
+msgstr "Le roi recouvra ses esprits et"
 
 # དེས་བ་ལང་རྫི་དེ་ལ་ཇི་ལྟར་གྱུར་པ་ཐམས་ཅད་བསྙད་<«གཡུང་»བརྙད།>དོ། །
 msgctxt "d317b7f950024999922f7901a556645d"
