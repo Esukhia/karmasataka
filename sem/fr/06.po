@@ -1301,7 +1301,7 @@ msgstr ""
 # འཕགས་པ་པིཎྜོ་ལ་བ་ར་དྷྭ་ཛ་དེ་ཉིད་ལ་བསྙེན་<«གཡུང་»«པེ་»བརྙེན།>བཀུར་བྱའོ་སྙམ་དུ་
 msgctxt "bf5c6c66f80e47d8849c9e7f4b410f5f"
 msgid "འཕགས་པ་ པིཎྜོ་ ལ་བ་ ར་ དྷྭ་ ཛ་ དེ་ཉིད་ ལ་ བསྙེན་བཀུར་ བྱ␣འོ་ སྙམ་ དུ་"
-msgstr "je vais rendre hommage au sublime Piṇḍola­bhāradvāja »"
+msgstr "je vais rendre hommage au sublime Piṇḍola­bhāradvāja »,"
 
 msgctxt "54a1e218cf6b49e3888755781f15f769"
 msgid "བསམས་ ནས །"
