@@ -1312,7 +1312,7 @@ msgid ""
 "ཀཽ་ ཤཱཾ་ བཱིར་ མ་ སོང་བ␣ར་ ཁྱིམ་བདག་ གདངས་ ལ␣ས་ རིག་ གི་ ཀུན་དགའ་ར་བ་ ག་ལ་བ་"
 " དེ␣ར་ སོང་ སྟེ །"
 msgstr ""
-"sans aller à Kauśāmbī, mais il alla au jardin du père de famille Ghoṣila et"
+"sans aller à Kauśāmbī, il alla au jardin du père de famille Ghoṣila et"
 
 # དེ་ཇི་སྲིད་དུ།
 # བཞོན་པས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པ་ལས།>འགྲོ་བར་བྱ་བའི་ས་དེ་སྲིད་དུ་བཞོན་པས་སོང་ནས།
