@@ -623,7 +623,7 @@ msgstr "pourtant, nous devons faire offrande au yakṣa. Donc,"
 # བདག་ཅག་གིས་འདི་ཁོ་ནས་གནོད་སྦྱིན་ལ་མཆོད་པ་<«གཡུང་»པར།>བྱའོ་ཞེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཞེས།>
 msgctxt "58e1c4ea9247455ab9ae8fcdc1d4d729"
 msgid "བདག་ཅག་ གིས་ འདི་ཁོ་ན␣ས་ གནོད་སྦྱིན་ ལ་ མཆོད་པ་ བྱ␣འོ་ ཞེས་"
-msgstr "c'est lui que (lit. lui seul) nous offrirons au yakṣa. »"
+msgstr "c'est lui que (lit. lui seul) nous offrirons au yakṣa »,"
 
 msgctxt "59ef9869f9a94d388feecd318e4a40e0"
 msgid "སྨྲ␣ས་ ནས །"
