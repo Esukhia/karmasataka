@@ -1966,7 +1966,7 @@ msgid ""
 " མཐོང་ ངོ་ ། །"
 msgstr ""
 "Plus tard, il vit son père régner (lit. tenir le pouvoir royal) en accord "
-"avec la religion et en désaccord avec la religion."
+"avec la religion et [aussi] en désaccord avec la religion."
 
 msgctxt "66f7c57c7e3640f193669fdb778adbce"
 msgid "མཐོང་ ནས་ ཀྱང་"
