@@ -473,7 +473,7 @@ msgstr "fais-en toi-même la demande toi-même à ton époux, puis"
 
 msgctxt "6663238ab7b54b63b05dbdf13b5b17ed"
 msgid "རབ་ཏུ་ འབྱུང་བ␣ར་ གྱིས་ ཤིག་ ཅེས་"
-msgstr "retire-toi [du monde]. »"
+msgstr "retire-toi [du monde] »,"
 
 msgctxt "7df81ef3580e4debb7e882aae30bc8c4"
 msgid "བྱས་ སོ ། །"
@@ -495,7 +495,7 @@ msgstr "nous ne parvenons pas à la dissuader (lit. détourner). Donc,"
 # མ་ཐོགས་པར་བག་མ་ལོང་<«ཞོལ་»ལོངས།>ཤིག་ཅེས་
 msgctxt "1fbd1c76dd7648e3bfbd079a2b274662"
 msgid "མ་ཐོགས་པ␣ར་ བག་མ་ ལོང་ ཤིག་ ཅེས་"
-msgstr "prenez-la comme future mariée sans tarder. »"
+msgstr "prenez-la comme future mariée sans tarder »,"
 
 msgctxt "d65696febf1c4d2ebaaa8eec4b3ccb34"
 msgid "སྤྲིང་ ངོ་ ། །"
@@ -513,7 +513,7 @@ msgstr "Nous viendrons à telle date. Donc,"
 # བག་མ་བཏང་བའི་སྟ་<«གཡུང་»ལྟ།>གོན་གྱིས་ཤིག་ཅེས་
 msgctxt "ba5352c1321446d89e32cd6d527d1c3c"
 msgid "བག་མ་ བཏང་བ␣འི་ སྟ་གོན་ གྱིས་ ཤིག་ ཅེས་"
-msgstr "faites les préparatifs pour la donner en mariage. »"
+msgstr "faites les préparatifs pour la donner en mariage »,"
 
 msgctxt "1e8083ad6016431682c48555348f864c"
 msgid "སྤྲིང་ ངོ་ ། །"
