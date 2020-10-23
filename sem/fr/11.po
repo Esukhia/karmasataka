@@ -275,7 +275,7 @@ msgstr "\"Hé, Gautama,"
 
 msgctxt "6a3a6b18ca4f4e918b858fc2148932c1"
 msgid "ལ་དུ་ འདི་ བདག་ ལ་ མི་ དགོས་ སོ་ ཞེས་"
-msgstr "Je ne veux pas de ce laḍḍū.\""
+msgstr "je ne veux pas de ce laḍḍū.\""
 
 # སྨྲས་པ་<«ཅོ»–པ།>དེའི་[42b]ཚེ།
 # བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་ལ་དུ་སྩལ་པ་ལ་<«གཡུང་»–པ་ལ།>གཟིགས།
