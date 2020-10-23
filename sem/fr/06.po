@@ -804,11 +804,11 @@ msgstr "sa puissance a fait disparaître ma lumière et"
 
 msgctxt "0f8e537c75024a52b6d3c736a5c950f2"
 msgid "ས་ ཡང་ གས་པ␣ར་ གྱུར་ ཏོ་ སྙམ་ དུ་"
-msgstr "le sol s'est aussi fendu. »"
+msgstr "le sol s'est aussi fendu »,"
 
 msgctxt "935a3ee453434786a708b6e525c29948"
 msgid "རིག་ ནས །"
-msgstr "vit-il. Puis,"
+msgstr "comprit-il. Puis,"
 
 # ཚེ་དང་ལྡན་པ་པིཎྜོ་ལ་བ་ར་དྷྭ་ཛ་<«གཡུང་»ཛ།>ག་ལ་བ་དེར་སོང་སྟེ་
 msgctxt "5c6ba5bb1d6f4d31aae4695303d9de81"
