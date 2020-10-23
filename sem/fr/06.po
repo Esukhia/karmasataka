@@ -999,7 +999,8 @@ msgstr "partit à la chasse. À ce moment,"
 # དེ་རི་དགས་ཀྱིས་<«ཅོ་»«ཞོལ་»ཀྱི།>མིག་བླངས་ཏེ་
 msgctxt "368909be3c714e38865917cf450e8344"
 msgid "དེ་ རི་ དག␣ས་ ཀྱིས་ མིག་ བླངས་ ཏེ་"
-msgstr "un animal retint son attention (lit. prit son œil) et"
+msgstr ""
+"une proie (lit. un animal) retint son attention (lit. prit son œil) et"
 
 msgctxt "0b986ba838df41c5ace68f78bb73edbe"
 msgid "སོང་ ནས་"
