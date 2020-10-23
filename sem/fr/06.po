@@ -2163,8 +2163,8 @@ msgstr ""
 msgctxt "41f1be8da92243219445f09ff45926a5"
 msgid "འདི་ ང་ ཡི་ ཡུལ་ ན་ འདུག་པ␣འི་ མདུན་ན་འདོན་ གྱི་ བུ་ ཡིན་ ལ །"
 msgstr ""
-"lui, il est le fils du prêtre-conseiller de mon royaume (lit. pays/région), "
-"et"
+"« Lui, il est le fils du prêtre-conseiller de mon royaume (lit. "
+"pays/région), et"
 
 # ང་འོངས་ན་བསུ་ཡང་མ་བསུ་<«ཞོལ»བསུས>
 msgctxt "dc9fb24d11504740870915e35619e1da"
