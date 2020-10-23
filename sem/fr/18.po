@@ -1923,7 +1923,7 @@ msgid ""
 "དེ་ནས་ དེ་ ཐོས་ མ་ ཐག་ ཏུ་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ ཤས་ ཆེ␣ར་ སྐྱོ་བ་ "
 "སྐྱེས་ ཏེ །"
 msgstr ""
-"Ensuite, dès qu'ils eurent entendu ceci, la multitude des personnes "
+"Ensuite, dès qu'ils eurent entendu ceci, les innombrables personnes "
 "ressentirent un désenchantement intense et"
 
 msgctxt "0d058167423e47289b8a53df6ec246ed"
