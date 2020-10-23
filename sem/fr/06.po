@@ -2215,7 +2215,7 @@ msgstr ""
 
 msgctxt "a15d48d1c14745c397c6f6b13bc664b1"
 msgid "མཐུ་ ཆེ་བ་ ཞིག་ ཡིན་ ནོ་ སྙམ་ ནས་"
-msgstr "il est quelqu'un d'une grande puissance. » pensa-t-il. Puis,"
+msgstr "il est quelqu'un d'une grande puissance », pensa-t-il. Puis,"
 
 msgctxt "af9ff1a935ce43ab8d67794db0c31cab"
 msgid "དགའ་བ་ ཆེན་པོ་ སྐྱེས་ སོ ། །"
