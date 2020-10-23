@@ -1166,7 +1166,7 @@ msgstr "Le Tathāgata, « [Viens] ici »"
 
 msgctxt "dd15e006f35c43ae9b850e11277fb5f3"
 msgid "དེ་ ནི་ མགོ་ བྲེགས་"
-msgstr "sa tête est rasée,"
+msgstr "Sa tête est rasée,"
 
 msgctxt "7da52825195e4585ab598d1dc4747246"
 msgid "ལུས་ ལ་ སྣམ་སྦྱར་ གྱོན ། །"
