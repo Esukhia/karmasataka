@@ -549,7 +549,7 @@ msgstr ""
 
 msgctxt "3c99e9d133de4f3aa6c35455ce0087d7"
 msgid "ང་ ཡང་ དེ་ ལ་ བལྟ་བ་ དང་ །  བསྙེན་བཀུར་ བྱ་བ␣འི་ ཕྱིར་ འགྲོ་ ཞེས་"
-msgstr "Moi aussi, je vais aller le voir et lui rendre hommage. »"
+msgstr "Moi aussi, je vais aller le voir et lui rendre hommage »,"
 
 msgctxt "3df49a24814f4c219bbf7bc68d1bbefa"
 msgid "བྱས་ ནས །"
