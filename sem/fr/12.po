@@ -752,7 +752,7 @@ msgstr "Garçon,"
 msgctxt "5d3252166ebd4d7e9c169938b8494adb"
 msgid "ཁྱོད་ བདག་ དང་ མཉམ་པ་ སུ་ ཡང་ མེད་ ན །  ལྷག་པ་ ལྟ་ཅི་ སྨོས་ སྙམ་ དུ་"
 msgstr ""
-"Qu'il n'y ait [personne] égal à toi, et encore moins [de personnes] "
+"qu'il n'y ait [personne] égal à toi, et encore moins [de personnes] "
 "supérieures [à toi],"
 
 msgctxt "25884644069345b6924b2a1813bfc3fb"
