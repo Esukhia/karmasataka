@@ -1768,7 +1768,9 @@ msgstr ""
 
 msgctxt "55d5cbddf87d401d870e9903bfe50896"
 msgid "དེ་དག་ གིས་ གཏམ་ དེ་ རྒྱས་པ␣ར་ ཐོས་ སོ ། །"
-msgstr "ils entendirent cette histoire dans les détails (lit. vastement)."
+msgstr ""
+"on leur raconta (lit. ils entendirent) cette histoire dans les détails (lit."
+" vastement)."
 
 msgctxt "be31184d7ff0410e8b96abd27860cfb1"
 msgid "ཐོས་ ནས་ ཀྱང་"
