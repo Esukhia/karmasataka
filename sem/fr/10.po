@@ -1911,4 +1911,4 @@ msgstr "ils m'ont tous les deux contenté et"
 
 msgctxt "d9dc5fce83af43d7974b34a534bcec74"
 msgid "མི་ མཉེས་པ␣ར་ མ་ བྱས་ སོ །། །།"
-msgstr "n'ont rien fait qui m'a mécontenté."
+msgstr "n'ont rien fait qui m'a mécontenté. »"
