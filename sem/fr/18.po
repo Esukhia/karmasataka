@@ -380,7 +380,7 @@ msgstr "Puis le bienheureux pensa que"
 msgctxt "0577ecd3c2274220a252445caa4b6783"
 msgid "མཉན་ དུ་ཡོད་པ␣འི་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ འདུལ་བ␣འི་ དུས་ ལ་ བབ་ ནས །"
 msgstr ""
-"c'était le temps de dompter la multitude des habitants (lit. personnes) de "
+"c'était le temps de dompter les innombrables habitants (lit. personnes) de "
 "Śrāvastī et"
 
 msgctxt "af09820ce97f4d3085bb797abdc430d0"
