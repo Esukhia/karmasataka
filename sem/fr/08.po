@@ -1028,7 +1028,7 @@ msgstr ""
 
 msgctxt "ea582b1f4b2c43f5b77341836e30cac3"
 msgid "ཡོ་བྱད་ ཐམས་ཅད་ སྦྱར་ ནས་"
-msgstr "ils l'équipèrent entièrement et"
+msgstr "l'équipèrent entièrement et"
 
 # དགེ་སློང་རྣམས་ལ་བསྙེན་<«གཡུང་»བརྙེན།>བཀུར་བྱས་སོ། །
 msgctxt "f9e249280e6449e485978062a6ab4762"
