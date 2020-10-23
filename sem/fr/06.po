@@ -1355,7 +1355,7 @@ msgid ""
 "དེ་ནས་ བད་ ས␣འི་ རྒྱལ་པོ་ འཆར་ཀ␣ས་ ཚེ་ དང་ ལྡན་པ་ པིཎྜོ་ ལ་བ་ ར་ དྷྭ་ ཛ␣འི་ "
 "གཏམ་ གྱི་ མཇུག་ རྫོགས་པ␣ར་ རིག་ ནས་"
 msgstr ""
-"Ensuite, Udayin, le roi de Vatsa, compris que le discours de l'honorable "
+"Ensuite, Udayin, le roi de Vatsa, comprit que le discours de l'honorable "
 "Piṇḍola­bhāradvāja était terminé et"
 
 msgctxt "6aae5f1c3fb24007800d40d57740c41b"
