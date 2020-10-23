@@ -1703,7 +1703,7 @@ msgstr "quel souhait as-tu fait ? »"
 # དེས་དེ་གཉིས་ལ་བདག་གིས་སྨོན་ལམ་འདི་ལྟར་<«ཅོ་»འདིར།>བཏབ་པོ་ཞེས་
 msgctxt "568ae35a34a74132b474ae04bea02d36"
 msgid "དེ␣ས་ དེ་ གཉིས་ ལ་ བདག་ གིས་ སྨོན་ལམ་ འདི་ལྟར་ བཏབ་པོ་ ཞེས་"
-msgstr "à tous les deux, « J'ai formulé un souhait comme ceci. »"
+msgstr "À tous les deux, « J'ai formulé un souhait comme ceci »,"
 
 # ཐམས་ཅད་བསྙད་<«གཡུང་»བརྙེད།>དོ། །
 msgctxt "207d5aae547d4c50a3695dcc1c85780b"
