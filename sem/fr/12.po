@@ -932,7 +932,7 @@ msgctxt "889439a1882147b2bf34dcd67569a74f"
 msgid "བཅོམ་ལྡན་འདས་ དེ␣འི་ ཐད་ དུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་པ␣ར་ བྱ␣འོ་ ཞེས་"
 msgstr ""
 "nous vivrons une vie chaste (lit. suivre le brahmacarya) auprès de ce "
-"Bienheureux. »"
+"Bienheureux »,"
 
 msgctxt "fec3eec86b0b42b3aef79bc9e223a8c5"
 msgid "དེ་སྐད་ སྨྲ␣ས་ ནས །"
