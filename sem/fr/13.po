@@ -1153,7 +1153,7 @@ msgstr ""
 msgctxt "3406d6568ae8475296fefa7f9f29bda0"
 msgid "ལག་ ན་ ལྷུང་བཟེད་ དང་ ཆུ་སྣོད་ ཐོགས་པ␣ར་ གྱུར་ ཏོ ། །"
 msgstr ""
-"ils se trouvèrent entrain de tenir un bol à aumône et un récipient à eau "
+"Ils se trouvèrent entrain de tenir un bol à aumône et un récipient à eau "
 "dans leurs mains."
 
 msgctxt "4cddd3cfb7464a298d73ee805a71f2ee"
