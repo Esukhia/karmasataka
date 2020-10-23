@@ -904,7 +904,7 @@ msgstr "Ensuite, les deux parents pensèrent : «"
 
 msgctxt "a4b1789ac276467490b3a5490e3d4139"
 msgid "འདི་ ནི་ བདག་ཅག་ གིས་ བཟློག་པ␣ར་ མི་ ནུས་ སོ་ སྙམ་ དུ་"
-msgstr "Lui, nous n'arriverons pas à le détourner. »"
+msgstr "Lui, nous n'arriverons pas à le détourner »,"
 
 msgctxt "82b38c0a6e62442c93e9be779f690aa0"
 msgid "རིག་ ནས་"
