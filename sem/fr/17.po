@@ -587,7 +587,7 @@ msgid ""
 "དེ་བཞིན་ གཤེགས་པ་ དགྲ་བཅོམ་པ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ སངས་རྒྱས་ རྣམས་ ནི་ "
 "རྒྱུ་ མེད་ རྐྱེན་ མེད་པ␣ར་ འཛུམ་པ་ མི་ མཛད་ དོ ། །"
 msgstr ""
-"Les Tathāgatas, les Arhats, les complets et parfaits Bouddhas ne montrent "
+"les Tathāgatas, les Arhats, les complets et parfaits Bouddhas ne montrent "
 "pas leur sourire sans cause et sans condition."
 
 msgctxt "27e9db4ee68549ae9377113c24838b59"
