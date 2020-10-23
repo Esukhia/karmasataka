@@ -1161,7 +1161,7 @@ msgstr "après avoir éliminé toutes les émotions perturbatrices,"
 
 msgctxt "175d2f9851ba48859a91908b2c1a3d4a"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱེད་པ␣ར་ གྱུར་ཅིག་ ཅེས་"
-msgstr "puissions-nous manifester l'état d'arhat (lit. l'arhat-même). »"
+msgstr "puissions-nous manifester l'état d'arhat (lit. l'arhat-même) »,"
 
 msgctxt "6385de25a3114188b01768a436e3fa96"
 msgid "བྱས་ སོ ། །"
