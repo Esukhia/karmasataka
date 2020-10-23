@@ -906,7 +906,7 @@ msgstr "« Vénérable,"
 
 msgctxt "f68dc20a01334abe8e493c368cbbba36"
 msgid "འདི␣ས་ སྨོན་ལམ་ གང་ དུ་ བཏབ་ ལགས །"
-msgstr "Quels souhaits a-t-elle formulés ? »"
+msgstr "quels souhaits a-t-elle formulés ? »"
 
 msgctxt "6e6b9e31949449cd96033a8344d69b05"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
