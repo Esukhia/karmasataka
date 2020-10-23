@@ -1700,7 +1700,7 @@ msgstr "puisse ce qui est bien m'arriver."
 
 msgctxt "7e27452daa4246ff8ea5fdc24381574d"
 msgid "འདི་ལྟར་"
-msgstr "Eh bien (lit. comme ceci)"
+msgstr "Eh bien (lit. comme ceci),"
 
 msgctxt "ea5d3354c98842fca7006bbed4d9e347"
 msgid "བདག་ རབ་ཏུ་ བྱུང་ ནས་"
