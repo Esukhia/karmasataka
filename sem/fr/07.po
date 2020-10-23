@@ -95,7 +95,7 @@ msgstr "elle est belle. Donc,"
 # བུ་མོ་འདིའི་མིང་ཀཱ་<«གཡུང་»«པེ་»ཀ>ཤི་མཛེས་ལྡན་མ་ཞེས་གདགས་<«གཡུང་»«པེ་»བདགས།>སོ་ཞེས་
 msgctxt "e6f2d6677af4407ca85c989475c45bc8"
 msgid "བུ་མོ་ འདི␣འི་ མིང་ ཀཱ་ ཤི་ མཛེས་ལྡན་ མ་ ཞེས་ གདགས་ སོ་ ཞེས་"
-msgstr "le nom de cette fille sera Kāśisundarī, la Belle de Kāśi. »"
+msgstr "le nom de cette fille sera \"Kāśisundarī\", la belle de Kāśi »,"
 
 msgctxt "fbd485a0a09b4bce82b4fb160e1c3e80"
 msgid "ཟེར་ རོ ། །"
@@ -133,7 +133,7 @@ msgstr "comme un lotus dans un lac, elle grandit avec force."
 
 msgctxt "c115617813ae47dc859e389f03800142"
 msgid "དེ་ གང་ གི་ ཚེ་ ཆེན་ མོ␣ར་ གྱུར་ ཏེ །"
-msgstr "lorsqu'elle eut grandi,"
+msgstr "Lorsqu'elle eut grandi,"
 
 # སྒྱུ་རྩལ་ཤེས་པར་གྱུར་པ་དེའི་ཚེ།
 # དེས་བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཀྱིས།>བསྟན་པ་ལ་དད་པ་རྙེད་ནས་
@@ -151,7 +151,7 @@ msgstr "elle demanda [la permission] à ses deux parents et "
 
 msgctxt "df395bb52e374c5686207180d171ed26"
 msgid "སངས་རྒྱས་ དང་ ཆོས་ དང་ དགེ་འདུན་ ལ་ བཀུར་སྟི་ བྱས་ སོ ། །"
-msgstr "il offrit ses services au Bouddha, au Dharma et à la Saṅgha."
+msgstr "elle offrit ses services au Bouddha, au Dharma et à la Saṅgha."
 
 # དེ་གང་གི་ཚེ་ཆེན་མོར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཚེ་ཆེན་པོར།
 # «སྣར་»«ཞོལ་»ཆེན་པོར།>གྱུར་པ་དེའི་ཚེ། ཀཱ་ཤིའི་<«གཡུང་»«པེ་»ཀ་ཤའི།
@@ -166,11 +166,11 @@ msgstr ""
 
 msgctxt "81d88a7afaf14801bc03b88d41916a9d"
 msgid "འཇིག་རྟེན་ ན་ བུ་མོ་ དེ་ དང་ འདྲ་བ་ གཞན་ མེད་ དོ་ ཞེས་"
-msgstr "il n'existe pas d'autre fille qui soit son égale. »,"
+msgstr "il n'existe pas d'autre fille qui soit son égale »"
 
 msgctxt "48977005edc447d59b4ad71439893797"
 msgid "ཀུན་ ཏུ་ གྲགས་པ␣ས་ རྒྱས་པ␣ར་ གྱུར་ ཏོ ། །"
-msgstr "[ceci] fut connu de toutes parts et [cette renommée] s'étendit."
+msgstr "fut connu de toutes parts et [cette renommée] s'étendit."
 
 # དེ་ནས་དེ་<«ཁུ་»+དེ།>ཐོས་མ་ཐག་ཏུ་ཉི་འོག་གི་རྒྱལ་པོ་དྲུག་འདོད་ཆགས་ཀྱི་མདས་ཕོག་[30a]ནས།
 msgctxt "22a954d0f0374797af80dc5ea519ff3d"
@@ -189,11 +189,11 @@ msgstr "ils envoyèrent tous un messager à Brahmadatta le roi de Kāśi et"
 
 msgctxt "04c7a776474e4719adac0b971589f8f0"
 msgid "དེ་དག་ རེ་རེ་ ནས་ བུ་མོ་ དེ་ ང་ ལ་ བྱིན་ ཅིག་ ཅེས་"
-msgstr "« Donnez-moi cette fille. » [était ce que] chacun d'eux "
+msgstr "« Donnez-moi cette fille » [était ce que] chacun d'eux "
 
 msgctxt "444dc0ff7a2f4a729f8746491b3f7f77"
 msgid "སྤྲིང་ ངོ་ ། །"
-msgstr "ont fait dire."
+msgstr "firent dire."
 
 # དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་རྒྱལ་པོ་ཚངས་པས་བྱིན་སེམས་ཁོངས་སུ་<«ཞོལ་»ཁོང་དུ།>ཆུད་ཅིང་འདུག་སྟེ།
 msgctxt "8ce5e21cd0954b95b3e07fd0273fd954"
@@ -218,7 +218,7 @@ msgstr "à qui la donner ? »"
 
 msgctxt "87461024fb6647fa95eb00e82f214caf"
 msgid "བསམས་ ནས་"
-msgstr "pensait-il. Puis,"
+msgstr "pensa-t-il. Puis,"
 
 msgctxt "62107fa55c49459698469a59a7c5912c"
 msgid "གང་ ཡང་ སྦྱིན་ མི་འདོད་པ␣ར་ གྱུར་ ཏོ ། །"
@@ -240,7 +240,7 @@ msgstr "[nous] irons là et"
 # མཐུས་དབྲོག་<«གཡུང་»«པེ་»དགྲོག>གོ་སྙམ་དུ་
 msgctxt "943205ea927d455d84c1b0ddf1b0412a"
 msgid "མཐུ␣ས་ དབྲོག་ གོ་ སྙམ་ དུ་"
-msgstr "nous la prendrons par la force »"
+msgstr "nous la prendrons par la force »,"
 
 msgctxt "98fb6fa2fee542b0a415a23eae8726e0"
 msgid "བསམས་ ཏེ །"
@@ -283,12 +283,12 @@ msgstr "posant son visage entre ses paumes,"
 # ད་<«པེ་»«སྣར་»«ཞོལ་»དེ།>བདག་གིས་ཇི་ལྟར་བྱ་སྙམ་སྟེ་
 msgctxt "4dc18db8f37b407cbd5a2bf854589cbc"
 msgid "ད་ བདག་ གིས་ ཇི་ལྟར་ བྱ་ སྙམ་ སྟེ་"
-msgstr "« Maintenant, comment vais-je faire ? » se demandait-il,"
+msgstr "« Maintenant, comment vais-je faire ? » se demandait-il et"
 
 # སེམས་ཁོངས་སུ་<«ཞོལ་»ཁོང་དུ།>ཆུད་ཅིང་འདུག་གོ། །
 msgctxt "104bea90d88d4a019bb73bc1c6a6ea5f"
 msgid "སེམས་ ཁོངས་ སུ་ ཆུད་ ཅིང་ འདུག་ གོ ། །"
-msgstr "demeurant absorbé dans ses pensées."
+msgstr "il demeurait absorbé dans ses pensées."
 
 # དེ་ནས་ཀཱ་<«གཡུང་»«པེ་»ཀ>ཤི་མཛེས་ལྡན་མས་རྒྱལ་པོ་ཁང་བཟངས་ཀྱི་<«ཞོལ་»བཟང་གི།>སྟེང་དུ་སོང་ནས་
 msgctxt "9dceb8a55ec24280acb846c40ce61238"
@@ -406,7 +406,7 @@ msgstr "ils ont assiégé Vārāṇasī et"
 
 msgctxt "3a3fc34ce74049b2a89c0d6228ee0929"
 msgid "འཁོད་ དོ ། །"
-msgstr "se trouvent là."
+msgstr "se trouvent là. »"
 
 # ཀཱ་<«གཡུང་»«པེ་»«ཅོ་»ཀ>ཤི་མཛེས་ལྡན་མས་སྨྲས་པ།
 msgctxt "7d96837f5a2c4fc79cda2962d2b7c372"
@@ -433,7 +433,7 @@ msgstr "Fille,"
 
 msgctxt "7b82b462a6784639badf8185cff61a6d"
 msgid "འདམ་པ་ ཡོད་ དོ ། །"
-msgstr "elles ont le choix. »"
+msgstr "elles [en] ont le choix. »"
 
 msgctxt "d7f5b6f4ff324204ad888d91a0eebb3b"
 msgid "བུ་མོ␣ས་ སྨྲས་པ །"
@@ -463,7 +463,7 @@ msgctxt "7a193694c276440dac9ac415e0430ab3"
 msgid ""
 "ཁྱོད་ ཉི་འོག་ གི་ རྒྱལ་པོ་ རྣམས་ ལ་ ང་ བཟླུགས་ ཀྱི་ བར་ དུ་ སྡོད་ ཅིག་ ཅེས་"
 msgstr ""
-"reste là jusqu'à ce que j'aie le consentement des rois de la périphérie »"
+"reste là jusqu'à ce que j'aie le consentement des rois de la périphérie »,"
 
 msgctxt "e281d22e176343b2a258d44c1800cf97"
 msgid "བྱས་ ནས །"
@@ -502,7 +502,7 @@ msgstr "Elle, me laissant de côté,"
 
 msgctxt "1960014be84949b3b1b9e2f49aa163a4"
 msgid "གཞན་ འདམ་པ␣ར་ མི་ འགྱུར་ རོ་ སྙམ་ ནས་"
-msgstr "elle ne choisira pas un autre. » pensèrent-ils et"
+msgstr "elle ne choisira pas un autre », pensèrent-ils et"
 
 msgctxt "20616e6ec2df4da0b11e326593775083"
 msgid "སྨྲས་པ །"
@@ -568,7 +568,7 @@ msgstr "Kāśisundarī, quant à elle, monta une noble monture et"
 
 msgctxt "2baeaeaf8c934c7997145dcaf792c5b8"
 msgid "བུ་མོ་ དག་ གིས་ གཡོག་ བྱས་ ནས་"
-msgstr "avec des jeunes femmes qui la servaient. Puis,"
+msgstr "suivie (lit. avec) des jeunes femmes qui la servaient et"
 
 # ཆས་གོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཆོས་གོས།
 # «ཁུ་»ཆས་གོ།>ཚོན་ཅན་གྱི་རྒྱལ་མཚན་བསྒྲེངས་ཏེ།
@@ -600,7 +600,7 @@ msgstr "dit : «"
 
 msgctxt "380e5cd5c99f49ab90ee044ba3eb2cfb"
 msgid "བདག་ ནི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ དེ་ ལ་ སྐྱབས་ སུ་ མཆིའོ་ ཞེས་"
-msgstr "Moi, je prends refuge dans ce Bienheureux Bouddha. »"
+msgstr "Moi, je prends refuge dans ce Bienheureux Bouddha »,"
 
 # བྱས་ནས<«གཡུང་»«པེ་»པ་ལ། «ལི་»«སྣར་»«ཅོ་»པས།>།
 msgctxt "f975d5bc71c34c3abb81e69bd27bf547"
@@ -615,8 +615,8 @@ msgctxt "f9219021c96645b6878c1e5a9846ed19"
 msgid ""
 "དེ་ནས་ རྒྱལ་པོ་ དེ་དག་ དང་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ ཡ་མཚན་ དུ་ གྱུར་ ཏེ །"
 msgstr ""
-"Ensuite, les rois et la multitude de personnes [présentes] en furent ébahis "
-"(lit. émerveillés) et"
+"Ensuite, les rois et les innombrables personnes [présentes] en furent ébahis"
+" (lit. émerveillés) et"
 
 # འདི་འདི་<«གཡུང་»«པེ་»–འདི།>ལྟར་བྱད་གཟུགས་མཛེས་ལ་འདོད་པ་རྣམས་ལ་ཡང་མི་ལྟ་བ་ངོ་མཚར་ཏོ་སྙམ་མོ།
 # །
@@ -640,7 +640,7 @@ msgstr "« Suivons-la un temps pour"
 
 msgctxt "7079969358ad4eedb5fb96d93401443a"
 msgid "འདི་ ཅི་ བྱེད་པ་ བལྟ␣འོ་ ཞེས་"
-msgstr "voir ce qu'elle va faire. »"
+msgstr "voir ce qu'elle va faire »,"
 
 msgctxt "ad9fbf283a2d4b3fb2a5e93868de330d"
 msgid "འཛེར་ ཏོ ། །"
@@ -804,12 +804,12 @@ msgstr ""
 
 msgctxt "88a19a8e2d4e49bdacbd91e8a27ec405"
 msgid "སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ དེ་དག་ ཀྱང་ ཡ་མཚན་ དུ་ གྱུར་ ནས །"
-msgstr "La multitude de personnes furent ébahis et"
+msgstr "Les innombrables personnes furent ébahies et"
 
 msgctxt "cf71fe0db0314bc199a57ab3585edc37"
 msgid "བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ␣ར་ སོང་ སྟེ་ ལྷགས་ ནས་"
 msgstr ""
-"ils se dirigèrent et allèrent à l'endroit où se trouvait le Bienheureux et"
+"tous se dirigèrent et allèrent à l'endroit où se trouvait le Bienheureux et"
 
 msgctxt "bfe19105d5af410a8471e9321067a43b"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ ཞབས་ ལ་མགོ་ བོས་ ཕྱག་ འཚལ་ ཏེ །"
@@ -906,7 +906,7 @@ msgstr "« Vénérable,"
 
 msgctxt "f68dc20a01334abe8e493c368cbbba36"
 msgid "འདི␣ས་ སྨོན་ལམ་ གང་ དུ་ བཏབ་ ལགས །"
-msgstr "« Quels souhaits a-t-elle formulés ? »"
+msgstr "quels souhaits a-t-elle formulés ? »"
 
 msgctxt "6e6b9e31949449cd96033a8344d69b05"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
@@ -939,7 +939,7 @@ msgid ""
 "ལོངས་སྤྱོད་ ཆེ་བ་ ཡོངས་སུ་ འཛིན་པ་ ཡངས་ ཤིང་ རྒྱ་ཆེ་བ་ རྣམ་ཐོས་ ཀྱི་ བུ␣འི་ "
 "ནོར་ དང་ ལྡན་པ །  རྣམ་ཐོས་ ཀྱི་ བུ␣འི་ ནོར་ དང་ འགྲན་པ་ ཞིག་ གནས་པ་"
 msgstr ""
-"À cette époque, dans la ville de Vārāṇasī, un homme vivait dans l'opulence "
+"à cette époque, dans la ville de Vārāṇasī, un homme vivait dans l'opulence "
 "et possédait beaucoup de richesses. Ses biens étaient grands. Ses "
 "possessions étaient étendues et vastes. Il possédait la richesse de "
 "Vaiśravaṇa. Il possédait des richesses rivalisant avec celles de Vaiśravaṇa."
@@ -953,7 +953,7 @@ msgstr ""
 msgctxt "cf8ae6851f5347019212d62f997c0810"
 msgid "དེ་དེ་ དང་ ལྷན་ཅིག་ ཏུ་ རྩེ་ ཞིང་ དགའ་ ལ་ དགའ་མགུ␣ར་ སྤྱོད་པ་ ལ␣ས །"
 msgstr ""
-"Avec elle, ils se divertirent, ils [apprirent] à s'aimer et laissèrent libre"
+"avec elle, ils se divertirent, ils [apprirent] à s'aimer et laissèrent libre"
 " cours à leurs envies et de ce fait,"
 
 # ཕྱི་ཞིག་ན་དེའི་ཆུང་མ་ལ་བུ་<«གཡུང་»ལུ། «པེ་»བ།>ཆགས་ནས་
@@ -1004,7 +1004,7 @@ msgid ""
 "དེ་ནས་ དེ་ གང་ གི་ ཚེ་ ཆེན་ མོ␣ར་ གྱུར་པ་ དེ␣འི་ ཚེ་ ཡང་དག་པ␣ར་ རྫོགས་པ␣འི་ "
 "སངས་རྒྱས་ འོད་སྲུང་ གི་ བསྟན་པ་ ལ་ དད་པ་ རྙེད་ ནས་"
 msgstr ""
-"quand elle devint grande, elle conçut de la dévotion pour l'enseignement du "
+"Quand elle devint grande, elle conçut de la dévotion pour l'enseignement du "
 "complet et parfait Bouddha Kāśyapa, et"
 
 msgctxt "7b07c431130a4b9ea5a7c4de598c8f5a"
@@ -1076,7 +1076,7 @@ msgstr "décidément,"
 
 msgctxt "d28a39bf17a7431c8ca49a46ac468d5b"
 msgid "ད་ནི་ བདག་ གིས་ བསམ་གཏན་ ལ་ འབད་པ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
-msgstr "maintenant, je vais m'efforcer à la concentration méditative »"
+msgstr "maintenant, je vais m'efforcer à la concentration méditative »,"
 
 msgctxt "8f0299d3b0354df48dd63de6c68f677f"
 msgid "བསམས་ ནས །"
@@ -1084,7 +1084,8 @@ msgstr "pensa-t-elle. Puis,"
 
 msgctxt "bf7b7a1f466047cb9bd7decab4f72692"
 msgid "ཡིད་ ལ་ བྱེད་པ␣འི་ ལུང་ མནོས་ ཏེ་"
-msgstr "elle reçut la transmission de l'action de maintenir à l'esprit et"
+msgstr ""
+"elle reçut la transmission de l'action de maintenir [un objet] à l'esprit et"
 
 # སྲོད་དང་ཐོ་<«གཡུང་»ཐོས།>རངས་མི་<«གཡུང་»«པེ་»མ།>ཉལ་བར་བརྩོན་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»པར།>ལྷུར་བྱེད་པ་ལ་གནས་པས་བྱམས་པའི་སེམས་ཀྱི་ཏིང་ངེ་འཛིན་བསྐྱེད་ནས།
 msgctxt "a4f0aa619ad14ea7b9762bd079e16ab7"
@@ -1092,7 +1093,7 @@ msgid ""
 "སྲོད་ དང་ ཐོ་རངས་ མི་ ཉལ་བ␣ར་ བརྩོན་པ་ ལྷུར་ བྱེད་པ་ ལ་ གནས་པ␣ས་ བྱམས་པ␣འི་ "
 "སེམས་ ཀྱི་ ཏིང་ངེ་འཛིན་ བསྐྱེད་ ནས །"
 msgstr ""
-"Ensuite, maintenant de grands efforts sans dormir ni à l'aube ni au "
+"ensuite, maintenant de grands efforts sans dormir ni à l'aube ni au "
 "crépuscule, elle développa la concentration méditative de la bonté et"
 
 msgctxt "b7b8d33cdb734bb981b0ccad8efad82e"
@@ -1172,7 +1173,7 @@ msgstr "après avoir éliminé toutes les émotions perturbatrices,"
 
 msgctxt "ebaf498dbc21447e96f094c3f1d40e74"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱེད་པ␣ར་ གྱུར་ཅིག་ ཅེས་"
-msgstr "puissé-je manifester l'état d'arhat (lit. l'arhat-même). »"
+msgstr "puissé-je manifester l'état d'arhat (lit. l'arhat-même) »,"
 
 msgctxt "8e58ac8d86f944e583382846f188393b"
 msgid "བྱས་ སོ ། །"
@@ -1224,7 +1225,7 @@ msgid ""
 " ཆེ་བ␣འི་ རིགས་ སུ་ སྐྱེ་བ་ དང་ །  གཟུགས་བཟང་ ཞིང་ བལྟ་ ན་ སྡུག་ ལ་ མཛེས་པ་ "
 "དང་ བྱད་གཟུགས་ དཔེ་མེད་པ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
-"où (lit. où et où) que je naisse, puissé-je toujours (lit. à chacun de ces "
+"Où (lit. où et où) que je naisse, puissé-je toujours (lit. à chacun de ces "
 "endroits) naître dans une lignée familiale qui est riche, posséder de "
 "grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens, "
 "possède un corps harmonieux (lit. noble), être belle et agréable au regard "
@@ -1253,7 +1254,7 @@ msgstr ""
 
 msgctxt "5d00cf15049a49b592e11aff94a65539"
 msgid "ཉོན་མོངས་པ་ ཐམས་ཅད་ སྤངས་ ཏེ །"
-msgstr "elle a éliminé toutes les émotions perturbatrices et"
+msgstr "après avoir éliminé toutes les émotions perturbatrices,"
 
 msgctxt "035fc1cabe5f417f90133ccd314a9b49"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱེད་པ␣ར་ གྱུར་ཅིག་ ཅེས་"
@@ -1277,8 +1278,8 @@ msgid ""
 "གཟུགས་བཟང་ ཞིང་ བལྟ་ ན་ སྡུག་ ལ་ མཛེས་པ་ དང་ བྱད་གཟུགས་ དཔེ་མེད་པ␣ར་ གྱུར་ "
 "ཏེ །"
 msgstr ""
-"[pour que] son corps devienne harmonieux (lit. noble), agréable au regard et"
-" [qu']elle possède une beauté sans égal (lit. sans exemple). Ainsi,"
+"son corps devint harmonieux (lit. noble), agréable au regard et elle posséda"
+" une beauté sans égal (lit. sans exemple). Ainsi,"
 
 msgctxt "23416538a6bd48d1b7257491715c3886"
 msgid "དགེ་སློང་ དག་"
@@ -1324,6 +1325,6 @@ msgid ""
 "རྣམ་པ␣ར་ སྨིན་པ␣ས་ ནི་ གང་དང་གང་ དུ་ སྐྱེས་པ་ དེ་ དང་ དེ␣ར་ བྱད་གཟུགས་ "
 "དཔེ་མེད་པ␣ར་ གྱུར་ ཏོ །། །།"
 msgstr ""
-"le résultat de l'action d'avoir développé la concentration méditative de la "
+"Le résultat de l'action d'avoir développé la concentration méditative de la "
 "bonté la pourvut (lit. devint) d'une beauté (lit. apparence physique) sans "
 "égal (lit. sans exemple)."
