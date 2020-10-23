@@ -717,7 +717,7 @@ msgctxt "d95d38697610446a9488254cc5d84fdd"
 msgid ""
 "དེ་ནས་ སྐྱེ་བོ␣འི་ ཚོགས་ ཀྱིས་ ཐག་ རིང་པོ་ ནས་ བཅོམ་ལྡན་འདས་ མཐོང་ ངོ་ ། །"
 msgstr ""
-"Ensuite, la multitude de personnes virent au loin le Bienheureux qui "
+"Ensuite, les innombrables personnes virent au loin le Bienheureux qui "
 "arrivait."
 
 msgctxt "4cd32270f480455f8f951d08c968b711"
