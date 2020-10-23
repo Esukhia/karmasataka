@@ -832,7 +832,7 @@ msgstr "le prince pensa : «"
 
 msgctxt "d976de8e43b4472daa40b352ae9fadee"
 msgid "བུད་མེད་ ཀྱིས་ ཀྱང་ འདི་ ལྟ་བུ␣འི་ ཆོས་ རྟོགས་པ␣ར་ འགྱུར་ ན །"
-msgstr "Si même une fille obtient de telles qualités (lit. choses),"
+msgstr "Si même une femme obtient de telles réalisations (lit. choses),"
 
 msgctxt "aada2394132947179ce0b96ab13a88f3"
 msgid "མ་ལ་"
