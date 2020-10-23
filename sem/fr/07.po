@@ -193,7 +193,7 @@ msgstr "« Donnez-moi cette fille » [était ce que] chacun d'eux "
 
 msgctxt "444dc0ff7a2f4a729f8746491b3f7f77"
 msgid "སྤྲིང་ ངོ་ ། །"
-msgstr "ont fait dire."
+msgstr "firent dire."
 
 # དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་རྒྱལ་པོ་ཚངས་པས་བྱིན་སེམས་ཁོངས་སུ་<«ཞོལ་»ཁོང་དུ།>ཆུད་ཅིང་འདུག་སྟེ།
 msgctxt "8ce5e21cd0954b95b3e07fd0273fd954"
