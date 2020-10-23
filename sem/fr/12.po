@@ -464,7 +464,7 @@ msgstr "Le roi dit : «"
 
 msgctxt "5749803b0c4a4519872f14b0339d5daa"
 msgid "ཁྱོད་ ཇི་ལྟར་ དགའ་བ་ བཞིན་ དུ་ བྱ␣འོ་ ཞེས་"
-msgstr "Fais comme il te plaira. »"
+msgstr "Fais comme il te plaira »,"
 
 msgctxt "5aada0ef8a2e4359bec4ec780cad7111"
 msgid "སྨྲ␣ས་ ནས །"
