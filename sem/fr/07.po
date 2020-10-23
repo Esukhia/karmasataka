@@ -600,7 +600,7 @@ msgstr "dit : «"
 
 msgctxt "380e5cd5c99f49ab90ee044ba3eb2cfb"
 msgid "བདག་ ནི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ དེ་ ལ་ སྐྱབས་ སུ་ མཆིའོ་ ཞེས་"
-msgstr "Moi, je prends refuge dans ce Bienheureux Bouddha. »"
+msgstr "Moi, je prends refuge dans ce Bienheureux Bouddha »,"
 
 # བྱས་ནས<«གཡུང་»«པེ་»པ་ལ། «ལི་»«སྣར་»«ཅོ་»པས།>།
 msgctxt "f975d5bc71c34c3abb81e69bd27bf547"
