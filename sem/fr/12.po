@@ -1469,7 +1469,7 @@ msgstr ""
 "tu es notre (lit. de nous deux) seul enfant adorable, ravissant, précieux "
 "(lit. dont la perte sera ressentie) et serviable (lit. qui fait ce qui "
 "correspond [aux besoins]). De ce fait, il n'est pas convenable que nous te "
-"donnons la permission. »"
+"donnons la permission »,"
 
 msgctxt "146562a8f3af421da4ddb76220fac35a"
 msgid "བྱས་ སོ ། །"
