@@ -982,7 +982,7 @@ msgstr "Le garçon dit : «"
 
 msgctxt "48fb07fc3bc54d1e85a933571028f330"
 msgid "དེ་ ནི་ བདག་ ལ་ ཕན་ གདགས་པ་ ལགས་སོ་ ཞེས་"
-msgstr "Ceci est un bienfait pour moi. »"
+msgstr "Ceci est un bienfait pour moi »,"
 
 msgctxt "b7a484d00c88492180f4f1e4f2be856e"
 msgid "བྱས་ ནས །"
