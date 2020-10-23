@@ -994,7 +994,7 @@ msgstr ""
 # རི་དགས་ཤོར་<«ཞོལ་»བཤོར།>དུ་སོང་བ་དང་།
 msgctxt "abb7718b89f84755a5d6d0f8ab79ecd9"
 msgid "རི་ དག␣ས་ ཤོ␣ར་ དུ་ སོང་བ་ དང་ །"
-msgstr "partait à la chasse. À ce moment,"
+msgstr "partit à la chasse. À ce moment,"
 
 # དེ་རི་དགས་ཀྱིས་<«ཅོ་»«ཞོལ་»ཀྱི།>མིག་བླངས་ཏེ་
 msgctxt "368909be3c714e38865917cf450e8344"
