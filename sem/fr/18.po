@@ -1311,7 +1311,7 @@ msgstr ""
 # གཤེད་མ་རྣམས་ལ་གཏད་དེ<«གཡུང་»«པེ་»གཏད་ཏེ། «ལི་»«སྣར་»«ཅོ་»བཏད་དེ།>།
 msgctxt "95fcd052f46845168726ea2c8656e7de"
 msgid "གཤེད་མ་ རྣམས་ ལ་ གཏད་ དེ །"
-msgstr "il les remit aux bourreaux : «"
+msgstr "il les remit aux bourreaux :"
 
 msgctxt "c842a9642fb74345a0b51f6b690d4252"
 msgid "ཁྱེད་ དེང་ ལ་"
