@@ -885,7 +885,7 @@ msgstr "Fais en sorte que j'aie un rapport avec ce moine. Alors,"
 
 msgctxt "a751fc8b77da404180b22d0049d2b5d4"
 msgid "བདག་ གིས་ ཁྱོད་ ལ་ གསེར་ མང་ དུ་ སྦྱིན་ ནོ་ ཞེས་"
-msgstr "je te donnerai beaucoup d'or. »"
+msgstr "je te donnerai beaucoup d'or »,"
 
 msgctxt "7b54e5737033422b9a7c827b94cbe3cf"
 msgid "བྱས་ སོ ། །"
