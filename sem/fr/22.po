@@ -119,7 +119,7 @@ msgstr "je parviendrais à me tuer moi-même, mais"
 # «ལི་»«པེ་»«སྣར་»«ཅོ་»མི་ཐོག་གོ།>ཞེས་
 msgctxt "ef1759ee1df042f4ad9513ef22df843c"
 msgid "སྲོག་ཆགས་ འགུམ་པ␣འི་ རྔོ་ ནི་ མི་ ཐོགས་ སོ་ ཞེས་"
-msgstr "je ne parviendrai pas à tuer des êtres vivants. »"
+msgstr "je ne parviendrai pas à tuer des êtres vivants »,"
 
 msgctxt "3319ee58daa64383bfd249c9a81c8361"
 msgid "ཟེར་ རོ ། །"
