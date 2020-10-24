@@ -164,7 +164,7 @@ msgid ""
 " བླང་ ངོ་ ཞེས་"
 msgstr ""
 "si je parviens à faire que les Śākyas donner la permission de bon gré (lit. "
-"par dévotion), alors seulement je les prendrai toutes les deux. »"
+"par dévotion), alors seulement je les prendrai toutes les deux »,"
 
 # སྤྲིང་<«ཞོལ་»སྤྲིངས།>ནས།
 msgctxt "59032c26c688444aa92ea79b8097a45a"
