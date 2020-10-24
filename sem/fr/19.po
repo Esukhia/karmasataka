@@ -626,7 +626,7 @@ msgstr ""
 msgctxt "bd7320ae98e8446bac70f76e0e7e8e3c"
 msgid "ཐུགས་ མི་ཆུང་བ␣ར་ གསོལ་ ཞེས་"
 msgstr ""
-"veuillez ne pas vous offusquer (lit. que votre cœur ne soit pas petit).\""
+"veuillez ne pas vous offusquer (lit. que votre cœur ne soit pas petit)\","
 
 msgctxt "5c167af18364497f89809dd72614163b"
 msgid "བྱས་ ནས་"
