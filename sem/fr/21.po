@@ -1105,7 +1105,7 @@ msgstr "Elle arrêta (lit. délaissa) tout le rituel et"
 # གུས་པར་བསྒྲིམ་<«གཡུང་»«པེ་»«ཞོལ་»བསྒྲིམས།>པས་རྐང་པ་ལ་ཕྱག་འཚལ་ནས་
 msgctxt "ad6b37c8550048d9ae17891649ea3ad4"
 msgid "གུས་པ␣ར་ བསྒྲིམ་པ␣ས་ རྐང་པ་ ལ་ ཕྱག་ འཚལ་ ནས་"
-msgstr "avec une respectueuse attention, elle se prosterna à ses pieds."
+msgstr "avec une respectueuse attention, elle se prosterna à ses pieds : «"
 
 # སེམས་ཅན་དག་པ་<«ཅོ་»པར།>བཟོད་པར་གསོལ།
 msgctxt "536c9531c9df4876a6388f6831803af0"
