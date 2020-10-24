@@ -726,7 +726,7 @@ msgstr "Vénérable,"
 
 msgctxt "3c0f4e647bd14bae8713e52e2b7f5221"
 msgid "ཁྱོད་ ཀྱང་ གཟུགས་ དང་ ལང་ཚོ་ ཕུན་སུམ་ ཚོགས་པ་ ལགས་ ལ །"
-msgstr "vous aussi avez un corps et d'une jeunesse parfaits,"
+msgstr "vous aussi avez un corps et une jeunesse parfaits,"
 
 # བདག་ཀྱང་ཡན་ལག་ཐམས་ཅད་སྡུག་པ་ལགས་ཀྱིས་<«ཞོལ་»ཀྱི།>
 msgctxt "afcb966b1b2e4725a8079af09c039f40"
