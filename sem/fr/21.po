@@ -107,7 +107,7 @@ msgid ""
 " དང་ །  རྩ་ལག་ གཞན་དག་ གིས་ ལྷ་ ལ་ གསོལ་བ་ ཐོབ་ ཤིག་ ཅེས་"
 msgstr ""
 "Ensuite, les ascètes, les brahmanes, les augures, les amis, la famille, la "
-"famille éloignée, tous « Prie les dieux. »"
+"famille éloignée, tous « Prie les dieux »,"
 
 msgctxt "d2c7797e79c3432b9e1c8f161b221604"
 msgid "དེ་ ལ་ བསྒོའོ ། །"
