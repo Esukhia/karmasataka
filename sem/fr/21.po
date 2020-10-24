@@ -701,7 +701,7 @@ msgstr "Qu'[en est-il] ?"
 
 msgctxt "75d4add7bf534ba6acdb5d25301a98ab"
 msgid "འདི་ དགེ་བསྙེན་མ་ ཅིག་ ཡིན་ ནམ་ སྙམ་ ནས་"
-msgstr "Est-elle une upāsikā ? » puis,"
+msgstr "Est-elle une upāsikā ? » Puis,"
 
 # སྟན་<«གཡུང་»«པེ་»བསྟན།>བཤམས་པ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེ།>ལ་འདུག་པ་དང་།
 msgctxt "176941234992402982749e8d0859dc40"
