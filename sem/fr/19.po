@@ -224,7 +224,7 @@ msgid ""
 msgstr ""
 "« Maintenant, elles sont acquises (lit. contentes), donc la royauté se "
 "trouve juste (lit. seulement) à ma portée (lit. se trouve là où je peux la "
-"prendre). »"
+"prendre) »,"
 
 msgctxt "11f93091f9bf4674b1a75d607812b534"
 msgid "བསམས་ ནས །"
