@@ -650,7 +650,7 @@ msgstr "tuez-le donc."
 
 msgctxt "ef64be09d62e494ca6d93abfaf99ee8d"
 msgid "དེ␣འི་ འོག་ ཏུ་ བདག་ དང་ མཇལ་བ␣ར་ འགྱུར་ རོ་ ཞེས་"
-msgstr "Après cela, nous nous rencontrerons.\""
+msgstr "Après cela, nous nous rencontrerons\","
 
 msgctxt "234ac353f0014c8fbb0f3334eee9b039"
 msgid "སྤྲིང་ ངོ་ ། །"
