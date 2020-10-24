@@ -79,7 +79,7 @@ msgstr "j'obtiendrai la royauté et"
 
 msgctxt "bff83f876225406c8a8ecfb32cde818a"
 msgid "རྒྱལ་པོ་ བྱ␣འོ་ སྙམ་ དུ་"
-msgstr "je régnerai. »"
+msgstr "je régnerai »,"
 
 msgctxt "f290761bbc7f459bba8d2f0cf3e5d6a6"
 msgid "བསམས་ ཏེ །"
