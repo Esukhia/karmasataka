@@ -247,7 +247,7 @@ msgid ""
 "དུས་གསུམ་ མཚན་ དུས་གསུམ་ སྟེ །  ཉིན་མཚན་ དུས་ དྲུག་ ཏུ་ སངས་རྒྱས་ ཀྱི་ སྤྱན་"
 " གྱིས་ འཇིག་རྟེན་ ལ་ གཟིགས་ ཏེ །"
 msgstr ""
-"Eux qui font résonner le grand rugissement parfait du lion, ils contemplent "
+"eux qui font résonner le grand rugissement parfait du lion, ils contemplent "
 "spontanément le monde avec les yeux de bouddhas pendant les six périodes de "
 "la journée, trois fois le jour et trois fois la nuit."
 
