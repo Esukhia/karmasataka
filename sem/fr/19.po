@@ -586,7 +586,7 @@ msgctxt "0bb9dee79af347bf981a515c6cbe8eaf"
 msgid ""
 "གལ་ཏེ་ ལྷས་ བདག་ ལ་ བཀའ་ སྩལ་ ན་ ནི་ བདག་ གིས་ དེ་ དམའ་ དབབ་པ␣ར་ འཚལ་ ལོ་ "
 "ཞེས་"
-msgstr "Deva, si vous me l'ordonnez, je vais l'humilier.\""
+msgstr "Deva, si vous me l'ordonnez, je vais l'humilier\","
 
 msgctxt "3f69c58d1d794287ac83befa1b5bb123"
 msgid "བྱས་ སོ ། །"
