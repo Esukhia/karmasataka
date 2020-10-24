@@ -1281,7 +1281,7 @@ msgstr "il leur donna cet ordre :"
 # «ཅོ་»ལྕགས་གིས་བཞུས།>ཤིག་ཅེས་
 msgctxt "20bd06f2434843aba1563b3c1d22cc02"
 msgid "དགེ་སློང་ འདི་ རྣམས་ ལྕག་ གིས་ གཞུས་ ཤིག་ ཅེས་"
-msgstr "\"Frappez ces moines avec des [barres] métalliques.\""
+msgstr "\"Frappez ces moines avec des [barres] métalliques\","
 
 msgctxt "7fa95d25d7c54298bf865cd5c706e3fb"
 msgid "བྱས་ སོ ། །"
