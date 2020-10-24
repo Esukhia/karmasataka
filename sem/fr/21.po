@@ -498,7 +498,7 @@ msgstr "« Comment nommer ce garçon ? »"
 
 msgctxt "168f00fcdd7446fab8e59548659896c0"
 msgid "མིང་འདོགས་པ␣ར་ བྱེད་ དེ །"
-msgstr "un nom lui fut donné : «"
+msgstr "Un nom lui fut donné : «"
 
 msgctxt "51120c922a6840e38aad31e132ae4143"
 msgid ""
