@@ -405,7 +405,7 @@ msgstr "puissé-je le contenter."
 
 msgctxt "5a8a289e72e24054ab8e95535af2f01a"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག་ ཅེས་"
-msgstr "Puissé-je ne rien faire qui le mécontente.\""
+msgstr "Puissé-je ne rien faire qui le mécontente\","
 
 msgctxt "766c6da6223c49b3ba7b585a90c3ccef"
 msgid "བྱས་ སོ ། །"
