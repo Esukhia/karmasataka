@@ -789,7 +789,7 @@ msgstr "Bienheureux,"
 
 msgctxt "fd18e7fe3fa2461990957d5886fefdc1"
 msgid "གཤེགས་པ་ ལེགས་ སོ་ ལེགས་ སོ ། །"
-msgstr "c'est merveilleux, c'est magnifique que Vous soyez venu !"
+msgstr "c'est merveilleux, c'est magnifique que vous soyez venu !"
 
 msgctxt "e5bfdf1cab04406d84a2f0ea85495b13"
 msgid "བཅོམ་ལྡན་འདས་"
