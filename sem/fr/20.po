@@ -483,7 +483,7 @@ msgstr "puissé-je contenter le précieux fils de ces deux [sœurs]."
 # མི་མཉེས་པར་<«ལི་»«ཅོ་»པ།>བྱེད་པར་མ་གྱུར་ཅིག་ཅེས་
 msgctxt "708006cc1ca945eba5bed1c639d45f7e"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག་ ཅེས་"
-msgstr "Puissé-je ne rien faire qui le mécontente.\""
+msgstr "Puissé-je ne rien faire qui le mécontente\","
 
 msgctxt "d9561a9e88f0401ca0c06c9321c37688"
 msgid "བྱས་ ཏེ་"
