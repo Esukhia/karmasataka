@@ -1100,7 +1100,7 @@ msgstr ""
 
 msgctxt "d8d54b884be24ce6a0987efe9c2257b7"
 msgid "དེ␣ས་ ཆོ་ག་ ཐམས་ཅད་ བཏང་ སྟེ་"
-msgstr "elle arrêta (lit. délaissa) tout le rituel et"
+msgstr "Elle arrêta (lit. délaissa) tout le rituel et"
 
 # གུས་པར་བསྒྲིམ་<«གཡུང་»«པེ་»«ཞོལ་»བསྒྲིམས།>པས་རྐང་པ་ལ་ཕྱག་འཚལ་ནས་
 msgctxt "ad6b37c8550048d9ae17891649ea3ad4"
