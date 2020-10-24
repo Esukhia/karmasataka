@@ -690,7 +690,7 @@ msgstr "dis-le leur (lit. ordonne-leur ceci) »,"
 
 msgctxt "62fdaf1dbbdf45fdb27e4fd6e73bda25"
 msgid "དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏེ་"
-msgstr "», lui dit-il. Puis,"
+msgstr "lui dit-il. Puis,"
 
 # བསྒོ་<«ཞོལ་»བསྒོས།>ནས་
 msgctxt "170984d2ab7d48078f6da0da2fa42394"
