@@ -374,7 +374,7 @@ msgstr "[puisse-t-il] pratiquer la générosité et "
 
 msgctxt "544b64054a97410a8defa1674fea25cd"
 msgid "བསོད་ནམས་ དག་ བྱས་ ནས །"
-msgstr "accumulé les mérites et"
+msgstr "accumuler les mérites et"
 
 msgctxt "d65418733c19440c80853fa49b7cdf34"
 msgid "དེ་ གཉིས་ གང་དང་གང་ དུ་ སྐྱེས་ ཤིང་ འགྲོ་བ་ དེ␣ར་ འདི་ སོང་ ཅིག་ ཅེས་"
