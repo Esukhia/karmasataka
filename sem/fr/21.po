@@ -893,7 +893,7 @@ msgstr "dit-elle."
 
 msgctxt "d61e189489ca4f2fa1efccec42bbf6f0"
 msgid "དེ་ནས་ དེ␣ས་ དེ་ལྟར་ བགྱི␣འོ་ ཞེས་"
-msgstr "Ensuite, « Je ferai ceci (lit. comme ceci). »"
+msgstr "Ensuite, « Je ferai ceci (lit. comme ceci) »,"
 
 msgctxt "7703e41e3a4b4f12bb401042e201cba0"
 msgid "སྨྲ␣ས་ ནས །"
