@@ -825,7 +825,7 @@ msgid ""
 msgstr ""
 "je vais m'engager dans une absorption méditative qui fera à coup sûr que cet"
 " être se souvienne de ses vies passées, qu'il parle une langue humaine et "
-"qu'il discute avec moi. »"
+"qu'il discute avec moi »,"
 
 msgctxt "f2a035956d9e40ef8069fb08c58a27bf"
 msgid "དགོངས་ སོ ། །"
