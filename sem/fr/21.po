@@ -308,7 +308,7 @@ msgstr "il est certain que ce soit un garçon. Donc,"
 
 msgctxt "13a2c7fc242d4295b9226f67123090ba"
 msgid "དགྱེས་པ་ བསྐྱེད་ དུ་ གསོལ་ ཞེས་"
-msgstr "réjouissez-vous.» "
+msgstr "réjouissez-vous»,"
 
 msgctxt "ebda7dbd168b45a592ddd39f9aae457e"
 msgid "བྱས་ ནས །"
