@@ -204,7 +204,7 @@ msgctxt "a0fdd0a8f37242119d4b4c5e306c7854"
 msgid ""
 "ཐབས་ ཇི་ལྟ་བུ་ ཞིག་ གིས་ བདག་ཅག་ གིས་ ཁྱོད་ རྒྱལ་ས␣ར་ བཞུགས་པ་ བཀའ་གྲོས་ "
 "མཛད་ དོ་ ཞེས་"
-msgstr "nous discuterons du moyen pour t'établir dans la royauté. »"
+msgstr "nous discuterons du moyen pour t'établir dans la royauté »,"
 
 msgctxt "e332052e4ce54a5d8752c5ea48f84531"
 msgid "སྤྲིང་ ངོ་ ། །"
