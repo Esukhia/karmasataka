@@ -739,7 +739,7 @@ msgstr "dit-on. Mais il est sous l'influence des spectacles et"
 
 msgctxt "e415c2a39f654cbebf8db9020753c991"
 msgid "འོངས་ སོ་ ཞེས་"
-msgstr "il est venu. »"
+msgstr "il est venu »,"
 
 msgctxt "c163124569324ed38360def94085cf6f"
 msgid "ཟེར་ རོ ། །"
