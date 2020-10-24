@@ -428,7 +428,7 @@ msgstr ""
 # བདག་འདི་ལྟ་བུའི་སྐྱེས་བུ་རིན་<«གཡུང་»ཆིན།>པོ་ཆེ་དེ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»–དེ།>འཚོ་བར་གྱུར་ཅིག་ཅེས་
 msgctxt "b300ecfdf6b54f93b7b3cd466c0da302"
 msgid "བདག་ འདི་ ལྟ་བུ␣འི་ སྐྱེས་བུ་ རིན་པོ་ཆེ་ དེ་ འཚོ་བ␣ར་ གྱུར་ཅིག་ ཅེས་"
-msgstr "Puissé-je prendre soin d'un tel être précieux.\""
+msgstr "Puissé-je prendre soin d'un tel être précieux\","
 
 msgctxt "dd21b10304224c519dfcfe6ba090b432"
 msgid "བྱས་ སོ ། །"
