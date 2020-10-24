@@ -562,7 +562,7 @@ msgstr "Alors, elle avait vécu chastement toute sa vie et"
 # འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
 msgctxt "4d8913f28ade42ee9236e3a5ff3b8923"
 msgid "འཆི་ཀ␣ར་ སྨོན་ལམ་ བཏབ་པ །"
-msgstr "elle fit ce souhait au moment de mourir : «"
+msgstr "elle fit ce souhait au moment de mourir :"
 
 # འདི་ལྟར་བདག་གིས་<«ཞོལ་»ཉིད།>ཡང་དག་པར་རྫོགས་པའི་<«ཅོ་»–པའི།>སངས་རྒྱས་འོད་སྲུང་གི་གསུང་<«ཅོ་»སུང་།>རབ་ལ་ཚངས་པར་སྤྱོད་པ་སྤྱད་ཀྱང་།
 # ཡོན་ཏན་གྱི་ཚོགས་ཅི་<«གཡུང་»«པེ་»–ཅི།>ཡང་མ་ཐོབ་ཀྱིས་<«ཞོལ་»ཀྱི།>
