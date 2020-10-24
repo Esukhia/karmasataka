@@ -217,7 +217,7 @@ msgstr ""
 
 msgctxt "70a06af6347343048727caf0d2a5804b"
 msgid "དགྲ་བཅོམ་པ་ ཉིད་ མངོན་སུམ་ དུ་ བྱས་ ནས །"
-msgstr "il a manifesté l'état d'arhat."
+msgstr "il manifesta l'état d'arhat."
 
 # དེ་<«ཁུ་»དེས།>དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།
 msgctxt "8374667f8cf3468189c344611ad00f50"
