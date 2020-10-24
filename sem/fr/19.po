@@ -769,7 +769,7 @@ msgstr "\"Deva,"
 msgctxt "49be78ecc1c84df28a4a3331bf33c917"
 msgid ""
 "ཚངས་པ␣ས་ བྱིན་ ནི་ ལྷས་ ཅི་ དགྱེས་པ␣ར་ མཛད་ དུ་ མཆིས་པ␣ར་ གྱུར་ ལགས་སོ་ ཞེས་"
-msgstr "Brahmadatta est là pour que vous fassiez tout ce qu'il vous plaira.\""
+msgstr "Brahmadatta est là pour que vous fassiez tout ce qu'il vous plaira\","
 
 msgctxt "719a9e72669f41ff9947cb192eb7356a"
 msgid "བྱས་ སོ ། །"
