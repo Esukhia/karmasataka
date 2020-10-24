@@ -737,7 +737,7 @@ msgstr ""
 
 msgctxt "df4a1b116c29411ca566bca1a94950e3"
 msgid "བདག་ དང་ གཟིམས་པ␣ར་ གསོལ་ ཞེས་"
-msgstr "veuillez dormir avec moi. »"
+msgstr "veuillez dormir avec moi »,"
 
 msgctxt "96da580b07864397bbee087c03d561f7"
 msgid "བྱས་ སོ ། །"
