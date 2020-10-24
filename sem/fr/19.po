@@ -736,7 +736,7 @@ msgstr "venez dans la ville et"
 
 msgctxt "c3b315268f9541a0b0c7de73703a4f5d"
 msgid "བདག་ དང་ མཇལ་བ␣ར་ མཛད་ དུ་ གསོལ་ ཞེས་"
-msgstr "veuillez me rencontrer.\""
+msgstr "veuillez me rencontrer\","
 
 msgctxt "ee507c066f604b7dbf5ac0da47e55d5f"
 msgid "སྤྲིང་ ངོ་ ། །"
