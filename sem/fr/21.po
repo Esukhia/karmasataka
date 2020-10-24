@@ -1126,7 +1126,7 @@ msgstr "Couleur-de-Lotus dit : «"
 msgctxt "fd8bbaf4a8e84803962da6ab9f27df9a"
 msgid "ངས་ ནི་ བཟོད་ ན་ ཁྱོད་ བདག་ གི་ ལ␣ས་ རྣམས་ ཀྱིས་ མི་ བཟོད་ དོ ། །"
 msgstr ""
-"Quant à moi, je vous pardonne, mais vos actions ne vous pardonnerons pas. »"
+"Quant à moi, je vous pardonne, mais vos actions ne vous pardonneront pas. »"
 
 msgctxt "ba5e1a2ad80746b987e9a7871a73b87e"
 msgid ""
