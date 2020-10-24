@@ -2056,7 +2056,7 @@ msgstr ""
 msgctxt "796c877bc7d24c51bfdc10a9624f839d"
 msgid "གཟུགས་བཟང་ ཞིང་ བལྟ་ ན་ སྡུག་ ལ་ མཛེས་པ␣ར་ གྱུར་ ཏེ་"
 msgstr ""
-"[son] corps devint harmonieux (lit. noble), agréable au regard et beau, et"
+"[Son] corps devint harmonieux (lit. noble), agréable au regard et beau, et"
 
 msgctxt "602db60d831945e4ac8d85312051e6f2"
 msgid "པད་མ␣འི་ སྙིང་པོ␣འི་ མདོག་ འདྲ་བ␣ར་ གྱུར་ ལགས །"
