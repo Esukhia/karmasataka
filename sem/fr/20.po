@@ -616,7 +616,7 @@ msgstr ""
 "De même que ma préceptrice a été proclamée par le complet et parfait Bouddha"
 " Kāśyapa pour être suprême parmi celles dotées de diligence, puisse "
 "Śākyamuni, le roi des Śākyas, proclamer que je suis suprême parmi celles "
-"dotées de diligence.\""
+"dotées de diligence\","
 
 msgctxt "3c2b4363ad444526918cc16d428fbf32"
 msgid "བྱས་ སོ ། །"
