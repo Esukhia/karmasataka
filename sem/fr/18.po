@@ -1353,7 +1353,7 @@ msgstr "dit-il."
 
 msgctxt "ccc40655e9844cf6907cfb89079f4dd7"
 msgid "དེ་ནས་ རྒྱལ་པོ␣འི་ མི་ དེ་དག་ གིས་ དེ་བཞིན་ དུ་ འཚལ་ ལོ་ ཞེས་"
-msgstr "Ensuite, \"Nous feront ceci (lit. comme ceci).\" les hommes du roi "
+msgstr "Ensuite, \"Nous feront ceci (lit. comme ceci)\", les hommes du roi "
 
 msgctxt "8d3d84f07992403dbd6381cc6ec7dc8d"
 msgid "བྱས་ ནས །"
