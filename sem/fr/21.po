@@ -1345,7 +1345,7 @@ msgid ""
 msgstr ""
 "être versé dans les agrégats, être versé dans les éléments, être versé dans "
 "les sources des sens, être versé dans l'origination interdépendante et être "
-"versé dans ce qui est juste et ce qui n'est pas juste.\" il l'a dit. Donc,"
+"versé dans ce qui est juste et ce qui n'est pas juste\", il l'a dit. Donc,"
 
 msgctxt "88cd0c2766814180b653fce905313629"
 msgid ""
