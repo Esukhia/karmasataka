@@ -1770,7 +1770,7 @@ msgstr "décidément,"
 # བདག་གིས་འདི་བསད་<«ཞོལ་»གྱི།>གོར་མ་ཆག་སྙམ་ནས་
 msgctxt "1ac2d5ccfe8a433db1c267cbb2671152"
 msgid "བདག་ གིས་ འདི་ བསད་ གོར་མ་ཆག་ སྙམ་ ནས་"
-msgstr "il n'y a pas de douce que je doive aussi le tuer. » et"
+msgstr "il n'y a pas de douce que je doive aussi le tuer » et"
 
 msgctxt "08eb475b43cc416d95628d98b20b5b7f"
 msgid "དེ␣ས་ རང་ སངས་རྒྱས་ དེ་ བསད་ དེ །"
