@@ -1134,7 +1134,7 @@ msgid ""
 " གྱུར་ ནས་"
 msgstr ""
 "Ensuite, au moment où la prostituée vit ceci, elle perdit (lit. fut dénuée "
-"de) le désir de la chair (lit. l'attachement du désir) et"
+"de) le désir charnel (lit. l'attachement du désir) et"
 
 msgctxt "f3b594f946b14ae1a00e587f00d8596f"
 msgid "དེ་ ལ་ དགའ་བ་ སྐྱེས་ སོ ། །"
