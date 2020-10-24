@@ -1066,7 +1066,7 @@ msgstr "Je vais sauter dans le feu. »"
 
 msgctxt "9486c931df4b4908a13e330623838c11"
 msgid "དེ␣ས་ དེ␣འི་ ཚིག་ དེ་ ཐོས་ ནས་"
-msgstr "Elle entendu ces paroles et"
+msgstr "Elle entendit ces paroles et"
 
 msgctxt "70495103838347da8466ffd6ed5f1693"
 msgid "རིགས་ངན་ མོ་ མི་ དགའ་བ␣ར་ གྱུར་ ཏེ་"
