@@ -1019,7 +1019,7 @@ msgstr ""
 # འོན་ཀྱང་ཁྱེད་ལ་སྙིང་བརྩེ་<«གཡུང་»བཙེ།>བའི་ཕྱིར་ཞུ་བར་བགྱིའོ་ཞེས་
 msgctxt "2f6f670407e744e3bf8d425c53cfe57d"
 msgid "འོན་ཀྱང་ ཁྱེད་ ལ་ སྙིང་བརྩེ་བ␣འི་ ཕྱིར་ ཞུ་བ␣ར་ བགྱི␣འོ་ ཞེས་"
-msgstr "pourtant, par compassion pour vous, je vais le demander. »"
+msgstr "pourtant, par compassion pour vous, je vais le demander »,"
 
 msgctxt "b3f37f7e3ca241e4a0a19bcff4fb5d5d"
 msgid "སྨྲ␣ས་ ནས །"
