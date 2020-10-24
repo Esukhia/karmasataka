@@ -1095,7 +1095,7 @@ msgid ""
 "བདག་ གིས་ འདི་ ལྟ་བུ␣འི་ སེམས་ཅན་ དག་པ་ མི་ དགའ་བ␣ར་ བྱ་བ་ ནི་ བདག་ གི་ ཆ་ "
 "མ་ ཡིན་ ནོ་ སྙམ་ ནས །"
 msgstr ""
-"mécontenter un être pur comme lui n'est pas ce que je veux faire (lit. ne "
+"mécontenter un être pur comme lui n'est pas convenable pour moi (lit. ne "
 "fait pas partie de moi). »"
 
 msgctxt "d8d54b884be24ce6a0987efe9c2257b7"
