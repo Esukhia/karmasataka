@@ -2057,4 +2057,4 @@ msgstr "les y établit et"
 # «པེ་»གོད་ནས་བཙུག>ལག་ཁང་དུ་གཤེགས་སོ། ། ། །
 msgctxt "e99f95925ae04608b94f4d5662a36535"
 msgid "གཙུག་ལག་ཁང་ དུ་ གཤེགས་ སོ ། ། ། །"
-msgstr "alla au vihāra."
+msgstr "alla au vihāra. »"
