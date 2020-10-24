@@ -686,7 +686,7 @@ msgstr ""
 # བསྒོ་<«གཡུང་»སྒོ། «ཞོལ་»སྒོས།>ཤིག །
 msgctxt "53992703c0cb4f9dbd3721b574ade41e"
 msgid "བསྒོ་ ཤིག  །"
-msgstr "dis-le leur (lit. ordonne-leur ceci). »"
+msgstr "dis-le leur (lit. ordonne-leur ceci) »,"
 
 msgctxt "62fdaf1dbbdf45fdb27e4fd6e73bda25"
 msgid "དེ་སྐད་ ཅེས་ བཀའ་ སྩལ་ ཏེ་"
