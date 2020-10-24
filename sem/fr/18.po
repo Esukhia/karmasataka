@@ -761,7 +761,7 @@ msgid ""
 "ངོ་མཚར་ རྨད་ དུ་ བྱུང་བ␣འི་ ཆོས་ ཅིག་ ལུང་སྟོན་པ␣ར་ བཞེད་ གོར་མ་ཆག་ ཅེས་"
 msgstr ""
 "va sans aucun doute vouloir révéler quelque chose de merveilleux et "
-"fascinant. »"
+"fascinant »,"
 
 msgctxt "b6053f5b26d4468a8d89880e0312fcd4"
 msgid "ཟེར་ ནས །"
