@@ -1315,7 +1315,7 @@ msgstr "il les remit aux bourreaux :"
 
 msgctxt "c842a9642fb74345a0b51f6b690d4252"
 msgid "ཁྱེད་ དེང་ ལ་"
-msgstr "Mettez-vous en route,"
+msgstr "\"Mettez-vous en route,"
 
 # རབ་ཏུ་བྱུང་བ་འདི་རྣམས་ལས་ཁ་ཅིག་ནི་གསོན་<«གཡུང་»བསོན།>པོར་གསལ་ཤིང་ལ་ཚུགས་ལ་
 msgctxt "5f95765c13524391b795cc88a575d4b5"
