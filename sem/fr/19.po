@@ -176,7 +176,7 @@ msgstr "nous le renverrons. Alors,"
 # དེ་ཐ་མལ་པར་འདུག་པར་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»+མི།>འགྱུར་རོ་ཞེས་
 msgctxt "b7ff98cd803440dfa4285fa99637a5d9"
 msgid "དེ་ ཐ་མལ་པ␣ར་ འདུག་པ␣ར་ འགྱུར་ རོ་ ཞེས་"
-msgstr "il se trouvera [être] un être ordinaire. »"
+msgstr "il se trouvera [être] un être ordinaire »,"
 
 msgctxt "62a11fc5a91a45b0834f0c25c9fc8b70"
 msgid "ཟེར་ རོ ། །"
