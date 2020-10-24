@@ -117,7 +117,7 @@ msgctxt "7f583c3bf717485797ded5b0a0ba16cc"
 msgid ""
 "སྒྱུ་འཕྲུལ་ ཆེན་ མོ་ལ␣ས་ ནི་ འཁོར་ལོ␣ས་ སྒྱུར་བ␣འི་ རྒྱལ་པོ་ བཙའ་བ␣ར་ འགྱུར་"
 " རོ་ ཞེས་"
-msgstr "Mahā­māyā fera naître un monarque universel. »"
+msgstr "Mahā­māyā fera naître un monarque universel »,"
 
 msgctxt "9f0e8ae6f4134276bb4762283242aed9"
 msgid "ལུང་བསྟན་ ཏེ །"
