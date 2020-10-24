@@ -749,7 +749,7 @@ msgstr "Dès qu'il l'eut entendu,"
 
 msgctxt "a5d7326ecd054b40a4aca2c183267ff2"
 msgid "ཚེ་ དང་ ལྡན་པ་ པད་མ␣འི་ མདོག་ གིས་ རྣ་བ་ གཉིས་ བཀག་ སྟེ་"
-msgstr "l'honorable Couleur-de-Lotus recouvrit ses deux oreilles et"
+msgstr "l'honorable Couleur-de-Lotus boucha ses deux oreilles et"
 
 msgctxt "93ec3bc96f72462c92d4f877a5b6545c"
 msgid "འདུག་ ནས །"
