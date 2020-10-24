@@ -801,7 +801,7 @@ msgid ""
 "སོད་ ཅིག་ ཅེས་"
 msgstr ""
 "\"Tuez cette chose (lit. ceci) pour qu'il ne pratique plus l'adultère avec "
-"les femmes d'autrui.\""
+"les femmes d'autrui\","
 
 msgctxt "1df501f6b5f34ec8bd7caf2298b1c461"
 msgid "བྱས་ སོ ། །"
