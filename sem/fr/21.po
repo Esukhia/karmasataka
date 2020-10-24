@@ -226,7 +226,7 @@ msgid ""
 "ཡོད་ དེ །"
 msgstr ""
 "Certaines femmes qui ont une intelligence naturelle possèdent cinq "
-"particularités (lit. cinq choses/dharmas spécifiques) :"
+"particularités (lit. cinq choses/dharmas spécifiques)."
 
 msgctxt "d228abbdcea6434fac38d2ba5c2f5e02"
 msgid "ལྔ་ གང་ཞེ་ན །"
