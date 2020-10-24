@@ -16,7 +16,7 @@ la fête de sa naissance fut faite [de manière] grandiose (lit. vastement) et
 	དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ནས།
 « Comment nommer ce garçon ? »
 	ཁྱེའུ་འདིའི་མིང་<«གཡུང་»«པེ་»+ཅི་སྐད་གདགས་ཤེས་མིང་།>ཅི་<«ཞོལ་»ཇི།>སྐད་གདགས་ཞེས་<«གཡུང་»«མི་»«པེ་»«ཅོ་»ཤེས།>
-un nom lui fut donné : «
+Un nom lui fut donné : «
 	མིང་འདོགས་པར་བྱེད་དེ།
 Puisque ce garçon est estropié, son nom sera “Paṅgu”, [l’estropié]. »
 	ཁྱེའུ་འདི་<«གཡུང་»«པེ་»འདིའི།>འཕྱེ་བོ་ཡིན་པས་ན་<«གཡུང་»«པེ་»ནས།>ཁྱེའུ་འདིའི་མིང་འཕྱེ་བོར་གདགས་སོ། །
@@ -30,7 +30,7 @@ Quelle profession (lit. artisanat) qui lui permettrait d’obtenir [de quoi] viv
 	བཟོ་དེས་འཚོ་བ་རྙེད་པར་འགྱུར་བའི་བཟོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»གཟོ།>ཇི་ལྟ་བུ་ཞིག་བསླབ་པར་བྱ་<«གཡུང་»«པེ་»བྱའོ།>སྙམ་མོ། །
 Alors, il pensa : «
 	དེ་ནས་དེས་བསམས་པ་<«གཡུང་»«པེ་»པས།>
-décidément,
+Décidément,
 	མ་ལ་
 quand mon [enfant] aura appris le métier (lit. travail) de tailleur,
 	བདག་གི་<«ཞོལ་»གིས།>འདི་ཚེམ་བུ་མཁན་གྱི་ལས་བསླབས་པ་དང་
@@ -102,7 +102,7 @@ elle l’amadoua et
 	ཁ་གསག་<«གཡུང་»«ལི་»«སྣར་»«ཞོལ་»གསག «པེ་»«ཅོ་»གསོག>བྱས་ཏེ་
 le servit de quelques manières et
 	ཅི་རིགས་པར་བསྙེན་བཀུར་བྱས་ནས་
-fut dormir avec lui.
+dormit avec lui.
 	དེ་དང་ལྷན་ཅིག་ཏུ་ཉལ་ལོ། །
 Après qu’ils furent endormis,
 	དེ་གཉིས་ཉལ་བ་དང་
@@ -122,7 +122,7 @@ Ils nous suffiront pour sept générations, donc
 	འདིས་ནི་བདག་ཅག་མི་རབས་བདུན་གྱི་བར་དུ་ཡང་ཆོག་པར་འགྱུར་ཏེ།
 nous en avons assez avec ça.
 	འདི་ཁོ་ནས་བདག་ཅག་ཆོག་གིས་<«ཞོལ་»གི།>
-Nous n’avons pas besoin d’autres objets. »
+Nous n’avons pas besoin d’autres objets »,
 	བདག་ཅག་ལ་རྫས་གཞན་མི་དགོས་སོ་སྙམ་<«ཅོ་»སྙམས།>དུ་
 pensèrent-ils. Puis,
 	བསམས་ནས།
@@ -146,7 +146,7 @@ Eh bien (lit. comme ceci)
 	འདི་ལྟར་
 quand la lune brille un liquide (lit. eau) coule de la malle (lit. de ça). Donc,
 	ཟླ་བ་ཤར་བ་ན། འདིའི་ནང་ནས་ཆུ་འབབ་པ་ལས་ན།
-il ne peut qu’y avoir (lit. c’est juste qu’y sont mis) des joyaux cristaux-d’eau. » pensèrent-ils. Puis,
+il ne peut qu’y avoir (lit. c’est juste qu’y sont mis) des joyaux cristaux-d’eau », pensèrent-ils. Puis,
 	འདིའི་ནང་དུ་ནི་ནོར་<«གཡུང་»བདི་ལིན་ད་མནར།>བུ་ཆུ་ཤེལ་བཅུག་ཡང་དག་སྙམ་སྟེ།
 ils furent d’autant plus heureux.
 	ལྷག་པར་<«གཡུང་»ལྷང་བར།>ཡང་སྙིང་དགའ་བར་གྱུར་ཏོ། །
@@ -168,7 +168,7 @@ Chef,
 	དེང་དུ་ནི་བདག་ཅག་གིས་ཐམས་ཅད་ཀྱི་དབུལ་བའི་རྒྱུན་བཅད་ཀྱིས་<«ཞོལ་»ཀྱི།>
 réjouissez-vous.
 	དགྱེས་པ་བསྐྱེད་དུ་གསོལ།
-Cette fois, nous avons trouvé une malle pleine de joyaux. »
+Cette fois, nous avons trouvé une malle pleine de joyaux »,
 	དེང་བདག་ཅག་གིས་རིན་པོ་ཆེས་གང་བའི་གཟེབ་རྙེད་དོ་ཞེས་
 dirent-ils.
 	བྱས་སོ། །
@@ -178,7 +178,7 @@ dirent : «
 	སྨྲས་པ།
 Ouvrez donc cette malle.
 	གཟེབ་ཕྱེ་ཞིག་དང་
-Nous allons regarder quels joyaux y ont été placés. »
+Nous allons regarder quels joyaux y ont été placés »,
 	འདིར་རིན་པོ་ཆེ་ཇི་ལྟ་བུ་དག་བཅུག་པ་བལྟའོ་ཞེས་
 dirent-ils.
 	བྱས་སོ། །
@@ -194,7 +194,7 @@ et qu’il s’y trouvait, ils le virent et
 	འདུག་པ་མཐོང་ནས།
 dès qu’ils le virent,
 	མཐོང་མ་ཐག་ཏུ་
-« Tout ce que nous avons marché (lit. aller) et tout ce que nous avons porté cet estropié, il nous a fait souffrir la nuit du début à la fin. » pensèrent-ils et
+« Tout ce que nous avons marché (lit. aller) et tout ce que nous avons porté cet estropié, il nous a fait souffrir la nuit du début à la fin », pensèrent-ils et
 	དེར་སོང་སོང་བ་དང་གཟེབ་དེ་ཁྱེར་ཁྱེར་བ་གང་ཡིན་པ་དེ་དག་ནི་འཕྱེ་བོ་འདིས་བདག་ཅག་མཚན་ཐོག་ཐག་<«གཡུང་»«ལི་»«པེ་»ཏག>ཉོན་མོངས་སོ་སྙམ་ནས་
 ils furent dépités (lit. souffrirent).
 	སྡུག་བསྔལ་བར་གྱུར་ཏོ། །
@@ -204,7 +204,7 @@ ils dirent : «
 	སྨྲས་པ།
 Vous avez bien souffert.
 	ལེགས་པར་ཉོན་མོངས་སོ། །
-Vous avez beaucoup souffert. »
+Vous avez beaucoup souffert »,
 	ཤིན་ཏུ་ཉོན་མོངས་སོ་ཞེས་
 dirent-ils.
 	བྱས་<«གཡུང་»–བྱས།>སོ། །
@@ -236,7 +236,7 @@ Je suis à moitié heureuse,
 	ཕྱེད་མི་དགའ། །
 Les voleurs qui sont partis dans la forêt, ils rient et
 	ནགས་འདབ་<«ཞོལ་»འདབས།>སོང་བའི་རྐུན་པོ་རྣམས། །དེ་ནི་དགོད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»ད་ནི་རྒོད།>ཅིང་
-ils pleurent. »
+ils pleurent »,
 	ངུ་བར་འགྱུར། །ཞེས་
 dit-elle.
 	བྱས་སོ། །
@@ -244,13 +244,13 @@ Ensuite, ceux qui avaient apporté la malle se mirent en colère et
 	དེ་ནས་དེར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»དེ།>གཟེབ་དེ་ཁྱེར་ཏེ་འོངས་པ་གང་ཡིན་པ་དེ་དག་ཁྲོས་ཏེ་
 dirent : «
 	སྨྲས་པ།
-Eh bien (lit. comme ceci)
+Eh bien (lit. comme ceci),
 	འདི་ལྟར་
-Il est vrai que l’estropié nous a rendu malheureux, mais
+il est vrai que l’estropié nous a rendu malheureux, mais
 	འཕྱེ་བོ་འདིས་བདག་ཅག་མི་དགའ་བར་བྱས་མོད་ཀྱི།
 pourtant, nous devons faire offrande au yakṣa. Donc,
 	འོན་ཀྱང་བདག་ཅག་གི་གནོད་སྦྱིན་མཆོད་དགོས་ཀྱིས་<«ཞོལ་»ཀྱི།>
-c’est lui que (lit. lui seul) nous offrirons au yakṣa. »
+c’est lui que (lit. lui seul) nous offrirons au yakṣa »,
 	བདག་ཅག་གིས་འདི་ཁོ་ནས་གནོད་སྦྱིན་ལ་མཆོད་པ་<«གཡུང་»པར།>བྱའོ་ཞེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཞེས།>
 dirent-ils. Puis,
 	སྨྲས་ནས།
@@ -282,7 +282,7 @@ Vénérable,
 	བཙུན་པ་
 Bienheureux, puisqu’il n’est rien du passé, du futur ni du présent que vous ne voyiez pas, que vous ne sachiez pas et que vous ne compreniez pas,
 	བཅོམ་ལྡན་འདས་ཀྱིས་ནི་འདི་ལྟ་སྟེ་འདས་པ་དང་མ་འོངས་པ་དང་། ད་ལྟར་བྱུང་བ་ཅི་ཡང་མི་གཟིགས་པ་དང་མི་མཁྱེན་པ་དང་ཐུགས་སུ་མ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»མི།>ཆུད་པ་མི་མངའ་ན
-Hélas !
+hélas,
 	ཀྱེ་མ་
 Bienheureux,
 	བཅོམ་ལྡན་འདས།
@@ -294,7 +294,7 @@ je suis perdu. Donc,
 	ཕོངས་པར་གྱུར་པ་ལགས་ཀྱིས་<«ཞོལ་»ཀྱི།>
 veuillez me sauver (lit. donner refuge) complètement.
 	བདག་ཡོངས་སུ་བསྐྱབ་ཏུ་གསོལ།
-Veuillez m’accorder la vie que je pleure (lit. je regrette d’avoir perdu). »
+Veuillez m’accorder la vie que je pleure (lit. je regrette d’avoir perdu) »,
 	སྲོག་ཕངས་པ་སྩལ་དུ་གསོལ་ཞེས་
 dit-il.
 	བྱས་སོ། །
@@ -318,7 +318,7 @@ ils s’engagent dans les neuf absorptions méditatives successives ;
 	མཐ་ར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་ལ་སྙོམས་པར་འཇུག་པ།
 ils possèdent la puissance des dix forces ;
 	སྟོབས་བཅུའི་སྟོབས་དང་ལྡན་པ།
-Eux qui font résonner le grand rugissement parfait du lion, ils contemplent spontanément le monde avec les yeux de bouddhas pendant les six périodes de la journée, trois fois le jour et trois fois la nuit.
+eux qui font résonner le grand rugissement parfait du lion, ils contemplent spontanément le monde avec les yeux de bouddhas pendant les six périodes de la journée, trois fois le jour et trois fois la nuit.
 	ཡང་དག་པར་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་<«ཞོལ་»སྒྲོག>པ་རྣམས་ནི། ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ། ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ།
 « Qui s’affaiblit ?
 	སུ་ནི་རྒུད།
@@ -364,7 +364,7 @@ inciterais-je à [les] faire jaillir à l’aide de l’arme de la sagesse ?
 	ཡེ་ཤེས་ཀྱི་མཚོན་གྱིས་བརྟོལ་བར་བྱ།
 Pour quel être (lit. qui) fructifierais-je ce monde qui est orné puisqu’un bouddha y est apparu ? »
 	སུ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལ།>ནི་སངས་རྒྱས་བྱུང་བས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ནས།>བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་སྙམ་དུ་
-[ainsi] s’applique leur regard de sagesse.
+[Ainsi] s’applique leur regard de sagesse.
 	ཡེ་ཤེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»+ཀྱི།>གཟིགས་པ་<«གཡུང་»«པེ་»+ལ།>འཇུག་གོ། །
 [Dans] l’océan, la demeure des [monstres] makara,
 	རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས། །
@@ -380,7 +380,7 @@ depuis cette statue de ce dieu, il se tint dans les attributs de ce dieu.
 	ལྷའི་སྐུ་གཟུགས་དེ་ཉིད་ལས་ལྷའི་ཆ་ལུགས་སུ་བཞུགས་སོ། །
 Ensuite, les cinq cent brigands pensèrent : «
 	དེ་ནས་མི་རྒོད་ལྔ་བརྒྱ་འདི་སྙམ་དུ་སེམས་ཏེ།
-Le dieu se montre à nous. »
+Le dieu se montre à nous »,
 	ལྷས་བདག་ཅག་ལ་རང་གི་སྐུ་བསྟན་ཏོ་
 pensèrent-ils. Puis,
 	སྙམ་སྟེ།
@@ -408,7 +408,7 @@ installez-vous.
 	འཁོད་ཅིག་དང་
 Je vous enseignerai le Dharma. »
 	ཆོས་བསྟན་པར་བྱའོ། །
-Ensuite, « Nous ferons ainsi. »
+Ensuite, « Nous ferons ainsi »,
 	དེ་ནས་དེ་ལྟར་འཚལ་ལོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལོ>ཞེས་
 dirent-ils. Puis,
 	བྱས་ནས་
@@ -462,13 +462,13 @@ devinrent [aussi longs que s’ils étaient coupés] depuis sept jours.
 	ཞག་བདུན་ལོན་པ་ཙམ་དུ་གྱུར་
 Concernant leur conduite, ils se tinrent comme s’ils avaient été moines depuis cent ans.
 	སྤྱོད་ལམ་ནི་བསྙེན་པར་རྫོགས་ནས་ལོ་བརྒྱ་ལོན་པ་ལྟ་བུར་འདུག་པར་གྱུར་ནས་
-ils se trouvèrent entrain de tenir un bol à aumône et un récipient à eau dans leurs mains.
+Ils se trouvèrent entrain de tenir un bol à aumône et un récipient à eau dans leurs mains.
 	ལག་ན་ལྷུང་བཟེད་དང་ཆུ་སྣོད་ཐོགས་པར་གྱུར་ཏོ། །
 On dira ici :
 	འདིར་སྨྲས་པ།
 Le Tathāgata, « [Viens] ici »
 	དེ་བཞིན་གཤེགས་པས་ཚུར་ཞེས་བཀའ་སྩལ་པས། །
-sa tête est rasée,
+Sa tête est rasée,
 	དེ་ནི་མགོ་བྲེགས་
 il porte la saṃghāṭī.
 	ལུས་ལ་སྣམ་སྦྱར་གྱོན། །
@@ -482,7 +482,7 @@ de leur côté, ils s’efforcèrent, s’appliquèrent et s’évertuèrent à 
 	དེ་དག་གིས་ཀྱང་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
 ils manifestèrent l’état d’arhat.
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
-ils devinrent des arhats libres de l’attachement aux trois mondes. Ainsi,
+Ils devinrent des arhats libres de l’attachement aux trois mondes. Ainsi,
 	དེ་དག་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།
 [un morceau] d’or et une motte de terre étaient identiques [à leurs yeux] ;
 	གསེར་དང་བོང་<«གཡུང་»པོར།>བར་མཉམ་པ་
@@ -502,7 +502,7 @@ Ensuite, Paṅgu pensa : «
 	དེ་ནས་འཕྱེ་བོས་བསམས་པ།
 Si mon corps n’était pas comme ça, moi aussi, je me retirerais du monde selon l’enseignement du Bienheureux et
 	གལ་ཏེ་བདག་ཀྱང་ལུས་འདི་འདྲ་བར་མ་གྱུར་ན་ནི་བདག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་སྟེ།
-je m’efforcerais, je m’appliquerais et je m’évertuerais pour traverser les fleuves et transcender ce qui m’engage [dans le samsara]. » pensa-t-il.
+je m’efforcerais, je m’appliquerais et je m’évertuerais pour traverser les fleuves et transcender ce qui m’engage [dans le samsara] », pensa-t-il.
 	ཆུ་བོ་རྣམས་ལས་བརྒལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»རྒལ།>བར་བྱ་བ་དང་སྦྱོར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»འབྱོར།>བ་རྣམས་<«གཡུང་»«པེ་»+ཀྱིས།>ལས་འདའ་བར་བྱ་བའི་ཕྱིར་བརྩོན་པ་དང་བསྒྲུབ་<«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པར་བྱ་བ་ཞིག་ན་སྙམ་མོ། །
 Ensuite, au moment où il dit ceci, il fut entièrement doté de toutes les facultés physiques et
 	དེ་ནས་དེ་སྐད་ཅེས་བརྗོད་མ་ཐག་ཏུ་དེའི་ལུས་དེ་རྣམ་པ་ཐམས་ཅད་དུ་ཡོངས་སུ་རྫོགས་ཤིང་
@@ -560,7 +560,7 @@ Moines,
 	དགེ་སློང་དག་
 il a lui-même réalisé et accumulé des actions correspondantes (lit. comme ceci). En effet,
 	འདི་ཉིད་ཀྱིས་ལས་དེ་<«ལི་»ཏེ།>ལྟ་བུ་བྱས་ཤིང་བསགས་ཏེ་
-Moines,
+moines,
 	དགེ་སློང་དག་
 à un moment du passé qui s’est déroulé auparavant, pendant ce même éon fortuné, quand la durée de vie des personnes pouvaient [atteindre] vingt-mille ans, le complet et parfait bouddha, celui doté de la vision et des jambes, le sugata, le connaisseur du monde, l’insurpassable cocher des êtres à guider, l’enseignant des dieux et des hommes, le Bienheureux Bouddha Kāśyapa était apparu en ce monde et
 	སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ་སྐྱེས་བུ་གདུལ་བྱའི་<«གཡུང་»«པེ་»བའི།>ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>སྟོན་པ་སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་སྲུང་<«གཡུང་»«པེ་»བསྲུང་།>ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།
@@ -578,19 +578,19 @@ L’autre frère travaillait dans les champs et
 	ནུ་བོ་ཅིག་ཤོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག་ཤོས། «ཁུ་»གཅིག་བཤོས།>ནི་ཞིང་ལས་<«གཡུང་»«པེ་»སླས།>བྱེད་དེ་
 il pensa : «
 	དེས་བསམས་པ་
-je suis affligé par le froid quand il fait froid,
+Je suis affligé par le froid quand il fait froid,
 	བདག་ནི་གྲང་བ་ན་ཡང་གྲང་བས་ཉེན་
 je suis affligé par la chaleur quand il fait chaud, et
 	ཚ་བ་<«གཡུང་»ཚ་བས «པེ་»ཆེ་བས། «ཅོ་»ཚེ་བ།>ན་ཡང་ཚ་བས་ཉེན་ལ།
 lui, il reste dans la maison et
 	འདི་ནི་ཁྱིམ་ན་འདུག་ཅིང་
-il passe du bon temps (lit. fait l’expérience du bonheur). » pensa-t-il. Puis,
+il passe du bon temps (lit. fait l’expérience du bonheur) », pensa-t-il. Puis,
 	བདེ་བ་ཉམས་སུ་མྱོང་བར་བྱེད་དོ་སྙམ་ནས།
 il se mit en colère et
 	དེ་ཁྲོས་ཏེ་
 il dit des paroles blessantes à celui qui avait [atteint le niveau de] ceux qui ne reviennent plus : «
 	ཕྱིར་མི་འོང་བ་དེ་ལ་ཚིག་རྩུབ་པོ་སྨྲས་པ།
-je suis affligé par le froid quand il fait froid,
+Je suis affligé par le froid quand il fait froid,
 	བདག་ནི་གྲང་བ་ན་ཡང་གྲང་བས་ཉེན་
 je suis affligé par la chaleur quand il fait chaud, et
 	ཚ་བ་ན་ཡང་<«གཡུང་»–ཡང་།>ཚ་བས་ཉེན་ཏེ་
@@ -608,7 +608,7 @@ Ensuite, celui qui ne reviendrait plus pensa : «
 	དེ་ནས་ཕྱིར་མི་འོང་བས་བསམས་པ།
 Ce frère à moi me dit des paroles blessantes. Donc,
 	ནུ་བོ་འདིས་བདག་ལ་ཚིག་རྩུབ་པོ་སྨྲས་ཀྱིས་<«ཞོལ་»ཀྱི།>
-il faut que je l’aide de façon à ce qu’il ne se perde pas de manière définitive. » pensa-t-il. Puis,
+il faut que je l’aide de façon à ce qu’il ne se perde pas de manière définitive », pensa-t-il. Puis,
 	གཏན་དུ་ཕུང་བར་མི་འགྱུར་བར་<«གཡུང་»«པེ་»བའི།>བྱ་བའི་ཕྱིར་འདིའི་ར་མདའ་<«གཡུང་»འདའ།>བྱ་དགོས་སོ་སྙམ་ནས་
 il fit montre de ses pouvoirs surnaturels devant lui et
 	དེས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–དེས།>དེའི་མདུན་དུ་རྫུ་འཕྲུལ་བསྟན་ཏེ་
@@ -616,7 +616,7 @@ dit : «
 	སྨྲས་པ།
 Tu m’as dit des paroles blessantes. Donc,
 	ཁྱོད་ཀྱིས་ང་ལ་ཚིག་རྩུབ་པོ་སྨྲས་ཀྱིས་<«ཞོལ་»ཀྱི།>
-[concernant] ta mauvaise action, [dis] « J’ai mal agi » et
+[concernant] ta mauvaise action, [dis] « J’ai mal agi. » et
 	ཉེས་པ་ལ་ཉེས་སོ་ཞེས་
 confesse-toi.
 	བཤགས་པར་གྱིས་ཤིག །
@@ -660,7 +660,7 @@ il manifesta l’état d’arhat (lit. l’arhat-même).
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། །
 L’autre se retira du monde et
 	ཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>ཤོས་ཀྱིས་ནི་རབ་ཏུ་བྱུང་ནས་
-vécu chastement toute leur vie, puis
+vécu chastement toute sa vie, puis
 	ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དེ་
 il fit ce souhait au moment de mourir : «
 	འཆི་ཀར་<«ཁུ་»གར། «ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
@@ -670,7 +670,7 @@ Si par hasard (lit. sur cent), le résultat mûrit sur moi, puisse ce mal dispar
 	བརྒྱ་ལ་ལས་དེའི་འབྲས་བུ་བདག་ལ་སྨིན་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འགྱུར།>ན་ཡང་རབ་ཏུ་འབྱུང་བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་མ་ལེགས་པ་མེད་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»འགྱུར།>ཏེ་
 puisse ce qui est bien m’arriver.
 	ལེགས་པ་<«སྣར་»«ཞོལ་»པར།>འབྱུང་བར་གྱུར་ཅིག །
-Eh bien (lit. comme ceci)
+Eh bien (lit. comme ceci),
 	འདི་ལྟར་
 je me suis retiré du monde et
 	བདག་རབ་ཏུ་བྱུང་ནས་
@@ -686,7 +686,7 @@ M’étant retirée du monde d’après son (lit. à lui-même) enseignement et
 	དེ་ཁོ་<«གཡུང་»«པེ་»ཁོའ།>ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
 après avoir éliminé toutes les émotions perturbatrices,
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
-puissé-je manifester l’état d’arhat (lit. l’arhat-même). »
+puissé-je manifester l’état d’arhat (lit. l’arhat-même) »,
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་
 dit-il.
 	བྱས་སོ། །
@@ -706,9 +706,9 @@ vécu chastement toute sa vie et
 	ཚེ་གཅིག་ཏུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་དེ་
 fit ce souhait au moment de mourir : «
 	འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
-Eh bien (lit. comme ceci)
+Eh bien (lit. comme ceci),
 	འདི་ལྟར་
-Puissé-je de pas devoir subir [le résultat] d’avoir dit des paroles blessantes à un être comme lui.
+puissé-je de pas devoir subir [le résultat] d’avoir dit des paroles blessantes à un être comme lui.
 	བདག་གིས་སེམས་ཅན་དག་པ་འདི་ལྟ་བུ་ལ་ཚིག་རྩུབ་པོ་<«གཡུང་»«པེ་»མོ།>སྨྲས་པའི་ལས་དེའི་སྐལ་བ་ཅན་དུ་བདག་མ་གྱུར་ཅིག །
 Si par hasard (lit. sur cent), le résultat mûrit sur moi, puisse mon mal disparaître dès que je conçois l’idée de me retirer du monde et
 	བརྒྱ་ལ་ལས་དེའི་རྣམ་པར་སྨིན་པ་བདག་ལ་སྨིན་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ་བདག་ལ་སྨིན།>པར་གྱུར་ན་ཡང་རབ་ཏུ་འབྱུང་<«གཡུང་»«པེ་»«ཞོལ་»བྱུང་།>བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་བདག་གི་<«ཁུ་»གིས།>མ་ལེགས་པ་མེད་པར་གྱུར་ཏེ།
@@ -716,7 +716,7 @@ puisse ce qui est bien m’arriver. »
 	ལེགས་པ་འབྱུང་<«གཡུང་»«པེ་»བྱུང་།>བར་གྱུར་ཅིག་ཅེས་
 Avoir formulé (lit. fait) ce souhait fit que maintenant, son corps trouva toutes les facultés physiques au moment où il conçut la pensée de se retirer du monde.
 	བྱས་པ་དེས་ནི་ད་<«གཡུང་»དེ།>ལྟར་རབ་ཏུ་བྱུང་བའི་སེམས་བསྐྱེད་མ་ཐག་ཏུ་ལུས་ཀྱི་ཡན་ལག་ཐམས་ཅད་ཡོངས་སུ་རྫོགས་པར་གྱུར་ཏོ། །
-Le souhait qu’il formula (« 
+Il formula le souhait suivant : « 
 	དེས་དེར་སྨོན་ལམ་བཏབ་སྟེ་
 Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le jeune brahmane Uttara [d’après] la prophétie du complet et parfait Bouddha Kāśyapa.
 	ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས། བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །
@@ -792,7 +792,7 @@ ils firent le sacrifice.
 	མཆོད་སྦྱིན་བྱས་སོ། །
 Cet homme, quant à lui, « Ils vont me tuer et
 	མི་དེས་ཀྱང་བདག་འདི་རྣམས་ཀྱིས་བསད་དེ་
-vont [m’]offrir au yakṣa. C’est ce qu’ils pensent. » pensa-t-il. Puis,
+vont [m’]offrir au yakṣa. C’est ce qu’ils pensent », pensa-t-il. Puis,
 	གནོད་སྦྱིན་གྱི་མཆོད་པ་བྱེད་པར་སེམས་སམ་<«གཡུང་»མི་སེམས།>སྙམ་ནས་
 il fut pris d’une grande panique.
 	དེ་ཤིན་ཏུ་འཇིགས་ཤིང་སྐྲག་པར་གྱུར་ཏོ། །
@@ -812,11 +812,11 @@ il pria mentalement ce ṛṣi avec dévotion : «
 	དེས་དད་པའི་སེམས་ཀྱིས་དྲང་སྲོང་དེ་ལ་གསོལ་བ་བཏབ་པ།
 Bienheureux, puisqu’il n’est rien que vous ne voyiez pas, que vous ne sachiez pas et que vous ne compreniez pas,
 	བཅོམ་ལྡན་འདས་ནི་མི་གཟིགས་པ་དང་། མི་མཁྱེན་པ་དང་། ཐུགས་སུ་<«གཡུང་»–སུ།>མི་ཆུད་པ་ཅི་ཡང་མི་མངའ་ན་
-Quelle merveille !
+hélas,
 	ཀྱེ་མ་
 Veuillez m’accorder la vie que je pleure (lit. je regrette d’avoir perdu).
 	བདག་ལ་སྲོག་ཕངས་པ་སྩལ་དུ་གསོལ།
-Veuillez prendre sur vous les difficultés [pour le faire]. »
+Veuillez prendre sur vous les difficultés [pour le faire] »,
 	དཀའ་བ་སྐུ་ཉམས་སུ་བཞེས་པར་གསོལ་ཞེས་
 dit-il.
 	བྱས་སོ། །
@@ -848,7 +848,7 @@ installez-vous devant moi.
 	ངའི་མདུན་དུ་འཁོད་ཅིག་དང་
 Je vous enseignerai le Dharma. »
 	ཁྱོད་ལ་ཆོས་བཤད་དོ། །
-Ensuite, « Nous ferons selon les ordres de ṛṣi. »
+Ensuite, « Nous ferons selon les ordres de ṛṣi »,
 	དེ་ནས་དྲང་སྲོང་གིས་བཀའ་སྩལ་པ་བཞིན་དུ་འཚལ་ལོ་ཞེས་
 dirent-ils. Puis,
 	སྨྲས་ནས།
