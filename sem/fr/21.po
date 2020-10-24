@@ -764,7 +764,7 @@ msgstr "« Je ne ferai pas de mauvaise action comme ceci."
 # བཅོམ་ལྡན་འདས་ཀྱི་<«གཡུང་»«པེ་»ཀྱིས།>བསྟན་པ་ཉམས་པར་བྱེད་མི་ཕོད་དོ་ཞེས་
 msgctxt "e5687d5817ea471db64156e5938247f5"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱི་ བསྟན་པ་ ཉམས་པ␣ར་ བྱེད་ མི་ ཕོད་ དོ་ ཞེས་"
-msgstr "Je n'ose pas dégrader l'enseignement du Bienheureux. »"
+msgstr "Je n'ose pas dégrader l'enseignement du Bienheureux »,"
 
 msgctxt "049ce6b42e5c473cacf60f6bff39a173"
 msgid "བྱས་ སོ ། །"
