@@ -976,7 +976,7 @@ msgstr "soit vous dormez avec cette prostituée."
 
 msgctxt "cd8b9f9df7bf4d199cacb8835a2376b8"
 msgid "ཡང་ན་ ནི་ མེ་ འདི␣འི་ ནང་ དུ་ མཆོངས་ ཤིག་ ཅེས་"
-msgstr "Soit vous sautez dans ce feu. »"
+msgstr "Soit vous sautez dans ce feu »,"
 
 msgctxt "1c96eede2baf42bfb4615cae953baf00"
 msgid "བྱས་ སོ ། །"
