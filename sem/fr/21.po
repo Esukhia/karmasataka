@@ -506,7 +506,7 @@ msgid ""
 "འདི␣འི་ མིང་ པད་མ␣འི་ མདོག་ ཅན་ ཞེས་ གདགས་ སོ་ ཞེས་"
 msgstr ""
 "Puisque la couleur de ce garçon est semblable à l'essence de lotus, son nom "
-"sera (lit. sera donné) \"Couleur-de-Lotus\". »"
+"sera (lit. sera donné) \"Couleur-de-Lotus\" »,"
 
 msgctxt "6e58306f429d4bcd805ae7c08ad38021"
 msgid "ཟེར་ རོ ། །"
