@@ -1010,7 +1010,7 @@ msgstr ""
 
 msgctxt "fd62aa6847e44a83b82fb9579c130049"
 msgid "འདི་ དང་ ཕྲད་པ␣ར་ བྱ་བ་ ནི་ དེ་ལྟ་ མ་ ཡིན་ ནོ་ སྙམ་ དུ་"
-msgstr "avoir un rapport avec elle ne l'est pas. »"
+msgstr "avoir un rapport avec elle ne l'est pas »,"
 
 msgctxt "b33a0d61d38341baa0ba2a3804c5e7ab"
 msgid "བསམས་ ནས །"
