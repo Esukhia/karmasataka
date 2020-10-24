@@ -672,7 +672,7 @@ msgstr ""
 # ཕྱིར།>ཡང་བདག་གིས་དེ་དང་མི་འཐུན་པར་བྱའོ་སྙམ་དུ་
 msgctxt "78585d374cdd45b28c05dd0c34b7d026"
 msgid "ཕྱིར་ཡང་ བདག་ གིས་ དེ་ དང་ མི་ འཐུན་པ␣ར་ བྱ␣འོ་ སྙམ་ དུ་"
-msgstr "je vais à nouveau me mettre (lit. faire) en désaccord avec lui.\""
+msgstr "je vais à nouveau me mettre (lit. faire) en désaccord avec lui\","
 
 msgctxt "6379f5e9fa3043c08bcbcda99bcb3f72"
 msgid "བསམས་ ནས །"
