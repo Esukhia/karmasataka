@@ -558,7 +558,7 @@ msgstr "sachez-le et"
 # ཅི་ནས་བདག་ཁྱོད་དང་ཕྲད་པར་འགྱུར་བ་<«གཡུང་»«པེ་»–འགྱུར་བ།>དེ་ལྟར་གྱིས་ཤིག་ཅེས་
 msgctxt "392cb3c3c8f04d6c89b4a350bae58996"
 msgid "ཅི་ ནས་ བདག་ ཁྱོད་ དང་ ཕྲད་པ␣ར་ འགྱུར་བ་ དེ་ལྟར་ གྱིས་ ཤིག་ ཅེས་"
-msgstr "faites tout de façon à ce que nous puissions nous rencontrer.\""
+msgstr "faites tout de façon à ce que nous puissions nous rencontrer\","
 
 msgctxt "5ee9d2d4a7ab4183ad683c19a2b46045"
 msgid "སྤྲིང་ ངོ་ ། །"
