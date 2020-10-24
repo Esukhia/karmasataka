@@ -2060,7 +2060,7 @@ msgstr ""
 
 msgctxt "602db60d831945e4ac8d85312051e6f2"
 msgid "པད་མ␣འི་ སྙིང་པོ␣འི་ མདོག་ འདྲ་བ␣ར་ གྱུར་ ལགས །"
-msgstr "elle avait la teinte de l'essence de lotus ? »"
+msgstr "il avait la teinte de l'essence de lotus ? »"
 
 msgctxt "7b37a492196a435884839ff6a1ba135d"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
