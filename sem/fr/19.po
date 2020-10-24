@@ -829,7 +829,7 @@ msgstr "Maintenant, que reste-t-il de plus à tuer ?"
 # ཐོང་།>ལགས་ཞེས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཤེས།>
 msgctxt "977d208d0bb24666b4f093caa0052e20"
 msgid "ཐོང་ ལགས་ ཞེས་"
-msgstr "Relachez-le.\""
+msgstr "Relachez-le\","
 
 msgctxt "107e3e82dd50412280d61ee15a5e34a2"
 msgid "གསོལ་ ནས་"
