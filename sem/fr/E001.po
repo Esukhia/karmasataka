@@ -201,7 +201,7 @@ msgstr "Pour qui fructifierais-je ce monde orné de la venue d'un bouddha ? »"
 # ཡེ་ཤེས་གཟིགས་<«གཡུང་»«པེ་»+ལ།>པ་འཇུག་གོ། །
 msgctxt "7bd37790a28c45e2a91ab140aa992204"
 msgid "ཡེ་ཤེས་ གཟིགས་པ་ འཇུག་ གོ ། །"
-msgstr "[ainsi] s'applique leur regard de sagesse."
+msgstr "[Ainsi] s'applique leur regard de sagesse."
 
 # རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་<«གཡུང་»ཀྱིས།>གནས། །
 msgctxt "270c245525a648e4b93466e1f9edc6d7"
