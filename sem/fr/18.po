@@ -1001,7 +1001,7 @@ msgid ""
 "དུ་ ཞུ་ མི་ ནུས་ སོ ། །"
 msgstr ""
 "leur prestance est insoutenable, donc nous ne parvenons pas à lui faire "
-"cette demande."
+"cette demande. »"
 
 msgctxt "c23c0e77a3a74de99d5aa7c87c7c5194"
 msgid "ཚེ་ དང་ ལྡན་པ་ ཀུན་དགའ་ བོས་ སྨྲས་པ །"
