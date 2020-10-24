@@ -2035,7 +2035,7 @@ msgstr ""
 msgctxt "953260908f954b2eab18ea6348b64283"
 msgid "འཁོར་ དེ་དག་ གི་ ནང་ ནས་ ཕལ་ཆེར་ ནི་ སངས་རྒྱས་ ལ་ གཞོལ །"
 msgstr ""
-"la majorité des personnes parmi cet entourage s'engagèrent (lit. "
+"La majorité des personnes parmi cet entourage s'engagèrent (lit. "
 "descendirent) auprès du Bouddha, "
 
 msgctxt "77b3e568eed949d79bc5dab6608f1d1d"
