@@ -28,7 +28,7 @@ msgid ""
 "དེ␣འི་ ཚེ་ མཉན་ དུ་ཡོད་པ་ ན་ ཤན་པ་ ཞིག་ གནས་པ་ དེ␣ས་ ཐབས་ ཟླ␣ར་ བབ་པ་ ལ␣ས་ "
 "ཆུང་མ␣ར་ བླངས་པ་ ལ␣ས །"
 msgstr ""
-"à cette époque, un boucher vivait à Śrāvastī. Puis, arrivé à (lit. tombé) "
+"À cette époque, un boucher vivait à Śrāvastī. Puis, arrivé à (lit. tombé) "
 "l'âge de se marier (lit. d'une épouse), il prit une épouse et"
 
 msgctxt "31b4f6d21d2f498db85c08acc47bbdab"
