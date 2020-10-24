@@ -797,7 +797,7 @@ msgstr "Bienheureux,"
 
 msgctxt "f8eaf0ad47094c7d8f74dc2f46b5ac19"
 msgid "གདན་ བཤམས་པ་ ལ་ བཞུགས་ སུ་ གསོལ་ ཞེས་"
-msgstr "veuillez vous asseoir sur le siège disposé [pour vous]. »"
+msgstr "veuillez vous asseoir sur le siège disposé [pour vous] »,"
 
 msgctxt "742a2fcae12443b5bbd7ba105b65b281"
 msgid "ཟེར་ རོ ། །"
