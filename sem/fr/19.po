@@ -526,7 +526,7 @@ msgstr "pour commencer, je vais faire la paix avec lui et"
 
 msgctxt "3cab22a6cfad41ebbc7b48959e6ba04f"
 msgid "དེ␣འི་ འོག་ ཏུ་ སླ་བ␣ར་ འགྱུར་ རོ་ སྙམ་ དུ་"
-msgstr "ça sera facile après cela.\""
+msgstr "ça sera facile après cela\","
 
 msgctxt "eacef6c8650648118573f5874497431a"
 msgid "བསམས་ ནས་"
