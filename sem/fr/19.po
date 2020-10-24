@@ -127,7 +127,7 @@ msgstr ""
 # «པེ་»དལ་དང་བསྐལ་པ།>དང་ལྡན་པར་འགྱུར་རོ་ཞེས་
 msgctxt "db6a6d1b352840a4b5a71296c095e5fc"
 msgid "ཁྱོད་ ཀྱང་ སྔོན་བཞིན་ དུ་ དཔལ་ དང་ སྐལ་བ་ དང་ ལྡན་པ␣ར་ འགྱུར་ རོ་ ཞེས་"
-msgstr "tu obtiendras comme avant la gloire et les privilèges. »"
+msgstr "tu obtiendras comme avant la gloire et les privilèges »,"
 
 msgctxt "04352277a15d4098a52a4af1fa2daf4e"
 msgid "སྤྲིང་ ངོ་ ། །"
