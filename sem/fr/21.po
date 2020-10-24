@@ -230,7 +230,7 @@ msgstr ""
 
 msgctxt "d228abbdcea6434fac38d2ba5c2f5e02"
 msgid "ལྔ་ གང་ཞེ་ན །"
-msgstr "ces cinq sont :"
+msgstr "Ces cinq sont :"
 
 msgctxt "7bc3f06137794632ace0c4ae21281e90"
 msgid "སྐྱེས་པ་ ཆགས་པ་ ཡང་ ཤེས་ ལ་"
