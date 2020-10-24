@@ -1110,7 +1110,7 @@ msgstr "avec une respectueuse attention, elle se prosterna à ses pieds : «"
 # སེམས་ཅན་དག་པ་<«ཅོ་»པར།>བཟོད་པར་གསོལ།
 msgctxt "536c9531c9df4876a6388f6831803af0"
 msgid "སེམས་ཅན་ དག་པ་ བཟོད་པ␣ར་ གསོལ །"
-msgstr "« Être pur, pardonnez-moi."
+msgstr "Être pur, pardonnez-moi."
 
 # བདག་ཉེས་པར་<«ལི་»«ཅོ་»དང་།>སྤྱོད་པའི་འདམ་དུ་བྱིང་བ་ལས་ལག་ནས་དྲང་བར་གསོལ།
 msgctxt "448209edf86b4a1b8c0e372c063ef3ac"
