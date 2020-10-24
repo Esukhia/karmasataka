@@ -1163,7 +1163,7 @@ msgid ""
 "བདག་ འདོད་པ␣འི་ འདོད་ཆགས་ ཀྱི་ དབང་ དུ་ གྱུར་པ␣ས་ ཁྱོད་ མི་ དགྱེས་པ␣ར་ "
 "བགྱིས་པ་ བཟོད་པ␣ར་ གསོལ་ ཞེས་"
 msgstr ""
-"j'étais sous l'emprise du désir de la chair. C'est pourquoi je vous ai "
+"j'étais sous l'emprise du désir charnel. C'est pourquoi je vous ai "
 "mécontenté. Veuillez me pardonner. »"
 
 msgctxt "69f88b484adb436e90e6aef4fc753945"
