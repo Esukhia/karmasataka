@@ -146,7 +146,7 @@ msgstr "Gopā,"
 # «སྣར་»«ཞོལ་»འཚོ་མ་ལྷས་བྱིན།>གྱིས་ནི་བདག་ལ་འདི་སྐད་ཅེས་སྤྲིང་ངོ་ཞེས་
 msgctxt "988f8b1ae67b42b38924ba315722b0f9"
 msgid "ལྷ་ སྦྱིན་ གྱིས་ ནི་ བདག་ ལ་ འདི་སྐད་ ཅེས་ སྤྲིང་ ངོ་ ཞེས་"
-msgstr "voici ce que Devadatta m'a fait dire. »"
+msgstr "voici ce que Devadatta m'a fait dire »,"
 
 msgctxt "cda1ef74da8e495cb108c118c78c5a6c"
 msgid "བྱས་ སོ ། །"
