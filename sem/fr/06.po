@@ -114,7 +114,7 @@ msgstr "il resta à Rājagṛha tant qu'il voulut et"
 # དེས་ཤམ་<«གཡུང་»ཤམས།>ཐབས་དང་ཆོས་གོས་བགོས་ཏེ།
 msgctxt "631ec9fe2b3e4a6ba678f53d24544c5c"
 msgid "དེ␣ས་ ཤམ་ཐབས་ དང་ ཆོས་གོས་ བགོས་ ཏེ །"
-msgstr "le matin, il revêtit le nivāsana et le cīvara, puis"
+msgstr "il revêtit le nivāsana et le cīvara, puis"
 
 msgctxt "ec85563c050c4b66aedd4bc20bcaed73"
 msgid "ལྷུང་བཟེད་ ཐོགས་ ནས་"
