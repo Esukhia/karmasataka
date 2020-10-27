@@ -506,7 +506,7 @@ msgid ""
 "མདུན་ན་འདོན་ གྱི་ བུ་ པིཎྜོ་ ལ་བ་ ར་ དྷྭ་ ཛ་ ཞེས་ བགྱི་བ་ ཞིག་ མཆིས་པ་ དེ␣ས་"
 " ཁྱིམ་ དང་ ཅོད་པན་ མ་ མཆིས་པ␣འི་ རྒྱལ་སྲིད་ བོར་ ནས་"
 msgstr ""
-"Il se trouve un fils de du prêtre-conseiller royal nommé Piṇḍola­bhāradvāja "
+"il se trouve un fils de du prêtre-conseiller royal nommé Piṇḍola­bhāradvāja "
 "qui a délaissé la vie de famille (lit. la maison) et [la charge de] régner "
 "sans la couronne et"
 
