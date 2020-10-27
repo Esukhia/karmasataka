@@ -927,7 +927,7 @@ msgstr "Grand roi,"
 # གཞན་ཡང་<«གཡུང་»སང་།>བདག་ལ་སེམས་དགའ་བར་གྱིས་ཤིག་དང་།
 msgctxt "e664a4e1e8ff423980bd793c2df5a45b"
 msgid "གཞན་ ཡང་ བདག་ ལ་ སེམས་ དགའ་བ␣ར་ གྱིས་ ཤིག་ དང་ །"
-msgstr "Par ailleurs, que votre cœur s'emplisse de joie à ma pensée."
+msgstr "par ailleurs, que votre cœur s'emplisse de joie à ma pensée."
 
 msgctxt "c886e6b120c3419c919ade3ed9f88dbf"
 msgid ""
