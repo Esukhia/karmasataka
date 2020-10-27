@@ -608,7 +608,7 @@ msgstr ""
 msgctxt "8785e4ae5503415cb5f56f40008ed885"
 msgid "ཁོས་ ང་ མཐོང་ ན་ བསུ་ ཡང་ མ་ བསུ་"
 msgstr ""
-"il m'a vu et ne m'a même pas reçu (lit. même me recevoir, il ne m'a pas "
+"Il m'a vu et ne m'a même pas reçu (lit. même me recevoir, il ne m'a pas "
 "reçu),"
 
 msgctxt "3ae8b8646594460e8325fc272ce38542"
