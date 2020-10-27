@@ -1097,7 +1097,7 @@ msgstr "« Deva,"
 
 msgctxt "889ba88d787e46d39348ef131bcc55a8"
 msgid "ཁྱོད་ ག་ལ␣ས་ གཤེགས་ ཏེ་"
-msgstr "d'où êtes-vous venus pour"
+msgstr "d'où êtes-vous venu pour"
 
 msgctxt "c02211a9e6bd41fd80c57a53ad66f414"
 msgid "འདི␣ར་ བྱོན་ ཅེས་"
