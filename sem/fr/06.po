@@ -1195,7 +1195,7 @@ msgstr "si [l'honorable] s'était trompé,"
 msgctxt "aa6d27fd07ff4defa1dfc9b4c39989c7"
 msgid "སྲས་ རྒྱལ་སྲིད་ ཀྱི་ དབང་ཕྱུག་ ལ་ དབང་ བྱེད་ དུ་ གཞུག་ གོ་ སྙམ་ དུ་"
 msgstr ""
-"Nous inciterons le prince à s'approprier [l'état] de seigneur du royaume »,"
+"nous inciterons le prince à s'approprier [l'état] de seigneur du royaume »,"
 
 msgctxt "c177b24ffc694281abc419ce473611ad"
 msgid "བསམས་ ནས །"
