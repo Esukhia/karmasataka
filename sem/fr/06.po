@@ -1284,8 +1284,8 @@ msgid ""
 "དེ་ནས་ དེ་ ཐོས་ མ་ ཐག་ ཏུ་ རྒྱལ་པོ་ དེ་ གནས་བརྟན་ ལ་ ཤིན་ཏུ་ དགའ་བ␣ར་ གྱུར་ "
 "ནས །"
 msgstr ""
-"Ensuite, au moment où il entendit ceci, le roi ressenti plus de joie encore "
-"à l'égard de l'Ancien. Puis,"
+"Ensuite, au moment où il entendit ceci, le roi ressentit plus de joie encore"
+" à l'égard de l'Ancien. Puis,"
 
 # དེས་<«གཡུང་»«པེ་»དེ།>བསམས་པ།
 msgctxt "92ec69c34bcd4fc792952ab981fcdc14"
