@@ -1820,7 +1820,7 @@ msgstr ""
 msgctxt "2516a7a9594f416cb906c0b96a1f9b8f"
 msgid "དོག་ས་ གས་པ་ ཡང་ སླར་ འབྱོར་པ␣ར་ གྱུར་པ་ ལ་ གཟིགས་ ལགས །"
 msgstr ""
-"la crevasse (lit. le sol fendu) s'est refermé. Posez-y votre regard (lit. "
+"la crevasse (lit. le sol fendu) s'est refermée. Posez-y votre regard (lit. "
 "regardez). »"
 
 msgctxt "827b879311d547f7895e5cdd3533e784"
