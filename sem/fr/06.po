@@ -1527,7 +1527,7 @@ msgstr "il voyagea et se rendit à l'endroit où se trouvait Kauśāmbī. Alors,
 
 msgctxt "53d4e44fec63447ab16bd5e90deb5770"
 msgid "མཐར་གྱིས་ ཀཽ་ ཤཱཾ་ བཱིར་ བྱོན་ ཏེ །"
-msgstr "il alla progressivement au pays de Kauśāmbī et"
+msgstr "il alla progressivement à Kauśāmbī et"
 
 msgctxt "2e800880840242d0adffe968f925b0ee"
 msgid ""
