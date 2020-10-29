@@ -39,10 +39,10 @@ msgid ""
 "ལུ་ དང་ བུ་རམ་ཤིང་ དང་བ་ ལང་ དང་ མ་ཧེ་ དང་ ལྡན་པ␣ར་ འདུག་ སྟེ །"
 msgstr ""
 "pendant son règne, le [royaume] abondait de richesses, de bonheur, de "
-"récoltes fertiles, de troupeaux et de sujets. Il était exempt de conflits et"
-" de querelles. Il n’y avait pas de luttes, de divisions, de voleurs, de "
-"cambrioleurs, de famine et de maladies. On y trouvait du riz, de la canne à "
-"sucre, des vaches et des buffles et"
+"récoltes fertiles, de troupeaux (lit. êtres/animaux) et de sujets. Il était "
+"exempt de conflits et de querelles. Il n’y avait pas de luttes, de "
+"divisions, de voleurs, de cambrioleurs, de famine et de maladies. On y "
+"trouvait du riz, de la canne à sucre, des vaches et des buffles et"
 
 # བུ་གཅིག་པ་སྡུག་པ་ལ་བྱ་བ་བཞིན་དུ་ཆོས་བཞིན་དུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཆོས་བཞིན་དུ།>རྒྱལ་སྲིད་བྱེད་དོ།
 # །
