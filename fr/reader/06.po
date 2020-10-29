@@ -859,7 +859,7 @@ msgid ""
 " les détails (lit. vastement)."
 msgstr ""
 "Voyant ceci, les moines se demandèrent pour quelle raison le roi rendait-il "
-"visite à l'honorable Piṇḍola­bhāradvāja et à personne d'autre. On leur "
+"visite à l'honorable Piṇḍola­bhāradvāja, mais à personne d'autre. On leur "
 "raconta alors toutes les aventures du roi."
 
 # ཐོས་ནས་ཀྱང་ བཅོམ་ལྡན་འདས་ལ་གསོལ་ཏེ<«ཅོ»ཏོ།>། འདི་སྐད་ཅེས་སྨྲས་སོ། ། བཙུན་པ་
