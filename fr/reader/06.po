@@ -1137,7 +1137,7 @@ msgid ""
 msgstr ""
 "Le roi prit peur :\n"
 "\"Sage, risquerais-je d'être détrôné ou de mourir ?\n"
-"— Grand roi, n’ayez pas peur, répondit le sage. Vous ne serez pas détrôné et vous ne risquez pas non plus de mourir. Pourtant, des pensées malveillantes envers moi vous ont traversé. C'est pourquoi votre lumière a disparu et le sol s’est ouvert. Grand roi, si vous emplissez à nouveau votre cœur de joie à ma pensée, votre lumière réapparaîtra.\" Entendant ceci, le roi emplit son cœur de joie à la pensée du sage et sa lumière réapparut. Le sol se referma aussi."
+"— Grand roi, n’ayez pas peur, répondit-il. Vous ne serez pas détrôné et vous ne risquez pas non plus de mourir. Pourtant, des pensées malveillantes envers moi vous ont traversé. C'est pourquoi votre lumière a disparu et le sol s’est ouvert. Grand roi, si vous emplissez à nouveau votre cœur de joie à ma pensée, votre lumière réapparaîtra.\" Entendant ceci, le roi emplit son cœur de joie à la pensée du sage et sa lumière réapparut. Le sol se referma aussi."
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
 # དེའི་ཚེ་དྲང་སྲོང་དུ་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་པིཎྜོ་ལ་བ་ར་དྷྭ་ཛ་འདི་ཉིད་ཡིན་ནོ།
