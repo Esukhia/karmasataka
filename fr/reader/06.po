@@ -172,9 +172,9 @@ msgstr ""
 "celui du sommet, celui de l’acceptation correspondant à la vérité, celui de "
 "ce qui est sublime parmi les choses du monde ou encore celui de la "
 "concentration méditative de la vision. Certaines personnes manifestèrent le "
-"résultat de l’entrée dans le courant, de celui qui revient une fois ou de "
-"celui qui ne revient plus. Certains autres se retirèrent du monde et "
-"manifestèrent l’état d’arhat."
+"résultat de l’entrée dans le courant, le résultat de celui qui revient une "
+"fois ou de celui qui ne revient plus. Certains autres se retirèrent du monde"
+" et manifestèrent l’état d’arhat."
 
 # ཁ་ཅིག་<«གཡུང་»གཅིག>གིས་ནི་འཁོར་ལོས་སྒྱུར་བའི་<«གཡུང་»ལོ་གྱུར་པའི།
 # «པེ་»ལོ་སྒྱུར་བའི། «ཞོལ་»ལོས་བསྒྱུར་བའི།
