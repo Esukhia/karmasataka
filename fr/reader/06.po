@@ -354,8 +354,8 @@ msgstr ""
 " vu, mais n’a pas daigné me recevoir ! Il ne s’est même pas levé devant moi "
 "! » Les ministres hostiles à l'honorable moine ajoutèrent : « Dieu parmi les"
 " hommes, il est inadmissible qu'il ne se lève pas devant vous et qu'il ne "
-"vous reçoive pas. » Ils augmentèrent la contrariété du roi et intensifièrent"
-" sa fureur."
+"vous reçoive pas », augmentant la contrariété du roi et intensifiant sa "
+"fureur."
 
 # དེ་ཁྲོས་ཏེ་ དཔུང་གི་ཚོགས་དེ་དག་དང་རི་དགས་ཤོར་<«ཞོལ་»བཤོར།>དུ་སོང་ནས་
 # ཕྱིར་ལོག་སྟེ་<«ལི་»«སྣར་»«ཅོ་»ཏེ།>
