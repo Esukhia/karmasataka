@@ -1108,8 +1108,8 @@ msgid ""
 "demandez pardon à votre propre esprit », dit-il."
 msgstr ""
 "il se prosterna aux pieds du sage et lui demanda pardon. \"Grand roi, lui "
-"répondit-il, je vous pardonne volontiers, mais demandez-donc pardon à votre "
-"propre esprit.\""
+"répondit le sage, je vous pardonne volontiers, mais demandez-donc pardon à "
+"votre propre esprit.\""
 
 # དེ་ནས་རྒྱལ་པོ་སྐྲག་ནས་ དྲང་སྲོང་དེ་ལ་སྨྲས་པ། དྲང་སྲོང་
 # བདག་རྒྱལ་སྲིད་ལས་ཉམས་པའམ་སྲོག་གི་བར་ཆད་དུ་མི་འགྱུར་ལགས་གྲང་།
