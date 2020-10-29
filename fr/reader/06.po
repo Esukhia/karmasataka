@@ -128,8 +128,8 @@ msgid ""
 "Piṇḍola­bhāradvāja et s’installèrent devant lui pour écouter le Dharma."
 msgstr ""
 "Alors, les habitants formèrent des groupes et des assemblées qui sortirent "
-"de la ville de Kauśāmbī et allèrent auprès de l'honorable Piṇḍolabhāradvāja."
-" Ils se prosternèrent à ses pieds et s’installèrent devant lui pour écouter "
+"de la ville de Kauśāmbī pour aller auprès de l'honorable Piṇḍolabhāradvāja. "
+"Ils se prosternèrent à ses pieds et s’installèrent devant lui pour écouter "
 "le Dharma."
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་པིཎྜོ་ལ་བ་ར་དྷྭ་ཛས།
