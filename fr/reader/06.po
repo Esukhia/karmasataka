@@ -1163,10 +1163,10 @@ msgid ""
 " nouveau empli de joie, ce halo de lumière est réapparu, puis la crevasse "
 "(lit. le sol fendu) s’est refermée comme avant."
 msgstr ""
-"À cette époque aussi, ses pensées malveillantes ont fait disparaître son "
-"halo de lumière. Le sol s’est aussi ouvert. Puis, au moment où son cœur fut "
-"à nouveau empli de joie, le halo de lumière est réapparu et la crevasse "
-"s'est refermée."
+"À cette époque, ses pensées malveillantes ont fait disparaître son halo de "
+"lumière. Le sol s’est aussi ouvert. Puis, au moment où son cœur fut à "
+"nouveau empli de joie, le halo de lumière est réapparu et la crevasse s'est "
+"refermée."
 
 # ད་ལྟར་ཡང་འདིས་དེ་ལ་སེམས་སྡང་བར་བྱས་པས་འདིའི་འོད་ཀྱང་མེད་པར་གྱུར་ལ་
 # ས་ཡང་གས་སོ། །
