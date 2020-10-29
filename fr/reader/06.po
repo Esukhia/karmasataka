@@ -1058,7 +1058,7 @@ msgstr ""
 "Regardant la foule, le roi pensa : \"Il est quelqu’un que je porte aussi "
 "dans mon cœur, que j’apprécie, que je considère comme un précepteur, à qui "
 "je pense souvent. Moi aussi, je veux le voir.\" Il se rendit lui auprès du "
-"sage, qui le vit et ne le reçut pas, mais ne se leva même pas de son siège."
+"sage, qui le vit et ne le reçut pas, et ne se leva même pas de son siège."
 
 # དེ་ནས་དེ་མཐོང་མ་ཐག་ཏུ་རྒྱལ་པོ་དེ་ཁྲོ་བ་ཆེན་པོས་ནོན་ནས།
 # འདི་ང་ཡི་<«ཞོལ་»ངའི།>ཡུལ་ན་འདུག་པའི་<«གཡུང་»བ།
