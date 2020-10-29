@@ -937,7 +937,7 @@ msgid ""
 msgstr ""
 "Environ neuf mois plus tard, elle donna naissance à un fils bien "
 "proportionné, dont la beauté réjouissait la vue. Lors des célébrations de sa"
-" naissance, il reçut un com en accord avec sa caste. Le jeune enfant grandit"
+" naissance, il reçut un nom en accord avec sa caste. Le jeune enfant grandit"
 " grâce au lait, au yaourt, au beurre, au beurre clarifié et au beurre sur-"
 "clarifié dont il était nourri."
 
