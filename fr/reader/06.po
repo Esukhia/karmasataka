@@ -605,8 +605,8 @@ msgstr ""
 "qui lui était arrivé. Udayin lui raconta ses aventures. Le ministre remarqua"
 " que tout s’était exactement passé comme l’avait prédit le sublime "
 "Piṇḍola­bhāradvāja. S'en rendant compte à son tour, le roi ressentit plus de"
-" joie encore à l’égard de l’Ancien. Il décida d'aller en premier lieu rendre"
-" hommage à l'honorable moine avant d'entrer dans la capitale."
+" joie encore à l’égard de l’Ancien. Il décida d'aller lui rendre hommage "
+"avant de faire son entrée dans la capitale."
 
 # ཀཽ་ཤཱཾ་བཱིར་མ་སོང་བར་ཁྱིམ་བདག་གདངས་ལས་རིག་གི་ཀུན་དགའ་ར་བ་ག་ལ་བ་དེར་སོང་སྟེ།
 # དེ་ཇི་སྲིད་དུ།
