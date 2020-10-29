@@ -699,7 +699,7 @@ msgid ""
 "entièrement. Puis, il se leva de son siège et s’en alla."
 msgstr ""
 "Il l’instruisit encore par de nombreux autres discours sur le Dharma, qu'il "
-"lui fit assimiler entièrement. Il lui fit prendre conscience de ses "
+"lui fit aussi assimiler entièrement. Il lui fit prendre conscience de ses "
 "capacités et le réjouit de pouvoir le faire. Alors, il se leva de son siège "
 "et s’en alla."
 
