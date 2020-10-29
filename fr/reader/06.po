@@ -109,9 +109,9 @@ msgid ""
 "entendirent-ils."
 msgstr ""
 "Dès son arrivée, toute la population de Kauśāmbī sut que Piṇḍola­bhāradvāja,"
-" un honorable moine aux grands mérites qui n'était autre que le fils du "
-"prêtre-conseiller de leur roi devenu un renonçant était arrivé et s'était "
-"installé dans le jardin du père de famille Ghoṣila."
+" le fils du prêtre-conseiller de leur roi devenu un renonçant, puis un "
+"honorable moine aux grands mérites était arrivé et s'était installé dans le "
+"jardin du père de famille Ghoṣila."
 
 # ཐོས་ནས་ཀྱང་
 # ཚོགས་ནས་ཚོགས་དང་སྡེ་ཚན་ནས་སྡེ་ཚན་དུ་འདུས་ཤིང་ཚོགས་ཏེ<«གཡུང་»སྟེ།>།
