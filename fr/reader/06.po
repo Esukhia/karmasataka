@@ -700,8 +700,8 @@ msgid ""
 msgstr ""
 "Il l’instruisit encore par de nombreux autres discours sur le Dharma, qu'il "
 "lui fit aussi assimiler entièrement. Il lui fit prendre conscience de ses "
-"capacités et le réjouit de pouvoir le faire. Alors, il se leva de son siège "
-"et s’en alla."
+"capacités et le réjouit de pouvoir les appliquer. Alors, il se leva de son "
+"siège et s’en alla."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་བཅོམ་ལྡན་འདས་རྒྱལ་པོའི་ཁབ་ཏུ་ཇི་སྲིད་དགྱེས་པའི་བར་དུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དུ།>བཞུགས་ནས་
 # ཆོས་གོས་གསོལ་ཏེ་ ལྷུང་བཟེད་བསྣམས་ནས་ དགེ་སློང་གི་ཚོགས་ཀྱིས་ཞམ་རིང་བྱས་ཏེ།
