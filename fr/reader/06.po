@@ -89,10 +89,10 @@ msgid ""
 "Kauśāmbī et à Kauśāmbī, il demeura dans le jardin du père de famille "
 "Ghoṣila."
 msgstr ""
-"Il resta à Rājagṛha le temps qu'il jugea nécessaire, puis, habillé du "
-"nivāsana et du cīvara, le bol à aumône à la main, il entama le voyage qui le"
-" conduisit au pays de Kauśāmbī. Là, il s'installa dans le jardin du père de "
-"famille Ghoṣila."
+"Il resta à Rājagṛha le temps qu'il voulut, puis, habillé du nivāsana et du "
+"cīvara, le bol à aumône à la main, il entama le voyage qui le conduisit au "
+"pays de Kauśāmbī. Là, il s'installa dans le jardin du père de famille "
+"Ghoṣila."
 
 # ཚེ་དང་ལྡན་པ་དེ་ཡང་བསོད་ནམས་ཆེན་པོ་དང་ལྡན་པ།
 # མདུན་ན་འདོན་གྱི་བུ་ལས་རབ་ཏུ་བྱུང་བ་ཡིན་ནོ་ཞེས་ གྲགས་སོ། །
