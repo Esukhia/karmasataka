@@ -66,7 +66,7 @@ msgstr "après que soient passés neuf ou dix mois,"
 msgctxt "480f5108f8cf4742b6b420212125ad92"
 msgid "བུ་མོ་ གཟུགས་བཟང་ ཞིང་ བལྟ་ ན་ སྡུག་ ལ་ མཛེས་པ་ ཞིག་ བཙས་ ནས །"
 msgstr ""
-"un fille au corps harmonieux (lit. noble), qui était belle et agréable au "
+"une fille au corps harmonieux (lit. noble), qui était belle et agréable au "
 "regard naquit, et"
 
 msgctxt "61730d8a059d45798446f82db460326c"
