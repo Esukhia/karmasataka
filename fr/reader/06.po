@@ -501,7 +501,7 @@ msgstr ""
 "attention. Il s'élança à sa poursuite tandis que son armée continuait de son"
 " côté. Le roi se retrouva seul, se perdit dans la campagne. Il alla dans un "
 "enclos de vaches où personne ne le reconnut. Lui ne reconnut personne non "
-"plus. Il perdit la tête et resta là pendant six mois."
+"plus. Alors il perdit la tête et resta là pendant six mois."
 
 # དེ་ནས་དེ་བུ་དང་བློན་པོ་དང་ཞམ་རིང་འཁོར་རྣམས་ཀྱིས་ཀྱང་བཙལ་བ་ལས་ མ་རྙེད་ནས་
 # སླར་རྒྱལ་པོའི་ཕོ་བྲང་དུ་འོང་<«གཡུང་»«པེ་»དོང་།>སྟེ།
