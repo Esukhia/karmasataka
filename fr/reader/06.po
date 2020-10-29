@@ -843,7 +843,8 @@ msgid ""
 msgstr ""
 "Il revenait de temps à autre auprès du Bienheureux pour écouter le Dharma, "
 "après quoi il ne manquait jamais de rendre hommage à l'honorable "
-"Piṇḍola­bhāradvāja, la seule personne dont il cultivait la compagnie."
+"Piṇḍola­bhāradvāja, la seule personne dont il cultivait assidûment la "
+"compagnie."
 
 # དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས་དེ་མཐོང་ནས་ ཐེ་ཙོམ་<«སྣར་»«ཞོལ་»ཚོམ།>སྐྱེས་ཏེ་
 # རྒྱལ་པོ་འདི་ཅིའི་ཕྱིར།
