@@ -243,7 +243,7 @@ msgid ""
 msgstr ""
 "Alors, ayant vu les vérités, les personnes présentes se levèrent toutes de leurs sièges, replièrent leur vêtement supérieur sur une épaule et le laissèrent retomber devant eux. Ils joignirent les mains et s’inclinèrent en direction de l’honorable Piṇḍola­bhāradvāja. \n"
 "« Grâce à vous, être sublime, lui dirent-ils, nous sommes maintenant libérés des mondes infernaux, de celui des animaux et de celui des esprits affamés. Grâce à vous, nous marchons parmi les dieux et les hommes. L’océan de sang et de larmes est asséché. Nous avons dépassé le col des ossements. Nous avons jeté et dispersé les émotions perturbatrices qui nous suivent depuis des temps sans commencement. Être sublime, tant que nous serons en vie, veuillez accepter de notre part la nourriture, les vêtements, les couvertures, les sièges, les médicaments et les fournitures médicales dont vous aurez besoin, dirent-ils.\n"
-"— Je dois aussi aider d’autres personnes, donc laissez-moi partir », leur répondit-il."
+"— Je dois aussi aider d’autres personnes, laissez-moi donc partir », leur répondit-il."
 
 # དེ་ནས་ཀཽ་ཤཱཾ་བཱི་ན་གནས་པའི་སྐྱེ་བོའི་<«ཅོ་»བོ།>ཚོགས་རྣམས།
 # ཚེ་དང་ལྡན་པ་པིཎྜོ་ལ་བ་ར་དྷྭ་ཛས་སྨྲས་པ་ལ་མངོན་པར་བསྟོད་དེ་ རྗེས་སུ་ཡི་རང་ནས།
