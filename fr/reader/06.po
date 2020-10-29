@@ -561,11 +561,11 @@ msgid ""
 " nous inciterons le prince à s’approprier [l’état] de seigneur du royaume »,"
 " pensa-t-il. Puis,"
 msgstr ""
-"Quand les six mois passèrent, le ministre Fils de Détenteur-de-l’Obscurité-"
-"de-la-Logique vit que le temps était venu de reprendre les recherches. « Où "
-"pourrait se trouver le roi ? Nous devons le chercher. Si nous le retrouvons "
-"en vie, il continue son règne. Dans le cas contraire, si l’honorable moine "
-"s’est trompé, nous introniserons le prince », pensa-t-il."
+"Dès que les six mois étaient passés, le ministre Fils de Détenteur-de-l"
+"’Obscurité-de-la-Logique vit que le temps était venu de reprendre les "
+"recherches. « Où pourrait se trouver le roi ? Nous devons le chercher. Si "
+"nous le retrouvons en vie, il continue son règne. Dans le cas contraire, si "
+"l’honorable moine s’est trompé, nous introniserons le prince », pensa-t-il."
 
 # དཔུང་གི་ཚོགས་ཡན་ལག་བཞི་གོ་བསྐོན་ཏེ། གྲོང་དང་། གྲོང་རྡལ་དང་<«གཡུང་»«པེ་»དེ།
 # «ལི་»«སྣར་»«ཅོ་»«ཞོལ་»ཏེ།>། གྲོང་ཁྱེར་དང་།
