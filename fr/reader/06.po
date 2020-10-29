@@ -1037,7 +1037,7 @@ msgid ""
 msgstr ""
 "Quelques temps plus tard, le roi Meru, qui avait apprêté les quatre parties de son armée et partait à la chasse, vit la foule qui se dirigeait vers le parc d’agrément du prêtre-conseiller. \n"
 "\"Où vont toutes ces personnes ? demanda-t-il aux ministres.\n"
-"— Deva, répondirent-ils, ce fils du prêtre-conseiller s’est retiré du monde. Il possède maintenant de grands pouvoirs surnaturels. Il est fort puissant. Ces personnes vont lui rendre visite.\""
+"— Dieu parmi les hommes, répondirent-ils, ce fils du prêtre-conseiller s’est retiré du monde. Il possède maintenant de grands pouvoirs surnaturels. Il est fort puissant. Ces personnes vont lui rendre visite.\""
 
 # དེ་ནས་རྒྱལ་པོས་བསམས་པ།
 # དེ་ནི་ང་ཡི་<«སྣར་»«ཞོལ་»ངའི།>ཡང་སྙིང་དུ་སྡུག་པ་དང་ཡིད་དུ་འོང་བ་དང་།
