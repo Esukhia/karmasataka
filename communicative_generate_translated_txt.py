@@ -134,13 +134,14 @@ def gen_pdf(file):
 
 if __name__ == '__main__':
     folder = 'fr/reader'
+    enforce = True
     sys.argv = ['', '06']
     if len(sys.argv) > 1:
         stem = sys.argv[1]
         file = Path(folder) / (stem + '.po')
         print(file.name)
         po = Po(file)
-        po.write_txt()
+        po.write_txt(enforce=enforce)
     else:
         files = sorted(list(Path(folder).glob('*.po')))
         for file in files:
