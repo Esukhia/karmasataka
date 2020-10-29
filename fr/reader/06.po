@@ -903,15 +903,8 @@ msgid ""
 "de buffles. il régnait en accord avec le Dharma comme il aurait pris soin de"
 " son unique enfant bien-aimé."
 msgstr ""
-"— Moines, répondit le Bienheureux, ce n’est pas la première fois que ceci "
-"arrive. Écoutez donc. Dans le passé, le roi Meru régnait dans la ville "
-"nommée Riz-Florissant. Son règne était marqué par une abondance de "
-"richesses, de bonheur, de récoltes merveilleuses, de troupeaux et de sujets."
-" Les conflits et les querelles étaient apaisées. Les conflits, les conflits "
-"internes, les voleurs, les cambrioleurs, les famines et les maladies avaient"
-" disparus. Le royaume regorgeait de riz, de canne à sucre, de vaches et de "
-"buffles. Ce roi régnait en accord avec le Dharma comme il aurait pris soin "
-"d'un fils unique qu'il entourerait de tous les soins."
+"\n"
+"— Moines, répondit le Bienheureux, ce n’est pas la première fois que ceci arrive. Écoutez donc. Dans le passé, le roi Meru régnait dans la ville nommée Riz-Florissant. Son règne était marqué par une abondance de richesses, de bonheur, de récoltes merveilleuses, de troupeaux et de sujets. Les conflits et les querelles étaient apaisées. Les conflits, les conflits internes, les voleurs, les cambrioleurs, les famines et les maladies avaient disparus. Le royaume regorgeait de riz, de canne à sucre, de vaches et de buffles. Ce roi régnait en accord avec le Dharma comme il aurait pris soin d'un fils unique qu'il entourerait de tous les soins."
 
 # དེ་ནས་རྒྱལ་པོ་དེའི་མདུན་ན་འདོན་དེས། ཐབས་ཟླར་བབ་པ་ལས་ཆུང་མ་བླངས་ནས་
 # དེ་དེ་དང་ལྷན་ཅིག་རྩེ་ཞིང་དགའ་ལ་དགའ་མགུར་སྤྱོད་པ་ལས་
