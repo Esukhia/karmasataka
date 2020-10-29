@@ -993,8 +993,8 @@ msgstr ""
 "Lorsqu'il vit que son père régnait autant en accord qu'en désaccord avec la "
 "religion, et qu'à sa mort, il devra à son tour régner ainsi, il décida de "
 "délaisser la vie de famille pour partir s'établir dans la forêt. Il en "
-"demanda la permission à ses parents et partit. Dans la forêt, il développa "
-"les quatre concentrations et les cinq clairvoyances."
+"demanda la permission à ses parents et prit congé d'eux. Dans la forêt, il "
+"développa les quatre concentrations et les cinq clairvoyances."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེ།>རྒྱལ་པོའི་ཕོ་བྲང་འབྲས་འཕེལ་དུ་ཕྱིན་ནས།
 # དེའི་ཕས་བུ་དེའི་ཕྱིར་བདག་གི་སྐྱེད་མོས་<«གཡུང་»བསྐྱེད་མོད།
