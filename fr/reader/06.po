@@ -1149,8 +1149,8 @@ msgid ""
 "de Vatsa lui-même. De plus,"
 msgstr ""
 "Voyez-vous, moines, celui qui était le sage est aujourd'hui "
-"Piṇḍola­bhāradvāja lui-même. Celui qui était le roi Mérou est aujourd'hui "
-"Udayin, le roi de Vatsa lui-même."
+"Piṇḍola­bhāradvāja. Celui qui était le roi Mérou est aujourd'hui Udayin, le "
+"roi de Vatsa."
 
 # དེའི་ཚེ་ཡང་འདིས་དེ་ལ་སེམས་སྡང་བར་བྱས་པས་དེའི་འོད་ཀྱི་དཀྱིལ་འཁོར་མེད་པར་གྱུར་ལ་
 # ས་ཡང་གས་པར་གྱུར་ཏོ། །
