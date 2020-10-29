@@ -2280,7 +2280,7 @@ msgstr "Grand roi,"
 
 msgctxt "ac80445b82f14af1aae1fc7db3391d06"
 msgid "མ་ སྐྲག་ ཤིག  །"
-msgstr "N'ayez pas peur."
+msgstr "n'ayez pas peur."
 
 msgctxt "a027842e2b1f49699687f634dae2af80"
 msgid "ཁྱོད་ རྒྱལ་སྲིད་ ལ␣ས་ ཀྱང་ ཉམས་པ␣ར་ མི་ འགྱུར་ ལ་"
