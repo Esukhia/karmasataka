@@ -1010,11 +1010,11 @@ msgid ""
 "la vie quotidienne]. Puis, d’innombrables (lit. une diversité de) personnes "
 "venaient régulièrement chez lui et écoutaient le Dharma."
 msgstr ""
-"Un jour, il quitta la forêt pour le palais royal Riz-Florissant. Dans son "
-"parc d'agrément, son père lui construisit une hutte de branches et de "
-"feuilles et lui procura tout le nécessaire à la vie quotidienne. "
-"D’innombrables personnes commencèrent à le visiter régulièrement pour "
-"l'écouter enseigner."
+"Un jour, il décida de quitter la forêt pour aller au palais royal Riz-"
+"Florissant. Dans son parc d'agrément, son père lui construisit une hutte de "
+"branches et de feuilles et lui procura tout le nécessaire à la vie "
+"quotidienne. D’innombrables personnes commencèrent à le visiter "
+"régulièrement pour l'écouter enseigner."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་རྒྱལ་པོ་ལྷུན་པོས་དཔུང་གི་ཚོགས་ཡན་ལག་བཞི་པ་གོ་བསྐོན་<«ཁུ་»བསྒོན།>ནས་
 # རི་དགས་ཤོར་<«ཞོལ་»བཤོར།>དུ་སོང་བ་དང་།
