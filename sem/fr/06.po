@@ -1854,7 +1854,8 @@ msgstr ""
 "pendant son règne, le [royaume] abondait de richesses, de bonheur, de "
 "récoltes fertiles, de troupeaux (lit. êtres/animaux) et de sujets. Les "
 "conflits et les querelles étaient apaisées. Il n’y avait pas de luttes, de "
-"divisions, de voleurs, de cambrioleurs, de famine ni de maladies. De plus,"
+"luttes internes, de voleurs, de cambrioleurs, de famine ni de maladies. De "
+"plus,"
 
 # འབྲས་སཱ་<«གཡུང་»«པེ་»ས།>ལུ་དང་བུ་རམ་ཤིང་<«གཡུང་»+ཤང་།>དང་བ་ལང་དང་མ་ཧེ་<«གཡུང་»ཉ།>དང་ལྡན་པར་འདུག་སྟེ།
 msgctxt "571b68c35f864d4cb5fe2dcda3f1b6aa"
