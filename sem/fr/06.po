@@ -2378,7 +2378,7 @@ msgstr ""
 
 msgctxt "ac709f73870c42ef8e7ef241b7af26a2"
 msgid "ས་ག␣ས་པ་ ཡང་ཕྱི␣ར་ འབྱོར་བ␣ར་ གྱུར་ ཏོ ། །"
-msgstr "la crevasse (lit. le sol fendu) se referma comme avant."
+msgstr "la crevasse (lit. le sol fendu) s'est refermée comme avant."
 
 msgctxt "f1e18a724d6e4a06a8ebe7e7c89fe4f5"
 msgid ""
