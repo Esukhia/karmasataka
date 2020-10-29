@@ -58,12 +58,12 @@ class Po:
         orig_trans, trans, all, data = self.format_entries()
 
         bitext = self.infile.parent / (self.infile.stem + '.txt')
-        if self.is_changed(orig_trans, bitext):
+        if self.is_changed(orig_trans, bitext) or not bitext.is_file():
             bitext.write_text(orig_trans)
 
         trans_txt = self.infile.parent / (self.infile.stem + '_translation.txt')
         trans = self._update_translation_pars(trans, trans_txt)
-        if self.is_changed(trans, trans_txt) or enforce:
+        if self.is_changed(trans, trans_txt) or enforce or not trans_txt.is_file():
             trans_txt.write_text(trans)
 
             trans_docx = self.infile.parent / (self.infile.stem + '_translation.docx')
@@ -72,7 +72,7 @@ class Po:
             gen_pdf(trans_docx)
 
         total = self.infile.parent / (self.infile.stem + '_total.txt')
-        if self.is_changed(all, total) or enforce:
+        if self.is_changed(all, total) or enforce or not total.is_file():
             total.write_text(all)
 
             total_docx = self.infile.parent / (self.infile.stem + '_total.docx')
@@ -81,6 +81,8 @@ class Po:
             gen_pdf(total_docx)
 
     def is_changed(self, new_content, filepath):
+        if not filepath.is_file():
+            return False
         old_content = filepath.read_text(encoding='utf-8')
         if new_content != old_content:
             return True
@@ -132,6 +134,7 @@ def gen_pdf(file):
 
 if __name__ == '__main__':
     folder = 'fr/reader'
+    sys.argv = ['', '06']
     if len(sys.argv) > 1:
         stem = sys.argv[1]
         file = Path(folder) / (stem + '.po')
