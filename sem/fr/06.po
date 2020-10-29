@@ -2300,7 +2300,7 @@ msgid ""
 "མེད་པ␣ར་ གྱུར་ ལ་"
 msgstr ""
 "puisque vous avez eu de l'animosité envers moi, pour cette raison votre "
-"lumière a disparut et"
+"lumière a disparu et"
 
 msgctxt "d379a4050fa84e2f80232b70a87d5100"
 msgid "ས་ ཡང་ གས་པ␣ར་ གྱུར་ ཏོ ། །"
