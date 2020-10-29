@@ -544,7 +544,7 @@ msgstr ""
 "roi recouvra ses esprits et raconta ses mésaventures au vacher qui l'avait "
 "reconnu. « Dieu parmi les hommes, continua le vacher, reprenez courage ! "
 "Retrouvez tout votre entrain : je vous conduirai à votre palais. » Puis, le "
-"vacher et le roi partirent en direction de Kauśāmbī."
+"vacher et le roi se mirent en route pour Kauśāmbī."
 
 # བློན་པོ་རིགས་<«གཡུང་»«པེ་»རིག>པའི་མུན་འཛིན་གྱི་བུ་ཞེས་བྱ་བས་ཀྱང་ཟླ་བ་དྲུག་ལོན་པ་དང་
 # ཡིད་ལ་དྲན་ཏེ་ རྒྱལ་པོ་དེ་གར་<«ཅོ་»གང་།>གཤེགས་ཞིག་གུ་ བདག་ཅག་གིས་བཙལ་དགོས་སོ།
