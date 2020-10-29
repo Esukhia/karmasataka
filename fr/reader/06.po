@@ -1095,8 +1095,8 @@ msgstr ""
 "Au moment où ces pensées traversaient son esprit, la lumière que son corps "
 "émettait disparut et le sol se fendit devant lui. Il menaçait de sombrer "
 "sous terre. Terrifié, le roi comprit que le sage possédait de grands "
-"pouvoirs surnaturels, qu'il était très puissant. Heureux d'être en sa "
-"présence,"
+"pouvoirs surnaturels, qu'il était très puissant. Désormais heureux d'être en"
+" présence d'un tel être,"
 
 # དེ་ནས་དེས་དེའི་རྐང་པ་ལ་ཕྱག་འཚལ་ནས་ བཟོད་པ་གསོལ་ཏོ། །
 # དེ་ནས་དྲང་སྲོང་གིས་སྨྲས་པ། རྒྱལ་པོ་ཆེན་པོ་ ངས་ནི་བཟོད་མོད་ཀྱི་
