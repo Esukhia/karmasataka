@@ -53,7 +53,7 @@ msgctxt "154a130a95c74f79b81d70ea1e56fa36"
 msgid "དུས་ དུས་ སུ་ སྐྱེ་བོ་ མང་པོ་ ཁ་ འདོག་པ␣ར་ བྱེད་ དོ ། །"
 msgstr ""
 "de manière réccurente (lit. à moment [et] moment), ils faisaient périr de "
-"nombreuses êtres."
+"nombreux êtres."
 
 msgctxt "d404b8929c2744a99b6d6c4b3de04621"
 msgid ""
