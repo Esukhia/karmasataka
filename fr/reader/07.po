@@ -15,7 +15,7 @@ msgstr ""
 # རྒྱལ་མཚན་ཞེས་བྱ་བ་ནི།
 msgctxt "line 1, 07.txt"
 msgid "Celle qui est nommée La Bannière de victoire"
-msgstr "L'histoire de la bannière de victoire"
+msgstr "La bannière de victoire"
 
 # གླེང་གཞི་<«གཡུང་»བཞི།>མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
 msgctxt "line 2, 07.txt"
