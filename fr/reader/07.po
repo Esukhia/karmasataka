@@ -307,7 +307,7 @@ msgstr ""
 "je prends refuge dans le Bienheureux Bouddha. » Puis, elle lança son char "
 "vers Ṛṣivadana. Ébahis, les rois et les innombrables personnes présentes "
 "n'en revinrent pas qu'une si belle personne se préoccupe si peu des plaisirs"
-" du monde. Ils la suivirent par curiosité de ce qu'elle ferait ensuite."
+" du monde. Ils la suivirent pour voir ce qu'elle ferait ensuite."
 
 # དེ་ནས་ཀཱ་<«གཡུང་»«པེ་»ཀ>ཤི་མཛེས་ལྡན་མ་དྲང་སྲོང་སྨྲ་བ་<«གཡུང་»«པེ་»+པ།>ག་ལ་བ་དེར་སོང་སྟེ།
 # དེ་ཅི་སྲིད་དུ་བཞོན་<«གཡུང་»གཞོན།>པས་འགྲོ་བར་བྱ་བའི་ས་དེ་སྲིད་དུ་བཞོན་པས་སོང་ནས།
