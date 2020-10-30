@@ -108,9 +108,9 @@ msgid ""
 "à ses deux parents et elle offrit ses services au Bouddha, au Dharma et à la"
 " Saṅgha."
 msgstr ""
-"Quand, devenue une jeune femme, elle maîtrisa les arts, elle conçut de la "
-"dévotion pour l’enseignement du Bienheureux. Avec la permission de ses deux "
-"parents, elle offrit ses services au Bouddha, au Dharma et à la Saṅgha."
+"Quand, devenue une jeune femme, elle maîtrisa les arts, elle ressentit de la"
+" dévotion pour l’enseignement du Bienheureux. Avec la permission de ses deux"
+" parents, elle offrit ses services au Bouddha, au Dharma et à la Saṅgha."
 
 # དེ་གང་གི་ཚེ་ཆེན་མོར་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཚེ་ཆེན་པོར།
 # «སྣར་»«ཞོལ་»ཆེན་པོར།>གྱུར་པ་དེའི་ཚེ། ཀཱ་ཤིའི་<«གཡུང་»«པེ་»ཀ་ཤའི།
