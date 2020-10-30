@@ -71,9 +71,8 @@ msgid ""
 msgstr ""
 "« L’apparition d’un Bouddha dans le monde et toutes les activités qu'il "
 "déploie ne visent qu'au bien des êtres. Oui, c'est ce que je dois faire. "
-"Alors, existe-t-il des personnes que je puisse discipliner ? » C'est ainsi "
-"qu'il regarda le monde et vit qu'il pourrait discipliner la plupart des "
-"habitants de Kauśāmbī."
+"Existe-t-il des personnes que je puisse discipliner ? » Alors, il vit qu'il "
+"pourrait discipliner la plupart des habitants de Kauśāmbī."
 
 # ཇི་སྲིད་དགའ་བའི་བར་དུ་རྒྱལ་པོའི་ཁབ་ཏུ་གནས་ནས་
 # དེས་ཤམ་<«གཡུང་»ཤམས།>ཐབས་དང་ཆོས་གོས་བགོས་ཏེ། ལྷུང་བཟེད་ཐོགས་ནས་
