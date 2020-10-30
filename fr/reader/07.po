@@ -482,7 +482,7 @@ msgstr ""
 "épouse et lui apprirent à se connaître par les jeux de la séduction, ils "
 "commencèrent à s'aimer l'un l'autre et laissèrent libre cours à leurs "
 "désirs. Plus tard, elle tomba enceinte. Environ neuf mois plus tard, elle "
-"donna le jour à une fille bien proportionnée, jolie à ravir.. Lors des "
+"donna le jour à une fille bien proportionnée, jolie à ravir. Lors des "
 "célébrations de sa naissance, elle reçut un nom en accord avec sa caste."
 
 # འོ་མ་དང་ཞོ་དང་མར་དང་ཞུན་མར་དང་མར་གྱི་ཉིང་གུས་<«གཡུང་»«པེ་»གྱི་སྙིང་ཀུས།
