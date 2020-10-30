@@ -33,7 +33,9 @@ msgstr ""
 
 msgctxt "465a5d551cc8426dbac903471f36f2a9"
 msgid "དེ␣འི་ ཚེ་ མཉན་ དུ་ཡོད་པ་ ན་ རྒྱལ་པོ་ གསལ་རྒྱལ་ རྒྱལ་པོ་ བྱེད་ ལ །"
-msgstr "À cette époque, le roi Prasenajit régnait (lit. faisait le roi) et"
+msgstr ""
+"À cette époque, le roi Prasenajit régnait (lit. faisait le roi) à Śrāvastī "
+"et"
 
 # བཱ་རཱ་ཎ་སཱི་ན་ནི་རྒྱལ་པོ་ཚངས་པས་བྱིན་ཞེས་བྱ་བ་རྒྱལ་པོ་བྱེད་པ་ལས་<«ཁུ་»ལ།>
 msgctxt "52684d19f41748cb834553c5b20afc37"
