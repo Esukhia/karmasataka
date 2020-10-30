@@ -543,7 +543,7 @@ msgstr ""
 " suffisamment étudié, elle décida de développer la concentration méditative."
 " Elle reçut les instructions pour maintenir l'esprit sur un objet de "
 "concentration. Puis, pratiquant infatigablement, sans dormir ni à l'aube ni "
-"au crépuscule, elle attint la concentration méditative de la bonté et "
+"au crépuscule, elle atteignit la concentration méditative de la bonté et "
 "continua de vivre chastement jusqu'à la fin de ses jours."
 
 # འཆི་ཀར་<«ཞོལ་»གར།>སྨོན་ལམ་བཏབ་པ། ཀྱེ་མ་
