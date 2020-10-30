@@ -32,10 +32,10 @@ msgstr ""
 # དུས་དུས་སུ་སྐྱེ་བོ་མང་པོ་ཁ་འདོག་<«གཡུང་»དོག>པར་བྱེད་དོ། །
 msgctxt "line 5, 08.txt"
 msgid ""
-"À cette époque, le roi Prasenajit régnait (lit. faisait le roi) et à "
-"Vārāṇasī, le roi nommé Brahmadatta régnait (lit. faisait le roi). Ainsi, eux"
-" deux devinrent ennemis et de manière réccurente (lit. à moment [et] "
-"moment), ils faisaient périr de nombreuses êtres."
+"À cette époque, le roi Prasenajit régnait (lit. faisait le roi) à Śrāvastī "
+"et à Vārāṇasī, le roi nommé Brahmadatta régnait (lit. faisait le roi). "
+"Ainsi, eux deux devinrent ennemis et de manière réccurente (lit. à moment "
+"[et] moment), ils faisaient périr de nombreuses êtres."
 msgstr ""
 
 # དེ་ནས་ཕྱི་ཞིག་ན་རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱིས་དཔུང་གི་ཚོགས་ཡན་ལག་བཞི་གོ་བསྐོན་ཏེ་
