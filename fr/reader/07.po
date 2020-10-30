@@ -140,12 +140,12 @@ msgstr ""
 "À cette époque, le royaume tout entier parlait de la jeune princesse de "
 "Kāśi, de ses charmes, de son corps ravissant et de sa beauté inégalée dans "
 "le monde entier. Six rois des pays périphériques furent frappés par la "
-"flèche du désir en entendant parler de la princesse. Ils envoyèrent tous un "
-"messager à Brahmadatta le roi de Kāśi pour demander la mais de sa fille. "
-"Après avoir reçu toutes les missives, le roi Brahmadatta passa un long "
-"moment absorbé dans ses pensées. « Si je donne ma fille à l’un d’eux, "
-"pensait-il, les autres deviendront mes ennemis. À qui devrais-je la donner ?"
-" » Finalement, il décida de ne la donner à personne."
+"flèche du désir en entendant parler d'elle. Ils envoyèrent tous un messager "
+"à Brahmadatta le roi de Kāśi pour demander la main de sa fille. Après avoir "
+"reçu toutes les missives, le roi Brahmadatta passa un long moment absorbé "
+"dans ses pensées. « Si je donne ma fille à l’un d’eux, pensait-il, les "
+"autres deviendront mes ennemis. À qui devrais-je la donner ? » Finalement, "
+"il décida de ne la donner à personne."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་ཉི་འོག་གི་རྒྱལ་པོ་དྲུག་གིས་བསམས་པ།
 # དེས་བདག་ཅག་ལ་དད་པས་བུ་མོ་བྱིན་<«ཞོལ་»སྦྱིན།>པར་མི་འགྱུར་གྱིས་<«ཞོལ་»གྱི།>
