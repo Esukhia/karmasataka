@@ -60,7 +60,7 @@ msgid ""
 "དེ་ནས་ ཕྱི་ ཞིག་ ན་ རྒྱལ་པོ་ ཚངས་པ␣ས་ བྱིན་ གྱིས་ དཔུང་ གི་ ཚོགས་ ཡན་ལག་ "
 "བཞི་ གོ་ བསྐོན་ ཏེ་"
 msgstr ""
-"Ensuite, plus tard, le roi Brahmadatta apprêta les quatre partie de son "
+"Ensuite, plus tard, le roi Brahmadatta apprêta les quatre parties de son "
 "armée et"
 
 # ཀོ་<«གཡུང་»«པེ་»ཀོ། «གཡུང་»«པེ་»ཀ>ས་ལའི་ཡུལ་དུ་སོང་ནས་
