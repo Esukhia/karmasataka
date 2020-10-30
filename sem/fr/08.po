@@ -98,7 +98,7 @@ msgstr "L'ayant entendu,"
 
 msgctxt "4dd1d94acf7348499b158aa37d29cbab"
 msgid "དེ␣ས་ ཀྱང་ དཔུང་ གི་ ཚོགས་ ཡན་ལག་ བཞི་ གོ་ བསྐོན་ ནས་"
-msgstr "il apprêta lui aussi les quatre partie de son armée et"
+msgstr "il apprêta lui aussi les quatre parties de son armée et"
 
 msgctxt "bccc1dda894d43578effaaf205ba0459"
 msgid "ཀཱ་ ཤི␣འི་ རྒྱལ་པོ་ དང་ གཡུལ་འགྱེད་ དུ་ སོང་ སྟེ །"
