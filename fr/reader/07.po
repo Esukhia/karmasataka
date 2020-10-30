@@ -231,7 +231,7 @@ msgstr ""
 "— Père, les femmes n’ont-elles pas le droit de choisir leur mari ?\n"
 "— Oui, elles le peuvent.\n"
 "— Père, permettez-moi de choisir mon mari.\n"
-"— Très bien, mais je dois d'abord obtenir le consentement de ces rois », dit-il."
+"— Très bien, mais je dois d'abord obtenir le consentement des rois », dit-il."
 
 # རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱིས་ཉི་འོག་གི་རྒྱལ་པོ་དེ་དག་ཐམས་ཅད་ལ་བཟླུགས་ཏེ།
 # ཀཱ་<«གཡུང་»«པེ་»སྟེ།>ཤི་མཛེས་ལྡན་མ་ནི་རང་ཉིད་ཁྱིམ་ཐབ་འདམ་པར་ཆད་ཀྱིས་<«ཞོལ་»ཀྱི།>
