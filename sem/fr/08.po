@@ -1144,7 +1144,7 @@ msgid ""
 "ལུང་བསྟན་པ་ གང་ཡིན་པ␣འི་ སངས་རྒྱས་ བཅོམ་ལྡན་འདས་ དེ་ བདག་ཅག་ གཉིས་ ཀྱིས་ "
 "མཉེས་པ␣ར་ བྱེད་པ␣ར་ གྱུར་ཅིག  །"
 msgstr ""
-"Puissions-nous tous les deux contenter par mes actes le Bienheureux Bouddha "
+"Puissions-nous tous les deux contenter par nos actes le Bienheureux Bouddha "
 "que [deviendra] le jeune brahmane Uttara [d'après] la prophétie du complet "
 "et parfait Bouddha Kāśyapa."
 
