@@ -710,7 +710,7 @@ msgid ""
 "chaste (lit. suivre le brahmacarya) auprès du Bienheureux. »"
 msgstr ""
 "La jeune femme se releva après avoir vu les vérités. En s'inclinant, elle laissa retomber d'une épaule son vêtement supérieur qu'elle avait replié, puis elle joignit les mains.\n"
-"« Vénérable Śāriputra, s'il est envisageable que je me retire du monde, que je prenne les vœux complets et que je devienne ainsi nonne selon le Dharma du Vinaya si bien enseigné, comme d'autres avant moi, j’aimerais vivre une vie chaste auprès du Bienheureux. »"
+"« Vénérable Śāriputra, s'il est envisageable que je me retire du monde, que je prenne les vœux complets et que je devienne ainsi nonne selon le Dharma du Vinaya si bien enseigné, j’aimerais vivre une vie chaste auprès du Bienheureux comme d'autres avant moi. »"
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་<«གཡུང་»«པེ་»–པ།>ཤཱ་རིའི་<«གཡུང་»རཱིའི།>བུས་དེའི་ཕ་མ་ལ་དད་པ་སྨྲས་ནས།
 # སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་ལ་གཏད་དེ་
