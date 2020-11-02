@@ -357,13 +357,13 @@ msgid ""
 " le brahmacarya) auprès du Bienheureux. »"
 msgstr ""
 "Kṣemā se posa. Elle enseigna le Dharma à toutes les personnes présentes. "
-"Ensuite, avec la permission de ses parents, elle alla dans le parc du prince"
-" Jeta, auprès du Bienheureux. Elle se prosterna devant lui en touchant ses "
+"Ensuite, avec la permission de ses parents, elle alla auprès du Bienheureux "
+"dans le parc du prince Jeta. Elle se prosterna devant lui en touchant ses "
 "pieds de la tête et dit : « Vénérable, s’il m’est possible de m’extraire du "
-"monde selon le Dharma du Vinaya si bien enseigné, et s’il m’est possible de "
+"monde selon le Dharma du Vinaya si bien enseigné, s’il m’est possible de "
 "parfaire l’approche de la libération, d’obtenir la condition de nonne "
-"pleinement ordonnée, j’aimerais vivre une vie chaste auprès du Bienheureux "
-"comme d'autres avant moi. »"
+"pleinement ordonnée, comme d'autres avant moi, j’aimerais vivre une vie "
+"chaste auprès du Bienheureux comme d'autres avant moi. »"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་གཽ་ཏ་མཱི་ལ་གཏད་<«གཡུང་»མི་ལ་ཏད།
 # «པེ་»མི་ལ་གཏད།>དོ། །
