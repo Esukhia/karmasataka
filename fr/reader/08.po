@@ -263,9 +263,9 @@ msgid ""
 msgstr ""
 "Ensuite, le roi Prasenajit envoya un messager au roi Brahmadatta : « Notre "
 "fille Kṣemā veut se retirer du monde et nous ne parvenons pas à l'en "
-"dissuader. Venez sans tarder la chercher comme future mariée. » Le roi "
-"Brahmadatta répondit qu'ils viendraient la chercher à telle date et demanda "
-"que soient faits les préparatifs pour son départ."
+"dissuader. Venez sans tarder chercher celle qui vous est promise. » Le roi "
+"Brahmadatta répondit qu'ils viendraient la chercher et demanda que la "
+"princesse soit prête à partir pour telle date."
 
 # དེ་ནས་རྒྱལ་པོ་གསལ་རྒྱལ་གྱིས་ཐོས་མ་ཐག་<«གཡུང་»ཐོག>ཏུ་བག་མ་བཏང་བའི་སྟ་<«གཡུང་»བཏང་བའི་ལྟ།
 # «ཞོལ་»གཏང་བའི་སྟ།>གོན་བྱས་སོ། །
