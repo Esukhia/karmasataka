@@ -78,11 +78,11 @@ msgstr ""
 " dans le pays de Kośala, et établit son camp près de la rivière Ajiravatī. "
 "Le roi Prasenajit fut informé que le roi Brahmadatta venait lui livrer "
 "bataille avec son armée au complet. Il apprêta aussitôt les quatre parties "
-"de sa propre armée et alla livrer bataille au roi de Kāśi. Comme son rival, "
+"de sa propre armée et alla faire la guerre au roi de Kāśi. Comme son rival, "
 "il établit son camp près de la rivière Ajiravatī. Les batailles qu'ils "
-"menèrent firent d'innombrables victimes dans chaque camp, mais ils étaient "
-"puissants tous les deux. Puisque ni l'un ni l'autre ne réussissait à prendre"
-" le dessus, les hostilités continuaient."
+"menèrent firent d'innombrables victimes dans chaque camp, mais les "
+"hostilités continuaient malgré tout. Les deux rois étaient puissants et ni "
+"l'un ni l'autre ne parvenait à prendre le dessus."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་དེ་ཁོ་ན་འཁོད་བཞིན་དུ་རྒྱལ་པོ་གསལ་[33a]རྒྱལ་གྱི་བུ་མོ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་སོ།
 # །
