@@ -46,8 +46,8 @@ msgid ""
 "[et] moment), ils faisaient périr de nombreux êtres."
 msgstr ""
 "À cette époque, le roi Prasenajit régnait sur Śrāvastī tandis que le roi "
-"Brahmadatta régnait à Vārāṇasī. Ils devinrent ennemis et régulièrement, ils "
-"faisaient périr de nombreux êtres dans des batailles."
+"Brahmadatta régnait à Vārāṇasī. Ils devinrent ennemis et régulièrement, "
+"nombre de leurs sujets périssaient lors de batailles."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་རྒྱལ་པོ་ཚངས་པས་བྱིན་གྱིས་དཔུང་གི་ཚོགས་ཡན་ལག་བཞི་གོ་བསྐོན་ཏེ་
 # ཀོ་<«གཡུང་»«པེ་»ཀོ། «གཡུང་»«པེ་»ཀ>ས་ལའི་ཡུལ་དུ་སོང་ནས་
