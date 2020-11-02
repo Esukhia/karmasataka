@@ -382,7 +382,7 @@ msgstr ""
 "Il la remit à Mahā­prajāpatī Gautamī, qui lui permit de se retirer du monde,"
 " puis lui accorda l’ordination complète et la transmission orale des "
 "pratiques monastiques. Elle s’efforça, s’appliqua et s’évertua à éliminer "
-"toutes les émotions perturbatrices et elle manifesta l’état d’arhat."
+"toutes les émotions perturbatrices et manifesta l’état d’arhat."
 
 # དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་<«ལི་»«སྣར་»«ཅོ་»མའི།>འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས།
 # གསེར་དང་བོང་བར་མཉམ་པ། ནམ་མཁའ་དང་ལག་མཐིལ་<«གཡུང་»ཐིལ
