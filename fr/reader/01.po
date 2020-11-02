@@ -1112,9 +1112,9 @@ msgid ""
 msgstr ""
 "Moines, je suis devenu en tout point l’égal du complet et parfait Bouddha "
 "Kāśyapa. J’ai obtenu une force égale à la sienne, des moyens habiles et des "
-"actes égaux aux siens. Ainsi, elle m’a contentée et n’a rien fait qui me "
-"mécontente. Elle s’est retirée du monde selon mon enseignement. Elle a "
-"éliminé toutes les émotions perturbatrices et elle a manifesté l’état "
+"actes égaux aux siens. C'est pourquoi elle m’a contentée et n’a rien fait "
+"qui me mécontente. Elle s’est retirée du monde selon mon enseignement. Elle "
+"a éliminé toutes les émotions perturbatrices et elle a manifesté l’état "
 "d’arhat. Ceci est la part des actions qu'elle réalisa dans le passé.\n"
 
 # ད་ལྟར་བྱུང་བའི་ལས་<«གཡུང་»«པེ་»ལམ།>ཅི་ཞིག་བྱས་ཞེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཤེ།>ན།
