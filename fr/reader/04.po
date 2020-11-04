@@ -244,11 +244,11 @@ msgid ""
 "prendre votre repas avec la saṅgha des moines dans ma maison demain ? » "
 "demanda-il."
 msgstr ""
-"Le Bienheureux lui donna un enseignement adapté, puis se tint en silence. "
-"Alors, le père de famille se leva de son siège. En s'inclinant, il laissa "
-"retomber d'une épaule le vêtement supérieur qu'il avait replié, et dit : « "
-"Bienheureux, accepteriez-vous de venir demain chez moi avec la saṅgha des "
-"moines pour prendre votre repas ? »"
+"Le Bienheureux lui enseigna ce qui lui correspondait, puis se tint en "
+"silence. Alors, le père de famille se leva de son siège. En s'inclinant, il "
+"laissa retomber d'une épaule le vêtement supérieur qu'il avait replié, et "
+"dit : « Bienheureux, accepteriez-vous de venir demain chez moi avec la "
+"saṅgha des moines pour prendre votre repas ? »"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་ཁྱིམ་བདག་དེ་ལ་ཅང་མི་གསུང་བས་གནང་ངོ་<«གཡུང་»བོམ།
 # «པེ་»བའི།>། །
