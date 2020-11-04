@@ -461,7 +461,7 @@ msgid ""
 "» Le Bienheureux dit : « Ceci est arrivé par le pouvoir de leurs souhaits. »"
 " « Vénérable, quels souhaits ont-ils formulés ? »"
 msgstr ""
-"« Bienheureux, demandèrent les moines, quelles actions ont valu à Kṣemā de naître dans une lignée familiale qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens ? Quelles actions lui ont valu de vous contenter, de ne rien faire qui vous mécontente, de se retirer du monde selon votre enseignement, d'éliminer toutes les émotions perturbatrices et de manifester l'état d'arhat ?\n"
+"« Bienheureux, demandèrent les moines, quelles actions ont valu à Kṣemā de naître dans une lignée familiale qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens ? Quelles actions lui ont valu de vous contenter, de ne rien faire qui vous déplaise, de se retirer du monde selon votre enseignement, d'éliminer toutes les émotions perturbatrices et de manifester l'état d'arhat ?\n"
 "— Ceci est arrivé par le pouvoir de ses souhaits, dit le Bienheureux.\n"
 "— Vénérable, quels souhaits a-t-elle formulés ?"
 
