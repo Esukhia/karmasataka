@@ -142,8 +142,8 @@ msgid ""
 "correspondant. Alors,"
 msgstr ""
 "L’honorable Piṇḍola­bhāradvāja discerna leurs pensées, leurs tendances "
-"habituelles, leurs tempéraments et leurs caractères, puis il leur prodigua "
-"un enseignement adapté."
+"habituelles, leurs tempéraments et leurs caractères, puis il leur enseigna "
+"ce qui leur correspondait."
 
 # ཀཽ་ཤཱཾ་བཱི་ན་གནས་པའི་སྐྱེ་བོའི་<«གཡུང་»«པེ་»བོ།>ཚོགས་འདུས་པ་<«ལི་»པའི།>རྣམས་ཀྱིས་སྟན་དེ་ཉིད་ལ་འཁོད་བཞིན་དུ་ཁ་ཅིག་གིས་ནི་དྲོ་བར་གྱུར་པ་བསྐྱེད་དོ<«གཡུང་»«པེ་»སྐྱེད་དེ།
 # «ལི་»«སྣར་»«ཅོ་»བསྐྱེད་དེ།>། །
