@@ -687,11 +687,11 @@ msgid ""
 "l’entrée dans le courant, puis"
 msgstr ""
 "Il discerna ses pensées, ses tendances habituelles, son tempérament et son "
-"caractère avant de lui donner un enseignement adapté. Tandis qu'elle était "
-"encore assise, comme le diamant pulvérise la roche, la sagesse qui s'éleva "
-"en elle pulvérisa les vingts croyances les plus fortes qui identifient le "
-"moi aux agrégats, cet amas de choses en continuelle destruction. Elle "
-"manifesta le résultat de l'entrée dans le courant."
+"caractère avant de lui enseigner ce qui lui correspondait. Tandis qu'elle "
+"était encore assise, comme le diamant pulvérise la roche, la sagesse qui "
+"s'éleva en elle pulvérisa les vingts croyances les plus fortes qui "
+"identifient le moi aux agrégats, cet amas de choses en continuelle "
+"destruction. Elle manifesta le résultat de l'entrée dans le courant."
 
 # དེས་བདེན་པ་<«ཅོ་»+མ།>མཐོང་ནས་ སྟན་ལས་ལངས་ཏེ་ བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ནས།
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུ་ག་ལ་བ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་[4b]བ་བཏུད་ནས།
