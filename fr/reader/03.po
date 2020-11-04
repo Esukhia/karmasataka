@@ -1041,7 +1041,7 @@ msgstr ""
 "Grâce à ces racines vertueuses, puissé-je toujours naître dans une famille "
 "qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables "
 "biens. Puissé-je contenter un enseignant comme lui. Puissé-je ne rien faire "
-"qui le mécontente. Puissé-je me retirer du monde d'après son enseignement, "
+"qui lui déplaise. Puissé-je me retirer du monde d'après son enseignement, "
 "éliminer toutes les émotions perturbatrices et manifester l'état d'arhat.\""
 
 # དགེ་སློང་དག་ ཅི་སྙམ་དུ་སེམས།
