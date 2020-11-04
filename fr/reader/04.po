@@ -432,11 +432,11 @@ msgid ""
 msgstr ""
 "Le Bienheureux discerna les pensées, les tendances habituelles, les "
 "tempéraments ainsi que les caractères du père de famille, de sa maisonnée et"
-" du garçon et leur donna un enseignement adapté. Comme le diamant pulvérise "
-"la roche, la sagesse qui s'éleva en eux pulvérisa les vingts croyances les "
-"plus fortes qui identifient le moi aux agrégats, cet amas de choses en "
-"continuelle destruction. Ainsi, ils manifestèrent le résultat de l'entrée "
-"dans le courant."
+" du garçon et leur enseigna ce qui leur correspondait. Comme le diamant "
+"pulvérise la roche, la sagesse qui s'éleva en eux pulvérisa les vingts "
+"croyances les plus fortes qui identifient le moi aux agrégats, cet amas de "
+"choses en continuelle destruction. Ainsi, ils manifestèrent le résultat de "
+"l'entrée dans le courant."
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དག་བདེན་པ་རྣམས་ལ་བཀོད་ནས།
 # ཆོས་ཀྱི་གཏམ་གྱིས་ཡང་དག་པར་བསྟན། ཡང་དག་པར་འཛིན་དུ་བཅུག །
