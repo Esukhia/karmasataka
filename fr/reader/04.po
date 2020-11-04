@@ -612,7 +612,7 @@ msgstr ""
 "de grandes richesses et d’innombrables biens ? Quelles actions lui ont valu "
 "cette bosse ? Quelles actions lui ont valu la joie de guérir grâce au "
 "Bienheureux ? Quelles actions lui ont valu de vous contenter, de ne rien "
-"faire qui vous mécontente, de se retirer du monde selon votre enseignement, "
+"faire qui vous déplaise, de se retirer du monde selon votre enseignement, "
 "d'éliminer toutes les émotions perturbatrices et de manifester l'état "
 "d'arhat ?"
 
