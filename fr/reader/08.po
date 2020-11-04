@@ -585,8 +585,8 @@ msgstr ""
 " biens. Puissions-nous être beaux, bien proportionnés et doués d'une beauté "
 "qui réjouit la vue. Par nos actes, puissions-nous contenter le Bienheureux "
 "Bouddha que deviendra le jeune brahmane Uttara, selon la prophétie du "
-"complet et parfait bouddha Kāśyapa. Puissions-nous ne rien faire qui le "
-"mécontente. Puissions-nous nous retirer du monde d'après son enseignement, "
+"complet et parfait bouddha Kāśyapa. Puissions-nous ne rien faire qui lui "
+"déplaise. Puissions-nous nous retirer du monde d'après son enseignement, "
 "éliminer toutes les émotions perturbatrices et manifester l'état d'arhat.\""
 
 # དགེ་སློང་དག་<«ལི་»«ཅོ་»–དག> ཇི་སྙམ་དུ་སེམས།
