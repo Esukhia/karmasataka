@@ -1058,8 +1058,8 @@ msgid ""
 "suivre le brahmacarya)."
 msgstr ""
 "Voyez-vous, moines, celle qui fut autrefois cette nonne-là est aujourd’hui "
-"celle-ci. Avoir dit ces paroles blessantes aux nonnes a entraîné cinq cent "
-"fois sa naissance parmi les chiens."
+"celle-ci. Avoir dit ces paroles blessantes aux nonnes lui valut cinq cents "
+"naissances parmi les chiens."
 
 # དེས་དེར་འཆི་ཀར་<«ཞོལ་»གར།>སྨོན་ལམ་བཏབ་སྟེ།
 # བདག་གང་དང་གང་དུ་སྐྱེ་བ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེ་བར་གྱུར་ཅིག
