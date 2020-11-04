@@ -122,8 +122,6 @@ msgstr ""
 # རླུང་གི་ཁམས་ལ་རྣམ་པར་སྨིན་པར་མི་འགྱུར་ཏེ།
 # ལས་དགེ་བ་དང་མི་དགེ་བ་བྱས་ཤིང་བསགས་པ་རྣམས་ནི།
 # ཟིན་པའི་ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་འབའ་ཞིག་ལ་རྣམ་པར་སྨིན་པར་འགྱུར་རོ། །
-# ལུས་ཅན་དག་གི་ལས་རྣམས་ནི། །བསྐལ་པ་བརྒྱར་ཡང་ཆུད་མི་ཟ། ། ཚོགས་ཤིང་དུས་ལ་བབ་པ་ན།
-# འབྲས་བུ་ཉིད་དུ་སྨིན་པར་འགྱུར། །
 msgctxt "line 8, 09.txt"
 msgid ""
 "Le Bienheureux dit : « Moines, Maṇiprabha lui-même a réalisé et accumulé des"
@@ -133,9 +131,16 @@ msgid ""
 "l’élément du vent. Ainsi, les actions vertueuses et non-vertueuses qui sont "
 "réalisées et accumulées mûrissent uniquement sur les agrégats, les "
 "dimensions et les sources des sens qui sont tenues [par la sensation d’un "
-"être]. Les actes de ceux possédant un corps, ne se détérioreront pas même "
-"après cent kalpas. Lorsque [les causes et les conditions] sont rassemblées "
-"et que le moment est venu, elles mûrissent dans leur propre résultat."
+"être]."
+msgstr ""
+
+# ལུས་ཅན་དག་གི་ལས་རྣམས་ནི། །བསྐལ་པ་བརྒྱར་ཡང་ཆུད་མི་ཟ། ། ཚོགས་ཤིང་དུས་ལ་བབ་པ་ན།
+# འབྲས་བུ་ཉིད་དུ་སྨིན་པར་འགྱུར། །
+msgctxt "line 9, 09.txt"
+msgid ""
+"Les actes de ceux possédant un corps, ne se détérioreront pas même après "
+"cent kalpas. Lorsque [les causes et les conditions] sont rassemblées et que "
+"le moment est venu, elles mûrissent dans leur propre résultat."
 msgstr ""
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
@@ -157,7 +162,7 @@ msgstr ""
 # ལྷའི་ནང་དུ་སྐྱེས་སོ། ། དེར་སྐྱེས་ནས་
 # དེའི་ནོར་བུ་རིན་པོ་ཆེའི་<«གཡུང་»»«ལི་»»«པེ་»»«སྣར་»»«ཅོ་»»«ཞོལ་»»ཆེ།>གཞལ་མེད་ཁང་གྲུབ་པར་གྱུར་ཏོ།
 # །
-msgctxt "line 9, 09.txt"
+msgctxt "line 10, 09.txt"
 msgid ""
 "Moines, à un moment du passé qui s’est déroulé auparavant, pendant ce même "
 "éon fortuné, quand la durée de vie des personnes pouvaient [atteindre] "
@@ -189,7 +194,7 @@ msgstr ""
 # དགེ་སློང་དག་
 # ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་པར་གྱུར་ནས།
 # འདིས་ང་མཉེས་པར་བྱས་ཏེ་ མི་མཉེས་པར་མ་བྱས་སོ།། །།
-msgctxt "line 10, 09.txt"
+msgctxt "line 11, 09.txt"
 msgid ""
 "Moines, qu’en pensez-vous ? À cette époque, le père de famille qui avait "
 "construit un vihāra avec un stūpa pour l’enseignement du complet et parfait "
