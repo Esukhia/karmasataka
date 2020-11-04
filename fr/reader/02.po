@@ -1145,9 +1145,9 @@ msgstr ""
 "d'innombrables biens. C'est pourquoi il est né dans une famille aussi "
 "fortunée. Il formula aussi le souhait de contenter par ses actes le "
 "Bienheureux Bouddha que deviendrait le jeune brahmane Uttara, selon la "
-"prophétie du complet et parfait Bouddha Kāśyapa, de ne rien faire qui le "
-"mécontente, de se retirer du monde selon son enseignement, d'éliminer toutes"
-" les émotions perturbatrices et d'actualiser l'état d'arhat."
+"prophétie du complet et parfait Bouddha Kāśyapa, de ne rien faire qui lui "
+"déplaise, de se retirer du monde selon son enseignement, d'éliminer toutes "
+"les émotions perturbatrices et d'actualiser l'état d'arhat."
 
 # དགེ་སློང་དག་
 # ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་<«གཡུང་»«པེ་»བརྙིས།>པར་གྱུར་ནས།
