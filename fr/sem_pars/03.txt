@@ -402,7 +402,7 @@ dit : «
 	སྨྲས་པ།
 Enfant,
 	བུ་
-Avant que tu naisses, je t’avais offert à [cet] [être] sublime. Donc,
+avant que tu naisses, je t’avais offert à [cet] [être] sublime. Donc,
 	ཁྱོད་མ་བཙས་པའི་སྔ་རོལ་ནས། འཕགས་པ་ལ་ངས་ཕུལ་གྱིས་<«ཞོལ་»གྱི།>
 va et
 	སོང་ལ་
