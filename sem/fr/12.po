@@ -1505,7 +1505,7 @@ msgstr "il étudia les trois corbeilles et"
 msgctxt "64ddde44fe0f4e99a4a8236dd5970193"
 msgid "རིག་པ་ དང་ གྲོལ་བ␣འི་ སྤོབས་པ་ དང་ ལྡན་པ␣འི་ ཆོས་ སྨྲ་བ␣ར་ གྱུར་ ཏེ །"
 msgstr ""
-"il devint une enseignante du Dharma qui possédait les connaissances et "
+"il devint un enseignant du Dharma qui possédait les connaissances et "
 "l'éloquence pour libérer et"
 
 # གོས་དང་ཟས་དང་། མལ་ཆ་དང་སྟན་<«གཡུང་»«པེ་»བསྟན།>དང་།
