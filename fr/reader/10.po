@@ -975,11 +975,11 @@ msgstr ""
 "actes égaux aux siens. C'est pourquoi il m'a contenté et n'a rien fait qui "
 "m'a déplu. Il s'est retiré du monde selon mon enseignement. Il a éliminé "
 "toutes les émotions perturbatrices et il a manifesté l'état d'arhat. Du fait"
-" de ses souhaits, sa sagesse est devenue aiguisée, il a atteint la "
+" de ses souhaits, sa sagesse est devenue aigüe, il a atteint la "
 "concentration, les parfaites libérations, les samādhis et les absorptions "
-"méditatives. Il entre et sort des absorptions méditatives avec rapidité. Il "
-"entre dans l'une et en ressort pour une autre aussi rapidement qu'une "
-"aiguille transperce un pétale."
+"méditatives. Maintenant, il entre et sort des absorptions méditatives avec "
+"rapidité. Il entre dans l'une et en ressort pour une autre aussi rapidement "
+"qu'une aiguille transperce un pétale."
 
 # དེའི་ཚེ་ཕ་མར་གྱུར་པ་དེ་གཉིས་ནི། ཕ་མ་འདི་གཉིས་ཡིན་ཏེ།
 # དེ་གཉིས་ཀྱིས་དེར་སྨོན་ལམ་བཏབ་སྟེ། ཁྱོད་ཁོ་ན་ལ་བརྟེན་<«གཡུང་»ན་རྟེན།>ནས།
