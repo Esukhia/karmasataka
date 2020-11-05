@@ -326,7 +326,7 @@ msgid ""
 "colère, il rendit hommage à l’Ancien et s’en alla."
 msgstr ""
 "\n"
-"Le roi dit aussitôt : « Il est quelqu'un que je porte dans mon cœur depuis longtemps. Quelqu'un que j'apprécie, que je considère comme un précepteur et qui habite mes pensées. Moi aussi, je veux le voir et lui rendre hommage. » Quand le roi entra dans le jardin du père de famille Ghoṣila, non seulement l’Ancien ne le reçut pas, mais il ne se leva même pas de son siège. Sur le champ, le roi fut enserré tout entier par une colère intense. Néanmoins, il rendit hommage à l’Ancien et s’en alla aussitôt."
+"— Il est quelqu'un que je porte dans mon cœur depuis longtemps, répondit aussitôt le roi. Quelqu'un que j'apprécie, que je considère comme un précepteur et qui habite mes pensées. Moi aussi, je veux le voir et lui rendre hommage. » Quand le roi entra dans le jardin du père de famille Ghoṣila, non seulement l’Ancien ne le reçut pas, mais il ne se leva même pas de son siège. Sur le champ, le roi fut enserré tout entier par une colère intense. Néanmoins, il rendit hommage à l’Ancien et s’en alla aussitôt."
 
 # དེ་ནས་དེས་<«གཡུང་»«པེ་»དེ།>བློན་པོ་རྣམས་ལ་སྨྲས་པ།
 # ཁྱེད་ཀྱིས་ངའི་ཡུལ་ན་འདུག་པའི་མདུན་ན་འདོན་གྱི་བུ་རབ་ཏུ་བྱུང་བ་པིཎྜོ་ལ་བ་ར་དྷྭ་ཛ་འདི་ལ་ལྟོས་དང་།
