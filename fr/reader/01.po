@@ -162,7 +162,7 @@ msgid ""
 "bien [fait] et dont les sourcils étaient denses."
 msgstr ""
 "Environ neuf mois plus tard, elle donna le jour à un fils bien proportionné,"
-" agréable au regard et beau. Sa peau était d'une ravissante teinte dorée. Il"
+" beau et agréable au regard. Sa peau était d'une ravissante teinte dorée. Il"
 " avait un port de tête aussi droit qu'un parasol, les mains longues, le "
 "front large, le nez proéminent, bien dessiné et les sourcils denses."
 
