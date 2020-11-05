@@ -669,8 +669,8 @@ msgstr ""
 "pulvérisa les vingt croyances les plus fortes qui identifient le moi aux "
 "agrégats, cet amas de choses en continuelle destruction. Ainsi, ils "
 "manifestèrent le résultat de l'entrée dans le courant. Ses parents furent "
-"ainsi établis dans la pratique des vérités. Ils pratiquèrent la générosité "
-"et accumulèrent les mérites."
+"établis dans la pratique des vérités. Ils pratiquèrent la générosité et "
+"accumulèrent les mérites."
 
 # དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས། བཅོམ་ལྡན་འདས་ལ་ཞུས་པ<«གཡུང་»«པེ་»ཞུ་བ།>། བཙུན་པ་
 # སྣ་མའི་མེ་ཏོག་གིས་ལས་ཅི་ཞིག་བགྱིས་ན།
