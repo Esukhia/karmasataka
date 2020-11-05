@@ -118,7 +118,7 @@ msgstr "font naître les garçons et les filles. "
 
 msgctxt "fd566b8488ff46daa3e05f506ec4c00d"
 msgid "གསུམ་ གང་ཞེ་ན །"
-msgstr "ces trois [choses] sont :"
+msgstr "Ces trois [choses] sont :"
 
 msgctxt "ae79b004d26d475caec6c368d9e52fc5"
 msgid "ཕ་མ་ གཉིས་ འདོད་ཆགས་ ལངས་ ཏེ་ ཕྲད་པ་ དང་"
