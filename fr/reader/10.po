@@ -95,7 +95,7 @@ msgstr ""
 "l'impulsion du désir, la mère, qui est en âge de procréer, est en période "
 "fertile et un être dans l'état intermédiaire se trouve aux alentours. De "
 "plus, cet être doit éprouver soit de l'attirance, soit de l'aversion envers "
-"l'un de ses parents./"
+"l'un de ses futurs parents./"
 
 # དེ་ནས་དེ་ཡང་གསོལ་བ་འདེབས་པ་ལྷུར་བྱེད་ལ། སེམས་ཅན་ཆེན་པོ་ཆེ་བར་གྲགས་པ།
 # སྲིད་པ་ཐ་མ་ བཙལ་བར་<«ཅོ་»བཙམ་བར།>བྱ་བ་རྙེད་པ་ ཐར་པའི་སྐལ་བ་ཅན་དུ་གྱུར་པ།
