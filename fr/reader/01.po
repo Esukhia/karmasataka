@@ -338,10 +338,10 @@ msgid ""
 "les yeux d’auditeur pendant les six périodes de la journée, les trois du "
 "jour et les trois de la nuit. Ainsi,"
 msgstr ""
-"De même que les Bienheureux Bouddhas regardent le monde avec leurs yeux "
+"/De même que les Bienheureux Bouddhas regardent le monde avec leurs yeux "
 "d'éveillés pendant les six périodes de la journée, les grands auditeurs, eux"
 " aussi, regardent le monde avec des yeux d'auditeur pendant ces six périodes"
-" — les trois du jour et les trois de la nuit."
+" — les trois du jour et les trois de la nuit./"
 
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་<«གཡུང་»ཤཱའིའི།
 # «པེ་»ཤཱ་རའི།>བུས་ཉན་ཐོས་ཀྱི་མིག་གིས་འཇིག་རྟེན་ལ་བལྟས་ན།
