@@ -573,7 +573,7 @@ msgid ""
 "(lit. un objet de) des offrandes, de la vénération et de la révérence (lit. "
 "paroles respectueuses) d’Indra, d’Upendra et des autres dieux."
 msgstr ""
-"Il devint un arhat libre de l’attachement aux trois mondes. Désormais, un "
+"/Il devint un arhat libre de l’attachement aux trois mondes. Désormais, un "
 "morceau d'or et une motte de terre étaient identiques. À ses yeux, les "
 "paumes de ses mains et l'espace étaient semblables. Il avait acquis la "
 "fraîcheur du bois de santal trempé. Sa sagesse avait détruit la coquille de "
@@ -581,7 +581,7 @@ msgstr ""
 "discernements parfaits. Il avait tourné le dos aux perfections mondaines : "
 "les biens, les objets des désirs et les louanges. Il était désormais digne "
 "des offrandes, de la vénération et de la révérence d’Indra, d'Upendra et de "
-"tous les dieux."
+"tous les dieux./"
 
 # དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་
 # དགེ་སློང་འདིས་ལས་ཅི་བགྱིས་ན།
