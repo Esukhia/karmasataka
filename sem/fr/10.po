@@ -1214,7 +1214,7 @@ msgstr "il vit qu'ils seraient domptés par les pouvoirs surnaturels et"
 # རྒྱལ་བུ་རྒྱལ་བྱེད་ཀྱི་ཚལ་ནས་མི་སྣང་བར་གྱུར་<«ལི་»«སྣར་»«ཅོ་»འགྱུར།>ཏེ།
 msgctxt "ee42e964219c4174b85236c927eb5fdd"
 msgid "རྒྱལ་བུ་ རྒྱལ་བྱེད་ ཀྱི་ ཚལ་ ནས་ མི་སྣང་བ␣ར་ གྱུར་ ཏེ །"
-msgstr "il disparut du parc du prince Jeta et"
+msgstr "il disparut du Parc du Prince Jeta et"
 
 # རང་གི་ཁྱིམ་དུ་<«གཡུང་»–དུ།>ཕ་མ་གཉིས་ཀྱི་མདུན་ལོགས་ནས་ས་བརྟོལ་<«གཡུང་»«པེ་»རྟོལ།
 # «ཁུ་»བརྡོལ།>ཏེ་
