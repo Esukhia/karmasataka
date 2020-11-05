@@ -166,7 +166,7 @@ msgstr ""
 
 msgctxt "2228ebaa06934d2e8adf9996bf81fb04"
 msgid "དེ་དུས་ དུས་ སུ་ རྒྱལ་བུ་ རྒྱལ་བྱེད་ ཀྱི་ ཚལ་ དུ་ འགྲོ་ ཞིང་"
-msgstr "il allait régulièrement dans le parc du prince Jeta et"
+msgstr "il allait régulièrement dans le Parc du Prince Jeta et"
 
 msgctxt "3115dfc9730f44b195640380a23b5f11"
 msgid "བཅོམ་ལྡན་འདས་ ལ་ ཆོས་ མཉན་པ␣ར་ བྱེད་ དོ ། །"
