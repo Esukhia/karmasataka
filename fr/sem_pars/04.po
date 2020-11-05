@@ -435,7 +435,7 @@ msgstr ""
 # གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ། །
 msgctxt "line 33, 04.txt"
 msgid ""
-"il devint une arhat libre de l’attachement aux trois mondes. Ainsi, [un "
+"il devint un arhat libre de l’attachement aux trois mondes. Ainsi, [un "
 "morceau] d’or et une motte de terre étaient identiques [à ses yeux] ; il "
 "possédait un esprit [pour lequel] l’espace et la paume de la main sont "
 "similaires ; il [possédait] la fraîcheur du [bois de] santal trempé ; sa "
