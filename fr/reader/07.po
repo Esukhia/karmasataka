@@ -381,7 +381,7 @@ msgstr ""
 "Mahā­prajāpatī Gautamī lui permit de se retirer du monde, puis lui donna "
 "l’ordination complète et la transmission orale des pratiques monastiques. "
 "Dès lors, elle s’efforça, s’appliqua et s’évertua à éliminer toutes les "
-"émotions perturbatrices et elle manifesta l’état d’arhat. Elle devint une "
+"émotions perturbatrices et elle manifesta l’état d’arhat. /Elle devint une "
 "arhat libre de l’attachement aux trois mondes. Désormais, un morceau d’or et"
 " une motte de terre étaient identiques. À ses yeux, les paumes de ses mains "
 "et l'espace étaient semblables. Elle avait acquis la fraîcheur du bois de "
@@ -390,7 +390,7 @@ msgstr ""
 "parfaits. Elle avait tourné le dos aux perfections mondaines : les biens, "
 "les objets des désirs et les louanges. Elle était désormais digne des "
 "offrandes, de la vénération et de la révérence d’Indra, d'Upendra et de tous"
-" les dieux."
+" les dieux./"
 
 # སྐྱེ་བོ་ཕལ་པོ་ཆེ་དེ་དག་ཀྱང་ཡ་མཚན་དུ་གྱུར་ནས།
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ལྷགས་ནས་
