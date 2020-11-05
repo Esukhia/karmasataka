@@ -758,7 +758,7 @@ msgid ""
 "d’Upendra et des autres dieux."
 msgstr ""
 "Dès lors, elle s’efforça, s’appliqua et s’évertua à éliminer toutes les "
-"émotions perturbatrices et manifesta l'état d’arhat. Elle devint une arhat "
+"émotions perturbatrices et manifesta l'état d’arhat. /Elle devint une arhat "
 "libre de l’attachement aux trois mondes. Désormais, un morceau d'or et une "
 "motte de terre étaient identiques. À ses yeux, les paumes de ses mains et "
 "l'espace étaient semblables. Elle avait acquis la fraîcheur du bois de "
@@ -767,7 +767,7 @@ msgstr ""
 "parfaits. Elle avait tourné le dos aux perfections mondaines : les biens, "
 "les objets des désirs et les louanges. Elle était désormais digne des "
 "offrandes, de la vénération et de la révérence d’Indra, d'Upendra et de tous"
-" les dieux."
+" les dieux./"
 
 # དེ་དགྲ་བཅོམ་པར་གྱུར་ནས། ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུའི་སྔོན་གྱི་དྲིན་དྲན་ཏེ།
 # ཡང་དང་ཡང་དུ་ཐད་དུ་འགྲོ་ཞིང་ རྐང་པ་ལ་ཕྱག་འཚལ་ནས། འདི་སྐད་དུ་
