@@ -819,7 +819,7 @@ msgstr "L'honorable Aniruddha dit : «"
 msgctxt "47dacd794f424203a474d63028ca6f6e"
 msgid "ཁོང་ དགེ་བ་ རྣམས་ ནི་ དམ་བཅ␣ས་པ་ ལ་ བརྟན་པ་ ཡིན་ ནོ ། །"
 msgstr ""
-"[ceux dont] l'esprit (lit. l'intérieur) est vertueux sont stables dans leurs"
+"[Ceux dont] l'esprit (lit. l'intérieur) est vertueux sont stables dans leurs"
 " promesses. »"
 
 msgctxt "9fcb6ffe1dd647cab59914f0f9121f04"
