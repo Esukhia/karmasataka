@@ -58,7 +58,7 @@ class Po:
         orig_trans, trans, all, data = self.format_entries()
 
         bitext = self.infile.parent / (self.infile.stem + '.txt')
-        if self.is_changed(orig_trans, bitext) or not bitext.is_file():
+        if self.is_changed(orig_trans, bitext) or enforce or not bitext.is_file():
             bitext.write_text(orig_trans)
 
         trans_txt = self.infile.parent / (self.infile.stem + '_translation.txt')
@@ -107,6 +107,8 @@ class Po:
         updated = transfer(source, pattern, target, "txt")
         updated = re.sub(r'([!?”:;…,.»"]+?)([^ \f\v\u202f\u00a0\n!?”:;…,.»"])', r'\1 \2', updated)  # reinserting spaces where needed
         updated = re.sub(r'\n\n/ +', '/\n\n', updated)
+        updated = re.sub(r'/ /\n\n([^\n])', r'/\n\n/\1', updated)
+        updated = updated.replace(' /', '/')
         updated = re.sub(r'\n\n” ', '”\n\n', updated)
         updated = updated.replace('\n ', '\n')
         updated = updated.replace(' \n', '\n')
@@ -135,7 +137,7 @@ def gen_pdf(file):
 if __name__ == '__main__':
     folder = 'fr/reader'
     enforce = False
-    # sys.argv = ['', '08']
+    # sys.argv = ['', '10']
     if len(sys.argv) > 1:
         stem = sys.argv[1]
         file = Path(folder) / (stem + '.po')
@@ -147,4 +149,4 @@ if __name__ == '__main__':
         for file in files:
             print('\n' + file.name)
             po = Po(file)
-            po.write_txt()
+            po.write_txt(enforce=enforce)
