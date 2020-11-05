@@ -221,7 +221,7 @@ Son hôte confortablement installé, le père de famille servit lui-même des pl
 	ཆོས་མཉན་པའི་ཕྱིར་མདུན་དུ་འདུག་གོ། །
 	il s’assit devant lui pour écouter l’enseignement.
 
-L’honorable Śāriputra discerna leurs pensées, leurs tendances habituelles, leurs tempéraments ainsi que leurs caractères et leur donna un enseignement adapté. Comme le diamant pulvérise la roche, la sagesse qui s’éleva en eux pulvérisa les vingts croyances les plus fortes qui identifient le moi aux agrégats, cet amas de choses en continuelle destruction. Ainsi, ils manifestèrent le résultat de l’entrée dans le courant. Le père de famille vit les vérités, prit refuge et s’engagea à respecter certains vœux.
+L’honorable Śāriputra discerna leurs pensées, leurs tendances habituelles, leurs tempéraments ainsi que leurs caractères et leur enseigner ce qui leur correspondait. Comme le diamant pulvérise la roche, la sagesse qui s’éleva en eux pulvérisa les vingts croyances les plus fortes qui identifient le moi aux agrégats, cet amas de choses en continuelle destruction. Ainsi, ils manifestèrent le résultat de l’entrée dans le courant. Le père de famille vit les vérités, prit refuge et s’engagea à respecter certains vœux.
 	དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་<«གཡུང་»–བདག>དེ་འཁོར་དང་བཅས་པའི་བསམ་པ་དང་བག་ལ་ཉལ་དང་ཁམས་དང་རང་བཞིན་རྟོགས་ནས།
 	Alors, l’honorable Śāriputra discerna les pensées, les tendances habituelles, le tempérament (lit. l’élément) et le caractère (lit. la nature) du père de famille et son entourage et
 	དེ་དང་འཐུན་པའི་ཆོས་སྟོན་པར་བྱེད་དེ།
@@ -623,7 +623,7 @@ Quelque temps plus tard, des moines lui demandèrent :
 	དེ་ནས་དེས་དགེ་སློང་དེ་དག་ལ་གཏམ་དེ་<«གཡུང་»བཏམ་དེ། «ཁུ་»གཏམ་ཏེ།>རྒྱས་པར་བསྙད་ནས།
 	Ensuite, il raconta à ces moines cette histoire en détail (lit. vastement) et
 
-« Vénérable, demandèrent les moines au Bienheureux, quelles actions ont valu à Petits-Yeux de naître parmi les chiens ? Si l’honorable Śāriputra ne s’était pas occupé de lui, il aurait dû naître cinq cent fois de suite parmi les chiens. Quelles actions lui auraient valu ces naissances animales ? Après avoir été un chien, quelles actions lui ont valu de naître parmi les hommes dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens ? Quelles actions a-t-il réalisées pour vous contenter, Bienheureux, et ne rien faire qui vous mécontente ? Quelles actions lui ont valu de se retirer du monde selon votre enseignement, d’éliminer toutes les émotions perturbatrices et de manifester l’état d’arhat ? Quelles actions lui ont valu de si petits yeux ?
+« Vénérable, demandèrent les moines au Bienheureux, quelles actions ont valu à Petits-Yeux de naître parmi les chiens ? Si l’honorable Śāriputra ne s’était pas occupé de lui, il aurait dû naître cinq cent fois de suite parmi les chiens. Quelles actions lui auraient valu ces naissances animales ? Après avoir été un chien, quelles actions lui ont valu de naître parmi les hommes dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens ? Quelles actions a-t-il réalisées pour vous contenter, Bienheureux, et ne rien faire qui vous déplaise ? Quelles actions lui ont valu de se retirer du monde selon votre enseignement, d’éliminer toutes les émotions perturbatrices et de manifester l’état d’arhat ? Quelles actions lui ont valu de si petits yeux ?
 	དགེ་སློང་དེ་<«ལི་»«སྣར་»«ཞོལ་»–དེ།>དག་གིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ།
 	ces moines demandèrent au Bienheureux Bouddha : «
 	བཙུན་པ་
@@ -657,7 +657,7 @@ Quelque temps plus tard, des moines lui demandèrent :
 	ལས་དེའི་རྣམ་པར་སྨིན་པས་མིག་ཆུང་ངུར་གྱུར་ལགས།
 	le résultat de ces actions fasse que ses yeux soient petits ? »
 
-— Moines, répondit le Bienheureux, Petits-Yeux a effectivement réalisé et accumulé des actions dans le passé. Sachez, moines, que toute action réalisée et accumulée ne mûrit pas en dehors de soi sur l’élément Terre. Elle ne mûrit pas non plus sur l’élément Eau, ni sur l’élément Feu, ni sur l’élément Vent. Ainsi, les actions vertueuses et non-vertueuses qui sont réalisées et accumulées mûrissent uniquement sur ce qui constitue l’individu : ses agrégats, ses dimensions et ses sources des sens.
+— Moines, répondit le Bienheureux, Petits-Yeux a effectivement réalisé et accumulé des actions dans le passé. Les actions réalisées et accumulées ne peuvent mûrir en l’élément externe de la terre. Elles ne peuvent mûrir en l’élément eau, ou feu, ou vent. Les actions réalisées et accumulées, vertueuses et non-vertueuses ne peuvent mûrir qu’en ce qui constitue l’individu : ses agrégats, ses dimensions et ses sources des sens.
 	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
 	Le Bienheureux répondit : «
 	དགེ་སློང་དག་
@@ -673,10 +673,10 @@ Quelque temps plus tard, des moines lui demandèrent :
 	ལས་དགེ་བ་དང་མི་དགེ་བ་བྱས་ཤིང་བསགས་པ་རྣམས་ནི་ཟིན་པའི་ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད་རྣམས་འབའ་ཞིག་ལ་རྣམ་པར་སྨིན་པར་འགྱུར་རོ། །
 	les actions vertueuses et non-vertueuses qui sont réalisées et accumulées mûrissent uniquement sur les agrégats, les dimensions et les sources des sens qui sont tenues [par la sensation d’un être].
 
-/Les actions de ceux qui possèdent un corps/
-/Restent inaltérées, même cent kalpas plus tard./
-/Le moment venu, les conditions rassemblées,/
-/Elles mûrissent et deviennent leur fruit respectif./
+/Même cent éons plus tard, ne s’altèrent jamais/
+/Les actions des êtres, ceux qui possèdent un corps./
+/Le moment venu, les conditions réunies,/
+/Les actions mûrissent et leur fruit apparaît./
 	ལུས་ཅན་དག་གི་ལས་<«པེ་»ལམ།>རྣམས་ནི། །བསྐལ་པ་བརྒྱར་ཡང་ཆུད་མི་ཟ། །
 	Les actes de ceux possédant un corps, ne se détérioreront pas même après cent kalpas.
 	ཚོགས་ཤིང་དུས་ལ་བབ་པ་ན། །
@@ -841,7 +841,7 @@ L’arhat ne pouvait pas le laisser errer dans le samsara et subir d’atroces s
 	ཆོས་བཞིན་དུ་དགེ་འདུན་གྱི་ཞལ་ཏ་བྱས་ནས།
 	il servit la saṅgha en accord avec le Dharma et
 
-Au moment de mourir, il formula le souhait suivant : “Quelle merveille ! Je me suis retiré du monde selon l’enseignement du complet et parfait Bouddha Kāśyapa. J’ai servi la saṅgha en accord avec le Dharma. Par ces racines vertueuses, où que je naisse, puissé-je toujours me trouver dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens. Puissé-je être beau, bien proportionné et réjouir la vue par ma beauté. Par mes actes, puissé-je contenter le Bienheureux Bouddha que deviendra le jeune brahmane Uttara, selon la prophétie du complet et parfait bouddha Kāśyapa. Puissé-je ne rien faire qui le mécontente. Puissé-je me retirer du monde d’après son enseignement, éliminer toutes les émotions perturbatrices et manifester l’état d’arhat. Puissé-je ne pas devoir subir les conséquences d’avoir dit des paroles blessantes à ce moine qui vivait une vie chaste.”
+Au moment de mourir, il formula le souhait suivant : “Quelle merveille ! Je me suis retiré du monde selon l’enseignement du complet et parfait Bouddha Kāśyapa. J’ai servi la saṅgha en accord avec le Dharma. Par ces racines vertueuses, où que je naisse, puissé-je toujours me trouver dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens. Puissé-je être beau, bien proportionné et réjouir la vue par ma beauté. Par mes actes, puissé-je contenter le Bienheureux Bouddha que deviendra le jeune brahmane Uttara, selon la prophétie du complet et parfait bouddha Kāśyapa. Puissé-je ne rien faire qui lui déplaise. Puissé-je me retirer du monde d’après son enseignement, éliminer toutes les émotions perturbatrices et manifester l’état d’arhat. Puissé-je ne pas devoir subir les conséquences d’avoir dit des paroles blessantes à ce moine qui vivait une vie chaste.”
 	འཆི་ཀར་<«ཞོལ»གར།>སྨོན་ལམ་བཏབ་པ།
 	fit ce souhait au moment de mourir : «
 	ཀྱེ་མ་
@@ -891,7 +891,7 @@ Imiter les yeux de l’arhat sous l’emprise de la colère, les plisser en disa
 	མིག་གཉིས་འདི་འདྲ་བར་གྱུར་ཏོ། །
 	ses deux yeux sont devenus comme ceci.
 
-Au moment de mourir, il formula le souhait de toujours naître dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens. C’est pourquoi il est né dans une famille aussi fortunée. Il formula aussi le souhait de contenter par ses actes le Bienheureux Bouddha que deviendrait le jeune brahmane Uttara, selon la prophétie du complet et parfait Bouddha Kāśyapa, de ne rien faire qui le mécontente, de se retirer du monde selon son enseignement, d’éliminer toutes les émotions perturbatrices et d’actualiser l’état d’arhat.
+Au moment de mourir, il formula le souhait de toujours naître dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens. C’est pourquoi il est né dans une famille aussi fortunée. Il formula aussi le souhait de contenter par ses actes le Bienheureux Bouddha que deviendrait le jeune brahmane Uttara, selon la prophétie du complet et parfait Bouddha Kāśyapa, de ne rien faire qui lui déplaise, de se retirer du monde selon son enseignement, d’éliminer toutes les émotions perturbatrices et d’actualiser l’état d’arhat.
 	དེས་དེར་སྨོན་ལམ་བཏབ་སྟེ།
 	Avoir fait ce souhait, («
 	ཀྱེ་མ་
@@ -911,7 +911,7 @@ Au moment de mourir, il formula le souhait de toujours naître dans une famille 
 	བྱས་པའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»པ།>ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི། ད་ལྟར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ཏེ།
 	le résultat de l’action d’avoir fait [ces souhaits] le fit naître maintenant dans une lignée familiale qui est riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens. Ainsi,
 
-Moines, je suis devenu en tout point l’égal du complet et parfait Bouddha Kāśyapa. J’ai obtenu une force égale à la sienne, des moyens habiles et des actes égaux aux siens. C’est pourquoi il m’a contenté et n’a rien fait qui me mécontente. Il s’est retiré du monde selon mon enseignement. Il a éliminé toutes les émotions perturbatrices et il a manifesté l’état d’arhat. »
+Moines, je suis devenu en tout point l’égal du complet et parfait Bouddha Kāśyapa. J’ai obtenu une force égale à la sienne, des moyens habiles et des actes égaux aux siens. C’est pourquoi il m’a contenté et n’a rien fait qui me déplaît. Il s’est retiré du monde selon mon enseignement. Il a éliminé toutes les émotions perturbatrices et il a manifesté l’état d’arhat. »
 	དགེ་སློང་དག་
 	« Moines,
 	ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་བརྙེས་<«གཡུང་»«པེ་»བརྙིས།>པར་གྱུར་ནས།
