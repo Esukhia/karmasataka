@@ -71,8 +71,8 @@ msgstr ""
 "La reine tomba enceinte et environ neuf mois plus tard, elle donna le jour à"
 " une belle fille bien proportionnée. Elle était jolie à ravir. Lors des "
 "célébrations de sa naissance, on lui chercha un nom. « Elle est la fille du "
-"roi de Kāśi, et elle est magnifique, fût-il dit.. Son nom sera "
-"“Kāśisundarī”, la belle de Kāśi. »"
+"roi de Kāśi, et elle est magnifique, fût-il dit. Son nom sera “Kāśisundarī”,"
+" la belle de Kāśi. »"
 
 # དེ་ནས་བུ་མོ་ཀཱ་<«གཡུང་»«པེ་»ཀ>ཤི་མཛེས་ལྡན་མ་པང་ན་འཚོ་བའི་མ་མ་གཉིས་དང་།
 # ནུ་མ་སྣུན་པའི་མ་མ་གཉིས་དང་། དྲི་མ་འཁྲུ་བའི་མ་མ་གཉིས་དང་།
