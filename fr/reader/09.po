@@ -106,14 +106,8 @@ msgid ""
 "roi des dieux, ou bien les quatre grands rois sont-ils venus voir le "
 "Bienheureux ? »"
 msgstr ""
-"Cette nuit-là, des moines qui ne dormaient ni à l’aube ni au crépuscule et "
-"pratiquaient sans relâche, réalisèrent qu’une lumière irradiait le Parc du "
-"Prince Jeta. Peut-être que Brahmā le Seigneur de l’Univers, ou Śakra le Roi "
-"des Dieux, ou les quatre Gardiens du monde étaient venu offrir leur respect "
-"au Bienheureux. Les moines voulaient comprendre ce qu’ils avaient vu :  « "
-"Seigneur, qui a la nuit passée, rendu visite au Bienheureux ? Brahmā le "
-"Seigneur de l’Univers ? Śakra le Roi des Dieux ? Ou peut-être les quatre "
-"Gardiens du monde ?"
+"Cette nuit-là, des moines qui ne dormaient ni à l’aube ni au crépuscule et pratiquaient sans relâche, réalisèrent qu’une lumière irradiait le Parc du Prince Jeta. Peut-être que Brahmā le Seigneur de l’Univers, ou Śakra le Roi des Dieux, ou les quatre Gardiens du monde étaient venu offrir leur respect au Bienheureux. Les moines voulaient comprendre ce qu’ils avaient vu :\n"
+"« Seigneur, qui a la nuit passée, rendu visite au Bienheureux ? Brahmā le Seigneur de l’Univers ? Śakra le Roi des Dieux ? Ou peut-être les quatre Gardiens du monde ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་
 # མདང་སུམ་མི་མཇེད་ཀྱི་<«གཡུང་»«པེ་»བརྗེད་པའི།
