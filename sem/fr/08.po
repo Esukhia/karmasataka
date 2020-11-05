@@ -694,7 +694,7 @@ msgstr "elle demanda [la permission] à ses deux parents et "
 # རྒྱལ་བུ་<«ཁུ་»»པོ།>རྒྱལ་བྱེད་ཀྱི་ཚལ་དུ་སོང་ནས།
 msgctxt "670242ca812d4650b55bbe11023fbe9c"
 msgid "རྒྱལ་བུ་ རྒྱལ་བྱེད་ ཀྱི་ ཚལ་ དུ་ སོང་ ནས །"
-msgstr "elle alla dans le parc du prince Jeta et"
+msgstr "elle alla dans le Parc du Prince Jeta et"
 
 # དེ་<«གཡུང་»»«ལི་»»«པེ་»»«སྣར་»»«ཅོ་»»«ཞོལ་»»–དེ།>བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་སོང་སྟེ་ཕྱིན་ནས།
 msgctxt "b2ba2ecac0e4412ba64882eca558386a"
