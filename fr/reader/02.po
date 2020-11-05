@@ -57,7 +57,7 @@ msgid ""
 "noble), qui était beau et agréable au regard naquit, et"
 msgstr ""
 "Environ neuf mois plus tard, elle donna naissance à un fils bien "
-"proportionné, dont la beauté réjouissait la vue."
+"proportionné, agréable au regard et beau."
 
 # དེའི་བཙས་སྟོན་རྒྱས་པར་བྱས་ཏེ། རིགས་དང་འཐུན་པར་མིང་བཏགས་<«གཡུང་»བརྟགས།>ནས།
 msgctxt "line 5, 02.txt"
