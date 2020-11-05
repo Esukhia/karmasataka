@@ -63,7 +63,7 @@ msgid ""
 "ནམ་ སྲོས་པ་ དང་ མཉན་ དུ་ཡོད་པ␣འི་ ནང་ དུ་ རྒྱལ་བུ་ རྒྱལ་བྱེད་ ཀྱི་ ཚལ་ དུ་ "
 "སོང་ ནས །"
 msgstr ""
-"au lever du jour, il alla dans le parc du prince Jeta dans Śrāvastī. Puis,"
+"au lever du jour, il alla dans le Parc du Prince Jeta dans Śrāvastī. Puis,"
 
 msgctxt "19fbf27da58b45c793f2d359180487e0"
 msgid "བཅོམ་ལྡན་འདས་ ག་ལ་བ་ དེ␣ར་ སོང་ སྟེ་ ཕྱིན་ ནས །"
