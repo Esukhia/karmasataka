@@ -303,7 +303,7 @@ msgid ""
 msgstr ""
 "Udayin, le roi de Vatsa, apprêtait les quatre parties de son armée et partait à la chasse. Il vit l'énorme foule sur la route et demanda à ses ministres : \n"
 "« Où vont-ils tous ?\n"
-"— Dieu parmi les hommes, répondirent les ministres, le fils du prêtre-conseiller royal nommé Piṇḍola­bhāradvāja avait délaissé la vie de famille et la charge de régner sans la couronne. Il s'était retiré du monde. Ses pérégrinations l'ont mené à Kauśāmbī où il s’est établi dans le jardin du père de famille Ghoṣila. Toutes ces personnes vont lui rendre visite. »"
+"— Dieu parmi les hommes, répondirent les ministres, le fils du prêtre-conseiller royal nommé Piṇḍola­bhāradvāja avait délaissé la vie de famille et la charge de régner sans la couronne. Il s'était retiré du monde. Ses pérégrinations l'ont mené à Kauśāmbī où il s’est établi dans le jardin du père de famille Ghoṣila. Toutes ces personnes vont lui rendre visite."
 
 # དེ་ནས་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེ།>ཐོས་མ་ཐག་ཏུ་རྒྱལ་པོས་སྨྲས་པ།
 # དེ་ནི་ངའི་ཡང་ཡུན་རིང་པོ་ནས་སྙིང་དུ་སྡུག་པ་དང་ཡིད་དུ་འོང་བ་དང་མཁན་པོ་དང་དྲན་པར་བྱ་བ་ཡིན་གྱིས་<«ཞོལ་»གྱི།>
