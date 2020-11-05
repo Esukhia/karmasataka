@@ -410,7 +410,7 @@ msgstr ""
 "Puisqu'il était déjà l’ami spirituel de cette famille, l'honorable Aniruddha se rendit chez eux seul, sans compagnon ni serviteur, pour décider les futurs parents.\n"
 "« Être sublime, venez-vous seul, sans compagnon ni serviteur parce que vous n'avez personne pour vous servir ? demanda le père de famille.\n"
 "— En dehors de ceux que seuls vous et les vôtres pourriez mettre à mon service, où pourrais-je trouver quelqu'un ? Seuls ceux que vous me procurez me servent, répondit l'honorable moine.\n"
-"— Être sublime, mon épouse attend un enfant. S'il s'avérait être un garçon, je vous l'offrirai comme serviteur, être sublime.\n"
+"— Être sublime, mon épouse attend un enfant. S'il s'avérait être un garçon, je vous l'offrirai comme serviteur.\n"
 "— Les vertueux tiennent leurs promesses », remarqua l'honorable Aniruddha avant de s'en aller."
 
 # ཁྱིམ་བདག་དེའི་ཆུང་མ་ཡང་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་།
