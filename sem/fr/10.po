@@ -1772,7 +1772,7 @@ msgstr "a servi [la saṅgha] en accord avec le Dharma et"
 # སངས་རྒྱས་དང་། ཆོས་དང་དགེ་འདུན་ལ་བཀུར་སྟི་<«གཡུང་»«པེ་»སྟིར།>བྱས་ནས།
 msgctxt "d760129aa2d743a68e1fca88115bb9eb"
 msgid "སངས་རྒྱས་ དང་ །  ཆོས་ དང་ དགེ་འདུན་ ལ་ བཀུར་སྟི་ བྱས་ ནས །"
-msgstr "il offrit ses services au Bouddha, au Dharma et à la Saṅgha et"
+msgstr "il a offert ses services au Bouddha, au Dharma et à la Saṅgha et"
 
 # སྨོན་ལམ་བཏབ་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་<«གཡུང་»–སུ།>སྐྱེས་ཏེ།
 msgctxt "f4de9cb3dd1c4c54963b2bdddba2be25"
