@@ -1735,7 +1735,7 @@ msgstr "nous contentions tous les deux par nos actes le Bienheureux Bouddha."
 # མི་མཉེས་པར་བྱེད་པར་<«གཡུང་»«པེ་»–བྱེད་པར།>མ་གྱུར་ཅིག་ཅེས་
 msgctxt "dfda6386f5544e2580c3c7499cd10144"
 msgid "མི་ མཉེས་པ␣ར་ བྱེད་པ␣ར་ མ་ གྱུར་ཅིག་ ཅེས་"
-msgstr "Puissé-je ne rien faire qui le mécontente »,"
+msgstr "Puissions-nous ne rien faire qui le mécontente »,"
 
 msgctxt "f5ad4c67cc1443bba6d795e0b770108e"
 msgid "བྱས་ སོ ། །"
