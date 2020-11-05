@@ -142,10 +142,8 @@ msgid ""
 "trouve (lit. qu’il soit accompli) dans un endroit fait de joyaux divins et "
 "qu’il contente le Bienheureux et [qu’il] ne fasse rien qui le mécontente ? »"
 msgstr ""
-"— Vénérable, quelles actions de Maṇiprabha lui ont valu de naître parmi les "
-"dieux ? Quelles actions ont fait apparaître ce palais composé de tant de "
-"joyaux ? Quelles actions a-t-il réalisées pour vous contenter et ne rien "
-"faire qui vous déplaise ?"
+"\n"
+"— Vénérable, quelles actions de Maṇiprabha lui ont valu de naître parmi les dieux ? Quelles actions ont fait apparaître ce palais composé de tant de joyaux ? Quelles actions a-t-il réalisées pour vous contenter et ne rien faire qui vous déplaise ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་
 # ནོར་བུའི་འོད་འདི་<«གཡུང་»–འདི།>ཉིད་ཀྱིས་སྔོན་ལས་བྱས་ཤིང་བསགས་ཏེ།
