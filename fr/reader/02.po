@@ -829,12 +829,8 @@ msgid ""
 "dimensions et les sources des sens qui sont tenues [par la sensation d’un "
 "être]."
 msgstr ""
-"— Moines, répondit le Bienheureux, Petits-Yeux a effectivement réalisé et "
-"accumulé des actions dans le passé. /Les actions réalisées et accumulées ne "
-"peuvent mûrir en l'élément externe de la terre. Elles ne peuvent mûrir en "
-"l’élément eau, ou feu, ou vent. Les actions réalisées et accumulées, "
-"vertueuses et non-vertueuses ne peuvent mûrir qu’en ce qui constitue "
-"l’individu : ses agrégats, ses dimensions et ses sources des sens./"
+"\n"
+"— Moines, répondit le Bienheureux, Petits-Yeux a effectivement réalisé et accumulé des actions dans le passé. /Les actions réalisées et accumulées ne peuvent mûrir en l'élément externe de la terre. Elles ne peuvent mûrir en l’élément eau, ou feu, ou vent. Les actions réalisées et accumulées, vertueuses et non-vertueuses ne peuvent mûrir qu’en ce qui constitue l’individu : ses agrégats, ses dimensions et ses sources des sens./"
 
 # ལུས་ཅན་དག་གི་ལས་<«པེ་»ལམ།>རྣམས་ནི། །བསྐལ་པ་བརྒྱར་ཡང་ཆུད་མི་ཟ། །
 # ཚོགས་ཤིང་དུས་ལ་བབ་པ་ན། ། འབྲས་བུ་ཉིད་དུ་སྨིན་པར་འགྱུར། །
