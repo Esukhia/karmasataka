@@ -641,12 +641,12 @@ msgid ""
 " siège disposé [pour lui]. S’étant assis,"
 msgstr ""
 "Existe-t-il des personnes que je puisse discipliner ? » Il vit en tout "
-"premier lieu ses propres parents. Il vit alors qu'ils seraient disciplinés "
-"par les pouvoirs surnaturels. Sur le champ, il disparut du Parc du prince "
-"Jeta et émergea du sol devant ses deux parents, dans leur maison. Il s’éleva"
-" dans les airs. Il accomplit les miracles de s’élever dans l’espace, d’y "
-"demeurer immobile, de faire tomber la pluie et de faire filer des éclairs. "
-"Puis, il se posa et s'assit sur le siège disposé pour lui."
+"premier lieu ses propres parents et vit par l'esprit qu'ils seraient "
+"disciplinés par les pouvoirs surnaturels. Sur le champ, il disparut du Parc "
+"du prince Jeta et émergea du sol devant ses deux parents, dans leur maison. "
+"Il s’éleva dans les airs. Il accomplit les miracles de s’élever dans "
+"l’espace, d’y demeurer immobile, de faire tomber la pluie et de faire filer "
+"des éclairs. Puis, il se posa et s'assit sur le siège disposé pour lui."
 
 # ཕ་མ་གཉིས་ལ་དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ།
 # དེ་ནས་ཁྱིམ་བདག་དེ་འཁོར་དང་བཅས་པས་སྟན་དེ་ཉིད་ལ་འཁོད་བཞིན་དུ་འཇིག་ཚོགས་ལ་ལྟ་བའི་རིའི་རྩེ་མོ་མཐོན་པོ་ཉི་ཤུ་ཡེ་ཤེས་<«གཡུང་»ཤེ།>རྡོ་རྗེས་བཅོམ་སྟེ།
