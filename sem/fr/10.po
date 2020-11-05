@@ -1080,7 +1080,7 @@ msgstr "sa sagesse avait brisé la coquille de l'œuf ;"
 msgctxt "774a3139dc34434e8704ae77f3a56ebc"
 msgid "རིག་པ་ དང་ མངོན་པར་ ཤེས་པ་ དང་ སོ་སོ་ ཡང་དག་པ␣ར་ རིག་པ་ ཐོབ་པ་"
 msgstr ""
-"il avait obtenu la connaissance, les clairvoyance et les parfaites "
+"il avait obtenu la connaissance, les clairvoyances et les parfaites "
 "discriminations ;"
 
 msgctxt "5eda406f3f3541ed8488432c6b8cb903"
