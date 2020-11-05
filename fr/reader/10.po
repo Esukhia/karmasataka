@@ -713,7 +713,7 @@ msgstr ""
 " du monde selon votre enseignement, d'éliminer toutes les émotions "
 "perturbatrices et de manifester l'état d'arhat ? Quelles actions ses parents"
 " ont-ils réalisées pour que, grâce à lui, ils vous contentent, Bienheureux, "
-"et ne fassent rien qui vous déplaise ? »"
+"et ne fassent rien qui vous déplaise ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་<«གཡུང་»ཀྱིབ་བགང་།>སྩལ་པ། སྨོན་ལམ་གྱི་དབང་ལས་གྱུར་ཏོ།
 # ། བཙུན་པ་ འདིས་སྨོན་ལམ་གང་དུ་བཏབ་ལགས།
