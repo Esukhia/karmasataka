@@ -699,10 +699,10 @@ msgstr ""
 "discerna les pensées, les tendances habituelles, les tempéraments et les "
 "caractères de ses deux parents et de leur maisonnée, et leur enseigna ce qui"
 " leur correspondait. Comme le diamant pulvérise la roche, la sagesse qui "
-"s’éleva en eux pulvérisa les vingts croyances les plus fortes qui "
-"identifient le moi aux agrégats, cet amas de choses en continuelle "
-"destruction. Ils manifestèrent le résultat de l’entrée dans le courant. Ses "
-"parents furent ainsi établis dans la pratique des vérités."
+"s’éleva en eux pulvérisa les vingt croyances les plus fortes qui identifient"
+" le moi aux agrégats, cet amas de choses en continuelle destruction. Ils "
+"manifestèrent le résultat de l’entrée dans le courant. Ses parents furent "
+"ainsi établis dans la pratique des vérités."
 
 # བདག་ཉིད་ཀྱི་སྔོན་གྱི་གནས་རྗེས་སུ་དྲན་པར་བྱེད་དེ།
 # བདག་གང་ནས་འཆི་<«གཡུང་»«པེ་»མཆི།>འཕོས་
