@@ -905,11 +905,11 @@ msgid ""
 "Puissions-nous ne rien faire qui le mécontente », dirent-ils."
 msgstr ""
 "Ses parents le virent se recueillir et lui demandèrent quelle prière il "
-"réalisait. En réponse, il détailla les souhaits qu'il venait de formuler. « "
-"Puisses-tu être notre enfant à tous les deux, souhaitèrent-ils à leur tour. "
-"Puissions-nous être tes parents. Grâce à toi, puissions-nous contenter le "
-"Bienheureux Bouddha par nos actes. Puissions-nous ne rien faire qui lui "
-"déplaise. »"
+"réalisait. En réponse, il détailla les souhaits qu'il venait de formuler. "
+"\"Puisses-tu être notre enfant à tous les deux, souhaitèrent-ils à leur "
+"tour. Puissions-nous être tes parents. Grâce à toi, puissions-nous contenter"
+" le Bienheureux Bouddha par nos actes. Puissions-nous ne rien faire qui lui "
+"déplaise.\""
 
 # དགེ་སློང་དག་ ཇི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཅི།>སྙམ་དུ་སེམས།
 # དེའི་ཚེ་དགེ་སློང་དུ་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་སྣ་མའི་མེ་ཏོག་འདི་ཉིད་ཡིན་ཏེ།
