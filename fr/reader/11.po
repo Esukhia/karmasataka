@@ -65,7 +65,7 @@ msgid ""
 "garçon de brahmane."
 msgstr ""
 "Non loin de là, un jeune brahmane se leva pour regarder et vit ce succulent laḍḍū offert au Bienheureux. « Hé, Gautama, donne-moi ce laḍḍū », dit-il, convoitant ce que le Bienheureux avait reçu.\n"
-"« Jeune homme, répondit le Bienheureux, dis-moi “Je ne veux pas ce laḍḍū.” et je te le donne. » Le brahmane s'exécuta et reçut ce qu'il désirait."
+"« Jeune homme, répondit le Bienheureux, dis-moi “Je ne veux pas ce laḍḍū.” et je te le donne. » Le brahmane s'exécuta. Il reçut ce qu'il désirait."
 
 # དེའི་ཚེ་ཁྱིམ་བདག་<«གཡུང་»ན་དེ་འདག
 # «པེ་»ནི་ཁྱིམ་བདག>མགོན་མེད་ཟས་སྦྱིན་བཅོམ་ལྡན་འདས་ཀྱི་དྲུང་ནས་ཐག་མི་རིང་བ་ཞིག་ན་འདུག་པ།
