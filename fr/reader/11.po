@@ -145,7 +145,7 @@ msgid ""
 " et éliminer entièrement les agrégats. »"
 msgstr ""
 "\n"
-"– Moines, répondit le Bienheureux, depuis d'innombrables milliers de vies, l'esprit de ce jeune brahmane ne connaît que la pensée de prendre. Il a pris ce pli, en a fait une habitude tellement ancrée qu'il dépend entièrement des autres. J'ai mis à profit son attirance pour ce laḍḍū pour le détourner de la pensée de prendre. Du fait d'avoir dit qu'il n'en voulait pas, il se retirera du monde et éliminera entièrement les agrégats."
+"– Moines, répondit le Bienheureux, depuis d'innombrables milliers de vies, l'esprit de ce jeune brahmane ne connaît que la pensée de prendre. Il a pris ce pli, en a fait une habitude tellement ancrée qu'il dépend entièrement des autres. J'ai mis à profit son attirance pour ce laḍḍū pour le détourner de cette pensée. Du fait d'avoir dit qu'il n'en voulait pas, il se retirera du monde et éliminera entièrement les agrégats."
 
 # བཙུན་པ་ བྲམ་ཟེའི་ཁྱེའུ་འདིའི་ཕུང་པོ་གང་དུ་ཡོངས་སུ་སྤོང་བར་འགྱུར་ལགས།
 # དགེ་སློང་དག་ མ་འོངས་པའི་དུས་ན་<«ཁུ་»ནས།>ཉན་ཐོས་དང་།
