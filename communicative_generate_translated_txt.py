@@ -37,10 +37,9 @@ class Po:
             pairs = '\n'.join(['\n'.join(['\t' + a, '\t' + b]) for a, b in pairs])
             all_formatted += com + '\n' + pairs + '\n\n'
 
-        return '\n'.join(['\n'.join(e) for e in entries]), \
-               '\n\n'.join([e[0] for e in entries]), \
-               all_formatted, \
-               all
+        orig_trans = '\n'.join(['\n'.join(e) for e in entries])
+        trans = '\n\n'.join([e[0] for e in entries]).replace('\n\n\n', '\n\n')
+        return orig_trans, trans, all_formatted, all
 
     def parse_txt_dump(self, dump):
         parsed = []
@@ -112,6 +111,7 @@ class Po:
         updated = re.sub(r'\n\n” ', '”\n\n', updated)
         updated = updated.replace('\n ', '\n')
         updated = updated.replace(' \n', '\n')
+        updated = updated.replace(' –', '\n–')
 
         return updated
 
@@ -136,8 +136,8 @@ def gen_pdf(file):
 
 if __name__ == '__main__':
     folder = 'fr/reader'
-    enforce = False
-    # sys.argv = ['', '10']
+    enforce = True
+    sys.argv = ['', '11']
     if len(sys.argv) > 1:
         stem = sys.argv[1]
         file = Path(folder) / (stem + '.po')

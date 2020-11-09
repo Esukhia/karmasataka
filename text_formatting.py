@@ -2,6 +2,8 @@ import re
 
 
 def format_fr(text):
+    if 'est étonnant' in text:
+        print('')
     # see http://unicode.org/udhr/n/notes_fra.html
     text = re.sub(r'([ \f\v\u202f\u00a0])+', r'\1', text)
     text = re.sub(r'[ \f\v\u202f\u00a0]+,', r',', text)
