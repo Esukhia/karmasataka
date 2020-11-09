@@ -106,7 +106,7 @@ msgid ""
 "laissa partir."
 msgstr ""
 "Le Bienheureux mangea cette offrande et rentra au monastère. Le père de "
-"famille Anāthapiṇḍada mena le jeune brahmane chez lui, lui servit un repas, "
+"famille Anāthapiṇḍada mena le jeune brahmane chez lui, lui servit à manger, "
 "lui donna les cinq cent kārṣāpaṇas et le laissa partir."
 
 # དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་ ཀྱེ་མ་
