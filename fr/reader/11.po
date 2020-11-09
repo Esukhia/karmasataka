@@ -124,9 +124,8 @@ msgid ""
 "pas de ce laḍḍū”, il l’a dit, à ce moment, le Bienheureux le lui a donné. "
 "Posez-y votre regard. » Le Bienheureux dit : «"
 msgstr ""
-"« Vénérable, que c'est étonnant, s’étonnèrent les moines. Le Bienheureux a "
-"attendu que le jeune brahmane dise qu'il ne voulait pas le laḍḍū pour le lui"
-" donner. Nous aimerions en connaître la raison."
+"\n"
+"« Vénérable, que c'est étonnant, s’étonnèrent les moines. Le Bienheureux a attendu que le jeune brahmane dise qu'il ne voulait pas le laḍḍū pour le lui donner. Nous aimerions en connaître la raison."
 
 # དགེ་སློང་དག་
 # བྲམ་ཟེའི་ཁྱེའུ་དེས་ནི་ཚེ་རབས་སྟོང་ཕྲག་དུ་མར་བླང་བའི་<«ཁུ་»བླངས་པའི།>འདུ་ཤེས་འབའ་ཞིག་ཀུན་དུ་བསྟེན་ཅིང་
