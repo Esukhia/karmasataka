@@ -410,9 +410,9 @@ msgid ""
 msgstr ""
 "Tous ceux qui l'avaient suivie furent émerveillés de ce qu'elle était "
 "devenue. Ils allèrent tous auprès du Bienheureux, se prosternèrent devant "
-"lui en touchant ses pieds de leur tête et s'assirent devant lui pour écouter"
-" le Dharma. Ils reçurent un enseignement adapté et rentrèrent chacun dans "
-"leur pays."
+"lui en touchant ses pieds de leur front et s'assirent devant lui pour "
+"écouter le Dharma. Ils reçurent un enseignement adapté et rentrèrent chacun "
+"dans leur pays."
 
 # དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཅོམ་ལྡན་འདས་
 # ཀཱ་<«གཡུང་»«པེ་»ཀ>ཤི་མཛེས་ལྡན་མས་ལས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»–ལས།>ཅི་བགྱིས་ན་
