@@ -256,8 +256,8 @@ msgid ""
 "têtes et s’en allèrent."
 msgstr ""
 "Ils louèrent les propos de l’honorable Piṇḍola­bhāradvāja, s’en réjouirent "
-"et se prosternèrent à ses pieds en touchant ses pieds de leurs têtes et s’en"
-" allèrent."
+"et se prosternèrent à ses pieds en touchant ses pieds de leurs fronts et "
+"s’en allèrent."
 
 # དེ་ནས་བདེན་པ་མཐོང་བ་དེ་དག་དུས་དུས་སུ་ཚེ་དང་ལྡན་པ་པིཎྜོ་ལ་བ་ར་དྷྭ་ཛའི་ཐད་དུ་འདོང་<«ཁུ་»གདོང་།>ཞིང་
 # ཆོས་ཉན་ཏོ<«གཡུང་»པོ།>། །
