@@ -330,14 +330,14 @@ msgid ""
 "le Bienheureux Bouddha dont l’esprit était clair, l’immaculé, qui est doté "
 "de la pureté entière. L’ayant vu, il ressentit une joie suprême. Ainsi,"
 msgstr ""
-"le garçon le vit au loin. Il ressentit une joie suprême à la vue du "
+"le garçon le vit au loin. /Il ressentit une joie suprême à la vue du "
 "Bienheureux Bouddha qui portait avec grâce les trente-deux marques des "
 "grands êtres, certaines comme des ornements, d'autres de manière cachée. Il "
 "irradiait comme une masse de feu qui aurait pris une forme humaine. On "
 "aurait dit une flamme que de l'huile attise, un flambeau dans un braisier en"
 " or, ou encore un arbre vénéré qu'embellit d'innombrables ornements "
 "précieux. Son esprit était clair. Il ne présentait aucune impureté. Il était"
-" absolument pur."
+" absolument pur./"
 
 # དགེ་བའི་རྩ་བ་བསགས་པའི་རྒྱུ་ལས་བྱུང་བའི་སེམས་ཅན་གྱིས་དང་པོ་སངས་རྒྱས་མཐོང་བའི་ཉམས་བདེ་བ་ཅི་འདྲ་<«གཡུང་»འང་«པེ་»འོང་།>བ་དེ་ལྟ་བུ་ནི་ལོ་བཅུ་གཉིས་ཀྱི་བར་དུ་ཞི་གནས་ཀྱི་སེམས་ལ་གོམས་པར་བྱས་པ་ལ་ཡང་ཉམས་བདེ་བ་དེ་ལྟ་བུ་སྐྱེ་བར་མི་འགྱུར་རོ།
 # །
