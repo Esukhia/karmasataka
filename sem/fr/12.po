@@ -1142,7 +1142,7 @@ msgid ""
 "ཕྱུང་ སྟེ་"
 msgstr ""
 "Puis, le Bienheureux les fit se retirer du monde en leur disant à eux deux «"
-" Moines, venez ici ! »,"
+" Moines, venez ici ! »"
 
 msgctxt "dd3818a9711c4d07aeb2e9e821741fdf"
 msgid "བསྙེན་པ␣ར་ རྫོགས་པ␣ར་ མཛད་ དོ ། །"
