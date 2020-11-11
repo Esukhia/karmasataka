@@ -629,8 +629,8 @@ msgid ""
 "Vénérable, quels souhaits ont-ils formulés ? »"
 msgstr ""
 "« Vénérable, demandèrent les moines au Bienheureux, quelles actions ont valu à Kātyāyana-de-l’Assemblée de naître dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens ? Quelles actions lui ont valu d'être beau, bien proportionné et agréable au regard ? Quelles actions lui ont valu de maîtriser toutes les écritures sacrées et vaincre tous les érudits ? Quelles actions a-t-il réalisées pour vous contenter et ne rien faire qui vous déplaise, se retirer du monde selon votre enseignement, éliminer toutes les émotions perturbatrices et manifester l'état d'arhat ? Quelles actions ont réalisées ses deux parents pour devenir suprêmes parmi les érudits ? Quelles actions ont été réalisées pour que, grâce à lui, ils vous contentent, Bienheureux, et ne fassent rien qui vous déplaise, pour se retirer du monde selon votre enseignement, éliminer toutes les émotions perturbatrices et manifester l'état d'arhat ?\n"
-"– Ceci est arrivé par le pouvoir de leurs souhaits, dit le Bienheureux.\n"
-"– Vénérable, quels souhaits ont-ils formulés ?"
+"— Ceci est arrivé par le pouvoir de leurs souhaits, dit le Bienheureux.\n"
+"— Vénérable, quels souhaits ont-ils formulés ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། དགེ་སློང་དག་
 # སྔོན་བྱུང་བ་འདས་པའི་དུས་ན་བསྐལ་<«གཡུང་»བཀལ།>པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན།
