@@ -365,7 +365,7 @@ msgstr ""
 "sciences. À seize ans, il maîtrisa toutes les écritures sacrées et vainquit "
 "tous les érudits. Il devint arrogant. Il pensait que si personne ne "
 "l'égalait dans tout le monde de Jambudvīpa, il était certain que personne ne"
-" pourrait le surpasse. Il commença à mépriser tout le monde."
+" pourrait le surpasser. Ainsi, il commença à mépriser tout le monde."
 
 # དེ་ནས་དགེ་བསྙེན་<«གཡུང་»སྙེན།>ཞིག་གིས་དེ་ལ་སྨྲས་པ། ཁྱེའུ་
 # ཁྱོད་བདག་<«གཡུང་»དེ་དག>དང་མཉམ་པ་སུ་ཡང་མེད་ན། ལྷག་པ་ལྟ་ཅི་སྨོས་སྙམ་དུ་
