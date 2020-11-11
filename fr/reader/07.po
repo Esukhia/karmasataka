@@ -47,7 +47,7 @@ msgstr ""
 "cambrioleurs, les famines et les maladies avaient disparues. Le royaume "
 "regorgeait de riz, de canne à sucre, de vaches et de buffles. Le roi régnait"
 " en accord avec le Dharma comme il aurait pris soin d'un fils unique qu'il "
-"entourerait de tous les soins."
+"aurait entouré de tous les soins."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་རྒྱལ་པོ་དེའི་བཙུན་<«གཡུང་»བརྙན།>མོ་ལ་བུ་ཆགས་ནས་
 # དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་།
