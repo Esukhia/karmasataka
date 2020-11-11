@@ -456,10 +456,10 @@ msgstr ""
 "plus. « Père, Mère, demanda-t-il à ses parents, j'aimerais vivre une vie "
 "chaste auprès du Bienheureux. Veuillez m'accorder votre permission. » Voyant"
 " qu'ils ne parviendraient pas à le décourager, ils décidèrent de renvoyer "
-"tout le personnel de maison et de partir avec lui vivre une vie chaste "
-"auprès du Bienheureux. Ils congédièrent tous ceux qui vivaient sous leur "
-"toit, ils pratiquèrent la générosité et accumulèrent les mérites, puis ils "
-"partirent tous les trois pour le Magadha. Ils arrivèrent à Rājagṛha et"
+"tout le personnel de leur maison et de partir avec lui auprès du "
+"Bienheureux. Ils congédièrent tous ceux qui vivaient sous leur toit, ils "
+"pratiquèrent la générosité et accumulèrent les mérites, puis ils partirent "
+"tous les trois pour le Magadha. Ils arrivèrent à Rājagṛha et"
 
 # དེ་དག་བཅོམ་ལྡན་འདས་ག་ལ་བ་དེར་དོང་བ་དང་།
 # ཁྱེའུ་དེ་དང་དེའི་ཕ་མ་གཉིས་ཀྱིས་ཐག་རིང་པོ་ཞིག་ནས<«གཡུང་»«པེ་»+ང་།>།
