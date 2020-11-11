@@ -362,10 +362,10 @@ msgstr ""
 "comment les faire réaliser, comment donner, comment faire recevoir, comment "
 "réciter et comment faire réciter. Ainsi, il devint un brahmane versé dans "
 "les six activités brahmaniques et maîtrisa progressivement les dix-huit "
-"sciences. À seize ans, il maîtrisa tous les traités et vainquit tous les "
-"érudits. Il devint arrogant. Il pensait que si personne ne l'égalait dans "
-"tout le monde de Jambudvīpa, il était certain que personne ne pourrait le "
-"surpasse. Il commença à mépriser tout le monde."
+"sciences. À seize ans, il maîtrisa toutes les écritures sacrées et vainquit "
+"tous les érudits. Il devint arrogant. Il pensait que si personne ne "
+"l'égalait dans tout le monde de Jambudvīpa, il était certain que personne ne"
+" pourrait le surpasse. Il commença à mépriser tout le monde."
 
 # དེ་ནས་དགེ་བསྙེན་<«གཡུང་»སྙེན།>ཞིག་གིས་དེ་ལ་སྨྲས་པ། ཁྱེའུ་
 # ཁྱོད་བདག་<«གཡུང་»དེ་དག>དང་མཉམ་པ་སུ་ཡང་མེད་ན། ལྷག་པ་ལྟ་ཅི་སྨོས་སྙམ་དུ་
