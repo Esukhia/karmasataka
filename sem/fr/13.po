@@ -425,7 +425,7 @@ msgstr "Chef,"
 msgctxt "b4069d53c5f54e98b781eff68d98ec4d"
 msgid "དེང་ དུ་ ནི་ བདག་ཅག་ གིས་ ཐམས་ཅད་ ཀྱི་ དབུལ་བ␣འི་ རྒྱུན་ བཅད་ ཀྱིས་"
 msgstr ""
-"À partir de maintenant, notre continuelle (lit. continuum) pauvreté à tous "
+"à partir de maintenant, notre continuelle (lit. continuum) pauvreté à tous "
 "cesse. Donc,"
 
 msgctxt "bdabb3117ae44893a10deb7a0b63ded3"
