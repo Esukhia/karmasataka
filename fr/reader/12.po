@@ -891,12 +891,12 @@ msgstr ""
 "et formulé ces souhaits. C'est pourquoi il est toujours né dans une famille "
 "aussi fortunée. Il est ainsi devenu beau, doté d'un corps harmonieux, "
 "agréable au regard. Il a maîtrisé toutes les écritures sacrées et il a "
-"vaincu tous les érudits. De plus, moines, je suis devenu en tout point (lit."
-" très) l’égal du complet et parfait Bouddha Kāśyapa, j’ai obtenu une force "
-"égale à la sienne, des moyens habiles égaux aux siens et des actes égaux aux"
-" siens. C'est pourquoi il m’a contenté et n’a rien fait qui m'a déplu. Il "
-"s’est retiré du monde selon mon enseignement. Il a éliminé toutes les "
-"émotions perturbatrices et il a manifesté l’état d’arhat."
+"vaincu tous les érudits. De plus, moines, je suis devenu en tout point "
+"l’égal du complet et parfait Bouddha Kāśyapa, j’ai obtenu une force égale à "
+"la sienne, des moyens habiles égaux aux siens et des actes égaux aux siens. "
+"C'est pourquoi il m’a contenté et n’a rien fait qui m'a déplu. Il s’est "
+"retiré du monde selon mon enseignement. Il a éliminé toutes les émotions "
+"perturbatrices et il a manifesté l’état d’arhat."
 
 # ཕ་མ་དེ་གཉིས་ཀྱིས་དེར་སྨོན་ལམ་བཏབ་སྟེ།
 # བདག་ཅག་གཉིས་ཁྱོད་ཀྱི་ཕ་མ་གཞུང་སྨྲ་བའི་མཆོག་ཏུ་གྱུར་ཅིག །
