@@ -185,8 +185,8 @@ msgstr ""
 "Le roi accepta. Il fit proclamer qu'il n'accorderait sa fille qu'à l'érudit "
 "qui vaincrait la princesse en débat, qu'être beau, appartenir à une caste "
 "élevée ou être puissant ne favoriseraient aucun prétendant. Cette annonce se"
-" répandit partout. Les érudits affluèrent dans le palais royal et tous "
-"repartaient vaincus."
+" répandit au loin. Les érudits accouraient de partout et ressortaient tous "
+"vaincus du palais royal."
 
 # དེ་ནས་དེའི་ཚེ་ལྷོ་ཕྱོགས་ན་གཞུང་སྨྲ་བ་རིའུ་<«གཡུང་»«པེ་»རི་བུ།>ཞེས་བྱ་བ་
 # བསྟན་<«གཡུང་»སྟན།>བཅོས་ཐམས་ཅད་ལ་འཇིགས་པ་མེད་པ་ གཙུག་ལག་ཆེ་བ།
