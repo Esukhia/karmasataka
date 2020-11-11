@@ -540,7 +540,7 @@ msgstr ""
 " nous retirer du monde selon le Dharma du Vinaya si bien enseigné, s'il nous"
 " est possible de parfaire l'approche de la libération et d'obtenir la "
 "condition de moines pleinement ordonnés, nous aimerions vivre une vie chaste"
-" auprès du Bienheureux comme d'autres avant nous. »"
+" auprès du Bienheureux, comme d'autres avant nous. »"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་གཉིས་<«གཡུང་»དེ་སྤང་གཉིས། «པེ་»དེས་སྤང་གཉིས།
 # «ཅོ་»དེ་གཉིས་ལ།>དགེ་སློང་ཚུར་ཤོག་ཅེས་བྱ་བས་རབ་ཏུ་ཕྱུང་<«སྣར་»«ཞོལ་»བྱུང་།>སྟེ་
