@@ -280,8 +280,8 @@ msgstr ""
 "Le roi, qui assistait aux échanges, se rappela qu'il avait bel et bien "
 "promis sa fille à l'érudit qui la vaincrait, qu'il ne regarderait ni la "
 "beauté, ni la naissance, ni la puissance des prétendants. Cet érudit l'avait"
-" donc vaincue, et il était par ailleurs très bel homme. Nulle part ailleurs,"
-" pensait-il, ne se trouverait de meilleur parti que lui. Il décida donc de "
+" donc vaincue. De plus, il était très bel homme. Nulle part ailleurs, "
+"pensait-il, ne se trouverait de meilleur parti que lui. Il décida donc de "
 "lui accorder sa fille."
 
 # ཁྱིམ་པ་རྣམས་ཀྱི་ཁྱིམ་པའི་ཆོས་གང་ཡིན་པ་དེ་བཞིན་དུ་བྱས་ཏེ།
