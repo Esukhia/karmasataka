@@ -210,11 +210,11 @@ msgstr ""
 "nom de Riu. Son érudition était si grande et si vaste qu'il n'avait pas la "
 "moindre appréhension à affronter qui que ce soit sur n'importe quelle "
 "écriture sacrée. De plus, c'était un bel homme, bien proportionné. Il était "
-"agréable au regard et son teint était magnifique. Il entendit dire que la "
-"fille du roi Padmagarbha de Takṣaśīla triomphait de tous les érudits tandis "
-"que son père avait décidé de la donner à celui qui la vaincrait. Ceci "
-"l'étonna grandement. Il décida d'aller voir par lui-même si la princesse "
-"était aussi érudite qu'on le disait."
+"agréable au regard et son teint était magnifique. Il fut grandement étonné "
+"d'entendre dire que la fille du roi Padmagarbha de Takṣaśīla triomphait de "
+"tous les érudits tandis que son père avait décidé de la donner à celui qui "
+"la vaincrait. Il décida d'aller voir par lui-même si la princesse était "
+"aussi érudite qu'on le disait."
 
 # དེ་ནས་དེ་འཁོར་ལྔ་བརྒྱ་དང་ཆས་ཏེ། གྲོང་དང་། གྲོང་ཁྱེར་དང་། གྲོང་རྡལ་དང་།
 # ནགས་ཁྲོད་ཀྱི་གྲོང་དང་། ཡུལ་པོ་ཆེ་རྣམས་སུ་རྒྱུ་ཞིང་
