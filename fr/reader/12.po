@@ -151,10 +151,10 @@ msgid ""
 "seulement) derrière ce rideau et elle vainquit tous les exégètes du pays de "
 "Takṣaśīla."
 msgstr ""
-"Devenue une jeune fille, elle fut mise derrière un rideau dans le palais "
-"comme sa mère l'avait été. C'est là qu'elle apprit à lire et écrire, puis "
-"qu'elle apprit toutes les écritures sacrées. Toujours cachée par le rideau, "
-"elle vainquit aussi tous les érudits du pays de Takṣaśīla."
+"Devenue une jeune fille, elle fut mise derrière un rideau dans le palais où "
+"sa mère avait vaincu les érudits. Là, elle apprit à lire et écrire, puis "
+"elle étudia toutes les écritures sacrées. Toujours cachée par le rideau, "
+"elle y vainquit à son tour tous les érudits du pays de Takṣaśīla."
 
 # དེ་ནས་ཕྱི་ཞིག་ན་རྒྱལ་པོས་བུ་མོ་དེ་ལ་དྲིས་པ། ཁྱོད་ངས་སུ་ལ་སྦྱིན་པར་བྱ།
 # བུ་མོས་སྨྲས་པ།
