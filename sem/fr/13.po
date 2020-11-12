@@ -1934,7 +1934,7 @@ msgstr "Moines,"
 
 msgctxt "6aad53dc7f1142a4a12ef4308b1fb568"
 msgid "ད་ལྟར་ འབའ་ཞིག་ མ་ ཡིན་ གྱི་"
-msgstr "Ce n'est pas uniquement maintenant [que ceci est arrivé]. En effet,"
+msgstr "ce n'est pas uniquement maintenant [que ceci est arrivé]. En effet,"
 
 # འདས་པའི་དུས་ན་ཡང་མི་རྒོད་ལྔ་བརྒྱ་པོ་འདི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+ཉིད།>དག་འཕྱེ་བོ་འདི་ཉིད་དང་ཕྲད་ནས་
 msgctxt "cce3de2f59004b34a3a9f9745c679862"
