@@ -971,7 +971,7 @@ msgstr "Bienheureux,"
 
 msgctxt "0f04930f5ea04103a0879819cb176d8f"
 msgid "བཀའ་ ཅི་ སྩལ་"
-msgstr "Que nous commandez-vous ? »"
+msgstr "que nous commandez-vous ? »"
 
 msgctxt "276775dad1844411ac561a3ac00e4db1"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
