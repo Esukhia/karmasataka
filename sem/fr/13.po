@@ -689,7 +689,7 @@ msgstr "pensa-t-il. Puis,"
 
 msgctxt "5afa14b29e934f51a489d1dfa562be21"
 msgid "དེ␣ས་ བཅོམ་ལྡན་འདས་ ལ་ སེམས་ ཀྱིས་ གསོལ་བ་ བཏབ་པ །"
-msgstr "Il pria mentalement le Bienheureux : «"
+msgstr "il pria mentalement le Bienheureux : «"
 
 msgctxt "147b499ead2f4ffbb484add13f45928f"
 msgid "བཙུན་པ་"
