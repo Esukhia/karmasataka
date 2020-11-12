@@ -1713,7 +1713,7 @@ msgstr "j'ai vécu chastement toute ma vie (lit. une vie), et"
 # ཡོན་ཏན་ཅི་ཡང་མ་ཐོབ་ཀྱིས་<«གཡུང་»«པེ་»ཀྱང་། «ཞོལ་»ཀྱི།>
 msgctxt "fd4b356fd420428aabe0999cd9980271"
 msgid "ཡོན་ཏན་ ཅི་ཡང་ མ་ ཐོབ་ ཀྱིས་"
-msgstr "je n'ai obtenu aucune de des qualités."
+msgstr "je n'ai obtenu aucune de toutes les qualités."
 
 # ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས་བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་<«གཡུང་»«པེ་»–པ།>གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་<«ཅོ་»དག>གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག
 # །
