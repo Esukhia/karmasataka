@@ -1952,7 +1952,7 @@ msgstr "ils se sont retirés du monde et"
 msgctxt "6c8f36e286c44ce68f2092fa203d96f6"
 msgid "བསམ་གཏན་ བཞི་ དང་ མངོན་པར་ ཤེས་པ་ ལྔ་ བསྐྱེད་པ་ དེ་ ཉོན་ ཅིག  །"
 msgstr ""
-"ils développèrent les quatre concentrations et les cinq clairvoyances. "
+"ils ont développé les quatre concentrations et les cinq clairvoyances. "
 "Écoutez donc."
 
 msgctxt "5e9e6fde7b874cd1989a4268a9430283"
