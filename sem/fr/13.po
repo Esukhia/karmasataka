@@ -1785,7 +1785,7 @@ msgstr "se retira du monde et"
 
 msgctxt "371a8cc250214436aebc226ebc72b5e8"
 msgid "ཚེ་ གཅིག་ ཏུ་ ཚངས་པ␣ར་ སྤྱོད་པ་ སྤྱད་ དེ་"
-msgstr "vécu chastement toute sa vie et"
+msgstr "vécut chastement toute sa vie et"
 
 # འཆི་ཀར་<«ཞོལ་»ཁར།>སྨོན་ལམ་བཏབ་པ།
 msgctxt "5305b9e820934757852d559a5907cc5d"
