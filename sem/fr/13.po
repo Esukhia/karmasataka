@@ -1905,7 +1905,7 @@ msgstr "Vénérable,"
 
 msgctxt "b9b2965c1b39434a9aa55994480d04be"
 msgid "ཀྱེ་མ་"
-msgstr "Quelle merveille !"
+msgstr "quelle merveille !"
 
 # མི་རྒོད་ལྔ་བརྒྱ་པོ་འདི་དག་འཕྱེ་བོ་འདི་དང་མཇལ་<«གཡུང་»«པེ་»འཇལ།>ནས་
 msgctxt "5f967fed8df2456ba8178719af4d38a5"
