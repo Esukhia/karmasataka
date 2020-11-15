@@ -971,7 +971,7 @@ msgstr ""
 "À ce moment, un dieu favorable au sage vit par l'esprit les pensées de cet homme et les lui décrivit. Aussitôt, le sage disparut pour réapparaître devant les brigands. Ils furent émerveillés.\n"
 "\"Ô sage, quels sont vos ordres ? demandèrent-ils.\n"
 "— Relâchez cet homme et installez-vous devant moi. Je vous enseignerai le Dharma.\n"
-"— Nous ferons comme vous le demandez, ô sage\", répondirent-ils. Ils relâchèrent l'homme, se prosternèrent aux pieds du sage et s'assirent devant lui pour écouter le Dharma. Il leur enseigna ce qui leur correspondait. Les cinq cent brigands se retirèrent du monde auprès de lui et atteignirent les quatre concentrations et les cinq clairvoyances."
+"— Nous ferons comme vous le demandez, ô sage\", répondirent-ils. Ils relâchèrent l'homme, se prosternèrent aux pieds du sage et s'assirent devant lui pour écouter le Dharma. Le sage leur enseigna ce qui leur correspondait. Les cinq cent brigands se retirèrent du monde auprès de lui et atteignirent les quatre concentrations et les cinq clairvoyances."
 
 # དགེ་སློང་དག་ ཇི་<«གཡུང་»«པེ་»འདི།>སྙམ་དུ་སེམས།
 # དེའི་ཚེ་དྲང་སྲོང་དུ་གྱུར་པ་བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་གནས་པར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་ང་ཡིན་ནོ།
