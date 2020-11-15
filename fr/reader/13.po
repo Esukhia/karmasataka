@@ -446,7 +446,7 @@ msgid ""
 msgstr ""
 "Le Bienheureux, qui regardait le monde, vit que le moment était venu de discipliner Paṅgu et les cinq cent brigands. Il surgit de la statue de ce dieu et se présenta avec tous les attributs divins. « Le dieu se montre à nous ! » s'extasièrent les brigands. Tous les poils de leur corps se dressèrent. Ils joignirent les mains, s'assirent auprès de lui et demandèrent :\n"
 "« Bienheureux, ordonnez et nous exécuterons.\n"
-"— Je ne veux pas de sacrifices humains, dit le Bienheureux. Je vous ordonne de cesser ces sacrifices. Si vous voulez le Dharma, arrêtez les sacrifices et installez-vous. Je vous enseignerai le Dharma.\n"
+"— Je ne veux pas de sacrifices humains, dit le Bienheureux. Je vous ordonne de cesser ces sacrifices. Si vous voulez le Dharma, arrêtez les sacrifices et installez-vous. Je vous enseignerai.\n"
 "— À vos ordres » répondirent les brigands."
 
 # མི་རྒོད་དེ་དག་གིས་མཆོད་པ་བཏང་ནས་ བཅོམ་ལྡན་འདས་ཀྱི་ཞབས་ལ་མགོ་བོས་ཕྱག་འཚལ་ཏེ་
