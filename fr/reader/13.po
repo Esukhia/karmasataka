@@ -903,7 +903,7 @@ msgstr ""
 " qui vivait dans la même forêt, fut fait prisonnier et mené dans le repère "
 "des brigands pour être sacrifié à leur yakṣa. Ils appliquèrent de la bouse "
 "de vache devant lui, et y disposèrent un vase plein et l'homme. Ils "
-"s'emparèrent d'épées affilées, s'installèrent devant le yakṣa et "
+"empoignèrent des épées affilées, s'installèrent devant le yakṣa et "
 "commencèrent le sacrifice."
 
 # མི་དེས་ཀྱང་བདག་འདི་རྣམས་ཀྱིས་བསད་དེ་
