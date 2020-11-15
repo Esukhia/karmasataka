@@ -665,10 +665,10 @@ msgstr ""
 "Sugata, le Connaisseur des êtres des trois mondes, l'insurpassable Cocher "
 "pour les êtres à guider, l'Enseignant des dieux et des hommes, le complet et"
 " parfait Bouddha Kāśyapa était apparu en ce monde. À cette époque, deux "
-"frères qui vivaient à Vārāṇasī, l'un écouta le Dharma du complet et parfait "
+"frères vivaient à Vārāṇasī. L'un écouta le Dharma du complet et parfait "
 "Bouddha Kāśyapa et manifesta le résultat de ceux qui ne reviennent plus. Il "
-"abandonna les actions non-vertueuses et ne réalisait plus que des actions "
-"vertueuses."
+"abandonna les actions non-vertueuses et décida de ne réaliser plus que des "
+"actions vertueuses."
 
 # ནུ་བོ་ཅིག་ཤོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག་ཤོས།
 # «ཁུ་»གཅིག་བཤོས།>ནི་ཞིང་ལས་<«གཡུང་»«པེ་»སླས།>བྱེད་དེ་ དེས་བསམས་པ་
