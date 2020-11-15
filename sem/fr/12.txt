@@ -24,7 +24,7 @@ les devins dirent : «
 	ལྟས་མཁན་རྣམས་ན་རེ་
 Deva,
 	ལྷ་
-Ceci est dû à l’être qui est dans son ventre. Ceci parce
+ceci est dû à l’être qui est dans son ventre. Ceci parce
 	འདི་ནི་ལྟོ་ན་མཆིས་པའི་སེམས་ཅན་དེའི་མཐུ་ལགས་ཏེ།
 qu’il maîtrisera (lit. comprendra) tous les traités et vaincra tous les exégètes. Ainsi,
 	དེས་ནི་བསྟན་བཅོས་ཐམས་ཅད་རྟོགས་པར་འགྱུར་ལ་གཞུང་སྨྲ་བ་ཐམས་ཅད་ཚར་གཅོད་པར་འགྱུར་ཏེ།
@@ -402,7 +402,7 @@ s’il nous est possible de nous extraire du monde selon le Vinaya, le Dharma si
 	བདག་ཅག་ལེགས་པར་གསུངས་པའི་ཆོས་འདུལ་བ་ལ་རབ་ཏུ་བྱུང་བ་དང་བསྙེན་<«གཡུང་»བརྙེན།>པར་རྫོགས་ཤིང་དགེ་སློང་གི་དངོས་པོ་འཐོབ་ཏུ་རུང་ན།
 nous voulons à notre tour pratiquer la conduite de Brahma auprès du Bienheureux. »
 	བདག་ཅག་ཀྱང་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་ཚངས་པར་སྤྱོད་པ་སྤྱད་པར་འཚལ་ལོ། །
-Puis, le Bienheureux les fit se retirer du monde en leur disant à eux deux « Moines, venez ici ! »,
+Puis, le Bienheureux les fit se retirer du monde en leur disant à eux deux « Moines, venez ici ! »
 	དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་གཉིས་<«གཡུང་»དེ་སྤང་གཉིས། «པེ་»དེས་སྤང་གཉིས། «ཅོ་»དེ་གཉིས་ལ།>དགེ་སློང་ཚུར་ཤོག་ཅེས་བྱ་བས་རབ་ཏུ་ཕྱུང་<«སྣར་»«ཞོལ་»བྱུང་།>སྟེ་
 Il les ordonna pleinement et
 	བསྙེན་པར་རྫོགས་པར་མཛད་དོ། །
@@ -552,7 +552,7 @@ maintenant, je vais servir la saṅgha en accord avec le Dharma », pensa-t-il.
 	ད་ནི་བདག་གིས་དགེ་འདུན་གྱི་ཞལ་ཏ་ཆོས་བཞིན་དུ་བྱའོ་སྙམ་ནས་
 il sollicita ses deux parents, d’autres bienfaiteurs et donateurs et
 	དེས་ཕ་མ་གཉིས་དང་སྦྱིན་བདག་དང་སྦྱིན་པ་པོ་གཞན་དག་ལ་བསྐུལ་ནས།
-elle l’offrit au Bienheureux Kāśyapa et aux autres (lit. etc.) [membres] de la saṅgha des moines et
+il offrit les repas du Bienheureux Kāśyapa et des autres (lit. etc.) [membres] de la saṅgha des moines et
 	བཅོམ་ལྡན་འདས་འོད་སྲུང་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་ལ་<«གཡུང་»«པེ་»–ལ།>བཤོས་གསོལ་ཏེ།
 il offrit aussi ses services aux stūpa [contenant] des cheveux et des ongles et
 	དབུ་སྐྲ་དང་སེན་མོའི་མཆོད་རྟེན་རྣམས་ལ་བཀུར་སྟི་བྱས་ནས།
@@ -592,11 +592,11 @@ Puissé-je contenter par mes actes le Bienheureux Bouddha que [deviendra] le jeu
 	ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གིས། བྲམ་ཟེའི་ཁྱེའུ་བླ་མ་ལུང་བསྟན་པ་གང་ཡིན་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བདག་གིས་མཉེས་པར་བྱེད་པར་གྱུར་ཅིག །
 Puissé-je ne rien faire qui le mécontente.
 	མི་མཉེས་པར་བྱེད་པར་<«ཅོ་»–བྱེད་པར།>མ་གྱུར་ཅིག །
-M’étant retirée du monde d’après son (lit. à lui-même) enseignement et
+M’étant retiré du monde d’après son (lit. à lui-même) enseignement et
 	དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས་
 après avoir éliminé toutes les émotions perturbatrices,
 	ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
-puissions-nous manifester l’état d’arhat (lit. l’arhat-même) »,
+puissé-je manifester l’état d’arhat (lit. l’arhat-même). »
 	དགྲ་བཅོམ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་
 dit-il.
 	བྱས་སོ། །
