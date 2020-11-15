@@ -103,12 +103,12 @@ msgid ""
 msgstr ""
 "Plus tard, lors d'un festival, un habitant de la ville emprunta des habits "
 "et des bijoux pour sa femme. Son épouse ainsi revêtue et parée, ils "
-"rejoignirent le festival. Par distraction, elle déchira un pan du vêtement. "
-"Par peur de son mari, elle dissimula l'accident. À la fin des festivités, "
-"elle profita qu'il parte dans un autre village pour faire venir en cachette "
-"ce tailleur. Il raccommoda la déchirure, mais avant qu'il n'eut le temps de "
-"repartir, son mari était rentré, frappait à la porte et demandait à sa femme"
-" d'ouvrir."
+"rejoignirent le festival. Elle déchira un pan du vêtement par distraction et"
+" dissimula l'accident par peur de son mari. À la fin des festivités, elle "
+"profita qu'il parte dans un autre village pour faire venir en cachette Paṅgu"
+" le tailleur. Il raccommoda la déchirure, mais avant qu'il n'eut le temps de"
+" repartir, le mari était de retour. Il frappait à la porte et demandait à sa"
+" femme d'ouvrir."
 
 # དེ་ནས་དེའི་ཆུང་མས་སྐད་ལས་ངོ་ཤེས་ནས་ ཚེམ་བུ་མཁན་རང་གི་ཁྱིམ་དུ་བཞག་པ་དང་།
 # ཞུ་དྲལ་བའི་ཕྱིར་ཤས་ཆེར་འཇིགས་པ་སྐྱེས་ནས་ དེ་འཇིགས་ཤིང་སྐྲག་པས།
