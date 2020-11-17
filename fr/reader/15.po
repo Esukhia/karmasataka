@@ -150,7 +150,7 @@ msgid ""
 "de l’impermanence, de la douleur, de l’absence d’existence et de l’absence "
 "de moi."
 msgstr ""
-"Les rayons de lumière qui se dirigent vers le haut vont chez les dieux des "
+"/Les rayons de lumière qui se dirigent vers le haut vont chez les dieux des "
 "Quatre Grands Rois, des Trente-Trois, de Sans-Affrontement, de Tuṣita, de "
 "Délices-des-Productions, de Appropriation-des-Productions-d’Autrui, du monde"
 " de Brahmā, des Prêtres-de-Brahmā, de Grand-Brahmā, de Lueur, de Lumière-"
@@ -159,7 +159,7 @@ msgstr ""
 "Grandeur-Moindre, de Sans-Affliction, de Vision-Excellente, de Vision-"
 "Inouïe, et jusqu’à Culminant. Ils y font résonner les sons de "
 "l’impermanence, de la douleur, de l’absence d’existence et de l’absence de "
-"moi."
+"moi./"
 
 # ཚིགས་སུ་བཅད་པ་གཉིས་ཀྱང་རྗོད་<«སྣར་»བརྗོད།>པར་བྱེད་དེ།
 # ངེས་པར་འབྱུང་བ་བརྩམ་པར་གྱིས། ། སངས་རྒྱས་བསྟན་ལ་སྦྱོར་བར་<«གཡུང་»–བར།>གྱིས། །
