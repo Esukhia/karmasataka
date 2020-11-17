@@ -230,7 +230,7 @@ msgid ""
 "dans le poil [lové] entre les sourcils. S’il a l’intention de révéler un "
 "éveil complet et parfait, ils disparaissent dans l’uṣṇīṣa."
 msgstr ""
-"Ainsi, ces rayons de lumière font le tour du trichiliocosme et reviennent "
+"/Ainsi, ces rayons de lumière font le tour du trichiliocosme et reviennent "
 "vers le Bienheureux. S'il a l’intention de révéler des actions passées, ils "
 "disparaissent par l’arrière du Bienheureux. S’il a l’intention de révéler "
 "des actions futures, ils disparaissent par l’avant de son corps. S’il a "
@@ -248,7 +248,7 @@ msgstr ""
 "auditeurs, ils disparaissent dans sa bouche. S’il a l’intention de révéler "
 "un éveil des bouddhas solitaires, ils disparaissent dans le poil lové entre "
 "ses sourcils. S’il a l’intention de révéler un éveil complet et parfait, ils"
-" disparaissent dans sa protubérance crânienne."
+" disparaissent dans sa protubérance crânienne./"
 
 # དེ་ནས་འོད་ཟེར་དེ་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ལན་གསུམ་བསྐོར་བ་བྱས་ཏེ་
 # བཅོམ་ལྡན་འདས་ཀྱི་སྨིན་མཚམས་ཀྱི་མཛོད་སྤུར་མི་སྣང་བར་གྱུར་ཏོ<«གཡུང་»«པེ་»འགྱུར་རོ།>།
