@@ -343,7 +343,7 @@ msgstr ""
 # བལྟས་པ་མཐོང་ངམ་ བཙུན་པ་ མཐོང་ལགས་སོ། །
 msgctxt "line 12, 15.txt"
 msgid ""
-"Le Bienheureux dit : « Ānanda, C’est comme ceci. C’est comme ceci. De plus, "
+"Le Bienheureux dit : « Ānanda, c’est comme ceci. C’est comme ceci. De plus, "
 "Ānanda, les Tathāgatas, les Arhats, les complets et parfaits Bouddhas ne "
 "montrent pas leur sourire sans cause et sans condition. Ānanda, as-tu vu le "
 "brahmane qui fut empli de joie envers le Tathāgata et qui l’a regardé ? » « "
