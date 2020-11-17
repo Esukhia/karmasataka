@@ -598,7 +598,7 @@ msgctxt "4ad3c564d1f6479eaf0c9e316e957501"
 msgid ""
 "ཁྱོད་ ཀྱིས་ བྲམ་ཟེ་ གང་ གིས་ དེ་བཞིན་ གཤེགས་པ་ ལ་ ཤིང་རྟ་ བསྟབས་པ་ མཐོང་ ངམ "
 "།"
-msgstr "as-tu vu le brahmane qui a offert un chariot au T Tathāgata ? »"
+msgstr "as-tu vu le brahmane qui a offert un chariot au Tathāgata ? »"
 
 msgctxt "f987c49c9f864f73a63ed986c175ebc7"
 msgid "བཙུན་པ་"
