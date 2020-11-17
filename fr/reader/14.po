@@ -129,7 +129,7 @@ msgstr ""
 "Claquent, Lamentations, Quel-Froid, Fendu-comme-un-Lotus-Bleu, Fendu-comme-"
 "un-Lotus, Fendu-comme-un-Grand-Lotus. Ils rafraîchissent les êtres des "
 "enfers chauds quand ils les touchent. Ils réchauffent de même les êtres des "
-"enfers froids. Ainsi sont soulagées leurs souffrances."
+"enfers froids. Ainsi sont soulagées leurs souffrances./"
 
 # དེ་ནས་དེ་དག་འདི་སྙམ་དུ་སེམས་ཏེ། ཀྱེ་ ཅི་<«གཡུང་»ཆི། «ཁུ་»རྩི།>
 # བདག་ཅག་འདི་ནས་ཤི་འཕོས་སམ་ འོན་ཏེ་གཞན་དུ་སྐྱེས་སམ་སྙམ་མོ། །
@@ -156,7 +156,7 @@ msgid ""
 " la lisière [de leur prochaine vie] chez les dieux et les hommes où ils "
 "pourront appréhender (lit. seront des réceptacles pour) les vérités."
 msgstr ""
-"« Que se passe-t-il ? se demandent ces êtres. Serions-nous morts ? Serions-"
+"/« Que se passe-t-il ? se demandent ces êtres. Serions-nous morts ? Serions-"
 "nous nés ailleurs ? » Alors, le Bienheureux Bouddha leur fait voir une "
 "émanation afin qu'ils ressentent de la dévotion. Ils la voient et pensent : "
 "« Hé ! Nous ne sommes ni morts ni nés ailleurs. C'est cet être que nous "
