@@ -102,7 +102,7 @@ msgstr ""
 "un-Lotus, Fendu-comme-un-Grand-Lotus. Ils rafraîchissent les êtres des "
 "enfers chauds quand ils les touchent. Ils réchauffent les être des enfers "
 "froids quand ils les touchent. Ainsi, les souffrances de ces êtres sont "
-"soulagées."
+"soulagées./"
 
 # དེ་ནས་དེ་དག་འདི་སྙམ་དུ་སེམས་ཏེ། ཀྱེ་ ཅི་བདག་ཅག་འདི་ནས་འཆི་འཕོས་སམ་
 # འོན་ཏེ་གཞན་དུ་སྐྱེས་སམ་སྙམ་མོ། །
