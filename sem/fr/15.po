@@ -561,7 +561,7 @@ msgstr "Ānanda,"
 
 msgctxt "2de9fb8a2cf34e6e8be7383a3cb01a27"
 msgid "དེ་ ནི་ དེ་བཞིན་ ནོ ། །"
-msgstr "C'est comme ceci."
+msgstr "c'est comme ceci."
 
 msgctxt "b5388d13e6df4a1a955637373954ffa2"
 msgid "དེ་ ནི་ དེ་བཞིན་ ཏེ །"
