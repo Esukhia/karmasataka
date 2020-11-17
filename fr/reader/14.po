@@ -128,9 +128,8 @@ msgstr ""
 "Tourments-Insurpassables, Couvert-de-Cloques, Cloques-Éclatées, Dents-qui-"
 "Claquent, Lamentations, Quel-Froid, Fendu-comme-un-Lotus-Bleu, Fendu-comme-"
 "un-Lotus, Fendu-comme-un-Grand-Lotus. Ils rafraîchissent les êtres des "
-"enfers chauds quand ils les touchent. Ils réchauffent les être des enfers "
-"froids quand ils les touchent. Ainsi, les souffrances de ces êtres sont "
-"soulagées."
+"enfers chauds quand ils les touchent. Ils réchauffent de même les être des "
+"enfers froids. Ainsi, les souffrances de ces êtres sont soulagées."
 
 # དེ་ནས་དེ་དག་འདི་སྙམ་དུ་སེམས་ཏེ། ཀྱེ་ ཅི་<«གཡུང་»ཆི། «ཁུ་»རྩི།>
 # བདག་ཅག་འདི་ནས་ཤི་འཕོས་སམ་ འོན་ཏེ་གཞན་དུ་སྐྱེས་སམ་སྙམ་མོ། །
