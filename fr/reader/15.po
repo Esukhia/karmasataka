@@ -349,7 +349,7 @@ msgid ""
 "brahmane qui fut empli de joie envers le Tathāgata et qui l’a regardé ? » « "
 "Vénérable, je l’ai vu. »"
 msgstr ""
-"— Ānanda, il en est ainsi, répondit le Bienheureux. Il en est ainsi. Effectivement, Ānanda, les Tathāgatas, les Arhats, les complets et parfaits Bouddhas ne montrent pas leur sourire sans cause et sans condition. As-tu vu le brahmane qui ressentit de la joie envers Tathāgata quand il l'a regardé ?\n"
+"— Ānanda, il en est ainsi, répondit le Bienheureux. Il en est ainsi. Effectivement, Ānanda, les Tathāgatas, les Arhats, les complets et parfaits Bouddhas ne montrent pas leur sourire sans cause et sans condition. As-tu vu le brahmane qui a ressenti de la joie envers le Tathāgata quand il l'a regardé ?\n"
 "— Vénérable, je l’ai vu."
 
 # ཀུན་དགའ་བོ་
