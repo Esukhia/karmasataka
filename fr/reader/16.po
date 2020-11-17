@@ -54,11 +54,13 @@ msgstr ""
 " en chariot. « Quelle mauvaise augure ! » pensa-t-il avant de bifurquer pour"
 " éviter le Bienheureux qu'il avait aperçu devant lui. Par compassion, le "
 "Bienheureux s'arrêta et resta là où il se trouvait. Pendant ce temps, le "
-"brahmane rejoignit une à une les quatre portes de la ville et y trouvait à "
-"chaque fois le Bienheureux devant lui, immobile. « L’ascète Gautama possède "
-"de grands pouvoirs surnaturels. Quel être puissant il est ! » pensa-t-il. "
-"Puis, empli de joie envers le Bienheureux, il répandit sur lui une poignée "
-"de fleurs en guise d'offrande. À ce moment, le Bienheureux sourit."
+"brahmane rejoignit l'une des quatre portes de la ville et y trouva le "
+"Bienheureux, debout, qui le regardait. Il alla ensuite aux autres portes, "
+"mais à chaque fois, le Bienheureux s'y trouvait à nouveau. « L’ascète "
+"Gautama possède de grands pouvoirs surnaturels. Quel être puissant il est ! "
+"» pensa-t-il. Puis, empli de joie envers le Bienheureux, il répandit sur lui"
+" une poignée de fleurs en guise d'offrande. À ce moment, le Bienheureux "
+"sourit."
 
 # འདི་<«ཁུ་»དེ།>ནི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་གང་གི་ཚེ་འཛུམ་པ་མཛད་པའི་ཆོས་ཉིད་དེ།
 # དེའི་ཚེ་ཞལ་ནས་འོད་ཟེར་སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་།
