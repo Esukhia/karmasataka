@@ -266,10 +266,10 @@ msgid ""
 " dans toutes les directions, comme le fait le soleil qui brille. »"
 msgstr ""
 "Les rayons de lumière tournèrent trois fois autour du Bienheureux et disparurent dans le poil lové entre ses sourcils. ’honorable Ānanda joignit les mains et s'adressa au Bienheureux : \n"
-"« /S'élancent de votre bouche d'innombrables rayons\n"
+"/« S'élancent de votre bouche d'innombrables rayons\n"
 "De lumière bariolée, dans toutes les directions.\n"
 "Ils parcourent l'espace, ils illuminent tout\n"
-"Comme le soleil ardent qui irradie partout. »"
+"Comme le soleil ardent qui irradie partout. »/"
 
 # ཡང་ཚིགས་སུ་བཅད་དེ་ གསོལ་པ། རྒོད་དང་བྲལ་ཞིང་རྒྱགས་དང་མི་དགྱེས་<«གཡུང་»བགྱིས།
 # «པེ་»དགྱིས།>སྤངས་པ་ཡིས། ། སངས་རྒྱས་འགྲོ་བ་དག་གི་དམ་པའི་རྒྱུར་གྱུར་པ། །
