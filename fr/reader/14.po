@@ -383,7 +383,7 @@ msgid ""
 msgstr ""
 "Vénérable, les Tathāgatas, les Arhats, les complets et parfaits Bouddhas ne "
 "montrent pas leur sourire sans cause et sans condition. Quelle est donc la "
-"cause de votre sourire ? Quelle en sont les conditions ?"
+"cause de votre sourire ? Quelles en sont les conditions ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
 # ཀུན་དགའ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ནི།>བོ་
