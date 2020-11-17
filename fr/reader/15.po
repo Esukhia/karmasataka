@@ -123,7 +123,7 @@ msgstr ""
 "» La joie parfaite qu'ils ressentent à l'égard de cette émanation épuise les"
 " actions qui les avaient tirés vers les mondes infernaux, qu'ils quittent "
 "pour naître chez les dieux ou les hommes, où ils pourront appréhender les "
-"vérités."
+"vérités./"
 
 # སྟེང་དུ་འགྲོ་བ་གང་ཡིན་པ་དེ་དག་ནི་རྒྱལ་ཆེན་བཞིའི་རིས་རྣམས་དང་།
 # སུམ་ཅུ་<«གཡུང་»«ལི་»«པེ་»བཅུ།>རྩ་གསུམ་པ་རྣམས་དང་། འཐབ་བྲལ་རྣམས་དང་།
