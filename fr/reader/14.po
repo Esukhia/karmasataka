@@ -129,7 +129,7 @@ msgstr ""
 "Claquent, Lamentations, Quel-Froid, Fendu-comme-un-Lotus-Bleu, Fendu-comme-"
 "un-Lotus, Fendu-comme-un-Grand-Lotus. Ils rafraîchissent les êtres des "
 "enfers chauds quand ils les touchent. Ils réchauffent de même les êtres des "
-"enfers froids. Ainsi sont soulagées leurs souffrances."
+"enfers froids. Ainsi sont soulagées leurs souffrances./"
 
 # དེ་ནས་དེ་དག་འདི་སྙམ་དུ་སེམས་ཏེ། ཀྱེ་ ཅི་<«གཡུང་»ཆི། «ཁུ་»རྩི།>
 # བདག་ཅག་འདི་ནས་ཤི་འཕོས་སམ་ འོན་ཏེ་གཞན་དུ་སྐྱེས་སམ་སྙམ་མོ། །
