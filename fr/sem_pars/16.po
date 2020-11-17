@@ -250,7 +250,17 @@ msgstr ""
 # དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ནི་རྒྱུ་མེད་རྐྱེན་མེད་པར་འཛུམ་པ་མི་མཛད་དོ།
 # ། ཀུན་དགའ་བོ་
 # ཁྱོད་ཀྱིས་བྲམ་ཟེ་གང་གིས་དེ་བཞིན་གཤེགས་པ་ལ་མེ་ཏོག་གིས་གཏོར་བ་མཐོང་ངམ། བཙུན་པ་
-# མཐོང་ལགས་སོ། ། ཀུན་དགའ་བོ་
+# མཐོང་ལགས་སོ། །
+msgctxt "line 12, 16.txt"
+msgid ""
+"Le Bienheureux dit : « « Ānanda, C’est comme ceci. C’est comme ceci. De "
+"plus, Ānanda, les Tathāgatas, les Arhats, les complets et parfaits Bouddhas "
+"ne montrent pas leur sourire sans cause et sans condition. Ānanda, as-tu vu "
+"le brahmane qui a répandu des fleurs sur le Tathāgata ? » « Vénérable, je "
+"l’ai vu. »"
+msgstr ""
+
+# ཀུན་དགའ་བོ་
 # བྲམ་ཟེ་<«གཡུང་»བེ།>འདི་ནི་དགེ་བའི་རྩ་བ་འདིས་བསྐལ་པ་བཅུ་གསུམ་གྱི་བར་དུ་ལོག་པར་ལྟུང་བར་མི་འགྱུར་ཏེ།
 # བསྐལ་པ་བཅུ་གསུམ་གྱི་བར་དུ་ལྷ་རྣམས་དང་མི་རྣམས་ཀྱི་ནང་དུ་ཉིང་མཚམས་སྦྱར་ཞིང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ཅིང་།>
 # འཁོར་བར་གྱུར་ནས། སྲིད་པ་ཐ་མ་དང་གནས་ཐ་མ་ལ་མིར་སྐྱེ་བ་ཐོབ་སྟེ་
@@ -259,19 +269,15 @@ msgstr ""
 # རང་སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་མངོན་སུམ་དུ་བྱེད་པར་འགྱུར་ཏེ་
 # རང་སངས་རྒྱས་མེ་ཏོག་བླ་མ་ཞེས་བྱ་བར་འགྱུར་རོ། །
 # དེའི་སྦྱིན་པར་བྱ་བའི་ཆོས་ནི་དེ་ཡིན་ནོ། ། ། །
-msgctxt "line 12, 16.txt"
+msgctxt "line 13, 16.txt"
 msgid ""
-"Le Bienheureux dit : « « Ānanda, C’est comme ceci. C’est comme ceci. De "
-"plus, Ānanda, les Tathāgatas, les Arhats, les complets et parfaits Bouddhas "
-"ne montrent pas leur sourire sans cause et sans condition. Ānanda, as-tu vu "
-"le brahmane qui a répandu des fleurs sur le Tathāgata ? » « Vénérable, je "
-"l’ai vu. » « Ānanda, ce brahmane, grâce à cette racine vertueuse, ne tombera"
-" pas dans les conditions contraires pendant treize éons et pendant treize "
-"éons, il naîtra parmi les dieux et les hommes et il tournera [dans ces "
-"naissances], puis il obtiendra une naissance humaine lors de sa dernière "
-"existence et dans le dernier endroit [qu’il connaîtra] et il se retirera du "
-"monde et sans instructeur et sans instructions, il intégrera les trente-sept"
-" éléments qui correspondent à la direction de l’éveil et il manifestera "
-"l’état de l’éveil des bouddhas solitaires et il deviendra le bouddha "
-"solitaire Fleur. Ceci est ce qu’il a obtenu de la générosité."
+"« Ānanda, ce brahmane, grâce à cette racine vertueuse, ne tombera pas dans "
+"les conditions contraires pendant treize éons et pendant treize éons, il "
+"naîtra parmi les dieux et les hommes et il tournera [dans ces naissances], "
+"puis il obtiendra une naissance humaine lors de sa dernière existence et "
+"dans le dernier endroit [qu’il connaîtra] et il se retirera du monde et sans"
+" instructeur et sans instructions, il intégrera les trente-sept éléments qui"
+" correspondent à la direction de l’éveil et il manifestera l’état de l’éveil"
+" des bouddhas solitaires et il deviendra le bouddha solitaire Fleur. Ceci "
+"est ce qu’il a obtenu de la générosité."
 msgstr ""
