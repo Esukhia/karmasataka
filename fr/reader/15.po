@@ -40,8 +40,7 @@ msgstr ""
 "À cette époque, après avoir fait une offrande rituelle, un brahmane monta "
 "sur un chariot et entra dans la ville, suivi de son entourage et de ses "
 "serviteurs. Il ressentit de la joie à la vue du Bienheureux qui rentrait au "
-"monastère après avoir fait l'aumône dans la ville. À ce moment, le "
-"Bienheureux sourit."
+"monastère après avoir fait l'aumône. À ce moment, le Bienheureux sourit."
 
 # འདི་ནི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་གང་གི་ཚེ་འཛུམ་པ་མཛད་པའི་ཆོས་ཉིད་དེ།
 # དེའི་ཚེ་ཞལ་ནས་འོད་ཟེར་སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་།
