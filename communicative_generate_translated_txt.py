@@ -107,11 +107,12 @@ class Po:
         updated = re.sub(r'([!?”:;…,.»"]+?)([^ \f\v\u202f\u00a0\n!?”:;…,.»"])', r'\1 \2', updated)  # reinserting spaces where needed
         updated = re.sub(r'\n\n/ +', '/\n\n', updated)
         updated = re.sub(r'/ /\n\n([^\n])', r'/\n\n/\1', updated)
-        updated = updated.replace(' /', '/')
+        # updated = updated.replace(' /', '/')
         updated = re.sub(r'\n\n” ', '”\n\n', updated)
         updated = updated.replace('\n ', '\n')
         updated = updated.replace(' \n', '\n')
-        updated = updated.replace(' –', '\n–')
+        updated = re.sub(r'([!?”:;…,.»"]+?) —', r'\1\n—', updated)
+        updated = updated.replace('\n\n\n', '\n\n')
 
         return updated
 
@@ -137,7 +138,7 @@ def gen_pdf(file):
 if __name__ == '__main__':
     folder = 'fr/reader'
     enforce = True
-    sys.argv = ['', '11']
+    # sys.argv = ['', '14']
     if len(sys.argv) > 1:
         stem = sys.argv[1]
         file = Path(folder) / (stem + '.po')
