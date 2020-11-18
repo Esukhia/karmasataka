@@ -375,7 +375,7 @@ msgstr ""
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགོངས་ནས<«གཡུང་»ནཱ། «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ན།>།
 msgctxt "6687acfbc82c466d8c59fe06f7df49a7"
 msgid "དེ་ནས་ བཅོམ་ལྡན་འདས་ ཀྱིས་ དགོངས་ ནས །"
-msgstr "Puis le bienheureux pensa que"
+msgstr "Puis le Bienheureux pensa que"
 
 msgctxt "0577ecd3c2274220a252445caa4b6783"
 msgid "མཉན་ དུ་ཡོད་པ␣འི་ སྐྱེ་བོ་ ཕལ་པོ་ ཆེ་ འདུལ་བ␣འི་ དུས་ ལ་ བབ་ ནས །"
