@@ -1068,7 +1068,7 @@ msgstr "Ānanda,"
 
 msgctxt "133ace1f42e3423b90ce53ffb83a72e9"
 msgid "སེམས་ཅན་ འདི་ ནི་ སྡིག་པ␣འི་ ལ␣ས་ བྱེད་ བྱེད་པ་ ཡིན་ ཏེ །"
-msgstr "Cet être en est un qui a continuellement fait des actions négatives ;"
+msgstr "cet être en est un qui a continuellement fait des actions négatives ;"
 
 msgctxt "aa4481aa0153418a86fed2bf19e1fc67"
 msgid "འདི␣ས་ སྡིག་པ␣འི་ ལ␣ས་ མང་ དུ་ བྱས་ སོ ། །"
