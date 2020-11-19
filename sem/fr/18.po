@@ -1047,7 +1047,7 @@ msgstr "Vénérable,"
 
 msgctxt "546d6d0f60c54223a0ca4b14851f742a"
 msgid "འདི་ ལྟ་བུ␣འི་ སེམས་ཅན་ སྔོན་ གྱི་ ཚེ་རབས་ དྲན་ ལ་"
-msgstr "Cet être qui se souvient de ses vies passées,"
+msgstr "cet être qui se souvient de ses vies passées,"
 
 # མིའི་<«གཡུང་»«པེ་»མི།>སྐད་དུ་སྨྲ་ཞིང་།
 msgctxt "c76c452b6c434252a18b473cee86a84a"
