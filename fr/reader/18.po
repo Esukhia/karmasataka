@@ -644,11 +644,11 @@ msgstr ""
 " lances, des vajras à une pointe et des lances à pointe plate. Donnez "
 "certains autres vivants en pâture à des chiens. Coupez d'autres en six "
 "morceaux et jetez-les dans toutes les directions.\" \"À vos ordres\", "
-"répondirent-ils, avant de s'exécuter. Certains furent empalés vivants et des"
-" épées, des javelots, des lances, des vajras à une pointe et des lances à "
-"pointe plate furent abattus sur eux. Certains autres furent donnés en pâture"
-" à des chiens. D'autres furent coupés en six et les parties de leurs corps "
-"furent jetés dans toutes les directions."
+"répondirent-ils, avant de s'exécuter. Alors, certains arhats furent empalés "
+"vivants et des épées, des javelots, des lances, des vajras à une pointe et "
+"des lances à pointe plate furent abattus sur eux. Certains autres furent "
+"donnés en pâture à des chiens. D'autres furent coupés en six et les parties "
+"de leurs corps furent jetés dans toutes les directions."
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
 # དེའི་ཚེ་རྒྱལ་པོར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་འདི་ཉིད་ཡིན་ཏེ།
