@@ -594,7 +594,7 @@ msgstr ""
 " écouter le Dharma. Au loin, le roi entendit la voix d’un homme. Il empoigna"
 " une épée tranchante qu'il rejeta sur son épaule et  marcha vers les moines."
 " Se rapprochant, il vit toutes les dames assises aux pieds des moines. “Ils "
-"osent regarder mon harem !” pensa-t-il, hors de lui."
+"osent regarder mes reines !” pensa-t-il, hors de lui."
 
 # ཁྲོ་བའི་ཀུན་ནས་དཀྲིས་<«ཁུ་»བཀྲིས།>པ་ཆེན་པོ་སྐྱེས་ནས་
 # མཐོང་མ་ཐག་ཏུ་རྒྱལ་པོ་དེས་རྒྱལ་པོའི་ཞོ་ཤས་འཚོ་བ་རྣམས་ལ་བོས་ཏེ།
