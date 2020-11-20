@@ -479,11 +479,11 @@ msgid ""
 " les Bienheureux, mais pourtant, par compassion pour vous, je vais le "
 "demander », dit-il. Puis,"
 msgstr ""
-"Tout le monde voulut savoir qui était cet être qui se souvenait de ses vies passées, qui parlait la langue humaine et qui conversait avec le Bienheureux. Mais il est difficile de se faire entendre par le Bienheureux. N'osant pas s'adresser à lui, il se tournèrent vers celui qui le servait :\n"
+"Tout le monde voulut savoir qui était cet être qui se souvenait de ses vies passées, qui parlait la langue humaine et qui conversait avec le Bienheureux. Mais il est difficile de se faire entendre par les Bienheureux Bouddhas. N'osant pas s'adresser à lui, il se tournèrent vers celui qui le servait :\n"
 "« Vénérable Ānanda, qui est cet être qui se souvient de ses vies passées, qui parle la langue humaine et converse avec le Bienheureux ?\n"
-"— Demandez-le au Bienheureux, répondit l'honorable Ānanda.\n"
-"— Il est difficile d'aborder les Bienheureux, dirent-ils. Leur prestance est insoutenable. C'est pourquoi nous ne parvenons pas à le lui demander.\n"
-"— Il m’est aussi difficile de le faire, répondit-il, mais je poserai la question pour vous être utile. »"
+"— Demandez-le lui, répondit l'honorable Ānanda.\n"
+"— Il est difficile de les aborder, dirent-ils. Leur prestance est insoutenable. C'est pourquoi nous ne parvenons pas à le lui demander.\n"
+"— Il m’est aussi difficile de le faire, répondit l'honorable, mais pour vous être utile, je poserai la question à votre place. »"
 
 # ཚེ་དང་ལྡན་པ་ཀུན་<«གཡུང་»ཞུ་ན།>དགའ་བོས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ཏེ།
 # བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་
