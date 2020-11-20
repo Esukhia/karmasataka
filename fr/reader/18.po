@@ -229,9 +229,9 @@ msgstr ""
 "Le Bienheureux vit que le moment était venu de discipliner les innombrables "
 "habitants de Śrāvastī. Il réfléchit : « Serait-ce la subjugation ou bien les"
 " encouragements qui les disciplineront ? Ou encore le désenchantement ? » Il"
-" vit que le désenchantement les disciplinerait. À cet effet, il fit venir "
-"cet être infernal par ses pouvoirs surnaturels et le plaça sur les rives de "
-"la rivière Ajiravatī."
+" vit qu'il fallait les désenchanter. À cet effet, il fit venir cet être "
+"infernal par ses pouvoirs surnaturels et le plaça sur les rives de la "
+"rivière Ajiravatī."
 
 # དེར་ཡང་དེ་ནད་མི་བཟོད་ནས་ ཕན་ཚུན་རྒྱུག་པར་བྱེད་ལ་
 # དེར་ཡང་དེ་གལ་ཏེ་ཐང་ལ་འགྲོ་ན་ནི་
