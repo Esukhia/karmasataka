@@ -690,7 +690,7 @@ msgstr ""
 "aux bourreaux, leur ordonnant d'empaler vivants certains d'entre eux, puis "
 "d'abattre sur eux des épées, des javelots, des lances, des vajras à une "
 "pointe et des lances à pointe plate. Il a ordonné de donner certains autres "
-"en pâture à des chiens, de couper d'autres encore en six parties qu'ils "
+"en pâture à des chiens, de couper d'autres encore en six morceaux qu'ils "
 "devaient jeter dans toutes les directions."
 
 # གལ་ཏེ་ཐང་ལ་འགྲོ་ན་ནི་ དེ་ལ་དེ་ཉིད་ནས་སེང་གེ་དང་། སྟག་དང་། གཟིག་དང་།
