@@ -1,0 +1,967 @@
+# 
+# Translators:
+# Drupchen Dorje <drupchen@esukhia.org>, 2020
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Drupchen Dorje <drupchen@esukhia.org>, 2020\n"
+"Language-Team: French (France) (https://www.transifex.com/lotsawa-apprenticeship/teams/112155/fr_FR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+# སྒམ་པོ་ཞེས་བྱ་བ་ནི།
+msgctxt "line 1, 18.txt"
+msgid "Celui nommé Insondable"
+msgstr "L'histoire d'Insondable"
+
+# གླེང་གཞི་<«གཡུང་»བཞི།>མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "line 2, 18.txt"
+msgid ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+msgstr ""
+"Voici une histoire que le Bienheureux conta lorsqu'il séjournait à Śrāvastī."
+
+# དེའི་ཚེ་སེམས་ཅན་ཞིག་<«སྣར་»–ཞིག>སེམས་ཅན་དམྱལ་བར་སྐྱེས་ཏེ་ ལུས་ཆེ་ཞིང་
+# དམུས་ལོང་དུ་འདུག་ལ་ དེའི་ལུས་རིལ་གྱིས་རྨས་ཞུ་ལུབ་ཏུ་ཡོག་སྟེ།
+# དེའི་སྤྱི་བོ་མན་ཆད་རྐང་མཐིལ་ཡན་ཆད་སྲིན་ཞུགས་པས་དེ་ནད་མ་བཟོད་ནས་
+# ཕན་ཚུན་རྒྱུག་པར་བྱེད་ལ།
+msgctxt "line 3, 18.txt"
+msgid ""
+"À cette époque, un être était né [comme] être des enfers et son corps était "
+"grand, il était né aveugle et la surface (lit. la rondeur) de son corps "
+"était entièrement (lit. sans espace) recouverte de plaies et du haut de sa "
+"tête vers le bas et de la plante de ses pieds vers le haut, des parasites le"
+" rongeaient (lit. s’engageaient) et il ne supportait pas cette douleur et il"
+" courrait ici et là et"
+msgstr ""
+"À cette époque, vivait un être infernal au corps énorme. Il était né "
+"aveugle. Toute la surface de son corps, du sommet de sa tête aux plantes de "
+"ses pieds, était recouverte de plaies béantes, elles-mêmes rongées par des "
+"parasites. Ses tourments étaient si grands qu'il ne cessait de courir "
+"partout et nulle part à la fois."
+
+# དེ་གལ་ཏེ་ཐང་ལ་འགྲོ་ན་ནི། དེ་ལ་དེ་ཉིད་ནས་སེང་གེ་དང་། སྟག་དང་། གཟིག་དང་།
+# དྲེད་ལ་སོགས་པ་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་<«གཡུང་»–བཅད་ཅིང་།> ཟའོ། །
+# དེ་སྟེ་ཆུ་ལ་འབོག་ན་ནི་
+# དེ་ལ་དེ་ཉིད་ནས་ཆུ་སྲིན་མ་ཀ་ར་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་<«གཡུང་»–དག>འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་ཀྱང་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་<«གཡུང་»–བཅད་ཅིང་།> ཟའོ། །
+# དེ་སྟེ་<«གཡུང་»«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–སྟེ།>སྟེང་གི་ནམ་མཁའ་ལ་འགྲོ་ན་ནི་
+# དེ་ལ་དེ་ཉིད་ནས།
+# བྱ་རོག་དང་བྱ་རྒོད་དང་ཆུན་ལག་ལྕགས་ཀྱི་མཆུ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་ཀྱང་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་ ཟའོ། །
+# དེ་སྟེ་ནགས་སྟུག་<«གཡུང་»ནག་སྡུག «པེ་»ནགས་སྡུགཔོ>པོའི་ནང་དུ་[60a]འགྲོ་ན་ནི་
+# དེ་ལ་དེ་ཉིད་ནས་ཤིང་ཤལ་མ་ལིའི་<«གཡུང་»«པེ་»རིའི།>ཚལ་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་ལ་དེར་རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་། རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་།
+# མདུང་ཁ་ལེབ་རྣམས་རླུང་གིས་སྤགས་<«གཡུང་»བླགས།>ཏེ་ དེའི་སྟེང་དུ་འབབ་བོ། །
+# དེ་སྟེ་རྩིག་པའི་གསེབ་བམ་རིའི་སུལ་ལམ་བྱ་སྐྱིབས་དག་ཏུ་འགྲོ་བར་འདོད་ན་ཡང་
+# དེ་ལ་དེ་ཉིད་ནས་ལས་ལས་སྐྱེས་པའི་མི་དག་འབྱུང་བར་འགྱུར་ཏེ། རལ་གྲི་དང་།
+# མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་།
+# རྡོ་རྗེ་རྩེ་གཅིག་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཞོལ་»–པ།>དང་།
+# མདུང་ཁ་ལེབ་རྣམས་ཐོགས་ནས་ དེའི་ལུས་ལ་འདེབས་ཏེ།
+# དེ་དག་གིས་དེའི་ལུས་ཐམས་ཅད་བཅད་<«སྣར་»ཅི་བཅད།
+# «ཞོལ་»གཅོད།>ཅིང་གཏུབ་པར་བྱེད་དེ།
+# རྒྱུ་དེས་ན་དེས་སྡུག་བསྔལ་དྲག་པ་དང་མི་བཟད་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»ཟད།>པ་དང་ཚ་བ་དང་ཡིད་དུ་མི་འོང་བའི་ཚོར་<«གཡུང་»+ད།
+# «པེ»+དེ།>བ་མྱོང་སྟེ། ཉམ་ཐག་པའི་སྐད་འབྱིན་ཅིང་ ངུའོ། །
+msgctxt "line 4, 18.txt"
+msgid ""
+"s’il allait sur une plaine, y surgissaient des lions, des léopards, des ours"
+" [tous] avec des crocs en métal et ils découpaient sans cesse sa chair et "
+"ils le mangeaient. Lui, s’il s’enfonçait dans l’eau, y surgissaient des "
+"monstres makarah aux crocs en métal et ils découpaient sans cesse sa chair "
+"et ils le mangeaient. Lui, s’il allait dans l’espace, y surgissaient des "
+"corbeaux, des vautours et des oiseaux tsasha tous avec des becs en métal et "
+"ils découpaient sans cesse sa chair et ils le mangeaient. Lui, s’il allait "
+"dans la forêt dense, y surgissait une forêt d’arbres śālmali et le vent "
+"projetait des épées, des javelots, des lances, des vajras à une pointe et "
+"des lances à pointe plate et ils tombaient sur lui. Lui, s’il avait envie "
+"d’aller dans les enceintes ou dans les villages de montagne ou dans des "
+"abris sous roche, y surgissaient des hommes créés par ses actions et ils "
+"portaient des épées, des javelots, des lances, des vajras à une pointe et "
+"des lances à pointe plate et ils frappaient son corps et ils tranchaient son"
+" corps et le découpaient et à cause de ça (lit. dû à cette cause), il "
+"subissait des souffrances intenses, insoutenables, des douleurs et des "
+"sensations indésirables et il laissait s’échapper des cris de désespoir et "
+"il pleurait."
+msgstr ""
+"Si sa course le menait sur une plaine, y surgissaient des lions, des "
+"léopards, des ours, tous dotés de crocs métalliques, qui n'avaient de cesse "
+"de trancher sa chair et de le dévorer vif. S’il s’enfonçait dans l’eau, y "
+"surgissaient des monstres makarah aux crocs métalliques qui n'avaient de "
+"cesse de trancher sa chair et de le dévorer vif. S’il s'élevait dans les "
+"airs, y surgissaient des corbeaux, des vautours et des oiseaux tsasha, tous "
+"dotés de becs métalliques, qui n'avaient de cesse de trancher sa chair et de"
+" le dévorer vif. S’il entrait dans une forêt dense, elle se transformait en "
+"forêt d’arbres śālmali, dont les épées, les javelots, les lances, les vajras"
+" à une pointe et les lances à pointe plate étaient projetés sur lui en "
+"rafales. Si l'envie le prenait d’aller en deçà des enceintes des cités, dans"
+" les villages de montagne ou dans les abris sous roche, y surgissaient des "
+"hommes créés par ses actions passées qui brandissaient des épées, des "
+"javelots, des lances, des vajras à une pointe et des lances à pointe plate "
+"qui abattaient leurs armes sur lui, tranchaient son corps et le découpaient "
+"en morceaux. Ainsi, il subissait tant de supplices, de violences "
+"insoutenables, de souffrances intenses, de douleurs et de sensations "
+"indésirables que des cris de désespoirs et des pleurs ne cessaient de "
+"s’échapper de sa personne."
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་བགྲོད་པ་གཅིག་པུའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»པའི།>ལམ་སྟོན་པ།
+# རྣམ་པ་གཉིས་ཀྱི་ཤེས་བྱ་དང་ཡེ་ཤེས་ལ་མངའ་བརྙེས་པ།
+# མ་འདྲེས་པའི་དྲན་པ་ཉེ་བར་གཞག་<«སྣར་»«ཞོལ་»བཞག>པ་གསུམ་ལ་མཁས་པ།
+# མི་འཇིགས་པ་བཞིས་མི་འཇིགས་པ། འགྲོ་བ་ལྔར་འགྲོ་བ་ལས་རྣམ་པར་གྲོལ་བ།
+# སྐྱེ་མཆེད་དྲུག་ལ་མཁས་པ།
+# བྱང་ཆུབ་ཀྱི་ཡན་ལག་བདུན་ལ་སྤྱོད་ཡུལ་བ<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»པ།>།
+# རྣམ་པར་ཐར་<«ལི་»«ཅོ་»མཐར།>པ་བརྒྱད་ལ་བསམ་གཏན་པ།
+# མཐར་གྱིས་གནས་པའི་སྙོམས་པར་འཇུག་པ་དགུ་ལ་སྙོམས་པར་འཇུག་པ།
+# སྟོབས་བཅུའི་<«གཡུང་»«པེ་»ཅུའི།>སྟོབས་དང་ལྡན་པ།
+# ཡང་དག་པའི་སེང་གེའི་སྒྲ་ཆེན་པོ་སྒྲོགས་<«ཞོལ་»སྒྲོག>པ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་ཉིན་དུས་གསུམ་མཚན་དུས་གསུམ་སྟེ།
+# ཉིན་མཚན་དུས་དྲུག་ཏུ་སངས་རྒྱས་ཀྱི་སྤྱན་གྱིས་འཇིག་རྟེན་ལ་གཟིགས་ཏེ།
+msgctxt "line 5, 18.txt"
+msgid ""
+"Les Bienheureux Bouddhas montrent l’unique voie à parcourir ; ils possèdent "
+"(lit. obtenu la possession de) les deux aspects de la connaissance et la "
+"sagesse ; ils excellent dans les trois attentions rapprochées qui leur sont "
+"propres ; ils sont intrépides grâce aux quatre intrépidités ; ils sont "
+"entièrement libérés d’aller vers les cinq renaissances ; ils sont versés "
+"dans les six sources des sens ; ils vivent les sept branches de l’Éveil ; "
+"ils contemplent les huit libérations complètes ; ils s’engagent dans les "
+"neuf absorptions méditatives successives ; ils possèdent la puissance des "
+"dix forces ; eux qui font résonner le grand rugissement parfait du lion, ils"
+" contemplent spontanément le monde avec les yeux de bouddhas pendant les six"
+" périodes de la journée, trois fois le jour et trois fois la nuit."
+msgstr ""
+"/Les Bienheureux bouddhas montrent l'unique voie à parcourir. Ils maîtrisent"
+" les deux domaines de la connaissance et la sagesse. Ils appliquent "
+"souverainement les trois attentions rapprochées qui sont leur apanage. Les "
+"quatre intrépidités les rendent inébranlables. Ils sont entièrement "
+"affranchis des cinq naissances. Ils connaissent parfaitement les six "
+"facultés sensorielles. Ils vivent les sept branches de l’éveil. Ils fixent "
+"leur esprit sur les huit libérations parfaites. Ils s’absorbent dans les "
+"neuf absorptions successives et possèdent la puissance des dix forces. Eux "
+"qui poussent le rugissement éclatant et parfait du lion, ils tournent "
+"naturellement leurs yeux d’éveillés vers le monde pendant les six périodes "
+"de la journée — les trois du jour et les trois de la nuit./"
+
+# སུ་ནི་རྒུད། སུ་ནི་དར། སུ་ནི་ཕོངས་ཤིང་འདུག ། སུ་ནི་ཉམ་ང་བར་གྱུར།
+# སུ་ནི་གནོད་པ་དང་ལྡན། སུ་ནི་ཕོངས་པ་དང་ཉམ་ང་བ་དང་གནོད་པ་དང་ལྡན་
+# སུ་ནི་ངན་སོང་དུ་གཞོལ་ སུ་ནི་ངན་སོང་དུ་འབབ་ སུ་ནི་ངན་སོང་དུ་བབ་
+# སུ་ནི་ངས་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–ངས།>ངན་སོང་ནས་ཕྱུང་སྟེ་
+# མཐོ་རིས་དང་ཐར་པ་དང་འབྲས་བུ་ལ་གཞག་པར་བྱ།
+# སུ་ནི་ཉེས་པར་སྤྱོད་པའི་འདམ་དུ་བྱིང་བ་ལས་ ལག་ནས་དྲང་བར་བྱ།
+# སུ་ནི་འཕགས་པའི་ནོར་བདུན་མེད་པ་ལས་
+# འཕགས་པའི་<«གཡུང་»+པ།>ནོར་བདུན་གྱི་དབང་ཕྱུག་ལ་དབང་བྱེད་དུ་གཞུག་པར་<«གཡུང་»པ།>[60b]བྱ།
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་མ་བསྐྱེད་པ་ལས་ བསྐྱེད་པར་བྱ།
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་བསྐྱེད་ཟིན་པ་ལས་ ཡོངས་སུ་སྨིན་པར་བྱ།
+# སུ་ནི་དགེ་བའི་རྩ་བ་རྣམས་ཡོངས་སུ་སྨིན་ཟིན་པ་ལས་
+# ཡེ་ཤེས་ཀྱི་མཚོན་གྱིས་བརྟོལ་<«གཡུང་»«པེ་»རྟོལ། «ཁུ་»བརྡོལ།>བར་བྱ།
+# སུ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལ།>ནི་སངས་རྒྱས་བྱུང་བས་བརྒྱན་པའི་འཇིག་རྟེན་འབྲས་བུ་དང་བཅས་པར་བྱ་སྙམ་དུ་
+# ཡེ་ཤེས་གཟིགས་པ་འཇུག་གོ། །
+msgctxt "line 6, 18.txt"
+msgid ""
+"« Qui s’affaiblit ? Qui s’épanouit ? Qui est dans la misère ? Qui est dans "
+"le malheur ? Qui est dans la souffrance ? Qui est dans le malheur, vit dans "
+"la peur et est accablé (lit. avoir) de souffrances (lit. de maux) ? Qui "
+"chute dans les mondes inférieurs ? Qui tombe dans les mondes inférieurs ? "
+"Qui tombera dans les mondes inférieurs ? Qui vais-je extirper des royaumes "
+"inférieurs et les établir dans les royaumes supérieurs, la libération ou le "
+"résultat ? Quel être (lit. qui) enlisé dans le marais des mauvaises "
+"conduites vais-je tirer par la main ? Quel être (lit. qui) dépourvu des sept"
+" richesses des êtres sublimes vais-je pousser à s’approprier le pouvoir des "
+"seigneurs des sept joyaux des [êtres] nobles ? Qui, n’ayant pas développé "
+"les racines vertueuses, inciterais-je à [les] développer ? Qui, ayant déjà "
+"développé les racines vertueuses, inciterais-je à [les] faire mûrir ? Qui, "
+"ayant déjà fait mûrir entièrement les racines vertueuses, inciterais-je à "
+"[les] faire jaillir à l’aide de l’arme de la sagesse ? Pour quel être (lit. "
+"qui) fructifierais-je ce monde qui est orné puisqu’un bouddha y est apparu ?"
+" » [Ainsi] s’applique leur regard de sagesse."
+msgstr ""
+"/« Qui décline? Qui prospère ? Qui est dans la misère ? Qui vit dans la peur"
+" ? Qui est accablé de souffrances ? Qui est dans le malheur, vit dans la "
+"peur et est accablé de souffrances ? Qui chute dans les mondes inférieurs ? "
+"Qui tombe dans les mondes inférieurs ? Qui tombera dans les mondes "
+"inférieurs ? Qui vais-je extraire des mondes inférieurs et les déposer dans "
+"les mondes supérieurs, la libération et le résultat ultime ? Quel être "
+"enlisé dans le marais des actions mauvaises vais-je tirer par la main ? Quel"
+" être dépourvu des sept richesses des êtres sublimes vais-je inciter à "
+"devenir le détenteur de ces sept richesses ? Quel être n'ayant pas développé"
+" les racines vertueuses pourrais-je inciter à les développer ? Chez quel "
+"être ayant déjà développé les racines vertueuses, pourrais-je les mener à "
+"maturité ? Chez quel être dont les racines vertueuses sont parvenues à "
+"maturité pourrais-je les pousser à émerger grâce à l'épée de la sagesse ? "
+"Pour quel être fructifierais-je le cycle des existences qui est orné de la "
+"présence d'un bouddha ? » Ainsi se pose sur le monde leur regard de "
+"sagesse./"
+
+# རྒྱ་མཚོ་ཆུ་སྲིན་རྣམས་ཀྱི་གནས། ། དུས་རླབས་ཡོལ་བར་འགྱུར་ཡང་སྲིད། །
+# གདུལ་བར་བྱ་བའི་སྲས་རྣམས་ལ། ། སངས་རྒྱས་དུས་ལས་ཡོལ་བ་མེད། །
+msgctxt "line 7, 18.txt"
+msgid ""
+"[Dans] l’océan, la demeure des [monstres] makara, il est possible que les "
+"marées tardent. Pour leurs enfants qu’ils doivent dompter, les bouddhas ne "
+"prennent [jamais] de retard."
+msgstr ""
+"/Dans l'océan, où vivent les makaras,/\n"
+"/Les marées régulières tardent parfois./\n"
+"/Pour leurs enfants à discipliner,/\n"
+"/Jamais ne tardent les éveillés./"
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དགོངས་ནས<«གཡུང་»ནཱ། «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ན།>།
+# མཉན་དུ་ཡོད་པའི་སྐྱེ་བོ་ཕལ་པོ་ཆེ་འདུལ་བའི་དུས་ལ་བབ་ནས།
+# བཅོམ་ལྡན་འདས་ཀྱིས་དགོངས་པ་ ཅི་ ཚར་གཅད་<«ཁུ་»བཅད།>པས་འདུལ་བར་འགྱུར་རམ་
+# འོན་ཏེ་བསྟོད་པས་འདུལ་བར་འགྱུར་རམ།
+# འོན་ཏེ་སྐྱོ་བ་བསྐྱེད་པས་འདུལ་བར་འགྱུར་སྙམ་དུ་ དགོངས་ནས།
+# སྐྱོ་བ་བསྐྱེད་པས་འདུལ་བར་འགྱུར་བར་བཅོམ་ལྡན་འདས་ཀྱིས་གཟིགས་ནས།
+# དེ་དག་སྐྱོ་བ་བསྐྱེད་པའི་ཕྱིར་བཅོམ་ལྡན་འདས་ཀྱིས་སེམས་ཅན་དེ་རྫུ་འཕྲུལ་གྱིས་བཀུག་སྟེ།
+# ཆུ་ཀླུང་ཁང་ལྡན་གྱི་འགྲམ་དུ་བཞག་ན<«གཡུང་»ནས།>།
+msgctxt "line 8, 18.txt"
+msgid ""
+"Puis le bienheureux pensa que c’était le temps de dompter les innombrables "
+"habitants (lit. personnes) de Śrāvastī et le Bienheureux pensa : « Qu’[en "
+"est-il] ? Seront-ils domptés par la subjugation ? Ou bien seront-ils domptés"
+" par les hommages ? Ou bien seront-ils domptés par le désenchantement ? » "
+"pensa-t-il. Puis, le Bienheureux vit qu’ils seraient domptés par le "
+"désenchantement et pour qu’ils soient désenchantés, le Bienheureux fit venir"
+" cet être par ses pouvoirs surnaturels et il le plaça sur les rives de (lit."
+" près de) la rivière Ajiravatī. À ce moment,"
+msgstr ""
+"Le Bienheureux vit que le moment était venu de discipliner les innombrables "
+"habitants de Śrāvastī. Il réfléchit : « Serait-ce la subjugation ou bien les"
+" encouragements qui les disciplineront ? Ou encore par le désenchantement ? "
+"» Il vit que le désenchantement les disciplinerait. À cet effet, il fit "
+"venir cet être infernal par ses pouvoirs surnaturels et le plaça sur les "
+"rives de la rivière Ajiravatī."
+
+# དེར་ཡང་དེ་ནད་མི་བཟོད་ནས་ ཕན་ཚུན་རྒྱུག་པར་བྱེད་ལ་
+# དེར་ཡང་དེ་གལ་ཏེ་ཐང་ལ་འགྲོ་ན་ནི་
+# དེ་ལ་དེ་<«གཡུང་»ལས།>ཉིད་ནས་སེང་གེ་དང་སྟག་<«གཡུང་»རྟག>དང་།
+# གཟིག་དང་དྲེད་ལ་སོགས་པ་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་ ཟའོ། ། དེ་སྟེ་ཆུར་འབོག་ན་ནི་
+# དེ་ལ་དེ་ཉིད་ནས་ཆུ་སྲིན་མ་<«གཡུང་»ན།>ཀ་ར་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་ཀྱང་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་ ཟའོ། །
+# དེ་སྟེ་སྟེང་གི་ནམ་མཁའ་ལ་འགྲོ་ན་ནི་
+# དེ་ལ་དེ་ཉིད་ནས་བྱ་རོག་དང་བྱ་རྒོད་དང་ཆུན་ལག་ལྕགས་ཀྱི་མཆུ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་ཀྱང་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་ ཟའོ། །
+# དེ་སྟེ་ནགས་སྟུག་<«ལི་»«ཁུ་»སྡུག>པོའི་ནང་དུ་འགྲོ་ན་ནི་
+# དེ་ལ་དེ་ཉིད་ནས་ཤིང་ཤལ་<«གཡུང་»ཤམ།>མ་ལིའི་ཚལ་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་ལ་དེ་ཉིད་དུ་རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་།
+# རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་། མདུང་ཁ་ལེབ་རྣམས་རླུང་གིས་སྤགས་<«གཡུང་»བླགས།>ཏེ་
+# དེའི་སྟེང་དུ་འབབ་བོ། །
+# དེ་སྟེ་རྩིག་པའི་གསེབ་[61a]བམ་<«པེ་»+ར།>རིའི་སུལ་ལམ་བྱ་སྐྱིབས་དག་ཏུ་འགྲོ་བར་འདོད་ན་ཡང་
+# དེ་ལ་དེ་<«ཅོ་»འདི།>ཉིད་ནས་ལས་ལས་སྐྱེས་པའི་མི་དག་འབྱུང་བར་འགྱུར་ཏེ།
+# རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་། རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་།
+# མདུང་ཁ་ལེབ་རྣམས་ཐོགས་ནས་ དེའི་ལུས་ལ་འདེབས་ཏེ<«ཅོ་»«ཞོལ་»དེ།>།
+# དེ་དག་གིས་དེའི་ལུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+ལ།>ཐམས་ཅད་བཅད་<«ཞོལ་»གཅོད།>ཅིང་གཏུབ་པར་བྱེད་དེ།
+# རྒྱུ་དེས་ན་སྡུག་བསྔལ་དྲག་པ་དང་། མི་བཟད་<«གཡུང་»«པེ་»ཟད།>པ་དང་། ཚ་བ་དང་།
+# ཡིད་དུ་མི་འོང་བའི་ཚོར་བ་མྱོང་སྟེ་
+# ཉམ་ཐག་པའི་སྐད་འབྱིན་ཅིང་<«གཡུང་»«པེ་»–ཅིང་།> ངུའོ། །
+msgctxt "line 9, 18.txt"
+msgid ""
+"là encore, il ne supportait pas ses souffrances et il courrait ici et là et "
+"là encore, s’il allait sur une plaine, de cette plaine surgissaient des "
+"lions, des léopards, des ours [tous] avec des crocs en métal et ils "
+"découpaient sans cesse sa chair et ils le mangeaient. Lui, s’il s’enfonçait "
+"dans l’eau, y surgissaient des monstres makarah aux crocs en métal et ils "
+"découpaient sans cesse sa chair et ils le mangeaient. Lui, s’il allait dans "
+"l’espace, y surgissaient des corbeaux, des vautours et des oiseaux tsasha "
+"tous avec des becs en métal et ils découpaient sans cesse sa chair et ils le"
+" mangeaient. Lui, s’il allait dans la forêt dense, y surgissait une forêt "
+"d’arbres śālmali et le vent projetait sur lui des épées, des javelots, des "
+"lances, des vajras à une pointe et des lances à pointe plate et ils "
+"tombaient sur lui. Lui, s’il avait envie d’aller dans les enceintes ou dans "
+"les villages de montagne ou dans des abris sous roche, y surgissaient des "
+"hommes créés par ses actions et ils portaient des épées, des javelots, des "
+"lances, des vajras à une pointe et des lances à pointe plate et ils "
+"frappaient son corps et ils tranchaient son corps et le découpaient et à "
+"cause de ça (lit. dû à cette cause), il subissait des souffrances intenses, "
+"insoutenables, des douleurs et des sensations indésirables et il laissait "
+"s’échapper des cris de désespoir et il pleurait."
+msgstr ""
+"Comme partout ailleurs, si sa course le menait sur une plaine, y "
+"surgissaient des lions, des léopards, des ours, tous dotés de crocs "
+"métalliques, qui n'avaient de cesse de trancher sa chair et de le dévorer "
+"vif. S’il s’enfonçait dans l’eau, y surgissaient des monstres makarah aux "
+"crocs métalliques qui n'avaient de cesse de trancher sa chair et de le "
+"dévorer vif. S’il s'élevait dans les airs, y surgissaient des corbeaux, des "
+"vautours et des oiseaux tsasha, tous dotés de becs métalliques, qui "
+"n'avaient de cesse de trancher sa chair et de le dévorer vif. S’il entrait "
+"dans une forêt dense, elle se transformait en forêt d’arbres śālmali, dont "
+"les épées, les javelots, les lances, les vajras à une pointe et les lances à"
+" pointe plate étaient projetés sur lui en rafales. Si l'envie le prenait "
+"d’aller en deçà des enceintes des cités, dans les villages de montagne ou "
+"dans les abris sous roche, y surgissaient des hommes créés par ses actions "
+"passées qui brandissaient des épées, des javelots, des lances, des vajras à "
+"une pointe et des lances à pointe plate qui abattaient leurs armes sur lui, "
+"tranchaient son corps et le découpaient en morceaux. Ainsi, il subissait "
+"tant de supplices, de violences insoutenables, de souffrances intenses, de "
+"douleurs et de sensations indésirables que des cris de désespoirs et des "
+"pleurs ne cessaient de s’échapper de sa personne."
+
+# དེ་ནས་དེའི་ཀུ་ཅོའི་<«ཁུ་»ཅོའོ།>སྒྲས་མཉན་དུ་ཡོད་པ་ཐམས་ཅད་གང་བར་གྱུར་ཏོ། །
+# མཉན་དུ་ཡོད་པའི་སྐྱེ་བོ་ཕལ་པོ་ཆེས་འཇིགས་སུ་རུང་བའི་སྒྲ་དེ་ལྟ་བུ་ཐོས་སོ། །
+# ཐོས་ནས་ཀྱང་ སེམས་ཅན་སྟོང་ཕྲག་དུ་མ་མཉན་དུ་ཡོད་པ་ནས་བྱུང་སྟེ།
+# སྒྲ་གྲག་<«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»དྲག>པའི་ལོགས་སུ་ཆུ་ཀླུང་ཁང་<«གཡུང་»+པ།
+# «པེ་»+ཕ།>ལྡན་ག་ལ་བ་དེར་དོང་ནས་ སྐྱེ་བོ་ཕལ་པོ་ཆེ་<«གཡུང་»–ཆེ།>དེ་དག་གིས།
+# ཐག་རིང་པོ་ཞིག་ནས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»གིས།>སེམས་ཅན་དེ་དེ་ལྟ་བུའི་གནོད་པའི་སྡུག་བསྔལ་ཉམས་སུ་མྱོང་བ་མཐོང་ངོ་།
+# ། མཐོང་ནས་ཀྱང་ དེ་དག་གིས་བསམས་པ།
+# སེམས་ཅན་འདི་ལྟ་བུ་<«གཡུང་»«པེ་»བུའི།>གནོད་པའི་སྡུག་བསྔལ་འདི་འདྲ་བ་ཉམས་སུ་མྱོང་བ་འདི་སུ་ཞིག་སྙམ་མོ།
+# །
+msgctxt "line 10, 18.txt"
+msgid ""
+"Ensuite, ses lamentations emplirent tous les endroits de Śrāvastī. Les "
+"innombrables habitants (lit. personnes) de Śrāvastī entendirent ces cris "
+"terrifiants. Les ayant entendus, des milliers d’êtres sortirent de Śrāvastī "
+"et allèrent là d’où les cris provenaient (lit. résonnaient), à la rivière "
+"Ajiravatī et les innombrables personnes virent au loin quelles (lit. comme "
+"ça) souffrances cet être subissait (lit. expérimentait). L’ayant vu, ils "
+"pensèrent : « Qui est cet être qui subit les souffrances aussi atroces (lit."
+" les souffrances d’un tel mal) ? »"
+msgstr ""
+"Ses lamentations retentissaient dans la ville de Śrāvastī toute entière. "
+"Entendant ces cris terrifiants, les habitants sortirent de la ville par "
+"milliers et s'orientèrent vers l'origine des gémissements. Tandis qu'ils "
+"arrivaient sur les berges de la rivière Ajiravatī, ils aperçurent au loin "
+"cet être et les supplices qu'il subissait. Tous se demandèrent qui pouvait-"
+"il être pour subir d'aussi atroces souffrances."
+
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་བཞུགས་ཤིང་གཞེས་<«ཁུ་»བཞེས།>ལ་འཚོ་བ་རྣམས་ནི་ཆོས་ཉིད་ཀྱིས་དུས་དུས་སུ།
+# གཙུག་ལག་ཁང་དང་། དུར་ཁྲོད་དང་། རི་དང་ཆུ་ཀླུང་དག་ཏུ་རྒྱུ་ཞིང་གཤེགས་ཏེ་
+msgctxt "line 11, 18.txt"
+msgid ""
+"Les Bienheureux Bouddhas qui sont [dans le monde], [qui] sont en vie et "
+"[qui] vivent, du fait de la nature [des choses], ils se déplacent et vont de"
+" temps en temps vers des vihāras, des cimetières, des montagnes et des "
+"rivières. Ainsi,"
+msgstr ""
+"/Par la nature des choses, les Bienheureux Bouddhas qui sont en vie se "
+"déplacent et vont de temps à autres vers des monastères, des cimetières, des"
+" montagnes ou des rivières./"
+
+# དོན་འདིའི་<«ཁུ་»དེའི།>ཕྱིར།
+# བཅོམ་ལྡན་འདས་ཆུ་ཀླུང་དུ་རྒྱུ་ཞིང་གཤེགས་པར་བཞེད་ནས།
+# ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་ སོང་ལ་
+# དགེ་སློང་རྣམས་ལ་དེ་བཞིན་གཤེགས་པ་ནི་ཆུ་ཀླུང་དུ་རྒྱུ་ཞིང་གཤེགས་ཀྱིས་<«ཞོལ་»ཀྱི།>
+# སུ་དེ་བཞིན་གཤེགས་པ་དང་ཐབས་ཅིག་<«གཡུང་»«ལི་»«པེ་»གཅིག>ཏུ་རྒྱུ་ཞིང་འགྲོ་འདོད་པ་དེ་དག་ཆོས་གོས་<«གཡུང་»«པེ་»+དག་ཆོས་གོས།>དག་ཆོས་ཤིག་ཅེས་
+# བསྒོ་<«གཡུང་»སྒོ། «ཞོལ་»སྒོས།>ཤིག ། དེ་སྐད་ཅེས་བཀའ་སྩལ་ཏེ་
+# བསྒོ་<«ཞོལ་»བསྒོས།>ནས་
+# བཅོམ་ལྡན་འདས་དགེ་སློང་གི་ཚོགས་ཀྱིས་ཞབས་འབྲིང་བྱས་ཏེ་<«གཡུང་»ཞམ་རིང་བྱས་སྟེ།
+# «ལི་»«སྣར་»«ཅོ་»ཞབས་འབྲིང་བྱ་སྟེ། «པེ་»བབས་འབྲིང་བྱས་སྟེ།>
+# དགེ་སློང་གི་དགེ་འདུན་གྱིས་མདུན་<«གཡུང་»གྱི་འདུན།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»གྱི་མདུན།>དུ་བདར་ནས་ ཆུ་ཀླུང་ཁང་ལྡན་ག་ལ་བ་དེར་གཤེགས་སོ།
+# །
+msgctxt "line 12, 18.txt"
+msgid ""
+"pour cette raison, le Bienheureux eut l’intention de se déplacer et d’aller "
+"à cette rivière et il dit à l’honorable Ānanda : « Ānanda, va et aux moines,"
+" “Le Tathāgata va se déplacer et aller à la rivière. Donc, que ceux qui "
+"veulent se déplacer et aller à la rivière avec le Tathāgata revêtent leur "
+"habit monastique.” dis-le leur (lit. ordonne-leur ceci) », lui dit-il. Puis,"
+" lui ayant dit de faire ça, le Bienheureux, avec un groupe de moines pour le"
+" servir, précédé de la saṅgha des moines, s’en alla à l’endroit où se "
+"trouvait la rivière Ajiravatī."
+msgstr ""
+"C'est ainsi que le Bienheureux eut l’intention d’aller à cette rivière. Il "
+"dit à l’honorable Ānanda : « Ānanda, va et dis aux moines “Le Tathāgata va "
+"se déplacer à la rivière. Que ceux qui veulent accompagner le Tathāgata "
+"revêtent leur habit monastique.” » Alors, avec un groupe de moines pour le "
+"servir et précédé de la saṅgha des moines, le Bienheureux partit pour la "
+"rivière Ajiravatī."
+
+# དེ་ནས་སྐྱེ་བོའི་ཚོགས་ཀྱིས་ཐག་རིང་པོ་ནས་བཅོམ་ལྡན་འདས་མཐོང་ངོ་། ། མཐོང་ནས་ཀྱང་
+# མ་དད་པ་གང་ཡིན་པ་དེ་དག་ན་རེ་ དགེ་སྦྱོང་གཽ་ཏ་མ་ལྟད་མོ་ལ་དགའ་བ་མེད་དོ་ཞེས་
+# གྲག་<«སྣར་»དྲག «ཞོལ་»གྲགས།>ན་དེ་ཡང་ལྟད་མོའི་དབང་དུ་གྱུར་ཏེ་ འོངས་སོ་ཞེས་
+# ཟེར་རོ། ། དད་པ་དང་ལྡན་པ་གང་ཡིན་པ་དེ་དག་ན་རེ་<«གཡུང་»+ནི།>
+# བཅོམ་ལྡན་འདས་སེམས་ཅན་འདི་ལས་<«ཞོལ་»ལ།>བརྟེན་ཏེ་
+# ངོ་མཚར་རྨད་དུ་བྱུང་བའི་ཆོས་ཅིག་<«སྣར་»«ཞོལ་»ཤིག>ལུང་སྟོན་པར་བཞེད་གོར་མ་ཆག་ཅེས་
+# ཟེར་ནས། བཅོམ་ལྡན་འདས་ཀྱི་གདན་བཤམས་ཏེ་ སྨྲས་པ། བཅོམ་ལྡན་འདས་ ཚུར་གཤེགས།
+# བཅོམ་ལྡན་འདས་ གཤེགས་པ་ལེགས་སོ་ལེགས་སོ། ། བཅོམ་ལྡན་འདས་
+# གདན་བཤམས་པ་ལ་བཞུགས་སུ་གསོལ་ཞེས་ ཟེར་རོ། །
+msgctxt "line 13, 18.txt"
+msgid ""
+"Ensuite, les innombrables personnes virent au loin le Bienheureux qui "
+"arrivait. L’ayant vu, ceux sans dévotion dirent : « “L’ascète Gautama n’aime"
+" pas les spectacles”, dit-on. Mais il est sous l’influence des spectacles et"
+" il est venu », dirent-ils. Ceux qui avaient de la dévotion dirent : « Le "
+"Bienheureux, grâce à (lit. en prenant comme support) cet être, va sans aucun"
+" doute vouloir révéler quelque chose de merveilleux et fascinant », dirent-"
+"ils. Puis, ils disposèrent un siège pour le Bienheureux et dirent : « "
+"Bienheureux, veuillez approcher ! Bienheureux, c’est merveilleux, c’est "
+"magnifique que vous soyez venu ! Bienheureux, veuillez vous asseoir sur le "
+"siège disposé [pour vous] », dirent-ils."
+msgstr ""
+"Quand la foule des habitants vit arriver le Bienheureux, ceux sans dévotion "
+"dirent : « “L’ascète Gautama n’aime pas les spectacles”, dit-on. Et le voici"
+" pourtant. » Ceux que la dévotion habitait dirent : « Grâce à cet être, le "
+"Bienheureux révélera très certainement des vérités merveilleuses et "
+"fascinantes. » Ils disposèrent un siège à son intention et lui souhaitèrent "
+"la bienvenue : « Bienheureux, veuillez approcher ! Bienheureux, c’est "
+"merveilleux, c’est magnifique que vous soyez venu ! Bienheureux, veuillez "
+"vous asseoir sur le siège disposé pour vous. »"
+
+# དེ་ནས་བཅོམ་ལྡན་འདས་གདན་བཤམས་པ་ལ་བཞུགས་ནས་
+# བཅོམ་ལྡན་འདས་ཀྱིས་དགོངས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»གསུངས།>པ། མ་ལ་
+# བདག་སེམས་ཅན་འདི་ཅི་ནས་སྔོན་གྱི་ཚེ་རབས་རྗེས་སུ་དྲན་ལ་མིའི་སྐད་དུ་སྨྲ་ཞིང་བདག་དང་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–དང་།>གཏམ་ཟེར་བར་འགྱུར་བ་དེ་ལྟ་བུའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་འཇུག་པར་བྱའོ་སྙམ་དུ་
+# དགོངས་སོ། །
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཅི་ནས་སེམས་ཅན་དེས་སྔོན་གྱི་ཚེ་རབས་དྲན་ལ་མིའི་སྐད་དུ་སྨྲ་ཞིང་།
+# བཅོམ་ལྡན་འདས་དང་གཏམ་ཟེར་བར་འགྱུར་བ་དེ་ལྟ་བུའི་ཏིང་ངེ་འཛིན་ལ་སྙོམས་པར་ཞུགས་ནས།
+# དེར་བཅོམ་ལྡན་འདས་ཀྱིས་སེམས་ཅན་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+དག>ལ་བཀའ་སྩལ་པ།
+# བཞིན་བཟངས་<«སྣར་»«ཞོལ་»བཟང་།> ཁྱོད་སྒམ་པོ་ཡིན་ནམ། བཅོམ་ལྡན་འདས་
+# བདག་སྒམ་པོ་ལགས་སོ། ། བཞིན་བཟངས་<«སྣར་»«ཞོལ་»བཟང་།> ཁྱོད་སྒམ་པོ་ཡིན་ནམ།
+# བདེ་བར་གཤེགས་པ་ བདག་སྒམ་པོ་ལགས་སོ། །
+# ལུས་དང་ངག་དང་ཡིད་ཀྱི་ཉེས་པར་སྤྱོད་པའི་ལས་རྣམས་ཀྱི་འབྲས་བུ་མྱོང་བ་<«གཡུང་»«པེ་»+བདག>ཡོད་དམ།
+# བཅོམ་ལྡན་འདས་ མྱོང་བ་མཆིས་ལགས་སོ། །
+# ལུས་དང་ངག་དང་ཡིད་ཀྱི་ཉེས་པར་སྤྱོད་པའི་ལས་རྣམས་ཀྱི་འབྲས་བུ་མི་སྡུག་པ་ཡིན་ནམ།
+# བདེ་བར་གཤེགས་པ་<«གཡུང་»ག་བ།> མི་སྡུག་པ་ལགས་སོ། །
+# ཁྱོད་ཀྱི་མི་དགེ་བའི་བཤེས་<«གཡུང་»གཤེས།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»«ཁུ་»«ཞོལ་»བཤེས།>གཉེན་སུ་ཡིན། དེས་གསོལ་པ།
+# རང་གི་སེམས་ལགས་སོ། །
+msgctxt "line 14, 18.txt"
+msgid ""
+"Ensuite, le Bienheureux s’assit sur le siège disposé [pour lui] et le "
+"Bienheureux pensa : « Décidément, je vais m’engager dans une absorption "
+"méditative qui fera à coup sûr que cet être se souvienne de ses vies "
+"passées, qu’il parle une langue humaine et qu’il discute avec moi », "
+"pensa-t-Il. Ensuite, le Bienheureux s’engagea dans une absorption méditative"
+" qui fit que cet être se souvienne de ses vies passées, qu’il parle une "
+"langue humaine et qu’il discute le Bienheureux et alors, le Bienheureux dit "
+"à cet être : « Mon ami (lit. noble visage), es-tu Insondable ? » « "
+"Bienheureux, je suis Insondable. » « Mon ami (lit. noble visage), es-tu "
+"Insondable ? » « Tathāgata, je suis Insondable. » « Fait-on l’expérience du "
+"résultat des actions mauvaises du corps, de la parole et de l’esprit ? » « "
+"Bienheureux, on en fait l’expérience. » « Le résultat des actions mauvaises "
+"du corps, de la parole et de l’esprit est-il désagréable ? » « Tathāgata, il"
+" est désagréable. » « Qui est ton ami de mal ? » Il répondit : « C’est mon "
+"esprit. »"
+msgstr ""
+"Le Bienheureux s’assit et décida de s’engager dans une absorption méditative qui assurera que cet être se remémore ses vies passées, qu'il parle la langue humaine et qu'il converse avec lui. Alors, le Bienheureux dit :\n"
+"« Ami, serais-tu Insondable ?\n"
+"— Oui, Bienheureux, je suis Insondable.\n"
+"— Ami, es-tu Insondable ?\n"
+"— Oui, Tathāgata, je suis bien Insondable.\n"
+"— Fait-on l’expérience du résultat des actions mauvaises du corps, de la parole et de l’esprit ?\n"
+"— C'est exact, Bienheureux, on en fait l’expérience.\n"
+"— Le résultat de ces actions est-il désagréable ?\n"
+"— Oui, Tathāgata, il est désagréable.\n"
+"— Qui t'a enseigné à mal agir ?\n"
+"— Mon propre esprit », répondit-il."
+
+# དེ་ནས་སྐྱེ་བོ་ཕལ་པོ་ཆེ་དེ་དག་འདི་སྙམ་དུ་སེམས་ཏེ།
+# འདི་ལྟ་བུའི་སེམས་ཅན་སྔོན་གྱི་ཚེ་རབས་དྲན་ལ་ མིའི་སྐད་དུ་སྨྲ་ཞིང་
+# བཅོམ་ལྡན་འདས་དང་གཏམ་ཟེར་བ་འདི་སུ་ཞིག་སྙམ་མོ། །
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་སྙན་སླེབས་<«ཞོལ་»སླེབ།>པར་དཀའ་སྟེ།
+# དེ་དག་གིས་བཅོམ་ལྡན་འདས་ཀྱི་སྙན་དུ་ཞུ་མ་<«པེ་»མི།>ནུས་ནས་
+# དེ་དག་གིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་དྲིས་པ།
+# བཙུན་[62a]པ་ཀུན་<«ཅོ་»–ཀུན།>དགའ་བོ་
+# འདི་ལྟ་བུའི་སེམས་ཅན་སྔོན་གྱི་ཚེ་རབས་དྲན་ལ་ མིའི་སྐད་དུ་སྨྲ་ཞིང་།
+# བཅོམ་ལྡན་འདས་དང་གཏམ་ཟེར་བ་འདི་སུ་ཞིག ། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་སྨྲས་པ།
+# བཅོམ་ལྡན་འདས་ལ་ཞུས་ཤིག ། དེ་དག་གིས་སྨྲས་པ།
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་སྙན་སླེབས་<«གཡུང་»རློབས། «པེ་»སློབས།
+# «སྣར་»སླབས། «ཞོལ་»སླེབ།>པར་དཀའ་ཞིང་
+# གཟི་བྱིན་བཟོད་པར་དཀའ་<«གཡུང་»–«པེ་»བཀའ།>བས་བདག་ཅག་གིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཀྱི་སྙན་དུ་ཞུ་མི་ནུས་སོ།
+# ། ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོས་སྨྲས་པ།
+# སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་ནི་བདག་གིས་ཀྱང་སྙན་སླེབས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–སྙན།
+# «ཞོལ་»སླེབ།>པར་དཀའ་མོད་ཀྱི།
+# འོན་ཀྱང་ཁྱེད་ལ་སྙིང་བརྩེ་<«གཡུང་»བཙེ།>བའི་ཕྱིར་ཞུ་བར་བགྱིའོ་ཞེས་ སྨྲས་ནས།
+msgctxt "line 15, 18.txt"
+msgid ""
+"Ensuite, les innombrables personnes se dirent ceci : « Cet être qui se "
+"souvient de ses vies passées, qui parle une langue humaine et qui discute "
+"avec le Bienheureux, qui est-il ? » Puisqu’il est difficile de se faire "
+"entendre par le Bienheureux, ils ne parvinrent pas à poser cette question au"
+" Bienheureux et ils demandèrent à l’honorable Ānanda : « Vénérable Ānanda, "
+"un être comme celui-ci qui se souvient de ses vies passées, qui parle une "
+"langue humaine et qui discute avec le Bienheureux, qui est-il ? » "
+"L’honorable Ānanda dit : « Demandez au Bienheureux. » Ils dirent : « il est "
+"difficile de se faire entendre des Bienheureux, leur prestance est "
+"insoutenable, donc nous ne parvenons pas à lui faire cette demande. » "
+"L’honorable Ānanda dit : « Il m’est aussi difficile de me faire entendre par"
+" les Bienheureux, mais pourtant, par compassion pour vous, je vais le "
+"demander », dit-il. Puis,"
+msgstr ""
+"Tout le monde voulut savoir qui était cet être qui se souvenait de ses vies passées, qui parlait la langue humaine et qui conversait avec le Bienheureux. Mais il est difficile de se faire entendre par le Bienheureux. N'osant pas s'adresser à lui, il se tournèrent vers celui qui le servait :\n"
+"« Vénérable Ānanda, qui est cet être qui se souvient de ses vies passées, qui parle la langue humaine et converse avec le Bienheureux ?\n"
+"— Demandez-le au Bienheureux, répondit l'honorable Ānanda.\n"
+"— Il est difficile d'aborder les Bienheureux, dirent-ils. Leur prestance est insoutenable. C'est pourquoi nous ne parvenons pas à le lui demander.\n"
+"— Il m’est aussi difficile de le faire, répondit-il, mais je poserai la question pour vous être utile. »"
+
+# ཚེ་དང་ལྡན་པ་ཀུན་<«གཡུང་»ཞུ་ན།>དགའ་བོས་བླ་གོས་ཕྲག་པ་གཅིག་ཏུ་གཟར་ཏེ།
+# བཅོམ་ལྡན་འདས་ག་ལ་བ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེར།>ལོགས་སུ་ཐལ་མོ་སྦྱར་བ་བཏུད་ནས་
+# བཅོམ་ལྡན་འདས་ལ་འདི་སྐད་ཅེས་གསོལ་ཏོ། ། བཙུན་པ་
+# འདི་ལྟ་བུའི་སེམས་ཅན་སྔོན་གྱི་ཚེ་རབས་དྲན་ལ་
+# མིའི་<«གཡུང་»«པེ་»མི།>སྐད་དུ་སྨྲ་ཞིང་།
+# བཅོམ་ལྡན་འདས་ལ་བཀའ་མཆིད་གསོལ་པ་འདི་སུ་ཞིག་ལགས།
+# དེར་བཅོམ་ལྡན་འདས་ཀྱིས་ཚེ་དང་ལྡན་པ་ཀུན་དགའ་བོ་ལ་བཀའ་སྩལ་པ། ཀུན་དགའ་བོ་
+# སེམས་ཅན་འདི་ནི་སྡིག་པའི་ལས་བྱེད་བྱེད་པ་ཡིན་ཏེ།
+# འདིས་སྡིག་པའི་ལས་མང་དུ་བྱས་སོ། །
+msgctxt "line 16, 18.txt"
+msgid ""
+"l’honorable Ānanda [replia] son vêtement supérieur et le laissa retomber sur"
+" une épaule, joignit les mains et s’inclina en direction du Bienheureux et "
+"il dit ceci au Bienheureux : « Vénérable, Cet être qui se souvient de ses "
+"vies passées, qui parle une langue humaine et qui discute avec le "
+"Bienheureux, qui est-ce ? » Alors, le Bienheureux dit à l’honorable Ānanda :"
+" « Ānanda, Cet être en est un qui a continuellement fait des actions "
+"négatives ; il a réalisé beaucoup d’actions négatives."
+msgstr ""
+"l’honorable Ānanda replia son vêtement supérieur, le laissa retomber sur une épaule, joignit les mains et s’inclina en direction du Bienheureux. « Vénérable, dit-il, qui est cet être qui se souvient de ses vies passées, parle la langue humaine et converse avec le Bienheureux ?\n"
+"— Ānanda, répondit-il, il est un être qui a continuellement fait des actions négatives. Il en a réalisé en grande quantité."
+
+# ཀུན་དགའ་བོ་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། ཉན་ཐོས་དང་རང་སངས་རྒྱས་ཀྱི་ས་ལས་འདས་པ།
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ།
+# བདེ་བར་གཤེགས་པ། འཇིག་རྟེན་མཁྱེན་<«ཞོལ་»–མཁྱེན།>པ།
+# སྐྱེས་བུ་གདུལ་<«གཡུང་»«པེ་»འདུལ།>བྱའི་ཁ་ལོ་སྒྱུར་བ། བླ་ན་མེད་པ།
+# ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་འོད་ཟེར་ཅན།
+# ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་<«གཡུང་»«པེ་»འབྱུང་།>སྟེ།
+# དེའི་ཚེ་དགྲ་བཅོམ་པ་ཞིག་དགྲ་བཅོམ་པ་ལྔ་བརྒྱ་དང་ཐབས་ཅིག་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»གཅིག>ཏུ་ལྗོངས་རྒྱུ་ཞིང་
+# སོང་བ་ལས་ རྒྱལ་པོའི་ཕོ་བྲང་ཞིག་ཏུ་ཕྱིན་ནས།
+# དེ་དག་རྒྱལ་པོ་དེའི་སྐྱེད་མོས་ཚལ་དུ་སོང་སྟེ།
+# རྒན་<«གཡུང་»རྒམ།>རིམས་བཞིན་དུ་ཤིང་དྲུང་རེ་རེར་རྩྭ་བཏིང་<«གཡུང་»«པེ་»«སྣར་»«ཞོལ་»རྩ་བཏིང་།
+# «ལི་»«ཅོ་»ཙཱལ་ཏིང་།>ནས་ སྐྱིལ་མོ་ཀྲུང་<«གཡུང་»དཀྱིལ་མོ་དཀྲུངས།
+# «ལི་»«ཅོ་»སྐྱིལ་མོ་དཀྲུང་། «པེ་»དཀྱིལ་མོ་དཀྲུང་།>བཅས་ཏེ་ བསམ་གཏན་དང་།
+# རྣམ་པར་ཐར་པ་དང་། ཏིང་ངེ་འཛིན་དང་།
+# སྙོམས་པར་[62b]འཇུག་པའི་བདེ་བ་ཉམས་སུ་མྱོང་བར་བྱེད་<«གཡུང་»བྱོད་ད།>དོ། །
+# དེ་ནས་དེའི་ཚེ་རྒྱལ་པོའི་ཕོ་བྲང་<«གཡུང་»ཕྲང་།>དེ་ཉིད་ན་རྒྱལ་པོ་སྒམ་པོ་ཞེས་བྱ་བ་རྒྱལ་པོ་བྱེད་དེ།
+# རྒྱལ་པོ་དེ་ནང་པར་སྔར་ལངས་ནས་
+# བུད་མེད་ཀྱི་འཁོར་གྱིས་ཞབས་འབྲིང་<«གཡུང་»ཞམ་རིང་།>བྱས་ཏེ་
+# སྐྱེད་<«གཡུང་»«པེ་»བསྐྱེད།>མོས་ཚལ་དེར་སོང་<«གཡུང་»«པེ་»+སོང་།>ངོ་། །
+# དེ་དེར་སོང་ནས་ ཕྱོགས་གཅིག་<«གཡུང་»«པེ་»ཅིག>ཏུ་འདུག་པ་དང་།
+msgctxt "line 17, 18.txt"
+msgid ""
+"Ānanda, à un moment du passé qui s’est déroulé auparavant, le tathāgata, "
+"l’arhat, le complet et parfait bouddha, celui doté de la vision et des "
+"jambes, le sugata, le connaisseur du monde, l’insurpassable cocher des êtres"
+" à guider, l’enseignant des dieux et des hommes, le Bienheureux Bouddha "
+"Prabhāvan était apparu en ce monde et à cette époque, un arhat voyageait "
+"avec cinq cent arhats et se déplaçait. Ainsi, ils arrivèrent à un palais "
+"royal et ils allèrent dans le parc d’agrément de ce roi et en suivant "
+"l’ordre d’ancienneté, ils étalèrent chacun de l’herbe au pied (lit. près) "
+"d’un arbre et ils croisèrent leurs jambes et ils firent l’expérience du "
+"bonheur de la concentration, des libérations parfaites, des concentrations "
+"méditatives et des absorptions méditatives. Ensuite, à cette époque, le roi "
+"Insondable régnait dans ce même palais royal et le roi se leva tôt le "
+"lendemain et avec un groupe de dames pour le servir, il alla dans ce parc "
+"d’agrément. Y étant allé, il s’assit à un endroit (lit. il se tint dans une "
+"direction) et"
+msgstr ""
+"Ānanda, dans un passé lointain, le Tathāgata, l’Arhat, le complet et parfait"
+" Bouddha, celui doté de la sagesse pour voir et de la concentration pour "
+"avancer, le Sugata, le Connaisseur des êtres des trois mondes, "
+"l’insurpassable Cocher pour les êtres à guider, l’Enseignant des dieux et "
+"des hommes, le complet et parfait Bouddha Prabhāvan était apparu en ce "
+"monde. À cette époque, un arhat plus ancien voyageait en compagnie de cinq "
+"cent autres arhats. Leur chemin les fit passer à proximité d'un palais "
+"royal. Ils entrèrent dans le parc d’agrément du roi de ce pays et, suivant "
+"l’ordre d’ancienneté, ils se constituèrent chacun un coussin d’herbe au pied"
+" (lit. près) d’un arbre. Ils s'y assirent les jambes croisées et firent "
+"l’expérience du bonheur de la concentration, des libérations parfaites, des "
+"concentrations méditatives et des absorptions méditatives. Tôt le lendemain,"
+" le roi Insondable, à qui le parc appartenait, sortit avec un groupe de "
+"dames à sa suite. Il s’assit et laissa les dames se promener."
+
+# བུད་མེད་དེ་དག་མེ་ཏོག་དང་འབྲས་བུ་ལ་སྲེད་པས་ཕན་ཚུན་དུ་འཁྱམ་ཞིང་<«ཞོལ་»འཁྱམས་ཤིང་།>དོང་བ་ལས་
+# བུད་མེད་དེ་དག་གིས་དགེ་སློང་ལྔ་བརྒྱ་པོ་དེ་དག་ཤིང་དྲུང་དག་ན་ཀླུའི་རྒྱལ་པོ་ལྟར་ལུས་བསྐྱིལ་ཏེ་གཉིད་ལོག་པ་བཞིན་དུ་སྐྱིལ་མོ་ཀྲུང་<«གཡུང་»དཀྱིལ་མོ་དཀྲུང་།
+# «ལི་»«པེ་»«ཅོ་»སྐྱིལ་མོ་དཀྲུང་།>བཅས་ཏེ་ འཁོད་པ་མཐོང་ངོ་། ། མཐོང་ནས་ཀྱང་
+# མཆོག་ཏུ་དགའ་བ་སྐྱེས་སོ། ། དེ་དག་དགའ་བ་སྐྱེས་ནས་
+# དེ་དག་གིས་<«གཡུང་»«པེ་»གི།>ཞབས་ལ་<«གཡུང་»ལི།>ཕྱག་འཚལ་ཏེ།
+# དེ་དག་གི་ནང་ན་ཆེས་རྒན་པ་གང་ཡིན་པ་དེའི་མདུན་དུ་ཆོས་མཉན་པའི་ཕྱིར་འཁོད་དོ། །
+# དེ་ནས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+དེ།>རྒྱལ་པོ་དེས་སྐྱེད་<«གཡུང་»དེས་བསྐྱེད།
+# «པེ་»དེ་བསྐྱེད།>མོས་ཚལ་དེའི་ནང་ནས་སྐྱེས་པའི་སྒྲ་ཐོས་སོ། ། ཐོས་ནས་ཀྱང་
+# རལ་གྲི་རྣོན་པོ་མགུལ་<«གཡུང་»འགུལ།>དུ་ཐོགས་ཏེ།
+# དགེ་སློང་དེ་དག་ག་ལ་བ་དེར་སོང་ནས་ རྒྱལ་པོ་དེས་དགེ་སློང་ལྔ་བརྒྱ་<«གཡུང་»རྒྱ་བ།
+# «པེ་»བརྒྱ་བོ།>དེ་དག་ཐག་རིང་པོ་ནས་མཐོང་ངོ་། ། མཐོང་ནས་ཀྱང་
+# དགེ་སློང་རྣམས་ཀྱིས་ངའི་བཙུན་མོའི་འཁོར་མཐོང་གིས་ མེད་དོ་སྙམ་སྟེ།
+msgctxt "line 18, 18.txt"
+msgid ""
+"ces dames étaient attirées par les fleurs et les fruits et se promenaient et"
+" allaient [dans le parc]. C’est ainsi que ces dames, ces cinq cent moines "
+"qui avaient les jambes croisées, les membres (lit. le corps) ramassés comme "
+"un roi des nāgas qui se serait endormi et qui y restaient, elles les virent."
+" Les ayant vus, elles ressentirent une joie intense (lit. suprême). Elles "
+"ressentirent cette joie et elles se prosternèrent à leurs pieds et "
+"s’assirent devant le plus ancien parmi eux pour écouter le Dharma. Ensuite, "
+"le roi entendit la voix d’un homme dans ce parc d’agrément. L’ayant "
+"entendue, il prit (lit. porta) une épée tranchante à son cou et il alla à "
+"l’endroit où se trouvaient ces moines et ce roi vit ces cinq cent moines au "
+"loin. Les ayant vus, “Ces moines regardent mon entourage de reines et ceci "
+"n’est pas [acceptable].” pensa-t-il. Puis,"
+msgstr ""
+"Elles allaient ça et là, attirées par les fleurs, puis par les fruits du "
+"parc. Se promenant, elles virent les cinq cent moines les jambes croisées, "
+"les membres ramassés comme autant de rois des nāgas endormis et immobiles. "
+"La vue des honorables moines leur procura une joie intense. Elles se "
+"prosternèrent à leurs pieds et s'assirent devant l'arhat le plus ancien pour"
+" écouter le Dharma. Au loin, le roi entendit la voix d’un homme. Il empoigna"
+" une épée tranchante qu'il rejeta sur son épaule et  marcha vers les moines."
+" Se rapprochant, il vit toutes les dames assises aux pieds des moines. “Ils "
+"osent regarder mon harem !” pensa-t-il, hors de lui."
+
+# ཁྲོ་བའི་ཀུན་ནས་དཀྲིས་<«ཁུ་»བཀྲིས།>པ་ཆེན་པོ་སྐྱེས་ནས་
+# མཐོང་མ་ཐག་ཏུ་རྒྱལ་པོ་དེས་རྒྱལ་པོའི་ཞོ་ཤས་འཚོ་བ་རྣམས་ལ་བོས་ཏེ།
+# དེ་དག་ལ་བསྒོ་བ།
+# དགེ་སློང་འདི་རྣམས་ལྕག་གིས་གཞུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཞོལ་»ལྕག་གིས་བཞུས།
+# «ཅོ་»ལྕགས་གིས་བཞུས།>ཤིག་ཅེས་ བྱས་སོ། ། དེ་ནས་རེ་ཞིག་ན་དེ་དག་ལྕག་གིས་བཞུས་ནས་
+# དགེ་སློང་དེ་དག་གི་ལུས་རིལ་གྱིས་<«གཡུང་»«སྣར་»གྲིས།>ཞུ་ལུབ་ཏུ་ཤ་སྣག་བུ་བཞིན་དུ་གྱུར་ཏོ།
+# ། དེ་ནས་དེས་དགེ་སློང་དེ་རྣམས་སྙིང་ཚིམ་པར་བཞུས་ནས་
+# གཤེད་མ་རྣམས་ལ་གཏད་དེ<«གཡུང་»«པེ་»གཏད་ཏེ། «ལི་»«སྣར་»«ཅོ་»བཏད་དེ།>།
+# ཁྱེད་དེང་ལ་
+# རབ་ཏུ་བྱུང་བ་འདི་རྣམས་ལས་ཁ་ཅིག་ནི་གསོན་<«གཡུང་»བསོན།>པོར་གསལ་ཤིང་ལ་ཚུགས་ལ་
+# རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་། རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་།
+# མདུང་ཁ་ལེབ་རྣམས་ཀྱིས་བསྣུན་<«ཞོལ་»སྣུན།>ཅིག །
+# ཁ་ཅིག་<«གཡུང་»«པེ་»གཅིག>ནི་གསོན་པོར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཁུ་»པར།>ཁྱི་རྣམས་ལ་བྱིན་ཅིག
+# ། ཁ་ཅིག་ནི་ལུས་དུམ་བུ་དྲུག་ཏུ་ཆོད་ལ་ ཕྱོགས་ཀུན་དུ་བོར་ཞིག་ཅེས་ བྱས་སོ། །
+# དེ་ནས་རྒྱལ་པོའི་མི་དེ་དག་གིས་དེ་བཞིན་དུ་འཚལ་ལོ་ཞེས་ བྱས་ནས།
+# དགེ་སློང་ལྔ་བརྒྱ་<«གཡུང་»རྒྱ།>པོ་དེ་དག་ཁ་ཅིག་ནི་གསོན་པོར་གསལ་ཤིང་ལ་བཙུགས་<«གཡུང་»«པེ་»ཚུགས།
+# «ཁུ་»གཙུགས།>[63a]ནས་ རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་།
+# རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་། མདུང་ཁ་ལེབ་རྣམས་ཀྱིས་བསྣུན་ཏོ། །
+# ཁ་ཅིག་ནི་གསོན་པོར་ཁྱི་རྣམས་ལ་བྱིན་ནོ། ། ཁ་ཅིག་ནི་ལུས་དུམ་བུ་དྲུག་ཏུ་བཅད་དེ་
+# ཕྱོགས་ཀུན་དུ་བོར་རོ། །
+msgctxt "line 19, 18.txt"
+msgid ""
+"ayant donné naissance à une émotion (lit. ce qui enserre entièrement) de "
+"colère, le roi fit appeler les employés du roi et il leur donna cet ordre : "
+"“Frappez ces moines avec des [barres] métalliques”, dit-il. Ensuite, après "
+"un temps, ils les battirent avec des [barres] métalliques et et recouvrirent"
+" (lit. tout autour) la surface (lit. sans espace) des corps de ces moines de"
+" bleus. Ensuite, quand il eut frappé ces moines de tout son soûl (lit. à en "
+"être satisfait), il les remit aux bourreaux : “Mettez-vous en route, empalez"
+" vivants certains de ces personnes s’étant retirés du monde et abattez sur "
+"eux des épées, des javelots, des lances, des vajras à une pointe et des "
+"lances à pointe plate. Donnez certains autres vivants à des chiens. Coupez "
+"en six certains autres et éparpillez-les (lit. jetez les dans toutes les "
+"directions)”, dit-il. Ensuite, “Nous feront ceci (lit. comme ceci)”, les "
+"hommes du roi dirent. Puis, ils empalèrent vivants certains des cinq cent "
+"moines et abattirent sur eux des épées, des javelots, des lances, des vajras"
+" à une pointe et des lances à pointe plate. Ils donnèrent certains autres "
+"vivants à des chiens. Ils coupèrent en six certains autres et les "
+"éparpillèrent (lit. les jetèrent dans toutes les directions)."
+msgstr ""
+"Le roi rageait. Il fit chercher ses hommes de main à qui il ordonna de "
+"frapper les moines avec des barres métalliques. Puis, lorsque la surface du "
+"corps de chacun des moines fut couverte de contusions, qu'il les eut fait "
+"battre tout son soûl, il demanda les bourreaux. \"Dépêchez-vous ! Empalez "
+"vivants certains de ces moines, abattez sur eux des épées, des javelots, des"
+" lances, des vajras à une pointe et des lances à pointe plate. Donnez "
+"certains autres vivants en pâture à des chiens. Coupez d'autres en six "
+"parties et jetez-les dans toutes les directions.\" \"À vos ordres\", "
+"répondirent-ils, avant de s'exécuter. Certains furent empalés vivants et des"
+" épées, des javelots, des lances, des vajras à une pointe et des lances à "
+"pointe plate furent abattus sur eux. Certains autres furent donnés en pâture"
+" à des chiens. D'autres furent coupés en six et les parties de leurs corps "
+"furent jetés dans toutes les directions."
+
+# དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
+# དེའི་ཚེ་རྒྱལ་པོར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་སེམས་ཅན་འདི་ཉིད་ཡིན་ཏེ།
+# དེས་དེར་དགྲ་<«གཡུང་»འགྲ།>བཅོམ་པ་ལྔ་བརྒྱ་པོ་དེ་དག་བསད་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་མནར་མེད་པར་སྐྱེས་སོ།
+# །
+# དེས་དགེ་སློང་དེ་དག་ལ་སྡང་བའི་སེམས་ཀྱིས་བལྟས་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི་དམུས་ལོང་དུ་གྱུར་ཏོ།
+# །
+# དེས་དགེ་སློང་དེ་དག་ལྕག་གིས་གཞུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»བཞུས།>པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི་ལུས་རིལ་གྱིས་རྨས་ཞུ་ལུབ་ཏུ་ཡོག་པར་གྱུར་ཏོ།
+# ། སྤྱི་བོ་མན་ཆད་རྐང་མཐིལ་<«གཡུང་»«པེ་»ཐིལ།>ཡན་ཆད་དུ་སྲིན་ཞུགས་སོ། །
+# དེས་<«ཁུ་»དེ་ནས།>དེ་དག་གཤེད་མ་ལ་གཏད་དེ་
+# ཁ་ཅིག་ནི་གསོན་པོར་གསལ་ཤིང་ལ་བཙུགས་ནས་ རལ་གྲི་དང་། མདུང་ཐུང་དང་།
+# མདའ་བོ་ཆེ་དང་། རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་། མདུང་ཁ་ལེབ་རྣམས་ཀྱིས་བསྣུན་པ་དང་།
+# ཁ་ཅིག་ནི་གསོན་པོར་<«ཅོ་»པོ། «ཁུ་»པར།>ཁྱི་རྣམས་ལ་བྱིན་པ་དང་།
+# ཁ་ཅིག་ནི་གསོན་པོར་ལུས་དུམ་བུ་དྲུག་ཏུ་བཅད་དེ་
+# ཕྱོགས་ཀུན་དུ་གཏོར་བའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་ནི།
+msgctxt "line 20, 18.txt"
+msgid ""
+"Moines, qu’en pensez-vous ? À cette époque, celui qui était ce roi est cet "
+"être lui-même et le résultat d’avoir tué ces cinq cent arhats l’a fait "
+"naître [comme] être du grand enfer insurpassable (lit. insoutenable). Le "
+"résultat d’avoir regardé ces moines avec des pensées de colère le fit "
+"devenir aveugle de naissance. Le résultat d’avoir frappé ces moines avec des"
+" [barres] métalliques fit que la surface (lit. la rondeur) de son corps "
+"était entièrement (lit. sans espace) recouverte de plaies. Du haut de sa "
+"tête vers le bas et de la plante de ses pieds vers le haut, des parasites le"
+" rongeaient (lit. s’engageaient). Qu’il les remit aux bourreaux et qu’ils en"
+" empalèrent certains vivants et abattirent sur eux des épées, des javelots, "
+"des lances, des vajras à une pointe et des lances à pointe plate et qu’ils "
+"en donnèrent certains vivants à des chiens et qu’ils en coupèrent certains "
+"vivants en six et qu’ils les éparpillèrent (lit. jetèrent dans toutes les "
+"directions), le résultat de ces actions fit que"
+msgstr ""
+"Voyez-vous, moines, le roi de cette époque est l'être infernal devant vous. "
+"Il est un être du grand enfer insurpassable pour avoir tué ces cinq cent "
+"arhats. Il est né aveugle pour avoir regardé ces moines avec des pensées de "
+"colère. Toute la surface de son corps, du sommet de sa tête aux plantes de "
+"ses pieds, est recouverte de plaies et rongée par des parasites parce qu'il "
+"a fait battre les moines avec des barres métalliques. Il a remis les moines "
+"aux bourreaux, leur ordonnant d'empaler vivants certains d'entre eux, puis "
+"d'abattre sur eux des épées, des javelots, des lances, des vajras à une "
+"pointe et des lances à pointe plate. Il a ordonné de donner certains autres "
+"en pâture à des chiens, de couper d'autres encore en six parties qu'ils "
+"devaient jeter dans toutes les directions."
+
+# གལ་ཏེ་ཐང་ལ་འགྲོ་ན་ནི་ དེ་ལ་དེ་ཉིད་ནས་སེང་གེ་དང་། སྟག་དང་། གཟིག་དང་།
+# དྲེད་ལ་སོགས་པ་ལྕགས་ཀྱི་མཆེ་བ་ཅན་དག་<«གཡུང་»«པེ་»དུག>འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་ ཟའོ། ། དེ་སྟེ་ཆུ་<«ཞོལ་»ཆུར།
+# «ཁུ་»ཆུལ།>འབོག་ན་ནི་
+# དེ་ལ་དེ་ཉིད་ལས་<«ཞོལ་»ནས།>ཆུ་སྲིན་མ་ཀ་ར་ལྕགས་ཀྱི་<«ཞོལ་»ཀྱིས།>མཆེ་བ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་ཀྱང་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་ ཟའོ། །
+# དེ་<«པེ་»+སྟེ།>སྟེང་གི་ནམ་མཁའ་ལ་འགྲོ་ན་ནི་ དེ་ལ་དེ་ཉིད་ནས་བྱ་རོག་དང་།
+# བྱ་རྒོད་དང་། ཆུན་ལག་ལྕགས་ཀྱི་མཆུ་ཅན་དག་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་དག་གིས་ཀྱང་དེའི་ཤ་རྣམས་བཅད་ཅིང་བཅད་ཅིང་ ཟའོ། །
+# དེ་སྟེ་<«གཡུང་»«ལི་»«སྣར་»«ཅོ་»«ཞོལ་»–སྟེ།>ནགས་སྟུག་<«གཡུང་»«པེ་»སྡུག>པོའི་ནང་དུ་འགྲོ་ན་ནི།
+# དེ་ལ་དེ་ཉིད་ནས་ཤིང་ཤལ་མ་ལིའི་ཚལ་འབྱུང་བར་འགྱུར་ཏེ།
+# དེ་ལ་དེ་ཉིད་དུ་རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་།
+# རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་། མདུང་ཁ་ལེབ་རྣམས་རླུང་གིས་སྤགས་<«གཡུང་»བླགས།>ཏེ་
+# དེའི་སྟེང་དུ་འབབ་བོ། །
+# དེ་སྟེ་རྩིག་པའི་གསེབ་བམ་རིའི་སུལ་ལམ་བྱ་སྐྱིབས་དག་ཏུ་འགྲོ་བར་འདོད་ན་ཡང་
+# དེ་ལ་དེ་ཉིད་ནས་ལས་ལས་སྐྱེས་པའི་མི་དག་འབྱུང་བར་འགྱུར་ཏེ་ རལ་གྲི་དང་།
+# མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་། རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་།
+# མདུང་ཁ་ལེབ་རྣམས་ཐོགས་ནས་ དེའི་ལུས་ལ་འདེབས་ཏེ།
+# དེ་དག་གིས་དེའི་ལུས་ཐམས་ཅད་བཅད་ཅིང་གཏུབ་པར་<«གཡུང་»བ།>བྱེད་དེ་
+# རྒྱུ་དེས་ན་དེས་སྡུག་བསྔལ་དྲག་པ་<«གཡུང་»སྔལ་དྲག་པོ།
+# «པེ་»«ཅོ་»«ཁུ་»བསྔལ་དྲག་པོ།>དང་མི་བཟད་པ་དང་།
+# ཚ་བ་དང་ཡིད་དུ་མི་འོང་བའི་ཚོར་བ་མྱོང་སྟེ་ ཉམ་ཐག་པའི་སྐད་འབྱིན་ཅིང་ ངུའོ། །
+msgctxt "line 21, 18.txt"
+msgid ""
+"s’il va sur une plaine, y surgissent des lions, des léopards, des ours "
+"[tous] avec des crocs en métal et ils découpent sans cesse sa chair et ils "
+"le mangent. Lui, s’il s’enfonce dans l’eau, y surgissent des monstres "
+"makarah aux crocs en métal et ils découpent sans cesse sa chair et ils le "
+"mangent. Lui, s’il va dans l’espace, y surgissent des corbeaux, des vautours"
+" et des oiseaux tsasha tous avec des becs en métal et ils découpent sans "
+"cesse sa chair et ils le mangent. Lui, s’il va dans la forêt dense, y surgit"
+" une forêt d’arbres śālmali et le vent projette sur lui des épées, des "
+"javelots, des lances, des vajras à une pointe et des lances à pointe plate "
+"et ils tombent sur lui. Lui, s’il a envie d’aller dans les enceintes ou dans"
+" les villages de montagne ou dans des abris sous roche, y surgissent des "
+"hommes créés par ses actions et ils portent des épées, des javelots, des "
+"lances, des vajras à une pointe et des lances à pointe plate et ils frappent"
+" son corps et ils tranchent son corps et le découpaient et à cause de ça "
+"(lit. dû à cette cause), il subit des souffrances intenses, insoutenables, "
+"des douleurs et des sensations indésirables et il laisse s’échapper des cris"
+" de désespoir et il pleure."
+msgstr ""
+"C'est pourquoi, maintenant, si sa course le mène sur une plaine, y "
+"surgissent des lions, des léopards, des ours, tous dotés de crocs "
+"métalliques, qui n'ont de cesse de trancher sa chair et de le dévorer vif. "
+"S’il s’enfonce dans l’eau, y surgissent des monstres makarah aux crocs "
+"métalliques qui n'ont de cesse de trancher sa chair et de le dévorer vif. "
+"S’il s'élève dans les airs, y surgissent des corbeaux, des vautours et des "
+"oiseaux tsasha, tous dotés de becs métalliques, qui n'ont de cesse de "
+"trancher sa chair et de le dévorer vif. S’il entre dans une forêt dense, "
+"elle se transforme en forêt d’arbres śālmali, dont les épées, les javelots, "
+"les lances, les vajras à une pointe et les lances à pointe plate sont "
+"projetés sur lui en rafales. Si l'envie le prend d’aller en deçà des "
+"enceintes des cités, dans les villages de montagne ou dans les abris sous "
+"roche, y surgissent des hommes créés par ses actions passées qui brandissent"
+" des épées, des javelots, des lances, des vajras à une pointe et des lances "
+"à pointe plate qui abattent leurs armes sur lui, tranchent son corps et le "
+"découpent en morceaux. Ainsi, il subit tant de supplices, de violences "
+"insoutenables, de souffrances intenses, de douleurs et de sensations "
+"indésirables que des cris de désespoirs et des pleurs ne cessent de "
+"s’échapper de sa personne."
+
+# དགེ་སློང་དག་
+# ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་ཟེར་ཅན་གྱི་རིང་<«གཡུང་»རིང་>ཚུན་ཆད་ནས།
+# ད་ལྟར་ངའི་རིང་<«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ང་རང་།>གི་བར་དུ་སེམས་ཅན་འདི་སེམས་ཅན་དམྱལ་བ་རྣམས་ནས་ཤི་འཕོས་ཤིང་
+# སེམས་ཅན་དམྱལ་བ་རྣམས་འབའ་ཞིག་ཏུ་སྐྱེས་ཏེ་
+# འདིས་འདི་ལྟ་བུའི་སྡུག་བསྔལ་རྙེད་<«གཡུང་»སྔལ་སྙེད། «པེ་»སྔལ་རྙེད།>པར་གྱུར་ཏོ།
+# ། བཙུན་པ་ སེམས་ཅན་འདི་སྡུག་བསྔལ་<«གཡུང་»སྔལ།>འདི་ལས་ནམ་ཐར་བར་འགྱུར་ལགས།
+msgctxt "line 22, 18.txt"
+msgid ""
+"Moines, depuis l’époque du complet et parfait Bouddha Prabhāvan jusqu’à "
+"l’époque présente (lit. de maintenant) [qui est] la mienne, cet être a "
+"quitté [des vies chez] les êtres des enfers et est uniquement né parmi les "
+"êtres des enfers et il a obtenu de telles souffrances. » « Vénérable, quand "
+"cet être sera-t-il libéré de ces souffrances ? »"
+msgstr ""
+"Moines, depuis l’époque du complet et parfait Bouddha Prabhāvan jusqu’à l'époque présente qui est la mienne, cet être n'a cessé de renaître dans les enfers et a continuellement subi de telles souffrances.\n"
+"— Vénérable, demandèrent les moines, quand cet être sera-t-il libéré de ces supplices ?"
+
+# བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སངས་རྒྱས་ལྔ་བརྒྱ་འབྱུང་བར་འགྱུར་ཏེ།
+# དེའི་བར་དུ་ཡང་སེམས་ཅན་འདི་སེམས་ཅན་དམྱལ་བ་རྣམས་ནས་ཤི་འཕོས་ཤིང་
+# སེམས་ཅན་དམྱལ་བ་རྣམས་འབའ་ཞིག་ཏུ་སྐྱེ་བར་འགྱུར་ཏེ།
+# འདི་ལྟ་བུའི་སྡུག་བསྔལ་ཤ་སྟག་རྙེད་ནས།
+# དེའི་འོག་ཏུ་སེམས་ཅན་དམྱལ་བའི་སྡུག་བསྔལ་ཟད་ནས་ མིར་སྐྱེ་བ་ཐོབ་པར་འགྱུར་ཏེ།
+# དེས་རིགས་ངན་གྱི་ཁྱིམ་དུ་ཉིང་མཚམས་<«ལི་»«ཅོ་»འཚམས།>སྦྱོར་བར་འགྱུར་རོ། །
+# དེ་གང་གི་<«གཡུང་»གྱི།>ཚེ་ཆེར་སྐྱེས་པ་དེའི་ཚེ་རི་དགས་ཤོར་<«ཅོ»«ཞོལ»བཤོར།>དུ་འགྲོ་བར་འགྱུར་ཏེ།
+# དེ་དེར་སོང་བ་ན་ནགས་ཁྲོད་མེ་ཏོག་ཕུན་སུམ་ཚོགས་པ་འབྲས་བུ་ཕུན་སུམ་ཚོགས་པ་བསིལ་གྲིབ་ཕུན་སུམ་ཚོགས་པ་ཞིག་ཏུ་ཕྱིན་ནས།
+# དེས་བསམས་པ་
+# གནས་འདི་ལྟ་བུར་ནི་རི་དགས་རྣམས་འདུ་བར་འགྱུར་རོ་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»དེ།>སྙམ་ནས།
+# དེས་དེར་འཁྲུལ་<«གཡུང་»«པེ་»–རོ>འཁོར་དང་རྙི་དང་གཏོར་བ་<«ལི»«ཅོ་»འཕྲུལ།>དང་རྙོང་རྣམས་བཙུགས་<«གཡུང་»སྙི་དང་ཏོར།
+# «ལི་»«པེ་»«སྣར་»«ཅོ་»སྙི་དང་གཏམ་པ།>ནས་ འགྲོ་བར་བྱེད་དོ། །
+msgctxt "line 23, 18.txt"
+msgid ""
+"« Cinq cent bouddhas apparaîtront pendant cet éon fortuné et jusque là, cet "
+"être quittera [des vies chez] les êtres des enfers et naîtra uniquement "
+"parmi les êtres des enfers et il obtiendra à chaque fois (lit. uniquement) "
+"des souffrances comme celles-ci et après ça (lit. en dessous de ça), les "
+"souffrances d’être dans les enfers s’épuiseront et il obtiendra de naître "
+"chez les humains et il passera la lisière [de sa prochaine vie] dans une "
+"maison de basse (lit. mauvaise) caste. Quand il aura grandi, il ira chasser "
+"(lit. chasser des herbivores sauvages) et lorqu’il sera à la chasse (lit. "
+"y), il ira dans un endroit de la forêt (lit. au milieu de la forêt) où se "
+"trouvaient des fleurs parfaites, des fruits parfaits et une ombre "
+"parfaitement rafraîchissante et il pensera : « Les animaux (lit. herbivores "
+"sauvages) se rassemblent dans un endroit comme celui-ci. » et il y "
+"installera des [pièges comme] des trappes mécaniques, des filets, des "
+"assommoirs et [d’autres] filets et partira."
+msgstr ""
+"\n"
+"— Jusqu'à ce que les cinq cent bouddhas de cet éon fortuné soient tous apparus, cet être ne cessera de naître dans les mêmes enfers où il subira ces mêmes souffrances. Il aura alors épuisé ses souffrances d’être infernal et il naîtra chez les humains, dans une maison de basse caste. Quand il aura grandi, il ira chasser, trouvera un endroit de la forêt où pousseront des fleurs parfaites, des fruits parfaits et une ombre parfaitement rafraîchissante. Pensant que le gibier fréquente certainement cet endroit, il y installera des pièges comme des trappes mécaniques, des filets, des assommoirs et d’autres sortes de filets avant de repartir."
+
+# དེ་ནས་དེའི་ཚེ་འཇིག་རྟེན་དུ་རང་སངས་རྒྱས་ཤིག་བྱུང་སྟེ།
+# དེ་ནགས་ཁྲོད་དེར་མཚན་མོ་གནས་འཆའ་བར་བྱེད་དེ།
+# དེའི་དྲིས་རི་དགས་དེ་དག་དེའི་ཉིན་པར་ནགས་ཁྲོད་དེར་མི་འོང་ངོ་། །
+# རྔོན་པ་དེ་ཡང་དེར་སོང་ནས་
+# ནགས་ཁྲོད་དེར་<«གཡུང་»«པེ་»གཙུགས།>རང་སངས་རྒྱས་དེ་འབའ་ཞིག་མཐོང་བ་ལས་
+# གཞན་ཅི་ཡང་མ་རྙེད་ནས་ དེས་འདི་སྙམ་དུ་སེམས་ཏེ།
+# རབ་ཏུ་བྱུང་བ་འདི་དག་ནི་གནས་འདི་ལྟ་བུ་ལ་དགའ་བར་སྐྱེད་<«གཡུང་»«པེ་»དེ།>པར་བྱེད་དེ།
+# འདི་འདི་ན་འདུག་པར་གྱུར་ན་བདག་ལ་གནོད་པར་འགྱུར་གྱིས<«གཡུང་»«པེ་»བ་བསྐྱེད།>།
+# མ་ལ་ བདག་གིས་འདི་བསད་<«ཞོལ་»གྱི།>གོར་མ་ཆག་སྙམ་ནས་ དེས་རང་སངས་རྒྱས་དེ་བསད་དེ།
+# དེས་དེ་བསད་ནས་
+# རྔོན་པ་དེ་ཤི་བའི་འོག་ཏུ་ཡང་སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་མནར་མེད་པར་སྐྱེ་བར་འགྱུར་ཏེ།
+# དེ་དེར་ལོ་<«གཡུང་»ཁོ།>བརྒྱ་ཕྲག་དུ་མ་དང་ལོ་སྟོང་ཕྲག་དུ་མའི་བར་དུ་སེམས་ཅན་དམྱལ་བའི་སྡུག་བསྔལ་མྱོང་བར་འགྱུར་རོ།
+# ། དེ་ནས་དེ་ལས་ཟད་ནས་<«ཁུ་»ན།> ཡང་མིར་སྐྱེ་བ་ཐོབ་པར་ཡང་འགྱུར་ཏེ།
+msgctxt "line 24, 18.txt"
+msgid ""
+"Ensuite, à ce moment, un bouddha solitaire apparaîtra dans le monde et il "
+"s’établira [pour] la nuit dans cet endroit de la forêt (lit. milieu de "
+"forêt) et du fait de son odeur, les animaux sauvages (lit. herbivores "
+"sauvages) ne viendront pas à cet endroit ce jour-là. Le chasseur ira là et "
+"ne voyant que ce bouddha solitaire dans cette endroit de la forêt, ne "
+"trouvant aucun autre [animal pris], il pensera ceci : « Ceux qui se sont "
+"retirés du monde se plaisent (lit. développent de l’appréciation) dans des "
+"endroits comme celui-ci et si celui-ci reste ici, il me fera du tort. Donc, "
+"décidément, il n’y a pas de douce que je doive aussi le tuer » et il tua ce "
+"bouddha solitaire et l’ayant tué, après être mort, ce chasseur renaîtra "
+"encore parmi les êtres du grand enfer insurpassable (lit. insoutenable) et "
+"là, il subira les souffrances des êtres des enfers pendant des centaines et "
+"des milliers d’années. Ensuite, ces actions seront épuisées et il obtiendra "
+"à nouveau de naître chez les humains et"
+msgstr ""
+"À cette époque, un bouddha solitaire apparaîtra. Il passera la nuit dans cet"
+" endroit de la forêt. Du fait de son odeur, les animaux sauvages se "
+"tiendront à distance. Le chasseur retournera chercher ses prises, verra le "
+"bouddha solitaire, mais ne trouvera aucun animal dans ses pièges. Il pensera"
+" que ceux qui se sont retirés du monde se plaisent dans ces endroits, que "
+"leur présence lui sera dommageable et qu'il devra donc le tuer. Ce meurtre "
+"le fera naître à nouveau dans le grand enfer insurpassable, où il subira les"
+" souffrances infernales pendant des centaines et des milliers d'années. "
+"Lorsque s'épuiseront ses mauvaises actions, il naîtra en tant qu'humain."
+
+# དེའི་ཚེ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་བླ་མ་ཞེས་བྱ་བ་འཇིག་རྟེན་དུ་འབྱུང་བར་འགྱུར་ཏེ།
+# དེའི་གསུང་རབ་ལ་འདི་རབ་ཏུ་བྱུང་ནས་ ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་འགྱུར་རོ། ། དེས་དགྲ་བཅོམ་པ་ཉིད་ཐོབ་ནས་
+# རྒྱལ་པོའི་ཕོ་བྲང་ཞིག་ཏུ་འགྲོ་བར་འགྱུར་ཏེ།
+# དེ་རྒྱལ་པོའི་སྐྱེད་<«ལི་»«ཅོ་»«ཁུ་»བསྐྱེད།>མོས་ཚལ་དུ་གནས་འཆའ་བར་འགྱུར་རོ། །
+# རྒྱལ་པོ་དེ་ཡང་བུད་མེད་ཀྱི་འཁོར་དག་གིས་ཞབས་འབྲིང་<«གཡུང་»ཞམ་རིང་།
+# «པེ་»ཞབས་བྲིང་།>བྱས་ཏེ། སྐྱེད་<«གཡུང་»བསྐྱེད།>མོས་ཚལ་དེར་འགྲོ་བར་འགྱུར་ལ།
+# བུད་མེད་དེ་དག་ཀྱང་སྐྱེད་མོས་ཚལ་དེར་མེ་ཏོག་དང་འབྲས་བུ་ལ་སྲེད་<«ལི་»སྲིད།>པས་ཕན་ཚུན་འཁྱམ་ཞིང་<«ཞོལ་»འཁྱམས་ཤིང་།>
+# འགྲོ་བ་ལས། དེའི་ཐད་དུ་ཕྱིན་ཏེ་ ཆོས་མཉན་པའི་ཕྱིར་མདུན་དུ་འཁོད་དོ། །
+msgctxt "line 25, 18.txt"
+msgid ""
+"à cette époque, le complet et parfait Bouddha Uttara apparaîtra dans le "
+"monde et il se retirera du monde selon son enseignement et il éliminera "
+"toutes les émotions perturbatrices et il manifestera l’état d’arhat (lit. l"
+"’arhat-même). Après qu’il ait obtenu l’état d’arhat, il ira dans le palais "
+"d’un roi et il s’établira dans le parc d’agrément de ce roi. Ce roi, à son "
+"tour, avec un groupe de dames pour le servir, ira dans le parc d’agrément et"
+" ces dames seront attirées par les fleurs et les fruits et se promèneront "
+"dans le parc d’agrément et elle s’y déplaceront. Ainsi, elles iront auprès "
+"de lui et elles s’assiéront pour écouter le Dharma."
+msgstr ""
+"Le complet et parfait Bouddha Uttara sera apparu dans le monde. Cet homme se"
+" retirera selon l'enseignement de ce Bouddha, éliminera toutes les émotions "
+"perturbatrices et manifestera l'état d'arhat. Ensuite, il ira à proximité "
+"d'un palais royal, entrera dans le parc d'agrément. Le roi sortira avec un "
+"groupe de dames à sa suite. Elles seront attirées par les fleurs et les "
+"fruits et se promèneront dans le parc. Elles s'approcheront de lui, "
+"s'assiéront pour écouter le Dharma."
+
+# རྒྱལ་པོ་དེ་ཡང་སྐྱེས་པའི་སྒྲ་ཐོས་ནས་ དེའི་ཐད་དུ་འགྲོ་བར་འགྱུར་ལ། དེ་མཐོང་ནས་
+# ཁྲོས་ཏེ་ ལྕག་གིས་བཞུས་<«ལི་»«སྣར་»«ཅོ་»གཞུས།>ནས་
+# དེའི་ལུས་དུམ་བུ་དྲུག་ཏུ་བཅད་དེ། གསོན་<«གཡུང་»བསོན།>པོར་གསལ་ཤིང་ལ་བཙུགས་ནས།
+# རལ་གྲི་དང་། མདུང་ཐུང་དང་། མདའ་བོ་ཆེ་དང་།
+# རྡོ་རྗེ་རྩེ་གཅིག་པ་དང་མདུང་ཁ་ལེབ་རྣམས་ཀྱིས་ལུས་ལ་བསྣུན་ནས་
+# ཁྱི་རྣམས་ལ་བྱིན་པར་གྱུར་ཏེ། དེའི་སྡུག་བསྔལ་གྱི་མཐའ་དེར་ཐུག་པར་འགྱུར་རོ། །
+msgctxt "line 26, 18.txt"
+msgid ""
+"Ce roi entendra la voix (lit. son) d’un homme et il ira auprès de lui et "
+"l’ayant vu, il se mettra en colère et il le frappera avec des [barres] "
+"métalliques et il coupera son corps en six et il l’empalera vivant et "
+"abattra sur lui des épées, des javelots, des lances, des vajras à une pointe"
+" et des lances à pointe plate et il le donnera à des chiens et la limite de "
+"ses souffrances sera alors atteinte. »"
+msgstr ""
+"Le roi entendra la voix d'un homme, ira le trouver et hors de lui, il le "
+"frappera avec des barres métalliques. Il découpera son corps en six parties."
+" Il l'empalera vivant, abattra sur lui des épées, des javelots, des lances, "
+"des vajras à une pointe et des lances à pointe plate. Il le donnera en "
+"pâture à des chiens. À ce moment sera atteinte la limite de ses souffrances."
+" »"
+
+# དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་སྐྱེ་བོ་ཕལ་པོ་ཆེ་དེ་དག་ཤས་ཆེར་སྐྱོ་བ་སྐྱེས་ཏེ།
+# དེ་དག་གིས་བསམས་པ།
+# འཁོར་བ་ན་འཁོར་ན་བདག་ཅག་<«གཡུང་»«པེ་»ཅིག>གིས་ཀྱང་སྡུག་བསྔལ་མི་བཟད་པ་དེ་ལྟ་བུ་རྙེད་པར་འགྱུར་རོ་སྙམ་མོ།
+# །
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་དག་གི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–གི།>ཡིད་སྐྱོ་བར་གྱུར་པར་<«ཅོ་»འགྱུར་བ།>ཐུགས་སུ་ཆུད་ནས་
+# དེ་དང་འཐུན་པའི་ཆོས་བསྟན་ཏེ།
+# སྟན་དེ་ཉིད་ལ་འཁོད་<«པེ་»«ཅོ་»+པ།>བཞིན་དུ་ཁ་[64b]ཅིག་གིས་ནི་དྲོ་བར་གྱུར་པ་བསྐྱེད་དོ།
+# ། ཁ་ཅིག་གིས་<«གཡུང་»–གིས། «པེ་»ས།>ནི་རྩེ་མོ་དང་། བདེན་པ་དང་།
+# འཐུན་པའི་བཟོད་པ་དང་།
+# འཇིག་རྟེན་གྱི་ཆོས་ཀྱི་མཆོག་དང་<«གཡུང་»+དང།>མཐོང་བའི་སྙོམས་པར་འཇུག་པ་བསྐྱེད་དོ།
+# ། ཁ་ཅིག་གིས་ནི་རྒྱུན་དུ་ཞུགས་པའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་སོ། །
+# ཁ་ཅིག་གིས་ནི་ལན་ཅིག་<«མི་»«སྣར་»«ཅོ་»«ཞོལ་»གཅིག>ཕྱིར་འོང་བའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་སོ།
+# ། ཁ་ཅིག་གིས་<«སྣར་»–གིས།>ནི་ཕྱིར་མི་འོང་བའི་འབྲས་བུ་མངོན་སུམ་དུ་བྱས་སོ། །
+# ཁ་ཅིག་གིས་ནི་རབ་ཏུ་བྱུང་ནས་ དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། །
+# ཁ་ཅིག་གིས་ནི་འཁོར་ལོས་<«གཡུང་»«པེ་»ལོ།>སྒྱུར་བའི་རྒྱལ་པོར་འགྱུར་<«གཡུང་»«པེ་»འགྲོ།>བའི་ས་བོན་བསྐྱེད་དོ།
+# ། ཁ་ཅིག་གིས་ནི་སྟོབས་ཀྱིས་<«སྣར་»«ཞོལ་»ཀྱི།>འཁོར་ལོས་སྒྱུར་བར་འགྱུར་བ་དང་།
+# ཁ་ཅིག་གིས་ནི་བརྒྱ་བྱིན་དུ་འགྱུར་བ་དང་། ཁ་ཅིག་གིས་ནི་ཚངས་པར་འགྱུར་བ་དང་།
+# ཁ་ཅིག་གིས་ནི་ཉན་ཐོས་ཀྱི་བྱང་ཆུབ་དང་།
+# ཁ་ཅིག་གིས་ནི་རང་<«གཡུང་»–རང་།>སངས་རྒྱས་ཀྱི་བྱང་ཆུབ་དང་།
+# ཁ་ཅིག་གིས་ནི་<«གཡུང་»«པེ་»–ནི།>བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཀྱི་ས་བོན་བསྐྱེད་<«གཡུང་»«པེ་»སྐྱེད།>དོ།
+# ། འཁོར་དེ་དག་གི་ནང་ནས་ཕལ་ཆེར་ནི་སངས་རྒྱས་ལ་<«ཅོ་»ལས།>གཞོལ། ཆོས་ལ་འབབ་
+# དགེ་འདུན་ལ་བབ་<«ཅོ་»འབབ།>པར་མཛད་དེ། བཀོད་ནས་ གཙུག་<«གཡུང་»དཀོད་ནས་བཙུག
+# «ལི་»«ཅོ་»བཀོད་ནས་བཙུག «པེ་»གོད་ནས་བཙུག>ལག་ཁང་དུ་གཤེགས་སོ། ། ། །
+msgctxt "line 27, 18.txt"
+msgid ""
+"Ensuite, dès qu’ils eurent entendu ceci, les innombrables personnes "
+"ressentirent un désenchantement intense et ils pensèrent : « Si nous errons "
+"dans le samsara, nous aussi, nous obtiendrons des souffrances insoutenables "
+"comme celles-ci. » Ensuite, le Bienheureux comprit qu’ils étaient "
+"désenchantés et il leur donna un enseignement correspondant à ceci et tandis"
+" qu’ils étaient encore assis sur leur sièges, certains développèrent [le "
+"niveau de] la chaleur. Certains autres [développèrent le niveau] du sommet, "
+"[d’autres] de l’acceptation correspondant à la vérité, [d’autres] de [ce qui"
+" est] sublime [parmi] les choses du monde, [d’autres] la concentration "
+"méditative de la vision. Certains manifestèrent le résultat de l’entrée dans"
+" le courant. Certains manifestèrent le résultat de celui qui revient une "
+"fois. Certains manifestèrent le résultat de ceux qui ne reviennent plus. "
+"Certains se retirèrent du monde et manifestèrent l’état d’arhat. Certains "
+"développèrent les graines pour devenir (lit. de) des monarques universels. "
+"Certains développèrent les graines pour devenir des monarques universaux "
+"établis par la force, certains celles pour devenir Indra, certains celles "
+"pour devenir Brahmā, certains celles de l’éveil des auditeurs, certains "
+"celles de l’éveil des bouddhas par soi, certains celles de l’insurpassable "
+"éveil complet et parfait. La majorité des personnes parmi cet entourage "
+"s’engagèrent (lit. descendirent) auprès du Bouddha, s’accordèrent (lit. "
+"tomber [d’accord avec]) avec le Dharma, intégrèrent (lit. être tombé "
+"[d’accord avec]) la Saṅgha. Il les fit [atteindre ceci] et les y établit et "
+"alla au vihāra. »"
+msgstr ""
+"Dès qu'ils eurent entendu ceci, les innombrables habitants de Śrāvastī "
+"ressentirent un désenchantement intense. Ils pensèrent aussitôt que tant "
+"qu'ils erreraient dans le saṃsāra, ils subiraient eux aussi des souffrances "
+"insoutenables. Voyant qu'ils étaient désenchantés, le Bienheureux leur "
+"enseigna ce qui correspondait à leur situation. Tandis qu'ils étaient encore"
+" assis, certains développèrent le niveau de la chaleur. Certains autres "
+"développèrent le niveau du sommet, d’autres celui de l’acceptation "
+"correspondant à la vérité, d’autres celui de la chose sublime dans le monde "
+"et d’autres encore la concentration méditative de la vision. Certains "
+"manifestèrent le résultat de l’entrée dans le courant, d'autres le résultat "
+"de celui qui revient une fois, d'autres le résultat de ceux qui ne "
+"reviennent plus et d'autres encore se retirèrent du monde et manifestèrent "
+"l’état d’arhat. Certains développèrent les causes qui les feraient devenir "
+"des monarques universels, d'autres celles qui les feraient devenir des "
+"monarques universaux établis par la force, d'autres celles pour devenir "
+"Indra et d'autres encore celles pour devenir Brahmā. certains développèrent "
+"les causes de l’éveil des auditeurs, d'autres celles de l’éveil des bouddhas"
+" solitaires et d'autres encore celles de l’insurpassable éveil complet et "
+"parfait. La majorité des personnes parmi cet entourage s’engagèrent auprès "
+"du Bouddha, s’accordèrent au Dharma et intégrèrent la Saṅgha. Le Bienheureux"
+" les fit atteindre ces résultats, les y établit, puis rentra au monastère."
