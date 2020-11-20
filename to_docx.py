@@ -76,8 +76,7 @@ def create_total_docx(chunks, path):
         # Communicative
         com_p = document.add_paragraph()
         com_p.style = 'Com. paragraph'
-
-        com = re.split('(/.+?/)', com)
+        com = re.split('(/[^/]+/)', com)
         for c in com:
             com_run = com_p.add_run('')
             com_run.style = 'Communicative'
@@ -144,7 +143,7 @@ def create_trans_docx(pars, path):
         com_p = document.add_paragraph()
         com_p.style = 'Com. paragraph trans'
 
-        com = re.split('(/.+?/)', par)
+        com = re.split('(/[^/]+/)', par)
         for c in com:
             com_run = com_p.add_run('')
             com_run.style = 'Communicative'
