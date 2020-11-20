@@ -553,11 +553,11 @@ msgstr ""
 "cent autres arhats. Leur chemin les fit passer à proximité d'un palais "
 "royal. Ils entrèrent dans le parc d’agrément du roi de ce pays et, suivant "
 "l’ordre d’ancienneté, ils se constituèrent chacun un coussin d’herbe au pied"
-" (lit. près) d’un arbre. Ils s'y assirent les jambes croisées et firent "
-"l’expérience du bonheur de la concentration, des libérations parfaites, des "
-"concentrations méditatives et des absorptions méditatives. Tôt le lendemain,"
-" le roi Insondable, à qui le parc appartenait, sortit avec un groupe de "
-"dames à sa suite. Il s’assit et laissa les dames se promener."
+" d’un arbre. Ils s'y assirent les jambes croisées et firent l’expérience du "
+"bonheur de la concentration, des libérations parfaites, des concentrations "
+"méditatives et des absorptions méditatives. Tôt le lendemain, le roi "
+"Insondable, à qui le parc appartenait, sortit avec un groupe de dames à sa "
+"suite. Il s’assit et laissa les dames se promener."
 
 # བུད་མེད་དེ་དག་མེ་ཏོག་དང་འབྲས་བུ་ལ་སྲེད་པས་ཕན་ཚུན་དུ་འཁྱམ་ཞིང་<«ཞོལ་»འཁྱམས་ཤིང་།>དོང་བ་ལས་
 # བུད་མེད་དེ་དག་གིས་དགེ་སློང་ལྔ་བརྒྱ་པོ་དེ་དག་ཤིང་དྲུང་དག་ན་ཀླུའི་རྒྱལ་པོ་ལྟར་ལུས་བསྐྱིལ་ཏེ་གཉིད་ལོག་པ་བཞིན་དུ་སྐྱིལ་མོ་ཀྲུང་<«གཡུང་»དཀྱིལ་མོ་དཀྲུང་།
