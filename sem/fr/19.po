@@ -397,7 +397,7 @@ msgstr "Vénérable,"
 msgctxt "9a0b8fa6c97a44fd906f36f6a124890e"
 msgid "ས་འཚོ་ མས་ ལྷ་ སྦྱིན་ མི་ མང་ ས␣ར་ ཇི་ལྟར་ དམའ་ ཕབ་པ་ ལ་ གཟིགས །"
 msgstr ""
-"Posez votre regard sur la manière dont Gopā a humilié Devadatta en public "
+"posez votre regard sur la manière dont Gopā a humilié Devadatta en public "
 "(lit. à l'endroit de beaucoup de personnes). »"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་<«གཡུང་»«པེ་»བསྩལ།>པ།
