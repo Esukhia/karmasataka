@@ -889,11 +889,11 @@ msgid ""
 "ses souffrances sera alors atteinte. »"
 msgstr ""
 "Le roi entendra la voix d'un homme, ira le trouver et hors de lui, il le "
-"frappera avec des barres métalliques. Il découpera son corps en six parties."
-" Il l'empalera vivant, abattra sur lui des épées, des javelots, des lances, "
-"des vajras à une pointe et des lances à pointe plate. Il le donnera en "
-"pâture à des chiens. À ce moment sera atteinte la limite de ses souffrances."
-" »"
+"frappera avec des barres métalliques. Il découpera son corps en six "
+"morceaux. Il l'empalera vivant, abattra sur lui des épées, des javelots, des"
+" lances, des vajras à une pointe et des lances à pointe plate. Il le donnera"
+" en pâture à des chiens. À ce moment sera atteinte la limite de ses "
+"souffrances. »"
 
 # དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་སྐྱེ་བོ་ཕལ་པོ་ཆེ་དེ་དག་ཤས་ཆེར་སྐྱོ་བ་སྐྱེས་ཏེ།
 # དེ་དག་གིས་བསམས་པ།
