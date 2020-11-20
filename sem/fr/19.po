@@ -494,7 +494,7 @@ msgid ""
 "པི་ དེ་ ཧ␣འི་ རྒྱལ་པོ␣འི་ བཙུན་མོ་ དམ་པ་ དེ་ དང་ བྱད་གཟུགས་ འདྲ་བ་ ནི །  "
 "བུད་མེད་ སུ་ ཡང་ མ་ མཆིས་ སོ་ ཞེས་"
 msgstr ""
-"il n'y a aucune femme qui a un corps semblable à la noble épouse du roi de "
+"Il n'y a aucune femme qui a un corps semblable à la noble épouse du roi de "
 "Videha\","
 
 msgctxt "a2edd408ef5a46f9832d650cb81990ba"
