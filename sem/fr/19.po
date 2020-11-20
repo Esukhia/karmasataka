@@ -578,7 +578,7 @@ msgid ""
 "རྒྱལ་པོ་ ཚངས་པ␣ས་ བྱིན་ དེ་ ནི་ བདག་ འཚལ་ ཞེས་ དོན་ དུ་ སྒྲུབ་ ཅིང་ མཆིས་ "
 "ཀྱིས་"
 msgstr ""
-"Le roi Brahmadatta dit me vouloir et est entrain de faire le nécessaire pour"
+"le roi Brahmadatta dit me vouloir et est entrain de faire le nécessaire pour"
 " ça (lit. accomplit cet objectif). Donc,"
 
 # གལ་ཏེ་ལྷས་བདག་ལ་བཀའ་སྩལ་ན་ནི་བདག་གིས་དེ་དམའ་དབབ་པར་འཚལ་<«གཡུང་»སྨྲ་དབབ་ཚལ།>ལོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལོ།>ཞེས་
