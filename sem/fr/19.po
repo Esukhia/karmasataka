@@ -642,7 +642,7 @@ msgid ""
 "རྒྱལ་པོ་ འདི་ གསོན་པོ␣ར་ འདུག་ བཞིན་ དུ་ ནི །  བདག་ གིས་ ཁྱོད་ དང་ མཇལ་བ␣ར་ "
 "བགྱི་བ␣འི་ རྔོ་ མི་ ཐོགས་ ཀྱིས་"
 msgstr ""
-"Tant que ce roi sera en vie, je serai incapable de vous rencontrer. Donc,"
+"\"Tant que ce roi sera en vie, je serai incapable de vous rencontrer. Donc,"
 
 msgctxt "ec3177c8eeb0428caf9df142209dce63"
 msgid "འདི་ སོད་ ཅིག་ དང་ །"
