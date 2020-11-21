@@ -333,7 +333,7 @@ msgstr ""
 
 msgctxt "b03f649517144476b7aeaa9f4869d68e"
 msgid "ལ␣ས་ ཅི་ བགྱིས་ ན་"
-msgstr "Quelles actions a[-t-elle] réalisées pour qu'"
+msgstr "Quelles actions a[-t-elle] réalisées pour"
 
 # དེས་བྲན་མོ་གཞན་གྱི་[67b]མངག་གཞུག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བཞུག>བགྱིད་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འགྱུར།>ལགས།
 msgctxt "468d1c63947c4e9aaed716829f3a8eb1"
