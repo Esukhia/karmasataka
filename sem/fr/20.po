@@ -306,7 +306,7 @@ msgid ""
 "དེ་ བཅོམ་ལྡན་འདས་ ཀྱིས་ བརྩོན་འགྲུས་ བརྩམས་པ་ རྣམས་ ཀྱི་ མཆོག་ ཏུ་ བསྟན་ ཏོ "
 "། །"
 msgstr ""
-"Le Bienheureux proclama (lit. la montra) qu'elle était suprême parmi ceux "
+"le Bienheureux proclama (lit. la montra) qu'elle était suprême parmi ceux "
 "dotés de diligence."
 
 msgctxt "d9232810661448bebbc45b033e8c127b"
