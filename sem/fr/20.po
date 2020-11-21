@@ -338,7 +338,7 @@ msgstr "Quelles actions a[-t-elle] réalisées pour"
 # དེས་བྲན་མོ་གཞན་གྱི་[67b]མངག་གཞུག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བཞུག>བགྱིད་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འགྱུར།>ལགས།
 msgctxt "468d1c63947c4e9aaed716829f3a8eb1"
 msgid "དེ␣ས་ བྲན་མོ་ གཞན་ གྱི་ མངག་གཞུག་ བགྱིད་པ␣ར་ གྱུར་ ལགས །"
-msgstr "elle soit une servante, qui suit les ordres des autres ? »"
+msgstr "qu'elle soit une servante, qui suit les ordres des autres ? »"
 
 msgctxt "4605cf3c63624602afd5fc517335a56d"
 msgid "བཅོམ་ལྡན་འདས་ ཀྱིས་ བཀའ་ སྩལ་པ །"
