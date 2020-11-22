@@ -189,7 +189,7 @@ msgid ""
 " autres ? » Le Bienheureux dit : « Ceci est arrivé par le pouvoir de ses "
 "souhaits. » « Quels souhaits a-t-elle formulés ? »"
 msgstr ""
-"« Bienheureux, demandèrent les moines, quelles actions ont valu à Keśinī de naître dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens ? Quelles actions a-t-elle réalisées pour qu'elle soit une servante, pour qu'elle doive exécuter les ordres des autres ?\n"
+"« Bienheureux, demandèrent les moines, quelles actions ont valu à Keśinī de naître dans une famille qui vit dans l’opulence, qui possède de grandes richesses et d’innombrables biens ? Quelles actions a-t-elle réalisées pour qu'elle soit une servante, pour qu'elle doive exécuter les ordres d'autrui ?\n"
 "— Ceci est arrivé par le pouvoir de ses souhaits, dit le Bienheureux.\n"
 "— Vénérable, quels souhaits a-t-elle formulés ?"
 
