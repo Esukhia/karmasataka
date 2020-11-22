@@ -107,11 +107,11 @@ msgid ""
 msgstr ""
 "Le roi Siṃhahanu entendit parler des deux princesses. Il envoya un messager "
 "au roi Suprabuddha : « Donne tes deux filles comme épouses à mon fils. Ici, "
-"bien que les Śākyas appliquent la règle interne que personne en âge de se "
-"marier ne peut prendre deux épouses, si je parviens à obtenir l'approbation "
-"des Śākyas, je les prendrai toutes les deux. » Les Śākyas accédèrent à sa "
+"bien que les Śākyas appliquent la loi interne que personne en âge de se "
+"marier ne peut prendre deux épouses, si je parviens à obtenir leur "
+"approbation, je les prendrai toutes les deux. » Les Śākyas accédèrent à sa "
 "requête. Alors, suivant les coutumes ancestrales, il prit les deux "
-"princesses comme reines de Śuddhodana."
+"princesses comme reines pour Śuddhodana."
 
 # དེར་རྒྱལ་པོ་རབ་སད་<«གཡུང་»«པེ་»སངས།>ཀྱིས་དེ་གཉིས་ལ་བུ་མོ་སྐྲ་ལྡན་མ་ཞེས་བྱ་བ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»+སྐྲ།>སྐྲ་མཁན་དུ་བྱིན་ནོ།
 # ། དེ་ནས་གང་གི་ཚེ་བྱང་ཆུབ་སེམས་དཔའ་བཙས་པ་ན།
