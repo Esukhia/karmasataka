@@ -323,8 +323,8 @@ msgstr ""
 "retirer du monde d’après son enseignement, éliminer toutes les émotions "
 "perturbatrices et manifester l’état d’arhat. De même que le complet et "
 "parfait Bouddha Kāśyapa a déclaré ma préceptrice suprême parmi celles dotées"
-" de diligence, puisse Śākyamuni, le roi des Śākyas, proclamer que je suis "
-"suprême parmi celles dotées de diligence.”"
+" de diligence, puisse Śākyamuni, le roi des Śākyas, me déclarer suprême "
+"parmi celles dotées de diligence.”"
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
 # དེའི་ཚེ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་བའི་དགེ་སློང་མ་གང་ཡིན་པ་དེ་ནི་སྐྲ་ལྡན་མ་འདི་ཉིད་ཡིན་ཏེ།
