@@ -360,10 +360,9 @@ msgstr ""
 "Ensuite, avec la permission de ses parents, elle alla auprès du Bienheureux "
 "dans le Parc du Prince Jeta. Elle se prosterna devant lui en touchant ses "
 "pieds de la tête et dit : « Vénérable, s’il m’est possible de m’extraire du "
-"monde selon le Dharma du Vinaya si bien enseigné, s’il m’est possible de "
-"parfaire l’approche de la libération, d’obtenir la condition de nonne "
-"pleinement ordonnée, j’aimerais vivre une vie chaste auprès du Bienheureux, "
-"comme d'autres avant moi. »"
+"monde selon le Dharma du Vinaya si bien enseigné, de prendre les vœux "
+"complets, d’obtenir la condition de nonne pleinement ordonnée, j’aimerais "
+"vivre une vie chaste auprès du Bienheureux, comme d'autres avant moi. »"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་གཽ་ཏ་མཱི་ལ་གཏད་<«གཡུང་»མི་ལ་ཏད།
 # «པེ་»མི་ལ་གཏད།>དོ། །
