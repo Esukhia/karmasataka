@@ -26,7 +26,7 @@ msgid ""
 "དེ␣འི་ ཚེ་ཚེ་ དང་ ལྡན་པ་ ཉེ་སྡེ་ ཡུལ་སྲུང་ བྱེད་ དུ་ ལྗོངས་རྒྱུ་ ཞིང་ སོང་བ་"
 " ལ␣ས་"
 msgstr ""
-"À cette époque, l'honorable Upasena voyageait et de déplaçait dans le pays "
+"À cette époque, l'honorable Upasena voyageait et se déplaçait dans le pays "
 "d'Avanti et"
 
 msgctxt "196d49fc36414404ba982393e7150922"
