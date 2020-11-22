@@ -368,12 +368,12 @@ msgstr ""
 "comme demandé. Dès son arrivée, la reine de Mahadrasena se saisit de lui et "
 "informa le roi que son ennemi était à sa disposition. Il fit venir le "
 "prince, les ministres, les marchands, les riches et les capitaines. Devant "
-"eux, il de ses pieds la tête du roi Brahmadatta de Kāśi, puis donna l'ordre "
-"de tuer \"cette chose pour qu'il ne pratique plus l'adultère avec les femmes"
-" d'autrui.\" \"Dieu parmi les hommes, demanda la reine, une telle "
+"eux, il frappa de ses pieds la tête du roi Brahmadatta de Kāśi, puis donna "
+"l'ordre de tuer \"cette chose pour qu'il ne pratique plus l'adultère avec "
+"les femmes d'autrui.\" \"Dieu parmi les hommes, demanda la reine, une telle "
 "humiliation n'est-elle pas une défaite pire que la mort ? Que reste-t-il en "
-"lui qui ne soit pas déjà tué ? Veuillez le relâcher.\" Brahmadatta fut "
-"relâché selon le désir de la reine."
+"lui qui ne soit déjà tué ? Veuillez le relâcher.\" Brahmadatta fut relâché "
+"selon le désir de la reine."
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས་
 # དེའི་ཚེ་དེའི་དུས་ན་ཡུལ་པི་དེ་ཧའི་རྒྱལ་པོ་དབང་ཆེན་སྡེར་<«གཡུང་»བསྡེར།>གྱུར་པ།
