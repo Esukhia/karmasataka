@@ -190,9 +190,9 @@ msgid ""
 msgstr ""
 "Le voyant arriver, Kokālika, Khaṇḍadravya, Kaṭamorakatiṣya et Samudradatta "
 "s'exclamèrent : « Devadatta, qu’est-il arrivé ? Il semble que tu aies "
-"bénéficié des voluptés de l’entourage de la reine, des faveurs suprêmes. » "
-"Peu après, les moines eurent vent de ces mésaventures et en informèrent le "
-"Bienheureux."
+"bénéficié des voluptés de l’entourage de la reine, de leurs faveurs suprêmes"
+" ! » Peu après, les moines eurent vent de ces mésaventures et en informèrent"
+" le Bienheureux."
 
 # དགེ་སློང་རྣམས་ཀྱིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་
 # ས་འཚོ་<«གཡུང་»མཚོ།>མས་ལྷ་སྦྱིན་<«སྣར་»«ཞོལ་»ལྷས་བྱིན།>མི་མང་སར་ཇི་ལྟར་དམའ་<«གཡུང་»སྣ།>ཕབ་པ་ལ་གཟིགས།
