@@ -82,8 +82,8 @@ msgstr ""
 "s'épanouirent aussi rapidement que des lotus dans un lac. Ensuite, les "
 "augures furent consultés : « Māyā donnera le jour à un fils aux "
 "caractéristiques merveilleuses. Mahā­māyā à un monarque universel. » En "
-"grandissant, leurs chevelures se développèrent comme une goutte d’huile de "
-"sésame se répand sur une surface d'eau."
+"grandissant, leurs chevelures se développèrent comme deux gouttes d’huile de"
+" sésame se répandant sur une surface d'eau."
 
 # དེ་ནས་རྒྱལ་པོ་སེང་གེ་འགྲམ་གྱིས་ཐོས་ནས།
 # རྒྱལ་པོ་རབ་སད་<«གཡུང་»«པེ་»སངས།>ལ་ཕོ་ཉ་བཏང་སྟེ།
