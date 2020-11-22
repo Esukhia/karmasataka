@@ -139,10 +139,11 @@ msgid ""
 msgstr ""
 "Devadatta fut ravi de ce qu’il entendit. « Les voilà acquises à ma cause, "
 "pensa-t-il. La royauté se trouve désormais à portée de main. » Il se rendit "
-"au palais royal. Alors qu'il se dirigeait vers le siège du Bodhisattva, les "
-"dieux le firent disparaître. Gopā reçut Devadatta du haut d'un escalier. « "
-"Devadatta, pourquoi vous empresser de vous asseoir sur ce siège ? Venez-donc"
-" dans les appartements de l’entourage de la reine. Nous avons à discuter. »"
+"au palais royal. Les dieux firent disparaître le trône du Bodhisattva en "
+"voyant Devadatta s'approcher avec l'intention de s'y asseoir. Gopā reçut "
+"Devadatta du haut d'un escalier. « Devadatta, pourquoi vous empresser de "
+"vous asseoir sur ce trône ? Venez-donc dans les appartements de l’entourage "
+"de la reine. Nous avons à discuter. »"
 
 # དེ་ནས་ལྷ་སྦྱིན་<«སྣར་»«ཞོལ་»ལྷས་བྱིན།>གྱིས་ཀྱང་ས་འཚོ་མའི་ཚིག་མཉན་<«ཞོལ་»ཉན།>ནས་
 # སོར་མོ་བཅུའི་ཐལ་མོ་སྦྱར་ཏེ་ དེའི་མདུན་དུ་འདུག་གོ། ། དེ་ནས་ས་འཚོ་མས།
