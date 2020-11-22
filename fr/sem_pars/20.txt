@@ -110,7 +110,7 @@ après qu’elle eut éliminé toutes les émotions perturbatrices,
 	དེས་ཀྱང་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས་
 elle manifesta l’état d’arhat (lit. l’arhat-même). Alors,
 	དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ཏེ།
-Le Bienheureux proclama (lit. la montra) qu’elle était suprême parmi ceux dotés de diligence.
+le Bienheureux proclama (lit. la montra) qu’elle était suprême parmi ceux dotés de diligence.
 	དེ་བཅོམ་ལྡན་འདས་ཀྱིས་བརྩོན་འགྲུས་བརྩམས་པ་རྣམས་ཀྱི་མཆོག་ཏུ་བསྟན་ཏོ། །
 
 
@@ -122,9 +122,9 @@ quelles actions Keśinī a réalisées pour que
 	སྐྲ་ལྡན་མས་ལས་ཅི་བགྱིས་ན།
 le résultat de ces actions le fit naître dans une lignée familiale Śākya qui est riche, possède de grandes (lit. nombreuses) richesses et de nombreux (lit. grands) biens ?
 	ལས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལས།>དེའི་རྣམ་པར་སྨིན་པས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་ཤཱཀྱའི་རིགས་སུ་སྐྱེས་ལགས།
-Quelles actions a[-t-elle] réalisées pour qu’
+Quelles actions a[-t-elle] réalisées pour
 	ལས་ཅི་བགྱིས་ན་
-elle soit une servante, qui suit les ordres des autres ? »
+qu’elle soit une servante, qui suit les ordres des autres ? »
 	དེས་བྲན་མོ་གཞན་གྱི་[67b]མངག་གཞུག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བཞུག>བགྱིད་པར་གྱུར་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»འགྱུར།>ལགས།
 Le Bienheureux dit : «
 	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
@@ -136,7 +136,7 @@ Ceci est arrivé par le pouvoir de ses souhaits. »
 
 « Moines,
 	དགེ་སློང་དག་
-à un moment du passé qui s’est déroulé auparavant, pendant le quatre-vingt-onzième éon, le tathāgata, l’arhat, le complet et parfait bouddha, celui doté de la vision et des jambes, le sugata, le connaisseur du monde, l’insurpassable cocher des êtres à guider, l’enseignant des dieux et des hommes, le Bienheureux Bouddha Vipaśyin était apparu en ce monde et
+à un moment du passé qui s’est déroulé auparavant, pendant le quatre-vingt-onzième éon, le Tathāgata, l’Arhat, le complet et parfait Bouddha, celui doté de la vision et des jambes, le Sugata, le Connaisseur du monde, l’insurpassable Cocher des êtres à guider, l’Enseignant des dieux et des hommes, le Bienheureux Bouddha Vipaśyin était apparu en ce monde et
 	སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། བསྐལ་པ་དགུ་བཅུ་<«ལི་»«ཅོ་»ཅུ།>རྩ་གཅིག་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ།>ལ། དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ། བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ། སྐྱེས་བུ་འདུལ་བའི་ཁ་ལོ་སྒྱུར་བ། བླ་ན་<«གཡུང་»–ན།>མེད་པ་ལྷ་དང་མི་རྣམས་ཀྱི་སྟོན་པ། སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམ་པར་གཟིགས་ཞེས་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»ཤེས།>བྱ་བ་འཇིག་རྟེན་དུ་བྱུང་སྟེ།
 il s’était éveillé à l’insurpassable, complet et parfait éveil et
 	དེ་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་སངས་རྒྱས་ནས་
@@ -188,7 +188,7 @@ c’est un tel souhait qu’elle formula alors. »
 
 « Vénérable,
 	བཙུན་པ་
-Quelles actions a[-t-elle] réalisées
+quelles actions a[-t-elle] réalisées
 	ལས་ཅི་བགྱིས་ན།
 [pour] qu’elle contente aussi le Bienheureux et
 	འདིས་བཅོམ་ལྡན་འདས་ཀྱང་མཉེས་པར་བགྱིས་ཏེ་

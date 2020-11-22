@@ -158,7 +158,7 @@ dirent : «
 	སྨྲས་པ།
 Devadatta,
 	ལྷ་སྦྱིན་<«སྣར་»«ཞོལ་»ལྷས་བྱིན།>
-Qu’est-ce donc ?
+qu’est-ce donc ?
 	འདི་ཅི་ཞིག་
 Il semble que tu aies bénéficié (lit. expérimenté) des voluptés de l’entourage de la reine, des suprêmes faveurs de l’entourage de la reine. »
 	བཙུན་མོའི་འཁོར་གྱི་གནང་<«ལི་»«ཅོ་»ནང་།>ཆེན་ཁྱོད་ཀྱིས་བཙུན་མོའི་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»མོ།>འཁོར་གྱི་བདེ་བ་དག་ལེགས་[65b]པར་མྱོང་མོད།
@@ -172,7 +172,7 @@ Les moines s’adressèrent au Bienheureux Bouddha : «
 	དགེ་སློང་རྣམས་ཀྱིས་སངས་རྒྱས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ།
 Vénérable,
 	བཙུན་པ་
-Posez votre regard sur la manière dont Gopā a humilié Devadatta en public (lit. à l’endroit de beaucoup de personnes). »
+posez votre regard sur la manière dont Gopā a humilié Devadatta en public (lit. à l’endroit de beaucoup de personnes). »
 	ས་འཚོ་<«གཡུང་»མཚོ།>མས་ལྷ་སྦྱིན་<«སྣར་»«ཞོལ་»ལྷས་བྱིན།>མི་མང་སར་ཇི་ལྟར་དམའ་<«གཡུང་»སྣ།>ཕབ་པ་ལ་གཟིགས།
 Le Bienheureux dit : «
 	བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་<«གཡུང་»«པེ་»བསྩལ།>པ།
@@ -204,13 +204,13 @@ Alors, l’un dit :
 	ལྷ་
 oubliez (lit. laissez de regarder) toutes celles-là.
 	དེ་དག་ཐམས་ཅད་ལྟ་ཞོག་གི་
-il n’y a aucune femme qui a un corps semblable à la noble épouse du roi de Videha”,
+Il n’y a aucune femme qui a un corps semblable à la noble épouse du roi de Videha”,
 	པི་དེ་ཧའི་རྒྱལ་པོའི་བཙུན་མོ་དམ་པ་དེ་དང་<«གཡུང་»«པེ་»དག>བྱད་གཟུགས་འདྲ་བ་ནི། བུད་མེད་སུ་ཡང་མ་མཆིས་སོ་ཞེས་
 dit-il. Puis,
 	བྱས་ནས།
 dès qu’il eut entendu ceci, le roi fut touché par la flèche du désir et
 	དེ་ཐོས་མ་ཐག་ཏུ་རྒྱལ་པོ་དེ་འདོད་ཆགས་ཀྱི་མདས་ཕོག་ནས་
-Il pensa :
+il pensa :
 	དེས་བསམས་པ།
 "Je ne parviendrai pas à la rencontrer tandis que je suis en mauvais termes avec le roi Mahendrasena. Donc,
 	བདག་གིས་<«གཡུང་»«པེ་»+ཀྱང་།>རྒྱལ་པོ་དབང་ཆེན་སྡེ་<«གཡུང་»«པེ་»བདེ།>དང་མི་འཐུན་བཞིན་དུ་ནི་དེ་དང་ཕྲད་པར་བྱ་མི་ནུས་ཀྱིས<«ཞོལ་»ཀྱི།>།
@@ -236,7 +236,7 @@ Ensuite, la reine de Mahendrasena le raconta au roi :
 	དེ་ནས་དབང་ཆེན་སྡེའི་བཙུན་མོས་རྒྱལ་པོ་ལ་སྦྲན་ཏེ།
 "Deva,
 	ལྷ་
-Le roi Brahmadatta dit me vouloir et est entrain de faire le nécessaire pour ça (lit. accomplit cet objectif). Donc,
+le roi Brahmadatta dit me vouloir et est entrain de faire le nécessaire pour ça (lit. accomplit cet objectif). Donc,
 	རྒྱལ་པོ་ཚངས་པས་བྱིན་དེ་ནི་བདག་འཚལ་ཞེས་དོན་དུ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དུ།>སྒྲུབ་[66a]ཅིང་མཆིས་ཀྱིས་<«ཞོལ་»ཀྱི།>
 Deva, si vous me l’ordonnez, je vais l’humilier”,
 	གལ་ཏེ་ལྷས་བདག་ལ་བཀའ་སྩལ་ན་ནི་བདག་གིས་དེ་དམའ་དབབ་པར་འཚལ་<«གཡུང་»སྨྲ་དབབ་ཚལ།>ལོ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལོ།>ཞེས་
@@ -260,7 +260,7 @@ dit-elle. Puis,
 	བྱས་ནས་
 elle lui répondit par le messager :
 	དེས་དེ་ལ་ཕོ་ཉའི་ལན་སྤྲིང་སྟེ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»ངོ་།>།
-Tant que ce roi sera en vie, je serai incapable de vous rencontrer. Donc,
+"Tant que ce roi sera en vie, je serai incapable de vous rencontrer. Donc,
 	རྒྱལ་པོ་འདི་གསོན་པོར་འདུག་བཞིན་དུ་ནི། བདག་གིས་ཁྱོད་དང་མཇལ་བར་བགྱི་བའི་རྔོ་མི་ཐོགས་ཀྱིས་
 tuez-le donc.
 	འདི་སོད་ཅིག་དང་།
