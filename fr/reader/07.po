@@ -342,11 +342,10 @@ msgstr ""
 " Bienheureux, se prosterna devant lui, touchant ses pieds de la tête, elle "
 "replia son vêtement supérieur sur une épaule, le laissa retomber devant "
 "elle, joignit les mains, s’inclina et dit : « Vénérable, s’il m’est possible"
-" de m’extraire du monde selon le Dharma du Vinaya si bien enseigné, s’il "
-"m’est possible de parfaire l’approche de la libération et d’obtenir la "
-"condition de nonne pleinement ordonnée, j’aimerais vivre une vie chaste "
-"auprès du Bienheureux, comme d'autres avant moi. » Il fit appeler "
-"Mahāprajāpatī Gautamī et la lui remit."
+" de m’extraire du monde selon le Dharma du Vinaya si bien enseigné, de "
+"prendre les vœux complets et d’obtenir la condition de nonne pleinement "
+"ordonnée, j’aimerais vivre une vie chaste auprès du Bienheureux, comme "
+"d'autres avant moi. » Il fit appeler Mahāprajāpatī Gautamī et la lui remit."
 
 # སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>བདག་མོ་ཆེན་མོ་གཽ་ཏ་མཱིས་<«གཡུང་»མའི་ས།
 # «ལི་»«སྣར་»«ཅོ་»མིས «པེ་»མས>ཀྱང་དེ་རབ་ཏུ་<«ཅོ་»ཏེ།>ཕྱུང་སྟེ་
