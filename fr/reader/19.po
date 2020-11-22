@@ -372,8 +372,8 @@ msgstr ""
 "l'ordre de tuer \"cette chose pour qu'il ne pratique plus l'adultère avec "
 "les femmes d'autrui.\" \"Dieu parmi les hommes, demanda la reine, une telle "
 "humiliation n'est-elle pas une défaite pire que la mort ? Que reste-t-il en "
-"lui qui ne soit déjà tué ? Veuillez le relâcher.\" Son royal époux accéda à "
-"sa demande."
+"lui qui ne soit déjà tué ? Veuillez le relâcher.\" Son époux le roi accéda à"
+" sa demande."
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས་
 # དེའི་ཚེ་དེའི་དུས་ན་ཡུལ་པི་དེ་ཧའི་རྒྱལ་པོ་དབང་ཆེན་སྡེར་<«གཡུང་»བསྡེར།>གྱུར་པ།
