@@ -260,8 +260,8 @@ msgstr ""
 "— Vénérable, quelles actions a-t-elle réalisées pour vous contenter, ne rien"
 " faire qui vous déplaise, pour se retirer du monde selon votre enseignement,"
 " Bienheureux, pour éliminer toutes les émotions perturbatrices, manifester "
-"l’état d’arhat et pour que vous proclamiez qu’elle est suprême parmi celles "
-"dotées de diligence ?"
+"l’état d’arhat et pour que vous la déclariez suprême parmi celles dotées de "
+"diligence ?"
 
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
 # འདི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་གསུང་རབ་ལ་རབ་ཏུ་བྱུང་སྟེ།
