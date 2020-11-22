@@ -536,11 +536,11 @@ msgstr ""
 "dans le courant. Ayant vu les vérités, le père et le fils se levèrent de "
 "leurs sièges, replièrent leur vêtement supérieur sur une épaule et le "
 "laissèrent retomber devant eux. Ils joignirent les mains et s’inclinèrent en"
-" direction du Bienheureux et dirent : « Vénérable, s'il nous est possible de"
-" nous retirer du monde selon le Dharma du Vinaya si bien enseigné, s'il nous"
-" est possible de parfaire l'approche de la libération et d'obtenir la "
-"condition de moines pleinement ordonnés, nous aimerions vivre une vie chaste"
-" auprès du Bienheureux, comme d'autres avant nous. »"
+" direction du Bienheureux et dirent : « Vénérable, s'il est envisageable que"
+" nous nous retirions du monde selon le Dharma du Vinaya si bien enseigné, "
+"que nous prenions les vœux complets et que nous obtenions la condition de "
+"moines pleinement ordonnés, nous aimerions vivre une vie chaste auprès du "
+"Bienheureux, comme d'autres avant nous. »"
 
 # དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་དེ་གཉིས་<«གཡུང་»དེ་སྤང་གཉིས། «པེ་»དེས་སྤང་གཉིས།
 # «ཅོ་»དེ་གཉིས་ལ།>དགེ་སློང་ཚུར་ཤོག་ཅེས་བྱ་བས་རབ་ཏུ་ཕྱུང་<«སྣར་»«ཞོལ་»བྱུང་།>སྟེ་
