@@ -208,7 +208,7 @@ msgid ""
 "a humilié Devadatta dans le passé."
 msgstr ""
 "« Vénérable, dirent-ils, voyez la manière dont Gopā a humilié Devadatta en public.\n"
-"— Ce n’est pas uniquement maintenant que ceci est arrivé, répondit le Bienheureux. Écoutez donc comment elle l'avait déjà humilié dans le passé."
+"— Ce n’est pas uniquement maintenant que ceci arrive, répondit le Bienheureux. Écoutez donc comment elle l'avait déjà humilié dans le passé."
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན། གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱི་ན།
 # རྒྱལ་པོ་ཚངས་པས་བྱིན་ཞེས་བྱ་བ་རྒྱལ་པོ་བྱེད་དོ། །
