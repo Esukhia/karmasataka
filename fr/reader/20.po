@@ -36,7 +36,7 @@ msgstr ""
 " par les jeux de la séduction. Ils commencèrent à s'aimer et laissèrent "
 "libre cours à leurs désirs. C'est ainsi que naquirent l'un après l'autre "
 "huit enfants. Leurs quatre fils étaient Śuddhodana, Śuklodana, Droṇodana et "
-"Amṛtodana. Les quatre filles, Śuddhā, Śuklā, Droṇā et Amṛtā."
+"Amṛtodana. Leurs quatre filles, Śuddhā, Śuklā, Droṇā et Amṛtā."
 
 # དེའི་ཚེ་ཡུལ་སྤོང་བྱེད་ན་རྒྱལ་པོ་ཤཱཀྱ་རབ་སད་<«གཡུང་»«པེ་»སངས།>གནས་ཏེ།
 # དེའི་བཙུན་མོ་དང་ལྷན་ཅིག་ཏུ་རྩེ་ཞིང་དགའ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དགའ་ལ།>དགའ་མགུར་སྤྱོད་པ་ལ་
