@@ -437,7 +437,7 @@ msgstr ""
 
 msgctxt "580f3b31eede4434af08652ad72eee7d"
 msgid "བཟའ་བ་ དང་ བཅའ་བ་ བཟང་པོ་ མང་པོ་ བཤམས་པ་ ལ␣ས །"
-msgstr "avaient disposé beaucoup de mets en condiments purs et nobles et"
+msgstr "avaient disposé beaucoup de mets et de condiments purs et nobles et"
 
 # རང་སངས་རྒྱས་ཞིག་<«ཁུ་»+ན།>སྐྱེད་<«གཡུང་»«ལི་»«པེ་»«ཅོ་»བསྐྱེད།>མོས་ཚལ་དེར་བསོད་སྙོམས་ལ་འོངས་ནས།
 msgctxt "a8fee2abb36f4756a651087035631644"
