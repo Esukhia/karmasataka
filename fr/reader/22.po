@@ -283,8 +283,8 @@ msgstr ""
 " réaliser d'actions négatives. Puissé-je contenter un enseignant bien "
 "supérieur à cet être. Puissé-je ne rien faire qui lui déplaise. Puissé-je "
 "aussi obtenir des qualités semblables aux siennes. Puissé-je me retirer du "
-"monde d’après son enseignement, éliminer toutes les émotions perturbatrices,"
-" et manifester l’état d’arhat.”"
+"monde d’après son enseignement, éliminer toutes les émotions perturbatrices "
+"et manifester l’état d’arhat.”"
 
 # དགེ་སློང་དག་ ཇི་སྙམ་དུ་སེམས།
 # དེའི་ཚེ་ཤན་<«སྣར་»«ཞོལ་»བཤན།>པར་གྱུར་པ་གང་ཡིན་པ་དེ་ནི་དགེ་སློང་འདི་ཉིད་ཡིན་ཏེ།
