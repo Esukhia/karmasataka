@@ -732,7 +732,7 @@ msgid ""
 msgstr ""
 "L'autre frère ne pouvait pas le laisser errer sans fin dans le saṃsāra du fait des paroles blessantes qu'il lui avait adressées. Pour lui venir en aide, il fit montre de ses pouvoirs surnaturels et lui dit : \"Confesse les paroles blessantes que tu m'a dites. Sinon, il est certain que tu erreras dans le cycle des existences et que tu subiras de grandes souffrances.\" Ce dernier regretta ses paroles sur le champ, se prosterna aux pieds de son frère, lui demanda pardon et dit :\n"
 "\"Je vais quitter la vie de famille pour aller me retirer du monde selon l'enseignement du complet et parfait Bouddha Kāśyapa.\n"
-"— Faisons-le ensembles, répondit le frère. Renvoyons le personnel de maison et retirons-nous du monde.\n"
+"— Faisons-le ensembles, répondit son frère. Renvoyons le personnel de maison et retirons-nous du monde.\n"
 "— D'accord.\""
 
 # དེ་ནས་དེས་ཁྱིམ་གྱི་འཁོར་བཏང་ནས་
