@@ -368,7 +368,7 @@ msgstr ""
 "Elle alla leur parler :\n"
 "\"Seriez-vous capables de redresser mon dos ?\n"
 "— Nous en sommes effectivement capables, mais il nous faudra une récompense : invitez-nous à manger pendant trois mois et donnez-nous beaucoup d'habits et d'ornements. Seulement après, nous redresserons votre dos.\n"
-"— Je ferai ce qui vous plaira\", dit-elle. Trois mois durant, elle leur servit de nombreux plats et condiments purs et nobles. Le dernier jour, elle leur offrit des habits et des ornements.\n"
+"— Je ferai ce qui vous plaira\", dit-elle. Trois mois durant, elle leur servit de nombreux mets et des condiments purs et nobles. Le dernier jour, elle leur offrit des habits et des ornements.\n"
 "\"Vous avez reçu votre récompense. Maintenant, redressez mon dos."
 
 # དེ་དག་གིས་སྨྲས་པ་ ཆེ་ཞེ་<«གཡུང་»«པེ་»ཞེས།>
