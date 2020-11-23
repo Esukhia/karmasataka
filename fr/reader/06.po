@@ -406,10 +406,10 @@ msgstr ""
 "revenait pour le voir. Se demandant pourquoi, il vit les pensées "
 "malveillantes qui l'habitaient : « Si ce moine ne me reçoit pas, s’il ne "
 "daigne pas se lever, je lui trancherai la tête d’un coup et je la jetterai "
-"par terre. » Alors, ayant vu par l'esprit les pensées du roi, l'Ancien se "
-"leva de sa concentration méditative et reçut le roi en faisant six pas dans "
-"sa direction. À ce moment précis, la lumière que le corps du roi émettait "
-"disparut et le sol se fendit devant lui."
+"par terre. » Alors, ayant vu par l'esprit les pensées du roi, l'Ancien "
+"sortit de sa concentration méditative et reçut le roi en faisant six pas "
+"dans sa direction. À ce moment précis, la lumière que le corps du roi "
+"émettait disparut et le sol se fendit devant lui."
 
 # དེ་ནས་དེ་མཐོང་མ་ཐག་ཏུ་རྒྱལ་པོ་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–དེ།>སྐྲག་ནས།
 # དགེ་སློང་འདི་ནི་རྫུ་འཕྲུལ་ཆེ་བ་དང་མཐུ་ཆེ་བ་ཞིག་སྟེ།
