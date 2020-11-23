@@ -283,12 +283,12 @@ msgid ""
 "fût-il dit."
 msgstr ""
 "Environ neuf mois plus tard, l’épouse du père de famille donna naissance à "
-"un fils bien proportionné, dont la beauté réjouissait la vue. Sa teinte "
-"était la noble couleur de l'essence de lotus. Il avait un port de tête aussi"
-" droit qu’un parasol, les mains longues, le front large, le nez proéminent, "
-"bien dessiné et les sourcils denses. Lors des célébrations de sa naissance, "
-"son père lui cherchait un nom : « Puisque la couleur de sa peau est celle de"
-" l'essence de lotus, Couleur-de-Lotus sera son nom. »"
+"un fils bien proportionné, beau et agréable au regard. Sa teinte était la "
+"noble couleur de l'essence de lotus. Il avait un port de tête aussi droit "
+"qu’un parasol, les mains longues, le front large, le nez proéminent, bien "
+"dessiné et les sourcils denses. Lors des célébrations de sa naissance, son "
+"père lui cherchait un nom : « Puisque la couleur de sa peau est celle de "
+"l'essence de lotus, Couleur-de-Lotus sera son nom. »"
 
 # དེ་ནས་ཁྱེའུ་པད་མའི་མདོག་འོ་མ་དང་། ཞོ་དང་། མར་དང་། ཞུན་མར་དང་།
 # མར་གྱི་ཉིང་གུས་<«གཡུང་»སྙིང་བོས། «ལི་»«ཅོ་»«ཞོལ་»ཉིང་ཁུས།
