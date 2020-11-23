@@ -300,7 +300,7 @@ msgid ""
 "voulait (lit. son sens), écoutez-le."
 msgstr ""
 "\n"
-"— Ce n’est pas la première fois que la nonne Sthūlanandā est trompée par le Groupe des Six, dit le Bienheureux. Écoutez donc comment ils l'ont trompée dans le passé, et comment elle n'a non plus obtenu ce qu'elle espérait."
+"— Ce n’est pas la première fois que la nonne Sthūlanandā est trompée par le Groupe des Six, dit le Bienheureux. Écoutez donc comment ils l'ont trompée dans le passé, et comment elle n'a pas non plus obtenu ce qu'elle espérait."
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
 # གྲོང་ཁྱེར་བཱ་རཱ་ཎ་སཱི་ན་རྒྱལ་པོ་ཚངས་པས་བྱིན་རྒྱལ་པོ་བྱེད་དེ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–རྒྱལ་པོ་བྱེད་དེ།>།
