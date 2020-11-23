@@ -92,7 +92,7 @@ msgstr ""
 "« Dieu parmi les hommes, ceci est dû à l’être qui est dans son sein. Son enfant maîtrisera toutes les écritures sacrées et vaincra tous les érudits. Voilà pourquoi la reine veut débattre.\n"
 "– Sages, demanda le roi, qu'arrivera-t-il si son désir n’est pas assouvi ?\n"
 "– Votre enfant naîtra avec des membres manquants. » \n"
-"Le roi ne put accepter que sa descendance soit infirme. Alors, il installa la reine derrière un rideau pour lui permettre de débattre sans contrevenir aux bonnes mœurs. Puis, il rassembla tous les érudits, fit venir des juges et lança les débats. Après avoir triomphé de chacun d'eux, son désir fut assouvi."
+"Le roi ne put accepter d'avoir un infirme dans sa descendance. Alors, il installa la reine derrière un rideau pour lui permettre de débattre sans contrevenir aux bonnes mœurs. Puis, il rassembla tous les érudits, fit venir des juges et lança les débats. Après avoir triomphé de chacun d'eux, son désir fut assouvi."
 
 # དེ་ནས་དེ་ཟླ་བ་དགུའམ་བཅུ་ལོན་པ་དང་།
 # བུ་མོ་གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པ་ཞིག་བཙས་ནས།
