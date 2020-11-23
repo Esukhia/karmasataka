@@ -541,11 +541,11 @@ msgid ""
 "éliminer toutes les émotions perturbatrices et il manifesta l’état d’arhat "
 "(lit. l’arhat-même). Alors,"
 msgstr ""
-"L’honorable Aniruddha le mena au monastère, lui permit de se retirer du "
-"monde en tant que novice, lui donna l’ordination complète et lui accorda la "
-"transmission orale des pratiques monastiques. De son côté, il s'efforça, "
-"s’appliqua et s’évertua à éliminer toutes les émotions perturbatrices et il "
-"manifesta l’état d’arhat."
+"L’honorable Aniruddha mena le jeune homme au monastère, lui permit de se "
+"retirer du monde en tant que novice, lui donna l’ordination complète et lui "
+"accorda la transmission orale des pratiques monastiques. De son côté, il "
+"s'efforça, s’appliqua et s’évertua à éliminer toutes les émotions "
+"perturbatrices et il manifesta l’état d’arhat."
 
 # དེ་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས། གསེར་དང་བོང་བར་མཉམ་པ།
 # ནམ་མཁའ་དང་ལག་མཐིལ་དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ།
