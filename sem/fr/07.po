@@ -1050,7 +1050,7 @@ msgstr "Après s'être retirée du monde,"
 
 msgctxt "80b9c8bdc49e4bfebf3568bbc18dfd25"
 msgid "སྡེ་སྣོད་ གསུམ་ བསླབས་ ཏེ་"
-msgstr "elle étudia les trois corbeilles et"
+msgstr "elle étudia le Tripiṭaka et"
 
 # རིག་པ་དང་གྲོལ་བའི་<«གཡུང་»+ཆ།
 # «པེ»+ཚེ།>[32a]སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བར་གྱུར་ཏོ། །
