@@ -636,7 +636,7 @@ msgid ""
 "(lit. comme ceci). En effet,"
 msgstr ""
 "« Vénérable, demandèrent les moines au Bienheureux, quelles actions de Paṅgu lui ont valu de naître estropié ? Quelles actions a-t-il réalisées pour vous contenter, Bienheureux, et ne rien faire qui vous déplaise ? Quelles actions a-t-il réalisées pour se retirer du monde d'après votre enseignement, éliminer toutes les émotions perturbatrices et manifester l'état d'arhat ?\n"
-"— Moines, il a effectivement réalité et accumulé des actions dans le passé."
+"— Moines, il a effectivement réalisé et accumulé des actions dans le passé."
 
 # དགེ་སློང་དག་ སྔོན་བྱུང་བ་འདས་པའི་དུས་ན།
 # བསྐལ་པ་བཟང་པོ་འདི་ཉིད་ལ་སྐྱེ་དགུའི་<«ཞོལ་»རྒུའི།>ཚེ་ལོ་ཉི་ཁྲི་ཐུབ་པ་ན་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རིག་པ་དང་ཞབས་སུ་ལྡན་པ་བདེ་བར་གཤེགས་པ་འཇིག་རྟེན་མཁྱེན་པ་སྐྱེས་བུ་གདུལ་བྱའི་<«གཡུང་»«པེ་»བའི།>ཁ་ལོ་སྒྱུར་བ།
