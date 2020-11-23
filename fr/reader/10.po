@@ -951,12 +951,12 @@ msgstr ""
 "Voyez-vous, moines, à cette époque, Fleur-de-Jasmin était ce moine. Il s'est"
 " retiré du monde selon l’enseignement du complet et parfait Bouddha Kāśyapa."
 " Il a servi la saṅgha en accord avec le Dharma. Il a offert  ses services au"
-" Bouddha, au Dharma et à la Saṅgha. Le résultat d’avoir ensuite formulé ces "
-"souhaits l'a toujours fait naître dans une famille qui vit dans l’opulence, "
-"qui possède de grandes richesses et d’innombrables biens. Il est devenu "
-"beau, bien proportionné et agréable au regard. À sa naissance, son corps "
-"tout entier a exhalé la senteur de fleur de jasmin et ces fleurs sont "
-"tombées en pluie à son entrée dans le sein maternel et à sa naissance."
+" Bouddha, au Dharma et à la Saṅgha et a formulé ces souhaits. C'est ainsi "
+"qu'il est toujours né dans une famille qui vit dans l’opulence, qui possède "
+"de grandes richesses et d’innombrables biens. Il est devenu beau, bien "
+"proportionné et agréable au regard. À sa naissance, son corps tout entier a "
+"exhalé la senteur de fleur de jasmin et ces fleurs sont tombées en pluie à "
+"son entrée dans le sein maternel et à sa naissance."
 
 # དགེ་སློང་དག་ ང་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་དང་ཤིན་ཏུ་མཉམ་པ་དང་།
 # ཤུགས་མཉམ་པ་དང་མཛད་པ་མཉམ་པ་དང་ཐབས་མཉམ་པ་<«གཡུང་»«པེ་»–དང་ཐབས་མཉམ་པ།>རྙེད་<«ཁུ་»བརྙེས།>པར་གྱུར་ནས།
