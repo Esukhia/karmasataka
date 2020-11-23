@@ -251,7 +251,7 @@ msgid ""
 "Ensuite, cet homme le vit et ressentit d’autant plus de joie."
 msgstr ""
 "\n"
-"— Moines, dans un passé lointain, de nombreux bouchers vivant dans un village de montagne étaient allé dans un parc d’agrément. Ils y avaient disposé beaucoup de mets et de condiments purs et nobles. Un bouddha solitaire passa dans le parc d’agrément pour faire l’aumône. Un boucher le vit et ressentit aussitôt une joie intense à son égard. Il lui offrit beaucoup de mets et de condiments purs et nobles.\n"
+"— Moines, dans un passé lointain, de nombreux bouchers vivant dans un village de montagne étaient allé dans un parc d’agrément. Ils y avaient disposé beaucoup de mets et de condiments nobles. Un bouddha solitaire passa dans le parc pour faire l’aumône. Un boucher le vit et ressentit aussitôt une joie intense à son égard. Il lui offrit beaucoup de mets et de condiments purs et nobles.\n"
 "/Ces grands êtres enseignent le Dharma par leur corps. Ils n’exposent pas le Dharma avec des paroles./\n"
 "Ainsi, le bouddha solitaire s'éleva dans les airs juste après avoir reçu l’aumône. La joie de cet homme augmenta encore."
 
