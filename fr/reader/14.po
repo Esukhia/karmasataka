@@ -85,10 +85,10 @@ msgid ""
 msgstr ""
 "Un matin, un brahmane voulut faire une offrande rituelle et se mit en route "
 "vers la ville sur un chariot. Au même moment, le Bienheureux avait revêtu "
-"l'habit monastique, avait pris son bol à aumône et se dirigeait lui aussi "
-"vers la ville pour recevoir l'aumône. Heureux de croiser le Bienheureux sur "
-"sa route, le brahmane tourna autour de lui et s'en alla. À ce moment, le "
-"Bienheureux sourit."
+"les habits monastiques, avait pris son bol à aumône et se dirigeait lui "
+"aussi vers la ville pour recevoir l'aumône. Heureux de croiser le "
+"Bienheureux sur sa route, le brahmane tourna autour de lui et s'en alla. À "
+"ce moment, le Bienheureux sourit."
 
 # འདི་ནི་སངས་རྒྱས་བཅོམ་ལྡན་འདས་རྣམས་གང་གི་ཚེ་འཛུམ་པ་མཛད་པའི་ཆོས་ཉིད་དེ།
 # དེའི་ཚེ་ཞལ་ནས་འོད་ཟེར་སྔོན་པོ་དང་། སེར་པོ་དང་། དམར་པོ་དང་།
