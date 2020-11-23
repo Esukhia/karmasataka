@@ -423,8 +423,9 @@ msgid ""
 " « Vénérable Śāriputra, eh bien, quelle [réponse] donneriez-vous [à l’offre]"
 " de prendre votre repas ici ? » dit-il. Puis,"
 msgstr ""
-"Il se rendit auprès de l'honorable moine et se prosterna à ses pieds :\n"
-"« Vénérable Śāriputra, demanda-t-il, accepteriez-vous de venir chez moi prendre votre déjeuner ? »"
+"Il se rendit auprès de l'honorable moine et se prosterna à ses pieds : « "
+"Vénérable Śāriputra, demanda-t-il, accepteriez-vous de venir chez moi "
+"prendre votre déjeuner ? »"
 
 # ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་ལ་ཅང་མི་ཟེར་བས་གནང་ངོ་། །
 # དེ་ནས་ཁྱིམ་བདག་དེས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཅང་མི་ཟེར་བས་གནང་བར་རིག་ནས་
