@@ -553,7 +553,7 @@ msgid ""
 msgstr ""
 "La vieille blêmit. « Hélas, pensa-t-elle, tout ce que je fais, par pauvreté, c'est causer du tort à des êtres dignes d'offrandes. Je ne peux pas affliger un être aussi pur. » Elle cessa aussitôt le rituel, puis, avec une respectueuse attention, elle se prosterna aux pieds de l'honorable.\n"
 "« Être pur, implora-t-elle, pardonnez-moi, qui suis enlisée dans le bourbier des mauvaises actions. Veuillez m'en libérer.\n"
-"— Moi, je vous pardonne, répondit Couleur-de-Lotus. Vos actions, quant à elles, ne vous pardonneront pas. » À ce moment, voyant la tournure des choses, la prostituée perdit tout désir charnel. Elle ressentit de la joie à l'égard de l'honorable moine."
+"— Moi, je vous pardonne, répondit Couleur-de-Lotus. Vos actions, quant à elles, ne vous pardonneront pas. » À ce moment, voyant la tournure des choses, la prostituée perdit tout désir charnel. À la place, elle ressentit de la joie à l'égard de l'honorable moine."
 
 # དགའ་བ་སྐྱེས་<«གཡུང་»«པེ་»སྐྱེས།>ནས་ རྐང་པ་ལ་ཕྱག་འཚལ་ཏེ་ སྨྲས་པ།
 # སྐལ་བ་ཆེན་པོ་དང་ལྡན་པ་
