@@ -391,9 +391,9 @@ msgid ""
 " cette maison, le chien l’accueillait, léchait ses pieds de sa langue, "
 "remuait sa queue et tournait trois fois [autour de lui]."
 msgstr ""
-"À la fin de ses repas, l'honorable Śāriputra donnait ses restes au chien qui"
-" se prit d'une grande affection pour lui. Lorsque l'honorable Śāriputra "
-"venait, le chien l'accueillait, léchait ses pieds de sa langue et, la queue "
+"À la fin de ses repas, l'honorable moine donnait ses restes au chien qui se "
+"prit d'une grande affection pour lui. Lorsque l'honorable Śāriputra venait, "
+"le chien l'accueillait, léchait ses pieds de sa langue et, la queue "
 "frétillante, il tournait trois fois autour de lui."
 
 # དེར་གང་གི་ཚེ་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཆོས་བཤད་ནས་
