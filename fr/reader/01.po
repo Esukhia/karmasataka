@@ -459,10 +459,10 @@ msgid ""
 " tout ce qu’il voulut. Après, il vit que le couvercle était nettoyé et que "
 "le bol à aumône était nettoyé, et s’assit devant lui pour écouter le Dharma."
 msgstr ""
-"Quand il fut confortablement installé, le père de famille servit lui-même "
-"des mets et des condiments purs et nobles tant que son hôte en voulu. Puis, "
-"voyant que le bol à aumône et son couvercle étaient nettoyés, il s'assit "
-"avec sa maisonnée devant l'honorable moine pour écouter le Dharma."
+"Quand il fut confortablement installé, le père de famille servit lui-même de"
+" nombreux mets et condiments purs et nobles tant que son hôte en voulu. "
+"Puis, voyant que le bol à aumône et son couvercle étaient nettoyés, il "
+"s'assit avec sa maisonnée devant l'honorable moine pour écouter le Dharma."
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»དེའི།>འཁོར་དང་བཅས་པའི་བསམ་པ་དང་།
 # བག་ལ་ཉལ་དང་ཁམས་དང་རང་བཞིན་རྟོགས་ནས་
