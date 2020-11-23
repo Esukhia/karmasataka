@@ -332,7 +332,7 @@ msgstr ""
 "assiégea la capitale. Les batailles qui eurent lieu firent périr "
 "d'innombrables êtres. La reine de Mahendrasena fit dire à l'assiégeant par "
 "un messager : \"Si vous êtes venus ici pour moi, à quoi bon faire périr tant"
-" d'êtres ? Prenez l'apparence d'un être ordinaire et venez dans la ville me "
+" d'êtres ? Prenez l'apparence d'un roturier et venez dans la ville me "
 "rencontrer.\""
 
 # དེ་ནས་དེ་<«གཡུང་»–དེ།>ཐོས་མ་ཐག་ཏུ་ཀཱ་ཤིའི་<«གཡུང་»«པེ་»ཀ་ཤའི།>རྒྱལ་པོ་ཚངས་པས་བྱིན་ཐབས་ཇི་ལྟར་བསྟན་པ་<«གཡུང་»«ལི་»–«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–པ།>བཞིན་དུ་རྒྱལ་པོའི་ཕོ་བྲང་གི་ནང་དུ་འོངས་སོ།
