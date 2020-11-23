@@ -738,8 +738,8 @@ msgid ""
 "la base des habitudes passées, elle s’est éprise de lui au premier regard. »"
 msgstr ""
 "\n"
-"« Vénérable, demandèrent les moines au Bienheureux, cette prostituée que le désir de la chair contrôlait, qui a importuné à un tel point l'honorable Couleur-de-Lotus, qui s'est retirée du monde grâce à lui, qui a éliminé toutes les émotions perturbatrices et qui a manifesté l'état d'arhat. Comment peut-on expliquer tout ceci ?\n"
-"— Elle a été sa femme pendant cinq cent vies, répondit le Bienheureux. C'est de ce fait qu'elle s'est éprise de lui au premier regard."
+"« Vénérable, demandèrent les moines au Bienheureux, cette prostituée était contrôlée par le désir de la chair. Elle a importuné à un tel point l'honorable Couleur-de-Lotus. Elle s'est retirée du monde grâce à lui, a éliminé toutes les émotions perturbatrices et a manifesté l'état d'arhat. Comment peut-on expliquer tout ceci ?\n"
+"— Elle a été sa femme pendant cinq cent vies, répondit le Bienheureux. C'est pour cette raison qu'elle s'est éprise de lui au premier regard."
 
 # བཙུན་པ་ ཚེ་དང་ལྡན་པ་པད་མའི་མདོག་གིས་ལས་ཅི་བགྱིས་ན།
 # ལས་དེའི་རྣམ་པར་སྨིན་པས་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་རིགས་སུ་སྐྱེས་ལ།
