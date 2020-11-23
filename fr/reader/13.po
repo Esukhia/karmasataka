@@ -614,7 +614,7 @@ msgid ""
 msgstr ""
 "Rayonnant, il se leva de son siège. S'inclinant, il laissa retomber d'une épaule son vêtement supérieur qu'il avait replié et demanda au Bienheureux :\n"
 "« S'il est envisageable que je me retire du monde, que je prenne les vœux complets et que je devienne ainsi un moine selon le Dharma du Vinaya si bien enseigné, j'aimerais vivre une vie chaste auprès du Bienheureux, comme d'autres avant moi.\n"
-"— Moine, viens ici », répondit le Vénérable. Il lui accorda l'ordination complète et la transmission orale des pratiques monastiques. Il s'efforça, s'appliqua et s'évertua à éliminer toutes les émotions perturbatrices et manifesta l'état d'arhat."
+"— Moine, viens ici », répondit le Bienheureux. Il lui accorda l'ordination complète et la transmission orale des pratiques monastiques. Il s'efforça, s'appliqua et s'évertua à éliminer toutes les émotions perturbatrices et manifesta l'état d'arhat."
 
 # དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ་ བཙུན་པ་
 # འཕྱེ་བོས་ལས་ཅི་ཞིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ཞིགགྱི>བགྱིས་ན་
