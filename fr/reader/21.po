@@ -605,12 +605,11 @@ msgstr ""
 "bien enseigné, que nous prenions les vœux complets, que nous obtenions la "
 "condition de nonnes pleinement ordonnées, nous aimerions vivre une vie "
 "chaste auprès du Bienheureux, comme d'autres avant nous. » Ensuite, "
-"l’honorable Couleur-de-Lotus les mena toutes les deux dans la nonnerie et "
-"les remit aux nonnes. Elles leur permit toutes les deux se retirer du monde,"
-" leur donnèrent l’ordination complète et leur accordèrent la transmission "
-"orale des pratiques monastiques. Dès lors, elles s’efforcèrent, "
-"s’appliquèrent et s’évertuèrent à éliminer toutes les émotions "
-"perturbatrices et manifestèrent l’état d’arhat."
+"l’honorable Couleur-de-Lotus les mena à la nonnerie. Les nonnes leur "
+"permirent de se retirer du monde, leur donnèrent l’ordination complète et "
+"leur accordèrent la transmission orale des pratiques monastiques. Dès lors, "
+"elles s’efforcèrent, s’appliquèrent et s’évertuèrent à éliminer toutes les "
+"émotions perturbatrices et manifestèrent l’état d’arhat."
 
 # དེ་གཉིས་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས་
 # གསེར་དང་བོང་བར་མཉམ་པ། ནམ་མཁའ་དང་ལག་མཐིལ་དུ་འདྲ་བའི་སེམས་དང་ལྡན་པ།
