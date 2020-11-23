@@ -171,9 +171,8 @@ msgstr ""
 "Infinie, de Lumière-Claire, de Petite-Vertu, de Vertu-Infinie, de Vertu-"
 "Étendue, de Sans-Nuages, de Naissance-des-Vertus, de Grands-Fruits, de "
 "Grandeur-Moindre, de Sans-Affliction, de Vision-Excellente, de Vision-"
-"Inouïe, et jusqu’à Culminant. Ils y font résonner les sons de "
-"l’impermanence, de la douleur, de l’absence d’existence et de l’absence de "
-"moi./"
+"Inouïe, et de Culminant. Ils y font résonner les sons de l’impermanence, de "
+"la douleur, de l’absence d’existence et de l’absence de moi./"
 
 # ཚིགས་སུ་བཅད་པ་གཉིས་ཀྱང་རྗོད་<«སྣར་»བརྗོད།>པར་བྱེད་དེ།
 # ངེས་པར་འབྱུང་བ་བརྩམ་པར་གྱིས། ། སངས་རྒྱས་བསྟན་ལ་སྦྱོར་བར་གྱིས། །
