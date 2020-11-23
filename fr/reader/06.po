@@ -515,11 +515,10 @@ msgid ""
 "ferons-nous ? Où pourrions-nous aller ? » pensèrent-ils. Puis, ils se turent"
 " et restèrent."
 msgstr ""
-"Le prince, les ministres et la cour avaient perdu leur roi. Ils l'avaient "
-"recherché, puis, ne le trouvant pas, ils étaient rentrés au palais. Chacun "
-"pensait, interdit : « Nous ne l’avons pas retrouvé. Qu'allons-nous faire ? "
-"Où pourrions-nous aller ? » Personne ne parlait plus. La vie du palais était"
-" en suspens."
+"Le prince, les ministres et la cour, qui avaient perdu leur roi, l'avaient "
+"recherché en vain, avant de rentrer au palais. Chacun pensait, interdit : « "
+"Nous ne l’avons pas retrouvé. Qu'allons-nous faire ? Où pourrions-nous aller"
+" ? » Personne ne parlait plus. La vie du palais était en suspens."
 
 # དེ་ནས་ཟླ་བ་དྲུག་ལོན་པ་དང་རྒྱལ་པོ་དེ་གཞན་གྱིས་མཐོང་ནས་ ངོ་ཤེས་ཏེ་ ལྷ་
 # ཁྱོད་ག་ལས་གཤེགས་ཏེ་ འདིར་བྱོན་ཅེས་ དྲིས་སོ། །
