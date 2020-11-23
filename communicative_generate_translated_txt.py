@@ -138,7 +138,7 @@ def gen_pdf(file):
 if __name__ == '__main__':
     folder = 'fr/reader'
     enforce = True
-    # sys.argv = ['', '14']
+    sys.argv = ['', '21']
     if len(sys.argv) > 1:
         stem = sys.argv[1]
         file = Path(folder) / (stem + '.po')
