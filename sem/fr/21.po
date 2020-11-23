@@ -2031,7 +2031,7 @@ msgstr "fit que l'une est née dans une mauvaise caste et"
 
 msgctxt "4a73ed965527456ab670a16a7146d115"
 msgid "གཅིག་ ནི་ སྨད་འཚོང་མ␣ར་ གྱུར་ ཏོ ། །"
-msgstr "l'autre devint une prostituée. »"
+msgstr "l'autre est devenue une prostituée. »"
 
 msgctxt "47535fcd0e534516b7a4b798dcd6ef72"
 msgid "བཙུན་པ་"
