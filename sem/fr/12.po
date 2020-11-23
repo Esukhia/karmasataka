@@ -1499,7 +1499,7 @@ msgstr "prit l'ordination complète et"
 
 msgctxt "f5dc360253874628bee59544922ec215"
 msgid "དེ␣ས་ སྡེ་སྣོད་ གསུམ་ བསླབས་ ནས །"
-msgstr "il étudia les trois corbeilles et"
+msgstr "il étudia le Tripiṭaka et"
 
 # རིག་<«གཡུང་»«པེ་»རིགས།>པ་དང་གྲོལ་བའི་སྤོབས་པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བར་གྱུར་ཏེ།
 msgctxt "64ddde44fe0f4e99a4a8236dd5970193"
