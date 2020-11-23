@@ -776,8 +776,8 @@ msgid ""
 msgstr ""
 "Son épouse et lui apprirent à se connaître par les jeux de la séduction, ils"
 " commencèrent à s'aimer l'un l'autre et laissèrent libre cours à leurs "
-"désirs. Plus tard, elle tomba enceinte. Environ neuf mois plus tard, elle "
-"donna le jour à un fils bien proportionné, beau et agréable au regard."
+"désirs. Plus tard, elle tomba enceinte. Environ neuf mois après, elle donna "
+"le jour à un fils bien proportionné, beau et agréable au regard."
 
 # དེ་ནས་དེ་ཆེར་<«གཡུང་»«པེ་»ཕྱིར།>སྐྱེས་པ་དང་།
 # དེས་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་སྲུང་གི་བསྟན་<«གཡུང་»སྟན།>པ་ལ་དད་པ་རྙེད་ནས།
