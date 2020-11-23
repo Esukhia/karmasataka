@@ -613,7 +613,7 @@ msgstr ""
 "mérites. Ils ont vécu chastement toute leur vie et ils ont formulé ce "
 "souhait. C'est pourquoi ils sont toujours nés dans des familles qui vivent "
 "dans l'opulence, qui possèdent de grandes richesses et d'innombrables biens."
-" C'est aussi pourquoi ils sont devenus beaux, bien proportionnés, beaux et "
+" C'est aussi pourquoi ils sont devenus beaux, bien proportionnés et "
 "agréables au regard."
 
 # དགེ་སློང་དག་
