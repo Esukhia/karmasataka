@@ -232,8 +232,8 @@ msgstr ""
 "avoir porté. « Quoi ? éclatèrent-ils, désespérés. C'est ce cul-de-jatte que "
 "nous avons charrié toute la nuit à la sueur de notre front ? » Les brigands "
 "restés se tordirent de rire et se moquèrent copieusement de leurs compères "
-"trompés : « Ah, qu'ils ont bien galéré ! Oh, ils ont sué toute l'eau de leur"
-" corps ! »"
+"leurrés par la malle : « Ah, qu'ils ont bien galéré ! Oh, qu'ils ont sué "
+"toute l'eau de leur corps ! »"
 
 # དེ་ནས་བུད་མེད་དེ་སད་དེ་ ལངས་ནས་ ཁང་པ་དེའི་ནང་དུ་སོང་<«གཡུང་»མང་།>བ་དང་།
 # ཁྱིམ་ཕུག་སྟེ་ གཟེབ་རྐུས་<«གཡུང་»བསྐུས།
