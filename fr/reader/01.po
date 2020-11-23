@@ -20,8 +20,9 @@ msgid ""
 "En sanskrit : Karmaśataka En tibétain : lé gya thampa pa En français : les "
 "cent karmas."
 msgstr ""
-"En sanskrit : Karmaśataka En tibétain : lé gya thampa pa En français : les "
-"cent karmas."
+"En sanskrit : Karmaśataka\n"
+"En tibétain : lé gya thampa pa\n"
+"En français : les cent karmas."
 
 # བམ་པོ་དང་པོ།
 msgctxt "line 2, 01.txt"
