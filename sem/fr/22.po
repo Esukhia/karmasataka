@@ -477,7 +477,7 @@ msgstr ""
 
 msgctxt "7feecd0a0a3f4e99977cc49c5e12cb92"
 msgid "བདག་ཉིད་ ཆེན་པོ་ དེ་དག་ ནི་ ལུས་ ཀྱིས་ ཆོས་སྟོན་པ␣ར་ བྱེད་ ཀྱི་"
-msgstr "Ces grands êtres enseignent pas le Dharma par leur corps. Ainsi,"
+msgstr "Ces grands êtres enseignent le Dharma par leur corps. Ainsi,"
 
 # ཚིག་གིས་ཆོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཆོས།>སྟོན་པར་མི་བྱེད་དེ།
 msgctxt "b7b5424aeb8f4fb4b4977610be2b0c24"
