@@ -576,7 +576,7 @@ msgstr ""
 "se retirer du monde. Le matin tôt, il revêtit les habits monastiques, puis "
 "le bol à aumône à la main, il partit à Śrāvastī quêter des offrandes. "
 "Demandant l’aumône de porte en porte, il se dirigea vers la demeure de ce "
-"père de famille, où il s'assit sur le siège qui lui était préparé.\n"
+"père de famille, où il s'assit sur le siège qui lui était préparé."
 
 # འདུག་ནས་ཀྱང་ ཚེ་དང་ལྡན་པ་ཤཱ་རིའི་བུས་ཁྱིམ་བདག་དེ་ལ་སྨྲས་པ། ཁྱིམ་བདག་
 # ཁྱེའུ་འདི་ནི་མ་བཙས་པའི་སྔ་རོལ་ནས་ཁྱོད་ཀྱིས་བདག་གི་གཡོག་ཏུ་བྱིན་ཏེ།
@@ -600,6 +600,7 @@ msgid ""
 "offert à [cet] [être] sublime. Donc, va et fais le serviteur de [cet] [être]"
 " sublime. » Le garçon dit : « Ceci est un bienfait pour moi. » dit-il. Puis,"
 msgstr ""
+"\n"
 "« Père de famille, dit l'honorable Śāriputra, tu m’avais donné ce garçon comme serviteur avant qu’il naisse. Les vertueux tiennent leurs promesses. C'est bien celle que tu avais faite, n'est-ce pas ?\n"
 "— Être sublime, je vous ai bien fait cette promesse. » répondit le père de famille. Puis, prenant son fils par les deux mains, il l'offrit à l'honorable Śāriputra en disant :\n"
 "« Mon enfant, je t'avais offert à cet être sublime avant que tu naisses. Suis-le et mets-toi à son service.\n"
