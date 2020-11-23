@@ -801,12 +801,12 @@ msgid ""
 msgstr ""
 "Le roi Udayin comprit que le discours du Bienheureux était terminé. Il se "
 "leva de son siège, replia son vêtement supérieur sur une épaule, le laissa "
-"retomber devant lui, joignit les mains, s’inclinant en direction du "
-"Bienheureux et dit : « Bienheureux, pendant trois mois entiers, accepteriez-"
-"vous de recevoir de ma part les vêtements, la nourriture, les couvertures, "
-"les sièges, les médicaments et les fournitures médicales dont vous et la "
-"saṅgha des moines aurez besoin ? » Le Bienheureux accepta par son silence et"
-" le roi Udayin vit que son offre était ainsi acceptée."
+"retomber devant lui, joignit les mains, s’inclina en direction du "
+"Bienheureux. : « Bienheureux, demanda-t-il, pendant trois mois entiers, "
+"accepteriez-vous de recevoir de ma part les vêtements, la nourriture, les "
+"couvertures, les sièges, les médicaments et les fournitures médicales dont "
+"vous et la saṅgha des moines aurez besoin ? » Le Bienheureux accepta par son"
+" silence et le roi Udayin vit que son offre était ainsi acceptée."
 
 # ཁྱིམ་བདག་གདངས་ལས་རིག་གི་ཀུན་དགའ་ར་བར་ཡོ་བྱད་ཐམས་ཅད་སྦྱར་ནས།
 # སངས་རྒྱས་ལ་སོགས་པ་དགེ་སློང་གི་དགེ་འདུན་ལ་ཟླ་བ་གསུམ་གྱི་བར་དུ་ཡོ་བྱད་ཐམས་ཅད་ཀྱིས་བསྙེན་<«གཡུང་»བརྙེན།
