@@ -1488,7 +1488,7 @@ msgstr "Après s'être retiré du monde,"
 
 msgctxt "d19e25a695ce47b98a2a31a5446bc6f9"
 msgid "སྡེ་སྣོད་ གསུམ་ བསླབས་ ཏེ །"
-msgstr "il étudia les trois corbeilles et"
+msgstr "il étudia le Tripiṭaka et"
 
 # རིག་པ་དང་གྲོལ་བའི་སྤོབས་<«གཡུང་»སྨོབས།>པ་དང་ལྡན་པའི་ཆོས་སྨྲ་བར་གྱུར་ནས་
 msgctxt "de5caed66f6d4690820a197a1b774e44"
