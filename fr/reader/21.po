@@ -673,7 +673,7 @@ msgstr ""
 "interdépendante et être versé dans ce qui est juste et ce qui ne l’est pas. "
 "Il décida qu'il allait lui aussi fournir les efforts nécessaires à "
 "l'élimination des émotions perturbatrices. Dès lors, il s’efforça, "
-"s’appliqua et s’évertua à éliminer toutes les émotions perturbatrices et il "
+"s’appliqua et s’évertua à éliminer toutes les émotions perturbatrices et "
 "manifesta l’état d’arhat."
 
 # དེ་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས་
