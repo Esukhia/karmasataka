@@ -2027,7 +2027,7 @@ msgstr "l'autre les a traitées de prostituées. Le résultat de ces actions"
 # གཅིག་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»–གཅིག>རིགས་ངན་མོའི་རིགས་སུ་སྐྱེས་ལ་
 msgctxt "719c351593d949fb8dca468b94eade48"
 msgid "གཅིག་ རིགས་ངན་ མོ␣འི་ རིགས་ སུ་ སྐྱེས་ ལ་"
-msgstr "fit que l'une naquit dans une mauvaise caste et"
+msgstr "fit que l'une est née dans une mauvaise caste et"
 
 msgctxt "4a73ed965527456ab670a16a7146d115"
 msgid "གཅིག་ ནི་ སྨད་འཚོང་མ␣ར་ གྱུར་ ཏོ ། །"
