@@ -487,7 +487,7 @@ msgid ""
 "faire : soit vous dormez avec cette prostituée. Soit vous sautez dans ce feu"
 " », dit-elle."
 msgstr ""
-"La vieille lui fit porter toutes ses parures, orna la maison de la prostituée comme un temple et lui dit d'y rester. Elle dessina un diagramme en bouse de vache, y disposa de l'encens, des fleurs, des offrandes rituelles de nourriture pour les dieux et alluma un feu. Elle récita les incantations, souffla sur des graines de moutarde blanche qu'elle jeta dans le feu. Alors, l'honorable moine fut tiré jusque là par le pouvoir des incantations et se trouva de retour devant la maison de la prostituée. La vieille femme de basse caste dit à l'honorable Couleur-de-Lotus :\n"
+"La vieille lui fit porter toutes ses parures, orna la maison de la prostituée comme un temple et lui dit d'y rester. Elle dessina un diagramme en bouse de vache, y disposa de l'encens, des fleurs, des offrandes rituelles de nourriture pour les dieux et alluma un feu. Elle récita les incantations, souffla sur des graines de moutarde blanche qu'elle jeta dans le feu. Alors, l'honorable moine fut tiré jusque là par le pouvoir des incantations et se trouva de retour devant la maison de la prostituée. La vieille femme de basse caste lui dit :\n"
 "« Vénérable, vous voilà arrivé. Vous devez à présent choisir entre dormir avec cette prostituée ou sauter dans ce feu. »"
 
 # དེ་ནས་དེ་ཐོས་མ་ཐག་ཏུ་ཚེ་དང་ལྡན་པ་པད་མའི་མདོག་གིས་བསམས་པ།
