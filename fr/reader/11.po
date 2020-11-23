@@ -34,10 +34,10 @@ msgid ""
 "Ainsi, un père de famille donna un laḍḍū aux cent arômes [suffisamment] "
 "grand pour rassasier [quelqu’un] au Bienheureux. Alors,"
 msgstr ""
-"Ce matin-là, le Bienheureux revêtit l'habit monastique, puis le bol à aumône"
-" à la main, il partit à Śrāvastī pour quêter des offrandes. Un père de "
-"famille offrit au Bienheureux un laḍḍū aux mille parfums assez grand pour le"
-" rassasier."
+"Ce matin-là, le Bienheureux revêtit les habits monastiques, puis le bol à "
+"aumône à la main, il partit à Śrāvastī pour quêter des offrandes. Un père de"
+" famille offrit au Bienheureux un laḍḍū aux mille parfums assez grand pour "
+"le rassasier."
 
 # དེའི་ཚེ་བྲམ་ཟེའི་ཁྱེའུ་ཞིག །
 # བཅོམ་ལྡན་འདས་ཀྱི་དྲུང་ནས་ཐག་མི་རིང་བ་ཞིག་ན་འགྲེང་སྟེ<«གཡུང་»འགྲིང་སྟེ།
