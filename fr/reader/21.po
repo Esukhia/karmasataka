@@ -671,9 +671,10 @@ msgstr ""
 "parfait l'étude : être versé dans les agrégats, être versé dans les "
 "éléments, être versé dans les sources des sens, être versé dans l'origine "
 "interdépendante et être versé dans ce qui est juste et ce qui ne l’est pas. "
-"Il décida qu'il allait lui aussi les efforts nécessaires à l'élimination des"
-" émotions perturbatrices. Dès lors, il s’efforça, s’appliqua et s’évertua à "
-"éliminer toutes les émotions perturbatrices et il manifesta l’état d’arhat."
+"Il décida qu'il allait lui aussi fournir les efforts nécessaires à "
+"l'élimination des émotions perturbatrices. Dès lors, il s’efforça, "
+"s’appliqua et s’évertua à éliminer toutes les émotions perturbatrices et il "
+"manifesta l’état d’arhat."
 
 # དེ་དགྲ་བཅོམ་པ་ཁམས་གསུམ་པའི་འདོད་ཆགས་དང་བྲལ་བར་གྱུར་ནས་
 # གསེར་དང་བོང་བར་མཉམ་<«ཞོལ་»མཉན།>པ།
