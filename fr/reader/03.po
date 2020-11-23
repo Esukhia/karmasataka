@@ -781,7 +781,7 @@ msgstr ""
 "Ses deux parents le posèrent sur une civière ornée de tissus bleus, jaunes, "
 "rouges et blancs, mais ils furent incapables de la soulever. Ils se "
 "rendirent auprès de l’honorable Aniruddha pour lui décrire ce phénomène "
-"inexplicable."
+"inattendu."
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་མ་འགགས་པས་དྲན་པར་བྱས་ཏེ། བསམས་<«སྣར་»བསམ་པ།>ན་
 # དེ་ཉིད་ཀྱིས། དེ་ལྟ་བུར་འགྱུར་བའི་སྨོན་ལམ་བཏབ་པར་རིག་ནས་
