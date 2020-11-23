@@ -5,11 +5,15 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-# ཤན་<«སྣར་»«ཞོལ་»བཤན།>པ་ཞེས་བྱ་བ་ནི། གླེང་གཞི་མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+# ཤན་<«སྣར་»«ཞོལ་»བཤན།>པ་ཞེས་བྱ་བ་ནི།
 msgctxt "line 1, 22.txt"
+msgid "L’histoire du boucher"
+msgstr ""
+
+# གླེང་གཞི་མཉན་དུ་ཡོད་པ་ན་བཞུགས་ཏེ།
+msgctxt "line 2, 22.txt"
 msgid ""
-"L’histoire du boucher Cette histoire [fut contée] alors que le Bienheureux "
-"séjournait à Śrāvastī."
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
 msgstr ""
 
 # དེའི་ཚེ་མཉན་དུ་ཡོད་པ་ན་ཤན་<«སྣར་»«ཞོལ་»བཤན།>པ་ཞིག་གནས་པ་དེས་ཐབས་ཟླར་བབ་པ་ལས་ཆུང་མར་<«གཡུང་»«པེ་»«སྣར་»«ཁུ་»«ཞོལ་»མ།>བླངས་པ་ལས།
@@ -24,7 +28,7 @@ msgstr ""
 # «སྣར་»«ཞོལ་»ཉིང་ཁུས།>བསྐྱེད་བསྲིངས་ཏེ།
 # དེ་གང་གི་ཚེ་ཆེར་<«ཞོལ་»ཚེར།>སྐྱེས་པ་དེའི་ཚེ་ཕ་མ་དེ་གཉིས་ཀྱིས་བཟའ་བ་དང་<«གཡུང་»«པེ་»–དང་།>བཅའ་བ་བཟང་པོ་བྱིན་ལ་
 # ལས་ཅི་ཡང་བྱེད་དུ་མི་འཇུག་གོ། །
-msgctxt "line 2, 22.txt"
+msgctxt "line 3, 22.txt"
 msgid ""
 "À cette époque, un boucher vivait à Śrāvastī. Puis, arrivé à (lit. tombé) "
 "l’âge de se marier (lit. d’une épouse), il prit une épouse et plus tard, son"
@@ -52,7 +56,7 @@ msgstr ""
 # དེ་ནས་དེ་སྐད་ཅེས་ཐོས་པའི་མོད་ལ།
 # ཤན་<«སྣར་»«ཞོལ་»བཤན།>པ་དེས་ཁྱེའུ་དེ་དལ་བར་<«གཡུང་»ལ་དལ།
 # «པེ་»ལ་དལ་བར།>བཞག་གོ། །
-msgctxt "line 3, 22.txt"
+msgctxt "line 4, 22.txt"
 msgid ""
 "Ensuite, plus tard, son père lui fit faire son propre métier et il dit : "
 "« Père, je parviendrais à me tuer moi-même, mais je ne parviendrai pas à "
@@ -74,7 +78,7 @@ msgstr ""
 # བསྙེན་<«གཡུང་»སྙེན།>པར་རྫོགས་པར་བྱས་སོ། ། དེ་ནས་དེས་བརྩོན་པ་དང་།
 # བསྒྲུབ་<«སྣར་»«ཞོལ་»སྒྲུབ།>པ་དང་འབད་པས་ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
 # དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་ནས།
-msgctxt "line 4, 22.txt"
+msgctxt "line 5, 22.txt"
 msgid ""
 "Ensuite, plus tard, ce garçon conçut (lit. obtint) de la dévotion pour "
 "l’enseignement du Bienheureux et il allait régulièrement dans le Parc du "
@@ -96,7 +100,7 @@ msgstr ""
 # ཆགས་པ་དང་བཀུར་སྟི་ལ་རྒྱབ་ཀྱིས་ཕྱོགས་པ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»+དང་།>
 # དབང་པོ་དང་ཉེ་དབང་དང་བཅས་པའི་ལྷ་རྣམས་ཀྱིས་མཆོད་ཅིང་རྗེད་<«གཡུང་»«པེ་»«སྣར་»བརྗེད།>པ་དང་གུས་པར་སྨྲ་བའི་གནས་སུ་གྱུར་ཏོ།
 # །
-msgctxt "line 5, 22.txt"
+msgctxt "line 6, 22.txt"
 msgid ""
 "Il devint un arhat libre de l’attachement aux trois mondes. Ainsi, [un "
 "morceau] d’or et une motte de terre étaient identiques [à leurs yeux] ; il "
@@ -123,7 +127,7 @@ msgstr ""
 # ། དེས་ཀྱང་བདག་ཉིད་ཀྱང་ལོངས་སྤྱོད་པར་བྱེད་ལ་
 # ཚངས་པར་སྤྱོད་པ་<«གཡུང་»–བྱེད་ལ་ཚངས་པར་སྤྱོད་པ།>གཞན་དག་ལ་ཡང་སྦྱིན་པར་བྱེད་དོ<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»དེ།>།
 # །
-msgctxt "line 6, 22.txt"
+msgctxt "line 7, 22.txt"
 msgid ""
 "Après qu’il ait obtenu l’état d’arhat, il pensa : « Se trouve-t-il quelqu’un"
 " qui doive être dompté par moi ? » il vit en premier lieu que ses deux "
@@ -150,7 +154,7 @@ msgstr ""
 # ཁྱིམ་པའི་ཚེ་དང་རབ་ཏུ་བྱུང་བའི་ཚེ་ན་ཡང་བཟའ་བ་དང་བཅའ་བ་བཟང་པོ་དང་ལྡན་པར་གྱུར་ལགས།
 # བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ། སྨོན་ལམ་གྱི་དབང་ལས་གྱུར་ཏོ། ། བཙུན་པ་
 # འདིས་གང་དུ་སྨོན་ལམ་བཏབ་ལགས།
-msgctxt "line 7, 22.txt"
+msgctxt "line 8, 22.txt"
 msgid ""
 "Puis les moines s’adressèrent au Bienheureux : « Vénérable, quelles actions "
 "ce moine a[-t-il] réalisées pour que le résultat de ces actions le fit "
@@ -179,7 +183,7 @@ msgstr ""
 # ཚིག་གིས་ཆོས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ»–ཆོས།>སྟོན་པར་མི་བྱེད་དེ།
 # དེས་དེར་བསོད་སྙོམས་བླངས་ནས། དེ་ཉིད་དུ་སྟེང་གི་ནམ་མཁའ་ལ་སོང་ངོ་། །
 # དེ་ནས་མི་དེས་མཐོང་ནས་ ལྷག་པར་ཡང་<«གཡུང»«པེ་»+དག་པར།>[75b]དགའ་བ་སྐྱེས་སོ། །
-msgctxt "line 8, 22.txt"
+msgctxt "line 9, 22.txt"
 msgid ""
 "« Moines, dans une époque maintenant révolue, dans un village de montagne, "
 "beaucoup de bouchers étaient allé dans un parc d’agrément et avaient disposé"
@@ -202,7 +206,7 @@ msgstr ""
 # ཡོན་ཏན་གྱི་ཚོགས་འདི་ལྟ་བུ་དག་ཀྱང་ཐོབ་པར་གྱུར་ཅིག །
 # དེ་ཁོ་ནའི་བསྟན་པ་ལ་རབ་ཏུ་བྱུང་ནས། ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ་
 # དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་གྱུར་ཅིག་ཅེས་ བྱས་སོ། །
-msgctxt "line 9, 22.txt"
+msgctxt "line 10, 22.txt"
 msgid ""
 "Ayant ressenti cette joie, il fit ce souhait : “Quelle merveille ! Grâce à "
 "ces racines vertueuses, puissé-je toujours naître dans une lignée familiale "
@@ -222,7 +226,7 @@ msgstr ""
 # སྨོན་ལམ་བཏབ་པའི་ལས་དེའི་རྣམ་པར་སྨིན་པས་གང་དང་གང་དུ་སྐྱེས་པ་དེ་དང་དེར་ཕྱུག་ཅིང་ནོར་མང་ལ་ལོངས་སྤྱོད་ཆེ་བའི་ཤན་<«སྣར་»«ཞོལ»བཤན།>པའི་རིགས་སུ་སྐྱེས་ནས་
 # གཟུགས་བཟང་ཞིང་བལྟ་<«ལི་»«སྣར་»«ཅོ་»ལྟ།>ན་སྡུག་ལ་མཛེས་པར་གྱུར་ཏེ།
 # བཟའ་བ་དང་བཅའ་བ་བཟང་པོ་དང་ཡང་ལྡན་པར་གྱུར་ལ། དེས་སྡིག་པའི་ལས་ཀྱང་མ་བྱས་ཏེ།
-msgctxt "line 10, 22.txt"
+msgctxt "line 11, 22.txt"
 msgid ""
 "Moines, qu’en pensez-vous ? À cette époque, celui qui était ce boucher est "
 "ce moine lui-même et il a offert le repas à ce bouddha solitaire et le "
@@ -249,7 +253,7 @@ msgstr ""
 # ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
 # དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་<«གཡུང་»«པེ་»–དུ།>བྱེད་པར་གྱུར་<«གཡུང་»«པེ་»འགྱུར།>ཅིག་ཅེས་
 # བྱས་སོ། །
-msgctxt "line 11, 22.txt"
+msgctxt "line 12, 22.txt"
 msgid ""
 "moines, je suis cent mille fois dix millions de fois très largement "
 "supérieur à un bouddha solitaire et il a contenté [quelqu’un] comme moi et "
@@ -279,7 +283,7 @@ msgstr ""
 # འདིས་ང་མཉེས་པར་བྱས་ཏེ། མི་མཉེས་པར་མ་བྱས་ལ།
 # ང་ཉིད་ཀྱི་བསྟན་པ་ལ་<«ཅོ་»གལ།>རབ་ཏུ་བྱུང་ནས་ ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ཏེ།
 # དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱས་སོ། ། ། །
-msgctxt "line 12, 22.txt"
+msgctxt "line 13, 22.txt"
 msgid ""
 "Moines, qu’en pensez-vous ? À cette époque, le moine qui s’était retiré du "
 "monde selon l’enseignement du complet et parfait Bouddha Kāśyapa est ce "
