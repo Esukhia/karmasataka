@@ -717,10 +717,10 @@ msgstr ""
 " pour contrer ses requêtes incessantes, mais ne réussissant pas à le "
 "dissuader, ils finirent pas accéder à sa demande. Ainsi, il se retira du "
 "monde selon l'enseignement du complet et parfait Bouddha Kāśyapa, prit "
-"l’ordination complète et étudia le Tripiṭaka. Il devint un enseignant du "
-"Dharma qui possédait les connaissances et l’éloquence pour libérer. Des "
-"habits, de la nourriture, des couvertures, des coussins, des médicaments et "
-"des fournitures médicales lui étaient offerts."
+"l’ordination complète et étudia le Tripiṭaka. Il devint un enseignant doté "
+"des connaissances et de l’éloquence qui libère autrui. Des habits, de la "
+"nourriture, des couvertures, des coussins, des médicaments et des "
+"fournitures médicales lui étaient offerts."
 
 # དེ་ནས་དེས་ཕ་མ་གཉིས་དད་པ་ཕུན་སུམ་ཚོགས་པ་ལ་བཀོད་<«གཡུང་»བསྐོད།>དེ།
 # སྐྱབས་སུ་འགྲོ་བ་དང་བསླབ་པའི་གཞི་རྣམས་ལ་གནས་པར་བྱས་ནས།
