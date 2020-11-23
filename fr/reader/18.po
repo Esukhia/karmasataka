@@ -752,8 +752,8 @@ msgstr ""
 "à pointe plate qui abattent leurs armes sur lui, tranchent son corps et le "
 "découpent en morceaux. Ainsi, il subit tant de supplices, de violences "
 "insoutenables, de souffrances intenses, de douleurs et de sensations "
-"indésirables que des cris de désespoirs et des pleurs ne cessent de "
-"s’échapper de sa personne."
+"indésirables que des cris de désespoirs et des pleurs ne cessent d’échapper "
+"de sa personne."
 
 # དགེ་སློང་དག་
 # ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་འོད་ཟེར་ཅན་གྱི་རིང་<«གཡུང་»རིང་>ཚུན་ཆད་ནས།
