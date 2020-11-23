@@ -440,7 +440,7 @@ msgstr ""
 "\n"
 "— Alors, pourquoi vous infliger ces tourments ? répliqua-t-elle. Si ce n'est pas pour jouir de la chair, pourquoi être venu dans la maison d'une prostituée ?\n"
 "— Si je suis arrivé ici, répondit l'honorable moine, c'est uniquement parce que je ne connais pas le pays. Je ne cherche pas les plaisirs. Il est inconvenable que je fasse ce que ma condition m'interdit.\n"
-"— Qu'à cela ne tienne, rétorqua-t-elle. Je vous jetterai un sort et vous dormirez avec moi. » L'honorable Couleur-de-Lotus se leva d'un seul coup, puis, épouvanté, il s'échappa et rentra au monastère sans avoir fait l'aumône."
+"— Qu'à cela ne tienne, rétorqua-t-elle. Je vous jetterai un sort et vous dormirez avec moi. » L'honorable Couleur-de-Lotus la regarda plein d'épouvante. Il se leva d'un seul coup, quitta cette maison avec empressement et rentra au monastère sans avoir fait l'aumône."
 
 # དེའི་ཕྱིར་བྱུང་སྟེ་ སོང་ནས་ སྨད་འཚོང་མ་<«གཡུང་»«པེ་»མཚོང་མ
 # «ཅོ་»འཚོང་མི།>དེ་འདོད་ཆགས་ཀྱི་མེས་ཡོངས་སུ་གདུངས་ཏེ།
