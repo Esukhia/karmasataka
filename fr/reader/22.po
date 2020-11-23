@@ -219,7 +219,7 @@ msgid ""
 "Vénérable, Quels souhaits a-t-il formulés ? »"
 msgstr ""
 "\n"
-"« Vénérable, demandèrent les moines au Bienheureux, quelles actions de Couleur-de-Lotus lui ont valu de naître dans une famille qui vit dans l'opulence, qui possède de grandes richesses et d'innombrables biens ? Quelles actions lui ont valu de ne pas s'intéresser aux actes mauvais ? Quelles actions a-t-il réalisées pour contenter le Bienheureux, ne rien faire qui lui déplaise, se retirer du monde selon son enseignement, éliminer toutes les émotions perturbatrices et manifester l'état d'arhat ? Quelles actions a-t-il réalisées pour continuellement recevoir des mets et condiments purs et nobles, avant et après s'être retiré du monde ?\n"
+"« Vénérable, demandèrent les moines au Bienheureux, quelles actions de Couleur-de-Lotus lui ont valu de naître dans une famille qui vit dans l'opulence, qui possède de grandes richesses et d'innombrables biens ? Quelles actions lui ont valu de ne pas s'intéresser aux actes mauvais ? Quelles actions a-t-il réalisées pour contenter le Bienheureux, ne rien faire qui lui déplaise, se retirer du monde selon son enseignement, éliminer toutes les émotions perturbatrices et manifester l'état d'arhat ? Quelles actions a-t-il réalisées pour continuellement recevoir des mets et des condiments purs et nobles, avant et après s'être retiré du monde ?\n"
 "— Ceci est arrivé par le pouvoir de ses souhaits, dit le Bienheureux.\n"
 "— Vénérable, quels souhaits a-t-il formulés ?"
 
