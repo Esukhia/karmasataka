@@ -567,7 +567,7 @@ msgstr ""
 "retirer du monde. Le matin tôt, il revêtit les habits monastiques, puis le "
 "bol à aumône à la main, il partit à Śrāvastī quêter des offrandes. Demandant"
 " l’aumône de porte en porte, il se dirigea vers la demeure du père de "
-"famille où il s'assit sur le siège qui lui était préparé."
+"famille où il s'assit sur le siège qui lui était préparé.\n"
 
 # འདུག་ནས་ཀྱང་ ཚེ་དང་ལྡན་པ་མ་འགགས་པས། ཁྱིམ་བདག་དེ་ལ་སྨྲས་པ། ཁྱིམ་བདག་
 # ཁྱེའུ་འདི་ནི་མ་བཙས་པའི་<«གཡུང་»བཙམ་བའི «པེ་»བཙའ་བའི།>སྔ་རོལ་ནས།
