@@ -858,7 +858,7 @@ msgid ""
 msgstr ""
 "Voyant ceci, les moines se demandèrent pour quelle raison le roi rendait-il "
 "visite à l'honorable Piṇḍola­bhāradvāja, mais à personne d'autre. On leur "
-"raconta alors toutes les aventures du roi."
+"raconta alors toutes les aventures du roi.\n"
 
 # ཐོས་ནས་ཀྱང་ བཅོམ་ལྡན་འདས་ལ་གསོལ་ཏེ<«ཅོ»ཏོ།>། འདི་སྐད་ཅེས་སྨྲས་སོ། ། བཙུན་པ་
 # བད་སའི་རྒྱལ་པོ་འཆར་ཀས་རབ་ཏུ་སྡང་བའི་སེམས་ཀྱིས།
