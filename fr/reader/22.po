@@ -187,9 +187,9 @@ msgstr ""
 "prendre refuge et respecter certains vœux. Grâce à lui, il s’engagèrent dans"
 " la pratique de la générosité et du partage de ses bienfaits. Ainsi, les "
 "mendiants prirent l'habitude de venir chez eux comme on va au puits chercher"
-" de l'eau. Des mets et condiments purs et nobles qu'ils offraient à cet "
-"arhat, il en consommait une partie et offrait le reste aux autres personnes "
-"qui vivaient chastement comme lui."
+" de l'eau. Cet arhat consommait une partie des mets et condiments purs et "
+"nobles qu'ils lui offraient et donnait le reste aux autres personnes qui "
+"vivaient chastement comme lui."
 
 # དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་
 # དགེ་སློང་འདིས་ལས་ཅི་བགྱིས་ན།
