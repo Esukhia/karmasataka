@@ -1096,9 +1096,8 @@ msgid ""
 msgstr ""
 "Voyez-vous, moines, à cette époque, celui qui était ce gardien de jardin est"
 " Couleur-de-Lotus. Il servit ce bouddha solitaire et formula ces vœux. C'est"
-" ainsi qu'il est né dans une famille qui vit dans l'opulence, qui possède de"
-" grandes richesses et d'innombrables biens. Il est devenu beau, bien "
-"proportionné et agréable au regard. La teinte de son corps est devenue "
+" ainsi qu'il est né dans une famille aussi fortunée. Il est devenu beau, "
+"bien proportionné et agréable au regard. La teinte de son corps est devenue "
 "semblable à la couleur de l'essence de lotus."
 
 # དགེ་སློང་དག་
