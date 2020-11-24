@@ -305,11 +305,11 @@ msgid ""
 "négatives. De plus,"
 msgstr ""
 "Voyez-vous, moines, le boucher de cette époque est ce moine. Il a offert le "
-"repas à ce bouddha solitaire et a formulé ces souhaits. C'est ainsi qu'il "
-"est né dans une famille de bouchers aussi fortunée. C'est aussi pourquoi il "
-"a toujours été beau, bien proportionné et agréable au regard. C'est aussi "
-"ainsi qu'il a toujours reçu des mets et des condiments nobles et n'a pas "
-"réalisé d'actions négatives."
+"repas à ce bouddha solitaire et a formulé ces souhaits. C'est pourquoi il "
+"est né dans une famille de bouchers aussi fortunée, qu'il a toujours été "
+"beau, bien proportionné et agréable au regard. C'est de ce fait qu'il a "
+"toujours reçu des mets et des condiments nobles et n'a pas réalisé d'actions"
+" négatives."
 
 # དགེ་སློང་དག་
 # ང་<«གཡུང་»དེ།>རང་སངས་རྒྱས་བྱེ་བ་ཕྲག་འབུམ་བས་ཀྱང་ཆེས་ལྷག་པར་ཁྱད་པར་དུ་འཕགས་པ།
