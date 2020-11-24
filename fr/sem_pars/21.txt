@@ -246,7 +246,7 @@ dit : «
 	སྨྲས་པ།
 [Être] sublime,
 	འཕགས་པ་
-Veuillez vous asseoir sur ce siège disposé [pour vous]. »
+veuillez vous asseoir sur ce siège disposé [pour vous]. »
 	གདན་བཤམས་པ་འདི་ལ་བཞུགས་<«གཡུང་»གཞུགས།>སུ་གསོལ།
 Ensuite, l’honorable Couleur-de-Lotus pensa : «
 	དེ་ནས་ཚེ་དང་ལྡན་པ་པད་མའི་མདོག་གིས་<«ཞོལ་»གི།>བསམས་པ།
