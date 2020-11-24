@@ -792,7 +792,7 @@ msgid ""
 "assommoirs et [d’autres] filets et partira."
 msgstr ""
 "\n"
-"— Jusqu'à ce que les cinq cent bouddhas de cet éon fortuné soient tous apparus, cet être ne cessera de naître dans les mêmes enfers où il subira ces mêmes souffrances. Il aura alors épuisé ses souffrances d’être infernal et il naîtra chez les humains, dans une maison de basse caste. Quand il aura grandi, il ira chasser, trouvera un endroit de la forêt où pousseront des fleurs parfaites, des fruits parfaits et une ombre parfaitement rafraîchissante. Pensant que le gibier fréquente certainement cet endroit, il y installera des pièges comme des trappes mécaniques, des filets, des assommoirs et d’autres sortes de filets avant de repartir."
+"— Jusqu'à ce que les cinq cent bouddhas de cet éon fortuné soient tous apparus, cet être ne cessera de naître dans les mêmes enfers où il subira ces mêmes souffrances. Il aura alors épuisé ses souffrances d’être infernal et il naîtra chez les humains, dans une maison de basse caste. Quand il aura grandi, il ira chasser, trouvera un endroit de la forêt où pousseront des fleurs parfaites, des fruits parfaits et des ombrages parfaitement rafraîchissants. Pensant que le gibier fréquente certainement cet endroit, il y installera des pièges comme des trappes mécaniques, des filets, des assommoirs et d’autres sortes de filets avant de repartir."
 
 # དེ་ནས་དེའི་ཚེ་འཇིག་རྟེན་དུ་རང་སངས་རྒྱས་ཤིག་བྱུང་སྟེ།
 # དེ་ནགས་ཁྲོད་དེར་མཚན་མོ་གནས་འཆའ་བར་བྱེད་དེ།
