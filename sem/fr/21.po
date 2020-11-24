@@ -688,7 +688,7 @@ msgstr "[Être] sublime,"
 # གདན་བཤམས་པ་འདི་ལ་བཞུགས་<«གཡུང་»གཞུགས།>སུ་གསོལ།
 msgctxt "461be9fe724a4849b84128976f35c135"
 msgid "གདན་ བཤམས་པ་ འདི་ ལ་ བཞུགས་ སུ་ གསོལ །"
-msgstr "Veuillez vous asseoir sur ce siège disposé [pour vous]. »"
+msgstr "veuillez vous asseoir sur ce siège disposé [pour vous]. »"
 
 # དེ་ནས་ཚེ་དང་ལྡན་པ་པད་མའི་མདོག་གིས་<«ཞོལ་»གི།>བསམས་པ།
 msgctxt "7fc8f2feb13d4e7aa27bb9462416fd9c"
