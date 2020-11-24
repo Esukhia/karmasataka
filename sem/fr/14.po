@@ -475,7 +475,9 @@ msgctxt "2a4bad7a5f574282a3fba25a37b0657b"
 msgid ""
 "ཚོན་ སྣ་ སྟོང་ གིས་ སྤེལ་བ་ སྣ་ཚོགས་ ཅན ། །  མང་པོ་ ཞལ་ གྱི་ སྒོ་ ནས་ "
 "བྱུང་བ␣ར་ གྱུར ། །"
-msgstr "De nombreux et divers [rayons] formés de mille couleurs différentes."
+msgstr ""
+"De nombreux et divers [rayons] formés de mille couleurs différentes "
+"apparaissent de la porte de votre bouche."
 
 # དེ་ཡིས་ཕྱོགས་རྣམས་ཀུན་དུ་སྣང་བར་བགྱིས།<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»བ།> །
 msgctxt "747b9e8ab69b449b936e30738c26cd81"
