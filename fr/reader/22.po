@@ -188,8 +188,8 @@ msgstr ""
 " la pratique de la générosité et du partage de ses bienfaits. Ainsi, les "
 "mendiants prirent l'habitude de venir chez eux comme on va au puits chercher"
 " de l'eau. Cet arhat consommait une partie des mets et condiments purs et "
-"nobles qu'ils lui offraient et donnait le reste aux autres personnes qui "
-"vivaient chastement comme lui."
+"nobles que ses parents lui offraient et donnait le reste aux autres "
+"personnes qui vivaient chastement comme lui."
 
 # དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་
 # དགེ་སློང་འདིས་ལས་ཅི་བགྱིས་ན།
