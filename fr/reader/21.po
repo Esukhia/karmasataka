@@ -717,7 +717,7 @@ msgid ""
 "son histoire aux moines."
 msgstr ""
 "Devenu arhat, il resta autant qu'il voulut au pays de Mathurā, puis se "
-"rendit à Śrāvastī. Là, il raconta toute son histoire aux moines."
+"rendit à Śrāvastī. Là, il raconta toute son histoire aux moines.\n"
 
 # དེ་ནས་དགེ་སློང་རྣམས་ཀྱིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ། བཙུན་པ་
 # བུ་མོ་སྨད་འཚོང་མ་འདོད་པའི་འདོད་ཆགས་ཀྱི་དབང་དུ་གྱུར་པས།
