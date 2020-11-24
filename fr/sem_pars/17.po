@@ -195,8 +195,9 @@ msgid ""
 "Donc, ces rayons de lumière tournèrent trois fois autour du Bienheureux et "
 "ils disparurent dans le poil [lové] entre ses sourcils. Ensuite, l’honorable"
 " Ānanda joignit les mains et demanda au Bienheureux : « De nombreux et "
-"divers [rayons] formés de mille couleurs différentes. Ils illuminent partout"
-" dans toutes les directions, comme le fait le soleil qui brille. »"
+"divers [rayons] formés de mille couleurs différentes apparaissent de la "
+"porte de votre bouche. Ils illuminent partout dans toutes les directions, "
+"comme le fait le soleil qui brille. »"
 msgstr ""
 
 # ཡང་ཚིགས་སུ་བཅད་དེ་ གསོལ་པ། རྒོད་དང་བྲལ་ཞིང་རྒྱགས་དང་མི་དགྱེས་སྤངས་པ་ཡི། །
