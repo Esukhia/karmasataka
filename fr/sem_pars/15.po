@@ -226,8 +226,8 @@ msgid ""
 "laquelle [vous], Héros, avez montré votre sourire, ceci, d’innombrables "
 "personnes aimeraient l’entendre de vous. [Vous] qui possédez un verbe "
 "semblable au [tonitruant] cri (lit. son) du dragon, qui avez un regard "
-"semblable à une vache, veuillez révéler comment se montre (lit. devient) le "
-"résultat de faire des offrandes au suprême des humains."
+"semblable à un chef de troupeau, veuillez révéler comment se montre (lit. "
+"devient) le résultat de faire des offrandes au suprême des humains."
 msgstr ""
 
 # བཙུན་པ་
