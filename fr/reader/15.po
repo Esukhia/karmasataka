@@ -318,7 +318,7 @@ msgstr ""
 "La raison, ô grand Héros, du sourire qui est le vôtre,\n"
 "Veuillez donc l'exposer à ceux qui boivent toutes vos paroles./\n"
 "/Votre verbe retentit, comme le cri du dragon,\n"
-"Votre regard celui d'un meneur souverain.\n"
+"Votre regard est celui d'un meneur souverain.\n"
 "Veuillez nous révéler tout le bien que l'on tire\n"
 "Des offrandes que l'on fait au plus suprême des êtres./"
 
