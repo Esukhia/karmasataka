@@ -29,8 +29,14 @@ class Po:
         source_sem_pairs = self.parse_txt_dump(pair_dump.read_text(encoding='utf-8'))
         if len(entries) != len(source_sem_pairs):
             exit('source/semantic paragraphs and communicative paragraph have different lengths.\nExiting...')
+        sent_num = 1
         for i in range(len(entries)):
-            all.append([entries[i][0], source_sem_pairs[i]])
+            src_sem_pairs = source_sem_pairs[i]
+            for j in range(len(src_sem_pairs)):
+                pair = src_sem_pairs[j]
+                src_sem_pairs[j] = (f'{sent_num}. {pair[0]}', pair[1])
+                sent_num += 1
+            all.append([entries[i][0], src_sem_pairs])
 
         all_formatted = ''
         for com, pairs in all:
@@ -137,8 +143,8 @@ def gen_pdf(file):
 
 if __name__ == '__main__':
     folder = 'fr/reader'
-    enforce = True
-    # sys.argv = ['', '22']
+    enforce = False
+    # sys.argv = ['', '17']
     if len(sys.argv) > 1:
         stem = sys.argv[1]
         file = Path(folder) / (stem + '.po')

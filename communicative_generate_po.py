@@ -31,6 +31,7 @@ class Po:
         self.file.save(filename)
 
     def dump_po_entries(self, dump, origin):
+        sent_num = 0
         for num, par in enumerate(dump.strip().split(self.par_marker)):
             pairs = re.split(self.trans_pattern, par)
             pairs = [p for p in pairs if p]
@@ -39,7 +40,8 @@ class Po:
             for pair in pairs:
                 s, c = pair.split(self.trans_delimiter)
                 source.append(s)
-                comment.append(c)
+                comment.append(f' {sent_num+1}. {c}')
+                sent_num += 1
             source = ' '.join(source)
             source = format_fr(source)
             comment = ' '.join(comment)
