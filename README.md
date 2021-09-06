@@ -1,5 +1,7 @@
 # karmasataka
 
+[Check the whole workflow](https://github.com/OpenPecha-dev/tfx-test/blob/tfx-workflow/README.md)
+
 exclusion regexes for DocFetcher:
 excludes:
  - all files without `_` in them
